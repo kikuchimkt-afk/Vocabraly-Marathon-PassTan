@@ -6,7 +6,8 @@
   <title>📚 パス単マラソン</title>
   <meta name="description" content="英検パス単の4択空所補充クイズアプリ">
   <link rel="manifest" href="manifest.json">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='80'>📚</text></svg>">
+  <link rel="icon" type="image/png" href="icon-192.png">
+  <link rel="apple-touch-icon" href="icon-192.png">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -16,6 +17,7 @@
     <header class="app-header">
       <h1 class="app-title">📚 パス単マラソン</h1>
       <p class="app-subtitle">出る順パス単 · 4択空所補充</p>
+      <button id="themeToggle" class="theme-toggle" title="テーマ切替">🌙</button>
     </header>
 
     <div id="streakBadge" class="streak-badge"></div>
@@ -79,6 +81,7 @@
   <div id="quizScreen" class="screen">
     <div class="quiz-header">
       <div class="quiz-progress">
+        <button id="quizHomeBtn" class="quiz-home-btn" title="ホームに戻る">🏠</button>
         <span id="quizCounter" class="counter">1 / 20</span>
         <div class="score-display">
           <span class="score-correct" id="scoreCorrect">⭕ 0</span>
@@ -94,7 +97,7 @@
       <div id="questionCard" class="question-card glass-card">
         <div class="question-meta">
           <span id="questionRank" class="q-rank"></span>
-          <span id="questionMeaning" class="q-meaning"></span>
+          <span id="questionMeaning" class="q-meaning hidden"></span>
         </div>
         <p id="questionText" class="question-text"></p>
         <p id="questionJa" class="question-ja hidden"></p>
@@ -108,9 +111,10 @@
       </div>
 
       <div class="quiz-actions">
+        <button id="prevBtn" class="action-btn prev-btn" style="display:none">← 前へ</button>
         <button id="hintBtn" class="action-btn hint-btn">💡 ヒント</button>
         <button id="audioBtn" class="action-btn audio-btn" style="display:none">🔊 もう一度</button>
-        <button id="nextBtn" class="action-btn next-btn" style="display:none">次の問題 →</button>
+        <button id="nextBtn" class="action-btn next-btn" style="display:none">次へ →</button>
       </div>
     </div>
   </div>

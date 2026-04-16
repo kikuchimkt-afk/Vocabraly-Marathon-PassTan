@@ -24,6 +24,46 @@
   --blur: 40px;
   --transition: 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
   --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Noto Sans JP', sans-serif;
+  --bg-image: url('bg.png');
+  --bg-overlay: rgba(0, 0, 0, 0.35);
+  --input-bg: rgba(255,255,255,0.05);
+  --input-border: rgba(255,255,255,0.08);
+  --btn-subtle-bg: rgba(255,255,255,0.06);
+  --btn-subtle-hover: rgba(255,255,255,0.12);
+  --marathon-track-bg: rgba(255,255,255,0.06);
+  --choice-border: rgba(255,255,255,0.08);
+  --choice-hover-bg: rgba(255,255,255,0.1);
+  --choice-hover-border: rgba(255,255,255,0.18);
+  --scrollbar-thumb: rgba(255,255,255,0.08);
+}
+
+/* ===== Light Theme ===== */
+[data-theme="light"] {
+  --bg-primary: #f5f5f7;
+  --bg-secondary: rgba(255, 255, 255, 0.72);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(0, 0, 0, 0.06);
+  --glass-hover: rgba(0, 0, 0, 0.03);
+  --text-primary: #1d1d1f;
+  --text-secondary: rgba(0, 0, 0, 0.6);
+  --text-muted: rgba(0, 0, 0, 0.35);
+  --accent: #007AFF;
+  --accent2: #5856D6;
+  --accent-green: #34C759;
+  --correct: #34C759;
+  --wrong: #FF3B30;
+  --warning: #FF9500;
+  --bg-image: url('bg_light.png');
+  --bg-overlay: rgba(255, 255, 255, 0.3);
+  --input-bg: rgba(0,0,0,0.03);
+  --input-border: rgba(0,0,0,0.08);
+  --btn-subtle-bg: rgba(0,0,0,0.04);
+  --btn-subtle-hover: rgba(0,0,0,0.08);
+  --marathon-track-bg: rgba(0,0,0,0.06);
+  --choice-border: rgba(0,0,0,0.08);
+  --choice-hover-bg: rgba(0,0,0,0.04);
+  --choice-hover-border: rgba(0,0,0,0.15);
+  --scrollbar-thumb: rgba(0,0,0,0.08);
 }
 
 /* ===== Reset & Base ===== */
@@ -50,15 +90,17 @@ body::before {
   content: '';
   position: fixed;
   inset: 0;
-  background: url('bg.png') center/cover no-repeat;
+  background: var(--bg-image) center/cover no-repeat;
   z-index: -2;
+  transition: background 0.5s ease;
 }
 body::after {
   content: '';
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  background: var(--bg-overlay);
   z-index: -1;
+  transition: background 0.5s ease;
 }
 
 /* ===== Screen Management ===== */
@@ -88,11 +130,15 @@ body::after {
 .app-header {
   text-align: center;
   padding: 28px 0 18px;
+  position: relative;
 }
 .app-title {
   font-size: 2rem;
   font-weight: 800;
   letter-spacing: -0.03em;
+  color: var(--text-primary);
+}
+[data-theme="dark"] .app-title {
   background: linear-gradient(135deg, #f5f5f7 0%, rgba(255,255,255,0.6) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -105,6 +151,11 @@ body::after {
   text-transform: uppercase;
   margin-top: 4px;
   font-weight: 500;
+}
+.theme-toggle {
+  position: absolute;
+  top: 28px;
+  right: 0;
 }
 
 /* ===== Streak Badge ===== */
@@ -188,7 +239,7 @@ body::after {
 .marathon-bar-group:last-child { margin-bottom: 0; }
 .marathon-label { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-secondary); margin-bottom: 6px; font-weight: 500; }
 .marathon-value { color: var(--text-muted); font-variant-numeric: tabular-nums; }
-.marathon-track { height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; }
+.marathon-track { height: 6px; background: var(--marathon-track-bg); border-radius: 3px; overflow: hidden; }
 .marathon-fill { height: 100%; border-radius: 3px; transition: width 0.6s cubic-bezier(0.25, 0.1, 0.25, 1); }
 .marathon-fill-clear { background: linear-gradient(90deg, var(--accent), var(--accent2)); }
 .marathon-fill-acc { background: linear-gradient(90deg, var(--accent-green), #34C759); }
@@ -202,8 +253,8 @@ body::after {
 .range-input {
   flex: 1;
   padding: 10px 14px;
-  background: rgba(255,255,255,0.05);
-  border: 1px solid rgba(255,255,255,0.08);
+  background: var(--input-bg);
+  border: 1px solid var(--input-border);
   border-radius: 12px;
   color: var(--text-primary);
   font-family: var(--font-sans);
@@ -217,8 +268,8 @@ body::after {
 .select-input {
   width: 100%;
   padding: 12px 14px;
-  background: rgba(255,255,255,0.05);
-  border: 1px solid rgba(255,255,255,0.08);
+  background: var(--input-bg);
+  border: 1px solid var(--input-border);
   border-radius: 12px;
   color: var(--text-primary);
   font-family: var(--font-sans);
@@ -332,7 +383,7 @@ body::after {
 .score-correct { color: var(--correct); }
 .score-wrong { color: var(--wrong); }
 
-.progress-bar { height: 4px; background: rgba(255,255,255,0.06); border-radius: 2px; overflow: hidden; }
+.progress-bar { height: 4px; background: var(--marathon-track-bg); border-radius: 2px; overflow: hidden; }
 .progress-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius: 2px; transition: width 0.5s cubic-bezier(0.25, 0.1, 0.25, 1); }
 
 /* ===== Question Card ===== */
@@ -378,7 +429,7 @@ body::after {
   background: var(--glass-bg);
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(30px);
-  border: 1.5px solid rgba(255,255,255,0.08);
+  border: 1.5px solid var(--choice-border);
   border-radius: var(--radius-sm);
   color: var(--text-primary);
   font-family: var(--font-sans);
@@ -389,8 +440,8 @@ body::after {
   transition: all var(--transition);
 }
 .choice-btn:hover {
-  background: rgba(255,255,255,0.1);
-  border-color: rgba(255,255,255,0.18);
+  background: var(--choice-hover-bg);
+  border-color: var(--choice-hover-border);
   transform: translateX(4px);
 }
 .choice-btn:active { transform: scale(0.98); }
@@ -400,7 +451,7 @@ body::after {
   justify-content: center;
   width: 22px;
   height: 22px;
-  background: rgba(255,255,255,0.06);
+  background: var(--btn-subtle-bg);
   border-radius: 7px;
   font-size: 0.7rem;
   font-weight: 700;
@@ -441,28 +492,45 @@ body::after {
 .fb-wrong { color: var(--wrong); font-weight: 600; font-size: 0.9rem; }
 
 /* ===== Quiz Actions ===== */
-.quiz-actions { display: flex; gap: 8px; }
+.quiz-actions { display: flex; gap: 8px; flex-wrap: wrap; }
 .action-btn {
   flex: 1;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 6px;
-  padding: 14px 16px;
+  gap: 4px;
+  padding: 11px 12px;
   border: none;
-  border-radius: var(--radius-sm);
+  border-radius: 12px;
   font-family: var(--font-sans);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
   transition: all var(--transition);
+  min-width: 0;
+  white-space: nowrap;
 }
+.prev-btn { background: var(--btn-subtle-bg); color: var(--text-secondary); border: 1px solid var(--glass-border); }
+.prev-btn:hover { background: var(--btn-subtle-hover); }
 .hint-btn { background: rgba(255,214,10,0.12); color: var(--warning); border: 1px solid rgba(255,214,10,0.2); }
 .hint-btn:hover { background: rgba(255,214,10,0.2); }
 .audio-btn { background: rgba(94,92,230,0.12); color: var(--accent2); border: 1px solid rgba(94,92,230,0.2); }
 .audio-btn:hover { background: rgba(94,92,230,0.2); }
 .next-btn { background: var(--accent); color: #fff; }
 .next-btn:hover { background: #409CFF; box-shadow: 0 4px 16px rgba(10,132,255,0.25); }
+
+/* ===== Quiz Home Button ===== */
+.quiz-home-btn {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 8px;
+  transition: background var(--transition);
+  line-height: 1;
+}
+.quiz-home-btn:hover { background: rgba(255,255,255,0.08); }
 
 /* ===== Results ===== */
 .result-card { text-align: center; margin-bottom: 16px; }
@@ -600,7 +668,20 @@ body::after {
 /* ===== Scrollbar ===== */
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 2px; }
+::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 2px; }
+
+/* ===== Theme Toggle ===== */
+.theme-toggle {
+  background: var(--btn-subtle-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 10px;
+  padding: 6px 12px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all var(--transition);
+  line-height: 1;
+}
+.theme-toggle:hover { background: var(--btn-subtle-hover); }
 
 /* ===== Safe Area (iPhone notch) ===== */
 @supports (padding-top: env(safe-area-inset-top)) {

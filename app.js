@@ -199,7 +199,9 @@ function initSetup() {
   on($('#wordIdEnd'), 'input', () => { state.idEnd = parseInt($('#wordIdEnd').value) || null; updateSummary(); });
   on($('#startBtn'), 'click', startQuiz);
   on($('#nextBtn'), 'click', nextQuestion);
+  on($('#prevBtn'), 'click', prevQuestion);
   on($('#helpBtn'), 'click', () => { const c = $('#helpContent'); c.classList.toggle('hidden'); });
+  on($('#quizHomeBtn'), 'click', goHome);
   updateMistakeBtn();
 }
 
@@ -292,6 +294,7 @@ function renderQuestion() {
   $('#questionRank').textContent = '#' + q.rank;
   const meaningStr = Array.isArray(q.meanings) ? q.meanings.join(', ') : (q.meanings || '');
   $('#questionMeaning').textContent = meaningStr;
+  $('#questionMeaning').classList.add('hidden');
 
   // Highlight blank
   const qText = q.question.replace(/_+/g, '<span class="blank">_______</span>');
@@ -317,6 +320,7 @@ function renderQuestion() {
   $('#feedbackArea').innerHTML = '<div id="feedbackIcon" class="feedback-icon"></div><div id="feedbackDetails" class="feedback-details"></div>';
   $('#nextBtn').style.display = 'none';
   $('#audioBtn').style.display = 'none';
+  $('#prevBtn').style.display = state.current > 0 ? 'inline-flex' : 'none';
   $('#hintBtn').style.display = 'inline-flex';
   $('#hintBtn').onclick = showHint;
 }
@@ -361,9 +365,11 @@ function handleAnswer(choice) {
 
   // ===== 採点後の追加表示 =====
 
-  // 1. 問題文の日本語訳を表示
+  // 1. 問題文の日本語訳と単語の意味を表示
   $('#questionJa').classList.remove('hidden');
   $('#questionJa').classList.add('fade-in');
+  $('#questionMeaning').classList.remove('hidden');
+  $('#questionMeaning').classList.add('fade-in');
 
   // 2. 全選択肢の日本語訳を表示（ボタンと同じシャッフル順序で）
   const choiceMeaningsHtml = (state.shuffledChoices || q.choices).map(c => {
@@ -401,6 +407,19 @@ function handleAnswer(choice) {
   // 「次の問題」ボタンを押すまで進まない（自動送りなし）
 }
 
+// ====== Go Home (途中離脱) ======
+function goHome() {
+  // 音声停止
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  // タイマークリア
+  if (state.autoNextTimer) { clearTimeout(state.autoNextTimer); state.autoNextTimer = null; }
+  // ホーム画面に戻る（学習記録は既にhandleAnswerで保存済み）
+  showScreen('setupScreen');
+  renderStreakBadge();
+  renderMarathonProgress();
+  updateMistakeBtn();
+}
+
 // ====== Next Question ======
 function nextQuestion() {
   state.current++;
@@ -409,6 +428,13 @@ function nextQuestion() {
   } else {
     renderQuestion();
   }
+}
+
+// ====== Prev Question ======
+function prevQuestion() {
+  if (state.current <= 0) return;
+  state.current--;
+  renderQuestion();
 }
 
 // ====== Results ======
@@ -450,8 +476,34 @@ function showScreen(id) {
   window.scrollTo(0, 0);
 }
 
+// ====== Theme ======
+const THEME_KEY = 'passtan_theme';
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  const btn = $('#themeToggle');
+  if (btn) btn.textContent = theme === 'dark' ? '🌙' : '☀️';
+  try { localStorage.setItem(THEME_KEY, theme); } catch(e) {}
+}
+
+function toggleTheme() {
+  const current = document.documentElement.getAttribute('data-theme') || 'dark';
+  applyTheme(current === 'dark' ? 'light' : 'dark');
+}
+
+function initTheme() {
+  let saved = null;
+  try { saved = localStorage.getItem(THEME_KEY); } catch(e) {}
+  if (!saved) {
+    saved = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  }
+  applyTheme(saved);
+  on($('#themeToggle'), 'click', toggleTheme);
+}
+
 // ====== Init ======
 async function init() {
+  initTheme();
   await loadData();
   initSetup();
   renderStreakBadge();
