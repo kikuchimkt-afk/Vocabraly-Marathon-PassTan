@@ -5,6 +5,7 @@
 
 const state = {
   quizData: {},
+  wordlistData: {},
   grade: null,
   idStart: null,
   idEnd: null,
@@ -16,6 +17,7 @@ const state = {
   answered: false,
   hintStage: 0,
   todayAnswered: 0,
+  autoNextTimer: null,
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -32,10 +34,10 @@ const MILESTONES = [20, 40, 60, 80, 100, 150, 200, 365];
 
 // ====== Grade Config ======
 const GRADES = [
-  { key: '5kyu',    label: '5級',  icon: '🟢', file: 'pass5_quiz.json',     audioDir: '5kyu_pass' },
-  { key: '4kyu',    label: '4級',  icon: '🔵', file: 'pass4_quiz.json',     audioDir: '4kyu_pass' },
-  { key: '3kyu',    label: '3級',  icon: '🟡', file: 'pass3_quiz.json',     audioDir: '3kyu_pass' },
-  { key: 'pre2kyu', label: '準2級', icon: '🟠', file: 'pass_pre2_quiz.json', audioDir: 'pre2kyu_pass' },
+  { key: '5kyu',    label: '5級',  icon: '🟢', file: 'pass5_quiz.json',     audioDir: '5kyu_pass', wordlist: 'wordlist_5kyu_pass.json' },
+  { key: '4kyu',    label: '4級',  icon: '🔵', file: 'pass4_quiz.json',     audioDir: '4kyu_pass', wordlist: 'wordlist_4kyu_pass.json' },
+  { key: '3kyu',    label: '3級',  icon: '🟡', file: 'pass3_quiz.json',     audioDir: '3kyu_pass', wordlist: 'wordlist_3kyu_pass.json' },
+  { key: 'pre2kyu', label: '準2級', icon: '🟠', file: 'pass_pre2_quiz.json', audioDir: 'pre2kyu_pass', wordlist: 'wordlist_pre2kyu_pass.json' },
 ];
 
 // ====== Cleared / Stats ======
@@ -156,7 +158,20 @@ async function loadData() {
       const res = await fetch(g.file);
       state.quizData[g.key] = await res.json();
     } catch(e) { console.warn('Failed to load ' + g.file, e); state.quizData[g.key] = []; }
+    // ワードリスト読み込み（選択肢の日本語訳用）
+    try {
+      const wres = await fetch(g.wordlist);
+      state.wordlistData[g.key] = await wres.json();
+    } catch(e) { console.warn('Failed to load ' + g.wordlist, e); state.wordlistData[g.key] = []; }
   }
+}
+
+// ====== 選択肢の意味検索 ======
+function lookupMeaning(grade, word) {
+  const wl = state.wordlistData[grade] || [];
+  const w = word.toLowerCase();
+  const entry = wl.find(e => e.english && e.english.toLowerCase() === w);
+  return entry ? entry.meanings : null;
 }
 
 // ====== Setup ======
@@ -261,6 +276,9 @@ function startMistakeReview() {
 
 // ====== Render Question ======
 function renderQuestion() {
+  // 前の問題のauto-nextタイマーをクリア
+  if (state.autoNextTimer) { clearTimeout(state.autoNextTimer); state.autoNextTimer = null; }
+
   const q = state.questions[state.current];
   if (!q) return;
   state.answered = false; state.hintStage = 0;
@@ -295,6 +313,7 @@ function renderQuestion() {
   });
 
   $('#feedbackArea').classList.add('hidden');
+  $('#feedbackArea').innerHTML = '<div id="feedbackIcon" class="feedback-icon"></div><div id="feedbackDetails" class="feedback-details"></div>';
   $('#nextBtn').style.display = 'none';
   $('#audioBtn').style.display = 'none';
   $('#hintBtn').style.display = 'inline-flex';
@@ -331,7 +350,6 @@ function handleAnswer(choice) {
     $('#feedbackDetails').innerHTML = '<span class="fb-correct">正解！</span>';
     markCleared(state.grade, q.id);
     removeMistakeFromHistory(q.id);
-    playAudio(state.grade, q.rank);
   } else {
     state.wrong++;
     $('#feedbackIcon').textContent = '😢';
@@ -340,8 +358,33 @@ function handleAnswer(choice) {
     addMistakeToHistory(q, state.grade);
   }
 
-  // Show Japanese
+  // ===== 採点後の追加表示 =====
+
+  // 1. 問題文の日本語訳を表示
   $('#questionJa').classList.remove('hidden');
+  $('#questionJa').classList.add('fade-in');
+
+  // 2. 全選択肢の日本語訳を表示
+  const choiceMeaningsHtml = q.choices.map(c => {
+    const meaning = lookupMeaning(state.grade, c);
+    const isAnswer = c.toLowerCase() === q.answer.toLowerCase();
+    const isYours = c.toLowerCase() === choice.toLowerCase();
+    let cls = 'choice-meaning-item';
+    if (isAnswer) cls += ' choice-meaning-correct';
+    else if (isYours && !isCorrect) cls += ' choice-meaning-wrong';
+    return '<div class="' + cls + '"><span class="choice-meaning-word">' + c + '</span>' +
+      '<span class="choice-meaning-ja">' + (meaning || '—') + '</span>' +
+      (isAnswer ? ' <span class="choice-meaning-badge">✅</span>' : '') +
+      '</div>';
+  }).join('');
+
+  const meaningSection = document.createElement('div');
+  meaningSection.className = 'choice-meanings-box fade-in';
+  meaningSection.innerHTML = '<div class="choice-meanings-title">📖 選択肢の意味</div>' + choiceMeaningsHtml;
+  fb.appendChild(meaningSection);
+
+  // 3. 音声を自動再生（正解・不正解共通）
+  playAudio(state.grade, q.rank);
 
   recordStats(state.grade, isCorrect);
   const sd = trackAnswer();
@@ -354,8 +397,7 @@ function handleAnswer(choice) {
   $('#audioBtn').onclick = () => playAudio(state.grade, q.rank);
   $('#hintBtn').style.display = 'none';
 
-  // Auto next after 2s on correct
-  if (isCorrect) { setTimeout(() => { if (state.answered) nextQuestion(); }, 2000); }
+  // 「次の問題」ボタンを押すまで進まない（自動送りなし）
 }
 
 // ====== Next Question ======
