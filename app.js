@@ -245,37 +245,69 @@ function updateSummary() {
 }
 
 function updateMistakeBtn() {
-  const btn = $('#mistakeBtn'); if (!btn) return;
+  const container = $('#mistakeBtn'); if (!container) return;
   const h = getMistakeHistory();
-  btn.style.display = h.length > 0 ? 'block' : 'none';
-  btn.textContent = '📝 ミスした問題を復習 (' + h.length + '問)';
-  btn.onclick = () => startMistakeReview();
+  if (h.length === 0) { container.style.display = 'none'; return; }
+  container.style.display = 'block';
+  const CHUNK = 50;
+  const sorted = [...h].sort((a, b) => a.rank - b.rank);
+  const maxRank = sorted[sorted.length - 1].rank;
+  const chunks = [];
+  for (let s = 1; s <= maxRank; s += CHUNK) {
+    const e = s + CHUNK - 1;
+    const items = sorted.filter(m => m.rank >= s && m.rank <= e);
+    if (items.length > 0) chunks.push({ start: s, end: e, count: items.length, items });
+  }
+  let html = '<div class="mistake-header">\u{1F4DD} \u30DF\u30B9\u3057\u305F\u554F\u984C\u3092\u5FA9\u7FD2</div>';
+  if (chunks.length <= 1) {
+    html += '<button class="mistake-chunk-btn" data-chunk="0">#' + chunks[0].start + '\u301C' + chunks[0].end + '\uFF08' + chunks[0].count + '\u554F\uFF09</button>';
+  } else {
+    html += '<div class="mistake-chunks">';
+    chunks.forEach((c, i) => {
+      html += '<button class="mistake-chunk-btn" data-chunk="' + i + '">#' + c.start + '\u301C' + c.end + '<span class="chunk-count">' + c.count + '\u554F</span></button>';
+    });
+    html += '</div>';
+    html += '<button class="mistake-chunk-btn mistake-all" data-chunk="all">\u{1F501} \u5168\u3066\u5FA9\u7FD2\uFF08' + h.length + '\u554F\uFF09</button>';
+  }
+  container.innerHTML = html;
+  container.querySelectorAll('.mistake-chunk-btn').forEach(btn => {
+    btn.onclick = () => {
+      const val = btn.dataset.chunk;
+      if (val === 'all') startMistakeReview(sorted);
+      else startMistakeReview(chunks[parseInt(val)].items);
+    };
+  });
 }
-
 // ====== Quiz Start ======
 function startQuiz() {
   const qs = getFilteredQuestions();
   const n = parseInt($('#questionCount').value) || 0;
+  const order = $('#questionOrder') ? $('#questionOrder').value : 'random';
   let pool = [...qs];
-  // シャッフル
-  for (let i = pool.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [pool[i], pool[j]] = [pool[j], pool[i]]; }
+
+  if (order === 'id') {
+    // ID順（rankの昇順）
+    pool.sort((a, b) => a.rank - b.rank);
+  } else {
+    // ランダム
+    for (let i = pool.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [pool[i], pool[j]] = [pool[j], pool[i]]; }
+  }
+
   state.questions = n === 0 ? pool : pool.slice(0, n);
   state.current = 0; state.correct = 0; state.wrong = 0; state.mistakes = []; state.answered = false; state.hintStage = 0;
   showScreen('quizScreen');
   renderQuestion();
 }
 
-function startMistakeReview() {
-  const h = getMistakeHistory();
-  if (h.length === 0) return;
-  state.grade = h[0].grade;
-  state.questions = h.map(m => ({ id: m.id, rank: m.rank, question: m.sentence, questionJa: m.sentence_ja, answer: m.answer, choices: m.choices, meanings: m.meanings, audioKey: m.audioKey }));
+function startMistakeReview(items) {
+  if (!items || items.length === 0) return;
+  state.grade = items[0].grade || state.grade;
+  state.questions = items.map(m => ({ id: m.id, rank: m.rank, question: m.sentence, questionJa: m.sentence_ja, answer: m.answer, choices: m.choices, meanings: m.meanings, audioKey: m.audioKey }));
   for (let i = state.questions.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [state.questions[i], state.questions[j]] = [state.questions[j], state.questions[i]]; }
   state.current = 0; state.correct = 0; state.wrong = 0; state.mistakes = []; state.answered = false; state.hintStage = 0;
   showScreen('quizScreen');
   renderQuestion();
 }
-
 // ====== Render Question ======
 function renderQuestion() {
   // 前の問題のauto-nextタイマーをクリア

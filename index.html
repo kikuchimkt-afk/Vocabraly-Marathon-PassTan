@@ -42,22 +42,28 @@
     </div>
 
     <div class="setup-card glass-card">
-      <h2 class="setup-heading">⚙️ 問題数</h2>
-      <select id="questionCount" class="select-input">
-        <option value="10">10問</option>
-        <option value="20" selected>20問</option>
-        <option value="30">30問</option>
-        <option value="50">50問</option>
-        <option value="100">100問</option>
-        <option value="0">全問</option>
-      </select>
+      <h2 class="setup-heading">⚙️ 問題数・出題順</h2>
+      <div class="setup-row">
+        <select id="questionCount" class="select-input select-half">
+          <option value="10">10問</option>
+          <option value="20" selected>20問</option>
+          <option value="30">30問</option>
+          <option value="50">50問</option>
+          <option value="100">100問</option>
+          <option value="0">全問</option>
+        </select>
+        <select id="questionOrder" class="select-input select-half">
+          <option value="random">🔀 ランダム</option>
+          <option value="id">📋 ID順</option>
+        </select>
+      </div>
     </div>
 
     <div id="summary" class="summary-box glass-card"></div>
 
     <div class="start-area">
       <button id="startBtn" class="start-btn" disabled>▶️ スタート</button>
-      <button id="mistakeBtn" class="mistake-review-btn" style="display:none">📝 ミスした問題を復習</button>
+      <div id="mistakeBtn" class="mistake-review-container" style="display:none"></div>
     </div>
 
     <div class="help-section">

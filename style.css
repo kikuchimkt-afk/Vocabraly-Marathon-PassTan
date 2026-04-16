@@ -284,7 +284,11 @@ body::after {
   transition: border-color var(--transition);
 }
 .select-input:focus { border-color: var(--accent); }
-.select-input option { background: #1c1c1e; color: var(--text-primary); }
+.select-input option { background: var(--bg-primary); color: var(--text-primary); }
+
+/* Setup Row (horizontal layout) */
+.setup-row { display: flex; gap: 10px; }
+.select-half { flex: 1; }
 
 /* ===== Summary ===== */
 .summary-box { text-align: center; margin-bottom: 14px; }
@@ -321,20 +325,63 @@ body::after {
 
 .start-area { display: flex; flex-direction: column; gap: 10px; margin-bottom: 16px; }
 
-.mistake-review-btn {
-  width: 100%;
-  padding: 14px;
-  background: rgba(255, 69, 58, 0.12);
-  border: 1px solid rgba(255, 69, 58, 0.25);
-  border-radius: 14px;
+.mistake-review-container {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--blur));
+  -webkit-backdrop-filter: blur(var(--blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-top: 4px;
+}
+.mistake-header {
+  font-size: 0.85rem;
+  font-weight: 700;
   color: var(--wrong);
+  margin-bottom: 12px;
+  text-align: center;
+}
+.mistake-chunks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.mistake-chunk-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: rgba(255, 69, 58, 0.08);
+  border: 1px solid rgba(255, 69, 58, 0.2);
+  border-radius: 12px;
+  color: var(--text-primary);
   font-family: var(--font-sans);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
   transition: all var(--transition);
 }
-.mistake-review-btn:hover { background: rgba(255, 69, 58, 0.2); }
+.mistake-chunk-btn:hover {
+  background: rgba(255, 69, 58, 0.18);
+  transform: translateY(-1px);
+}
+.chunk-count {
+  font-size: 0.7rem;
+  color: var(--wrong);
+  font-weight: 700;
+  background: rgba(255, 69, 58, 0.12);
+  padding: 2px 8px;
+  border-radius: 8px;
+}
+.mistake-all {
+  width: 100%;
+  justify-content: center;
+  gap: 6px;
+  color: var(--wrong);
+  background: rgba(255, 69, 58, 0.12);
+  border-color: rgba(255, 69, 58, 0.3);
+}
 
 /* ===== Help ===== */
 .help-section { text-align: center; }
