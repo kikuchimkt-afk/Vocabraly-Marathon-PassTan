@@ -302,6 +302,7 @@ function renderQuestion() {
   // Choices - reshuffle each time
   const shuffled = [...q.choices];
   for (let i = shuffled.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; }
+  state.shuffledChoices = shuffled;
 
   const area = $('#choicesArea');
   area.innerHTML = shuffled.map((c, i) =>
@@ -364,8 +365,8 @@ function handleAnswer(choice) {
   $('#questionJa').classList.remove('hidden');
   $('#questionJa').classList.add('fade-in');
 
-  // 2. 全選択肢の日本語訳を表示
-  const choiceMeaningsHtml = q.choices.map(c => {
+  // 2. 全選択肢の日本語訳を表示（ボタンと同じシャッフル順序で）
+  const choiceMeaningsHtml = (state.shuffledChoices || q.choices).map(c => {
     const meaning = lookupMeaning(state.grade, c);
     const isAnswer = c.toLowerCase() === q.answer.toLowerCase();
     const isYours = c.toLowerCase() === choice.toLowerCase();
