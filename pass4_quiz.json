@@ -23,10 +23,10 @@
     "answer": "computer",
     "matchedForm": "computer",
     "choices": [
-      "popular",
+      "question",
+      "tomorrow",
       "computer",
-      "come",
-      "company"
+      "get off~"
     ],
     "meanings": "コンピューター、パソコン",
     "audioKey": "4kyu_pass"
@@ -199,10 +199,10 @@
     "answer": "window",
     "matchedForm": "window",
     "choices": [
-      "into",
+      "cloudy",
+      "change",
       "window",
-      "win",
-      "windy"
+      "camera"
     ],
     "meanings": "窓",
     "audioKey": "4kyu_pass"
@@ -264,9 +264,9 @@
     "matchedForm": "now",
     "choices": [
       "now",
-      "snow",
-      "low",
-      "know"
+      "bike",
+      "hour",
+      "road"
     ],
     "meanings": "今〔副〕今、現在は",
     "audioKey": "4kyu_pass"
@@ -359,10 +359,10 @@
     "answer": "homework",
     "matchedForm": "homework",
     "choices": [
-      "notebook",
-      "homestay",
       "homework",
-      "hometown"
+      "everyone",
+      "umbrella",
+      "textbook"
     ],
     "meanings": "宿題",
     "audioKey": "4kyu_pass"
@@ -407,10 +407,10 @@
     "answer": "classmate",
     "matchedForm": "classmate",
     "choices": [
-      "classroom",
       "classmate",
-      "class",
-      "language"
+      "sometimes",
+      "shopping",
+      "together"
     ],
     "meanings": "クラスメート、同級生",
     "audioKey": "4kyu_pass"
@@ -471,10 +471,10 @@
     "answer": "science",
     "matchedForm": "science",
     "choices": [
-      "science",
-      "scientist",
-      "speech",
-      "cheese"
+      "usually",
+      "bowling",
+      "meeting",
+      "science"
     ],
     "meanings": "科学、理科",
     "audioKey": "4kyu_pass"
@@ -487,10 +487,10 @@
     "answer": "history",
     "matchedForm": "history",
     "choices": [
-      "visitor",
-      "store",
       "history",
-      "story"
+      "jogging",
+      "example",
+      "special"
     ],
     "meanings": "歴史",
     "audioKey": "4kyu_pass"
@@ -583,10 +583,10 @@
     "answer": "cafeteria",
     "matchedForm": "cafeteria",
     "choices": [
-      "after",
-      "camera",
-      "cafe",
-      "cafeteria"
+      "cafeteria",
+      "notebook",
+      "come home",
+      "mountain"
     ],
     "meanings": "カフェテリア、（学校などの）食堂",
     "audioKey": "4kyu_pass"
@@ -743,10 +743,10 @@
     "answer": "park",
     "matchedForm": "park",
     "choices": [
+      "swim",
+      "rain",
       "park",
-      "party",
-      "part",
-      "dark"
+      "like"
     ],
     "meanings": "公園、運動場",
     "audioKey": "4kyu_pass"
@@ -775,10 +775,10 @@
     "answer": "store",
     "matchedForm": "store",
     "choices": [
-      "store",
-      "stop",
-      "more",
-      "story"
+      "speak",
+      "watch",
+      "snowy",
+      "store"
     ],
     "meanings": "店",
     "audioKey": "4kyu_pass"
@@ -791,10 +791,10 @@
     "answer": "bookstore",
     "matchedForm": "bookstore",
     "choices": [
+      "homework",
+      "ice cream",
       "bookstore",
-      "look for~",
-      "store",
-      "before"
+      "beautiful"
     ],
     "meanings": "書店",
     "audioKey": "4kyu_pass"
@@ -839,10 +839,10 @@
     "answer": "train",
     "matchedForm": "train",
     "choices": [
-      "spain",
+      "watch",
       "train",
-      "trip",
-      "rain"
+      "bring",
+      "brush"
     ],
     "meanings": "列車、電車",
     "audioKey": "4kyu_pass"
@@ -855,10 +855,10 @@
     "answer": "airport",
     "matchedForm": "airport",
     "choices": [
-      "report",
+      "sweater",
+      "history",
       "airport",
-      "passport",
-      "airplane"
+      "clothes"
     ],
     "meanings": "空港、飛行場",
     "audioKey": "4kyu_pass"
@@ -919,10 +919,10 @@
     "answer": "place",
     "matchedForm": "place",
     "choices": [
-      "place",
-      "plan",
-      "plane",
-      "face"
+      "India",
+      "worry",
+      "think",
+      "place"
     ],
     "meanings": "場所",
     "audioKey": "4kyu_pass"
@@ -1031,10 +1031,10 @@
     "answer": "town",
     "matchedForm": "town",
     "choices": [
-      "own",
-      "toy",
+      "road",
       "town",
-      "towel"
+      "club",
+      "food"
     ],
     "meanings": "町",
     "audioKey": "4kyu_pass"
@@ -1063,10 +1063,10 @@
     "answer": "company",
     "matchedForm": "company",
     "choices": [
-      "comedy",
       "company",
-      "computer",
-      "someday"
+      "culture",
+      "pianist",
+      "website"
     ],
     "meanings": "会社",
     "audioKey": "4kyu_pass"
@@ -1079,10 +1079,10 @@
     "answer": "office",
     "matchedForm": "office",
     "choices": [
-      "africa",
-      "off",
       "office",
-      "coffee"
+      "beside",
+      "writer",
+      "ticket"
     ],
     "meanings": "事務所、会社、役所",
     "audioKey": "4kyu_pass"
@@ -1127,10 +1127,10 @@
     "answer": "party",
     "matchedForm": "party",
     "choices": [
-      "carry",
-      "part",
+      "first",
+      "sorry",
       "party",
-      "park"
+      "video"
     ],
     "meanings": "パーティー",
     "audioKey": "4kyu_pass"
@@ -1399,10 +1399,10 @@
     "answer": "arm",
     "matchedForm": "arm",
     "choices": [
-      "arm",
-      "farm",
-      "warm",
-      "ask"
+      "buy",
+      "see",
+      "gym",
+      "arm"
     ],
     "meanings": "腕",
     "audioKey": "4kyu_pass"
@@ -1479,10 +1479,10 @@
     "answer": "scientist",
     "matchedForm": "scientist",
     "choices": [
-      "science",
-      "contest",
+      "walk to ~",
+      "magazine",
       "scientist",
-      "dentist"
+      "pineapple"
     ],
     "meanings": "科学者",
     "audioKey": "4kyu_pass"
@@ -1543,10 +1543,10 @@
     "answer": "grandmother",
     "matchedForm": "grandmother",
     "choices": [
-      "another",
-      "grade",
+      "be careful",
       "grandmother",
-      "grandfather"
+      "need to do",
+      "believe in ~"
     ],
     "meanings": "祖母、おばあさん",
     "audioKey": "4kyu_pass"
@@ -1559,10 +1559,10 @@
     "answer": "grandfather",
     "matchedForm": "grandfather",
     "choices": [
-      "grandmother",
       "grandfather",
-      "grade",
-      "another"
+      "look around",
+      "take a walk",
+      "after work"
     ],
     "meanings": "祖父、おじいさん",
     "audioKey": "4kyu_pass"
@@ -1591,10 +1591,10 @@
     "answer": "husband",
     "matchedForm": "husband",
     "choices": [
-      "band",
-      "husband",
-      "hard",
-      "england"
+      "pancake",
+      "glasses",
+      "another",
+      "husband"
     ],
     "meanings": "夫",
     "audioKey": "4kyu_pass"
@@ -1719,10 +1719,10 @@
     "answer": "vegetable",
     "matchedForm": "vegetables",
     "choices": [
-      "together",
-      "table",
-      "vegetable",
-      "pineapple"
+      "different",
+      "Australia",
+      "textbook",
+      "vegetable"
     ],
     "meanings": "野菜",
     "audioKey": "4kyu_pass"
@@ -1783,10 +1783,10 @@
     "answer": "chocolate",
     "matchedForm": "chocolate",
     "choices": [
-      "chopstick",
+      "hamburger",
+      "postcard",
       "chocolate",
-      "classmate",
-      "late"
+      "pop music"
     ],
     "meanings": "チョコレート",
     "audioKey": "4kyu_pass"
@@ -1895,9 +1895,9 @@
     "answer": "rain",
     "matchedForm": "rain",
     "choices": [
-      "race",
-      "rainy",
-      "train",
+      "wake",
+      "look",
+      "food",
       "rain"
     ],
     "meanings": "雨〔動〕雨が降る",
@@ -1927,9 +1927,9 @@
     "answer": "river",
     "matchedForm": "river",
     "choices": [
-      "driver",
-      "ride",
-      "rice",
+      "speak",
+      "ready",
+      "write",
       "river"
     ],
     "meanings": "川、河",
@@ -1943,10 +1943,10 @@
     "answer": "beach",
     "matchedForm": "beach",
     "choices": [
-      "back",
-      "beach",
-      "each",
-      "teach"
+      "dress",
+      "visit",
+      "think",
+      "beach"
     ],
     "meanings": "浜、海辺",
     "audioKey": "4kyu_pass"
@@ -2119,10 +2119,10 @@
     "answer": "musical",
     "matchedForm": "musical",
     "choices": [
-      "musician",
-      "guitar",
+      "bowling",
+      "program",
       "musical",
-      "music"
+      "station"
     ],
     "meanings": "ミュージカル〔形〕音楽の",
     "audioKey": "4kyu_pass"
@@ -2215,10 +2215,10 @@
     "answer": "Spain",
     "matchedForm": "Spain",
     "choices": [
-      "paint",
-      "rain",
+      "event",
+      "actor",
       "Spain",
-      "train"
+      "sound"
     ],
     "meanings": "スペイン",
     "audioKey": "4kyu_pass"
@@ -2327,10 +2327,10 @@
     "answer": "badminton",
     "matchedForm": "badminton",
     "choices": [
-      "bathroom",
       "badminton",
-      "radio",
-      "bad"
+      "basketball",
+      "classmate",
+      "come home"
     ],
     "meanings": "バドミントン",
     "audioKey": "4kyu_pass"
@@ -2407,10 +2407,10 @@
     "answer": "e-mail",
     "matchedForm": "e-mail",
     "choices": [
-      "easily",
       "e-mail",
-      "mail",
-      "small"
+      "travel",
+      "purple",
+      "beside"
     ],
     "meanings": "電子メール、Eメール",
     "audioKey": "4kyu_pass"
@@ -2439,10 +2439,10 @@
     "answer": "thing",
     "matchedForm": "thing",
     "choices": [
-      "think",
       "thing",
-      "bring",
-      "sing"
+      "front",
+      "brush",
+      "group"
     ],
     "meanings": "物、事",
     "audioKey": "4kyu_pass"
@@ -2455,10 +2455,10 @@
     "answer": "story",
     "matchedForm": "story",
     "choices": [
-      "history",
+      "fever",
+      "bring",
       "story",
-      "stop",
-      "store"
+      "video"
     ],
     "meanings": "物語、話",
     "audioKey": "4kyu_pass"
@@ -2503,10 +2503,10 @@
     "answer": "cell phone",
     "matchedForm": "cell phone",
     "choices": [
-      "come home",
-      "phone",
       "cell phone",
-      "get home"
+      "everything",
+      "classroom",
+      "delicious"
     ],
     "meanings": "携帯電話",
     "audioKey": "4kyu_pass"
@@ -2552,9 +2552,9 @@
     "matchedForm": "center",
     "choices": [
       "center",
-      "better",
-      "enter",
-      "letter"
+      "driver",
+      "guitar",
+      "forget"
     ],
     "meanings": "中心、中央",
     "audioKey": "4kyu_pass"
@@ -2567,10 +2567,10 @@
     "answer": "meeting",
     "matchedForm": "meeting",
     "choices": [
-      "meeting",
-      "wresting",
-      "meet",
-      "wedding"
+      "culture",
+      "fishing",
+      "pancake",
+      "meeting"
     ],
     "meanings": "会議、会",
     "audioKey": "4kyu_pass"
@@ -2616,9 +2616,9 @@
     "matchedForm": "money",
     "choices": [
       "money",
-      "one",
-      "month",
-      "more"
+      "sorry",
+      "actor",
+      "class"
     ],
     "meanings": "お金",
     "audioKey": "4kyu_pass"
@@ -2647,10 +2647,10 @@
     "answer": "end",
     "matchedForm": "end",
     "choices": [
-      "send",
-      "end",
-      "eye",
-      "and"
+      "all",
+      "cut",
+      "bike",
+      "end"
     ],
     "meanings": "終わり",
     "audioKey": "4kyu_pass"
@@ -2711,10 +2711,10 @@
     "answer": "plan",
     "matchedForm": "plan",
     "choices": [
-      "place",
-      "than",
-      "plane",
-      "plan"
+      "hear",
+      "plan",
+      "meet",
+      "swim"
     ],
     "meanings": "計画〔動〕（を）計画する",
     "audioKey": "4kyu_pass"
@@ -2727,10 +2727,10 @@
     "answer": "fun",
     "matchedForm": "fun",
     "choices": [
+      "town",
       "fun",
-      "sun",
-      "funny",
-      "run"
+      "end",
+      "math"
     ],
     "meanings": "楽しみ",
     "audioKey": "4kyu_pass"
@@ -2759,10 +2759,10 @@
     "answer": "postcard",
     "matchedForm": "postcard",
     "choices": [
-      "star",
+      "festival",
+      "umbrella",
       "postcard",
-      "popcorn",
-      "poster"
+      "anything"
     ],
     "meanings": "はがき",
     "audioKey": "4kyu_pass"
@@ -2775,9 +2775,9 @@
     "answer": "poster",
     "matchedForm": "poster",
     "choices": [
-      "soccer",
-      "postcard",
-      "corner",
+      "become",
+      "travel",
+      "eraser",
       "poster"
     ],
     "meanings": "ポスター",
@@ -2871,10 +2871,10 @@
     "answer": "visit",
     "matchedForm": "visit",
     "choices": [
-      "visitor",
-      "video",
+      "first",
+      "story",
       "visit",
-      "list"
+      "month"
     ],
     "meanings": "（を）訪問する、（を）訪れる、〔名〕訪問、見学",
     "audioKey": "4kyu_pass"
@@ -2887,10 +2887,10 @@
     "answer": "come",
     "matchedForm": "come",
     "choices": [
+      "road",
       "come",
-      "rose",
-      "comic",
-      "comedy"
+      "lose",
+      "ride"
     ],
     "meanings": "来る、（相手の方へ）行く",
     "audioKey": "4kyu_pass"
@@ -3063,10 +3063,10 @@
     "answer": "listen",
     "matchedForm": "listen",
     "choices": [
-      "list",
-      "line",
-      "poster",
-      "listen"
+      "beside",
+      "listen",
+      "eraser",
+      "corner"
     ],
     "meanings": "（注意して）聞く",
     "audioKey": "4kyu_pass"
@@ -3191,10 +3191,10 @@
     "answer": "eat",
     "matchedForm": "eat",
     "choices": [
-      "meat",
-      "easy",
-      "eat",
-      "seat"
+      "may",
+      "road",
+      "cut",
+      "eat"
     ],
     "meanings": "（を）食べる",
     "audioKey": "4kyu_pass"
@@ -3351,10 +3351,10 @@
     "answer": "lose",
     "matchedForm": "lost",
     "choices": [
+      "give",
       "lose",
-      "love",
-      "rose",
-      "close"
+      "game",
+      "year"
     ],
     "meanings": "をなくす、（に）負ける",
     "audioKey": "4kyu_pass"
@@ -3367,10 +3367,10 @@
     "answer": "write",
     "matchedForm": "write",
     "choices": [
+      "dress",
+      "actor",
       "write",
-      "wife",
-      "drive",
-      "writer"
+      "teach"
     ],
     "meanings": "（を）書く、（に）手紙を書く",
     "audioKey": "4kyu_pass"
@@ -3383,10 +3383,10 @@
     "answer": "forget",
     "matchedForm": "forget",
     "choices": [
-      "for",
-      "corner",
+      "singer",
+      "artist",
       "forget",
-      "front"
+      "course"
     ],
     "meanings": "（を）忘れる",
     "audioKey": "4kyu_pass"
@@ -3415,10 +3415,10 @@
     "answer": "read",
     "matchedForm": "read",
     "choices": [
-      "ready",
-      "road",
-      "bread",
-      "read"
+      "look",
+      "read",
+      "race",
+      "line"
     ],
     "meanings": "（を）読む",
     "audioKey": "4kyu_pass"
@@ -3431,10 +3431,10 @@
     "answer": "paint",
     "matchedForm": "paint",
     "choices": [
-      "painting",
       "paint",
-      "parent",
-      "spain"
+      "drive",
+      "short",
+      "month"
     ],
     "meanings": "（絵の具で）をかく、にペンキを塗る",
     "audioKey": "4kyu_pass"
@@ -3447,10 +3447,10 @@
     "answer": "cut",
     "matchedForm": "cut",
     "choices": [
-      "put",
-      "but",
       "cut",
-      "cute"
+      "all",
+      "yen",
+      "toy"
     ],
     "meanings": "を切る",
     "audioKey": "4kyu_pass"
@@ -3496,9 +3496,9 @@
     "matchedForm": "drive",
     "choices": [
       "drive",
-      "live",
-      "driver",
-      "drink"
+      "worry",
+      "dress",
+      "first"
     ],
     "meanings": "（自動車など）を運転する〔名〕ドライブ",
     "audioKey": "4kyu_pass"
@@ -3559,10 +3559,10 @@
     "answer": "know",
     "matchedForm": "know",
     "choices": [
-      "know",
-      "now",
-      "show",
-      "snow"
+      "work",
+      "meet",
+      "road",
+      "know"
     ],
     "meanings": "（を）知っている",
     "audioKey": "4kyu_pass"
@@ -3607,10 +3607,10 @@
     "answer": "teach",
     "matchedForm": "teaches",
     "choices": [
-      "coach",
-      "teach",
-      "each",
-      "beach"
+      "pizza",
+      "drive",
+      "Spain",
+      "teach"
     ],
     "meanings": "（を）教える",
     "audioKey": "4kyu_pass"
@@ -3623,10 +3623,10 @@
     "answer": "think",
     "matchedForm": "think",
     "choices": [
-      "think",
-      "drink",
-      "thing",
-      "than"
+      "event",
+      "write",
+      "salad",
+      "think"
     ],
     "meanings": "（と）思う、考える",
     "audioKey": "4kyu_pass"
@@ -3751,10 +3751,10 @@
     "answer": "become",
     "matchedForm": "become",
     "choices": [
-      "before",
+      "really",
       "become",
-      "because",
-      "come"
+      "doctor",
+      "writer"
     ],
     "meanings": "になる",
     "audioKey": "4kyu_pass"
@@ -3831,10 +3831,10 @@
     "answer": "stop",
     "matchedForm": "stop",
     "choices": [
-      "story",
-      "store",
+      "hair",
       "stop",
-      "toy"
+      "club",
+      "page"
     ],
     "meanings": "をやめる、止まる〔名〕中止、停留所",
     "audioKey": "4kyu_pass"
@@ -3847,10 +3847,10 @@
     "answer": "sing",
     "matchedForm": "sing",
     "choices": [
+      "hear",
       "sing",
-      "thing",
-      "sick",
-      "singer"
+      "aunt",
+      "wake"
     ],
     "meanings": "（を）歌う",
     "audioKey": "4kyu_pass"
@@ -3864,9 +3864,9 @@
     "matchedForm": "break",
     "choices": [
       "break",
-      "speak",
-      "bread",
-      "steak"
+      "write",
+      "enjoy",
+      "lucky"
     ],
     "meanings": "をこわす、を折る、壊れる〔名〕休憩",
     "audioKey": "4kyu_pass"
@@ -3975,10 +3975,10 @@
     "answer": "late",
     "matchedForm": "late",
     "choices": [
-      "date",
-      "later",
+      "lose",
+      "tell",
       "late",
-      "lake"
+      "hair"
     ],
     "meanings": "（時間・時期が）遅い、遅れた〔副〕遅く、遅れて",
     "audioKey": "4kyu_pass"
@@ -4023,9 +4023,9 @@
     "answer": "slow",
     "matchedForm": "slow",
     "choices": [
-      "show",
-      "snow",
-      "low",
+      "star",
+      "line",
+      "like",
       "slow"
     ],
     "meanings": "遅い、のろい〔副〕ゆっくりと",
@@ -4055,10 +4055,10 @@
     "answer": "happy",
     "matchedForm": "happy",
     "choices": [
-      "half",
-      "happen",
-      "party",
-      "happy"
+      "hotel",
+      "happy",
+      "drink",
+      "watch"
     ],
     "meanings": "幸福な、楽しい、うれしい",
     "audioKey": "4kyu_pass"
@@ -4120,9 +4120,9 @@
     "matchedForm": "All",
     "choices": [
       "all",
-      "call",
-      "fall",
-      "hall"
+      "sun",
+      "yen",
+      "eye"
     ],
     "meanings": "すべての〔代〕すべてのもの",
     "audioKey": "4kyu_pass"
@@ -4231,10 +4231,10 @@
     "answer": "ready",
     "matchedForm": "ready",
     "choices": [
-      "read",
       "ready",
-      "really",
-      "bread"
+      "train",
+      "teach",
+      "order"
     ],
     "meanings": "用意ができて",
     "audioKey": "4kyu_pass"
@@ -4327,10 +4327,10 @@
     "answer": "beautiful",
     "matchedForm": "beautiful",
     "choices": [
-      "careful",
-      "be careful",
-      "useful",
-      "beautiful"
+      "beautiful",
+      "pineapple",
+      "anything",
+      "walk to ~"
     ],
     "meanings": "美しい、すばらしい",
     "audioKey": "4kyu_pass"
@@ -4343,10 +4343,10 @@
     "answer": "cute",
     "matchedForm": "cute",
     "choices": [
-      "cut",
-      "come",
-      "flute",
-      "cute"
+      "cute",
+      "look",
+      "talk",
+      "trip"
     ],
     "meanings": "かわいい",
     "audioKey": "4kyu_pass"
@@ -4359,10 +4359,10 @@
     "answer": "sunny",
     "matchedForm": "sunny",
     "choices": [
+      "toast",
+      "sorry",
       "sunny",
-      "sound",
-      "funny",
-      "sun"
+      "order"
     ],
     "meanings": "太陽の照っている",
     "audioKey": "4kyu_pass"
@@ -4375,10 +4375,10 @@
     "answer": "cloudy",
     "matchedForm": "cloudy",
     "choices": [
+      "violin",
+      "camera",
       "cloudy",
-      "cloud",
-      "slowly",
-      "close"
+      "invite"
     ],
     "meanings": "くもった",
     "audioKey": "4kyu_pass"
@@ -4391,10 +4391,10 @@
     "answer": "snowy",
     "matchedForm": "snowy",
     "choices": [
-      "know",
       "snowy",
-      "snow",
-      "story"
+      "watch",
+      "lucky",
+      "salad"
     ],
     "meanings": "雪の降る、雪の積もった",
     "audioKey": "4kyu_pass"
@@ -4407,10 +4407,10 @@
     "answer": "warm",
     "matchedForm": "warm",
     "choices": [
-      "arm",
       "warm",
-      "farm",
-      "wash"
+      "math",
+      "call",
+      "plan"
     ],
     "meanings": "暖かい",
     "audioKey": "4kyu_pass"
@@ -4455,10 +4455,10 @@
     "answer": "interesting",
     "matchedForm": "interesting",
     "choices": [
-      "meeting",
+      "catch a cold",
+      "stomachache",
       "interesting",
-      "internet",
-      "wresting"
+      "dictionary"
     ],
     "meanings": "おもしろい、興味深い",
     "audioKey": "4kyu_pass"
@@ -4503,10 +4503,10 @@
     "answer": "careful",
     "matchedForm": "careful",
     "choices": [
-      "be careful",
+      "tonight",
+      "contest",
       "careful",
-      "card",
-      "useful"
+      "culture"
     ],
     "meanings": "注意深い",
     "audioKey": "4kyu_pass"
@@ -4520,9 +4520,9 @@
     "matchedForm": "difficult",
     "choices": [
       "difficult",
-      "doughnut",
-      "office",
-      "different"
+      "practice",
+      "expensive",
+      "building"
     ],
     "meanings": "難しい",
     "audioKey": "4kyu_pass"
@@ -4583,10 +4583,10 @@
     "answer": "own",
     "matchedForm": "own",
     "choices": [
-      "town",
-      "on",
+      "pig",
+      "one",
       "own",
-      "off"
+      "sit"
     ],
     "meanings": "自分自身の",
     "audioKey": "4kyu_pass"
@@ -4615,10 +4615,10 @@
     "answer": "different",
     "matchedForm": "different",
     "choices": [
-      "parent",
-      "present",
-      "difficult",
-      "different"
+      "different",
+      "apartment",
+      "right now",
+      "bookstore"
     ],
     "meanings": "ちがった、異なる、いろいろな",
     "audioKey": "4kyu_pass"
@@ -4663,10 +4663,10 @@
     "answer": "really",
     "matchedForm": "really",
     "choices": [
-      "ready",
-      "read",
+      "cheese",
       "really",
-      "early"
+      "violin",
+      "center"
     ],
     "meanings": "本当に、まさか",
     "audioKey": "4kyu_pass"
@@ -4791,10 +4791,10 @@
     "answer": "again",
     "matchedForm": "again",
     "choices": [
+      "Spain",
       "again",
-      "train",
-      "spain",
-      "rain"
+      "Japan",
+      "story"
     ],
     "meanings": "ふたたび、また",
     "audioKey": "4kyu_pass"
@@ -4839,10 +4839,10 @@
     "answer": "there",
     "matchedForm": "There",
     "choices": [
-      "thing",
+      "event",
+      "teach",
       "there",
-      "think",
-      "other"
+      "store"
     ],
     "meanings": "そこに、そこで、そこへ、～がある、～がいる",
     "audioKey": "4kyu_pass"
@@ -4903,10 +4903,10 @@
     "answer": "maybe",
     "matchedForm": "Maybe",
     "choices": [
-      "table",
       "maybe",
-      "may",
-      "make"
+      "watch",
+      "train",
+      "Spain"
     ],
     "meanings": "たぶん、ひょっとすると",
     "audioKey": "4kyu_pass"
@@ -4919,10 +4919,10 @@
     "answer": "later",
     "matchedForm": "later",
     "choices": [
-      "water",
-      "late",
-      "lake",
-      "later"
+      "later",
+      "group",
+      "write",
+      "salad"
     ],
     "meanings": "もっと遅く、後で",
     "audioKey": "4kyu_pass"
@@ -4951,10 +4951,10 @@
     "answer": "away",
     "matchedForm": "away",
     "choices": [
-      "away",
-      "stay",
-      "always",
-      "way"
+      "give",
+      "dish",
+      "star",
+      "away"
     ],
     "meanings": "離れて、あちらへ、留守で〔形〕遠征先での",
     "audioKey": "4kyu_pass"
@@ -5079,10 +5079,10 @@
     "answer": "about",
     "matchedForm": "about",
     "choices": [
+      "pizza",
+      "think",
       "about",
-      "boat",
-      "around",
-      "out"
+      "catch"
     ],
     "meanings": "～について（の）〔副〕およそ、約、離れているけど繋がっている「所有・分離」のイメージ",
     "audioKey": "4kyu_pass"
@@ -5255,10 +5255,10 @@
     "answer": "and",
     "matchedForm": "and",
     "choices": [
-      "and",
-      "band",
-      "end",
-      "arm"
+      "gym",
+      "may",
+      "road",
+      "and"
     ],
     "meanings": "と、そして",
     "audioKey": "4kyu_pass"
@@ -5447,10 +5447,10 @@
     "answer": "another",
     "matchedForm": "another",
     "choices": [
-      "weather",
-      "another",
-      "answer",
-      "other"
+      "trumpet",
+      "popcorn",
+      "present",
+      "another"
     ],
     "meanings": "もう１つ、別の物、別の人、〔形〕もう１つの、もう１人の、別の",
     "audioKey": "4kyu_pass"
@@ -5463,10 +5463,10 @@
     "answer": "something",
     "matchedForm": "something",
     "choices": [
-      "sometimes",
-      "thing",
+      "scientist",
       "something",
-      "anything"
+      "classroom",
+      "tomorrow"
     ],
     "meanings": "（肯定文で）何か、あるもの",
     "audioKey": "4kyu_pass"
@@ -5479,10 +5479,10 @@
     "answer": "anything",
     "matchedForm": "anything",
     "choices": [
-      "fishing",
-      "painting",
-      "anything",
-      "thing"
+      "sandwich",
+      "bathroom",
+      "doghouse",
+      "anything"
     ],
     "meanings": "（疑問文、ifの文で）なにか、（否定文）何も（肯定文）何でも",
     "audioKey": "4kyu_pass"
@@ -5495,10 +5495,10 @@
     "answer": "everyone",
     "matchedForm": "Everyone",
     "choices": [
-      "event",
+      "question",
       "everyone",
-      "lesson",
-      "everything"
+      "get to ~",
+      "chopstick"
     ],
     "meanings": "だれでも、みんな",
     "audioKey": "4kyu_pass"
@@ -5575,10 +5575,10 @@
     "answer": "than",
     "matchedForm": "than",
     "choices": [
+      "trip",
+      "ship",
       "than",
-      "thing",
-      "plan",
-      "think"
+      "soup"
     ],
     "meanings": "〔接〕（比較級の後において）～より",
     "audioKey": "4kyu_pass"
@@ -5591,10 +5591,10 @@
     "answer": "shower",
     "matchedForm": "shower",
     "choices": [
-      "shower",
-      "show",
-      "flower",
-      "should"
+      "corner",
+      "office",
+      "eraser",
+      "shower"
     ],
     "meanings": "シャワー",
     "audioKey": "4kyu_pass"
@@ -5623,10 +5623,10 @@
     "answer": "bathroom",
     "matchedForm": "bathroom",
     "choices": [
-      "classroom",
+      "out of ~",
       "bathroom",
-      "bath",
-      "bedroom"
+      "anything",
+      "daughter"
     ],
     "meanings": "浴室、トイレ",
     "audioKey": "4kyu_pass"
@@ -5671,10 +5671,10 @@
     "answer": "radio",
     "matchedForm": "radio",
     "choices": [
-      "video",
-      "rain",
-      "radio",
-      "rainy"
+      "river",
+      "brush",
+      "short",
+      "radio"
     ],
     "meanings": "ラジオ",
     "audioKey": "4kyu_pass"
@@ -5687,10 +5687,10 @@
     "answer": "newspaper",
     "matchedForm": "newspaper",
     "choices": [
-      "news",
+      "volleyball",
+      "a lot of~",
       "newspaper",
-      "near",
-      "paper"
+      "vegetable"
     ],
     "meanings": "新聞",
     "audioKey": "4kyu_pass"
@@ -5719,10 +5719,10 @@
     "answer": "comic",
     "matchedForm": "comic",
     "choices": [
-      "join",
-      "comic",
-      "comedy",
-      "come"
+      "lucky",
+      "juice",
+      "first",
+      "comic"
     ],
     "meanings": "漫画本、コミック",
     "audioKey": "4kyu_pass"
@@ -5767,10 +5767,10 @@
     "answer": "glass",
     "matchedForm": "glass",
     "choices": [
-      "last",
+      "watch",
+      "fever",
       "glass",
-      "class",
-      "glasses"
+      "worry"
     ],
     "meanings": "ガラス、コップ",
     "audioKey": "4kyu_pass"
@@ -5976,9 +5976,9 @@
     "matchedForm": "classroom",
     "choices": [
       "classroom",
-      "classmate",
-      "bathroom",
-      "class"
+      "ice cream",
+      "something",
+      "vegetable"
     ],
     "meanings": "教室、きょうしつ",
     "audioKey": "4kyu_pass"
@@ -6135,10 +6135,10 @@
     "answer": "airplane",
     "matchedForm": "airplane",
     "choices": [
-      "place",
       "airplane",
-      "airport",
-      "plane"
+      "how long",
+      "suitcase",
+      "practice"
     ],
     "meanings": "飛行機",
     "audioKey": "4kyu_pass"
@@ -6151,10 +6151,10 @@
     "answer": "plane",
     "matchedForm": "plane",
     "choices": [
-      "place",
       "plane",
-      "late",
-      "plan"
+      "sorry",
+      "place",
+      "fever"
     ],
     "meanings": "飛行機",
     "audioKey": "4kyu_pass"
@@ -6231,10 +6231,10 @@
     "answer": "post office",
     "matchedForm": "post office",
     "choices": [
-      "poster",
-      "office",
       "post office",
-      "postcard"
+      "feel better",
+      "understand",
+      "be late for~"
     ],
     "meanings": "郵便局",
     "audioKey": "4kyu_pass"
@@ -6295,9 +6295,9 @@
     "answer": "farm",
     "matchedForm": "farm",
     "choices": [
-      "far",
-      "warm",
-      "fall",
+      "like",
+      "look",
+      "tell",
       "farm"
     ],
     "meanings": "農場、農園",
@@ -6327,10 +6327,10 @@
     "answer": "hometown",
     "matchedForm": "hometown",
     "choices": [
-      "homework",
-      "homestay",
       "hometown",
-      "something"
+      "question",
+      "musician",
+      "exciting"
     ],
     "meanings": "生まれ故郷",
     "audioKey": "4kyu_pass"
@@ -6343,10 +6343,10 @@
     "answer": "vacation",
     "matchedForm": "vacation",
     "choices": [
-      "question",
-      "on vacation",
-      "station",
-      "vacation"
+      "exciting",
+      "vacation",
+      "homework",
+      "classmate"
     ],
     "meanings": "休み，休暇",
     "audioKey": "4kyu_pass"
@@ -6391,10 +6391,10 @@
     "answer": "homestay",
     "matchedForm": "homestay",
     "choices": [
-      "someday",
-      "hometown",
+      "football",
       "homestay",
-      "homework"
+      "headache",
+      "passport"
     ],
     "meanings": "ホームステイ",
     "audioKey": "4kyu_pass"
@@ -6423,10 +6423,10 @@
     "answer": "painting",
     "matchedForm": "painting",
     "choices": [
-      "building",
-      "anything",
-      "painting",
-      "paint"
+      "shopping",
+      "picture",
+      "lunchtime",
+      "painting"
     ],
     "meanings": "絵、絵画、絵を描くこと",
     "audioKey": "4kyu_pass"
@@ -6439,10 +6439,10 @@
     "answer": "comedy",
     "matchedForm": "comedies",
     "choices": [
-      "company",
-      "come",
-      "someday",
-      "comedy"
+      "comedy",
+      "cloudy",
+      "window",
+      "should"
     ],
     "meanings": "喜劇、コメディー",
     "audioKey": "4kyu_pass"
@@ -6519,10 +6519,10 @@
     "answer": "writer",
     "matchedForm": "writer",
     "choices": [
-      "writer",
-      "waiter",
-      "driver",
-      "write"
+      "really",
+      "eraser",
+      "camera",
+      "writer"
     ],
     "meanings": "筆者、作家",
     "audioKey": "4kyu_pass"
@@ -6551,10 +6551,10 @@
     "answer": "singer",
     "matchedForm": "singer",
     "choices": [
-      "size",
+      "comedy",
       "singer",
-      "sing",
-      "river"
+      "people",
+      "minute"
     ],
     "meanings": "歌手",
     "audioKey": "4kyu_pass"
@@ -6583,10 +6583,10 @@
     "answer": "driver",
     "matchedForm": "driver",
     "choices": [
-      "river",
-      "drive",
-      "driver",
-      "writer"
+      "animal",
+      "poster",
+      "doctor",
+      "driver"
     ],
     "meanings": "運転手、ドライバー",
     "audioKey": "4kyu_pass"
@@ -6647,10 +6647,10 @@
     "answer": "visitor",
     "matchedForm": "visitors",
     "choices": [
-      "visit",
-      "video",
+      "popular",
       "visitor",
-      "history"
+      "pianist",
+      "concert"
     ],
     "meanings": "訪問者、宿泊客",
     "audioKey": "4kyu_pass"
@@ -6839,10 +6839,10 @@
     "answer": "cookie",
     "matchedForm": "cookies",
     "choices": [
-      "course",
+      "arrive",
       "cookie",
-      "cook",
-      "noodle"
+      "future",
+      "speech"
     ],
     "meanings": "クッキー",
     "audioKey": "4kyu_pass"
@@ -6871,10 +6871,10 @@
     "answer": "butter",
     "matchedForm": "butter",
     "choices": [
-      "better",
-      "butter",
-      "but",
-      "letter"
+      "guitar",
+      "hungry",
+      "corner",
+      "butter"
     ],
     "meanings": "バター",
     "audioKey": "4kyu_pass"
@@ -6887,10 +6887,10 @@
     "answer": "bread",
     "matchedForm": "bread",
     "choices": [
-      "ready",
-      "bread",
-      "break",
-      "read"
+      "drink",
+      "hobby",
+      "actor",
+      "bread"
     ],
     "meanings": "パン",
     "audioKey": "4kyu_pass"
@@ -6935,10 +6935,10 @@
     "answer": "pasta",
     "matchedForm": "pasta",
     "choices": [
+      "lucky",
+      "beach",
       "pasta",
-      "part",
-      "party",
-      "last"
+      "short"
     ],
     "meanings": "パスタ",
     "audioKey": "4kyu_pass"
@@ -7031,9 +7031,9 @@
     "answer": "meat",
     "matchedForm": "meat",
     "choices": [
+      "ship",
+      "hour",
       "meet",
-      "eat",
-      "seat",
       "meat"
     ],
     "meanings": "肉",
@@ -7191,10 +7191,10 @@
     "answer": "snow",
     "matchedForm": "snow",
     "choices": [
-      "know",
-      "show",
-      "snow",
-      "snowy"
+      "goal",
+      "need",
+      "wash",
+      "snow"
     ],
     "meanings": "雪〔動〕雪が降る",
     "audioKey": "4kyu_pass"
@@ -7207,10 +7207,10 @@
     "answer": "cloud",
     "matchedForm": "clouds",
     "choices": [
-      "cloudy",
-      "group",
-      "close",
-      "cloud"
+      "pilot",
+      "robot",
+      "cloud",
+      "toast"
     ],
     "meanings": "雲",
     "audioKey": "4kyu_pass"
@@ -7255,10 +7255,10 @@
     "answer": "season",
     "matchedForm": "season",
     "choices": [
+      "singer",
       "season",
-      "sea",
-      "lesson",
-      "seat"
+      "cheese",
+      "e-mail"
     ],
     "meanings": "季節 きせつ",
     "audioKey": "4kyu_pass"
@@ -7287,10 +7287,10 @@
     "answer": "sea",
     "matchedForm": "sea",
     "choices": [
-      "sea",
-      "seat",
       "see",
-      "eat"
+      "pie",
+      "sea",
+      "and"
     ],
     "meanings": "海",
     "audioKey": "4kyu_pass"
@@ -7399,10 +7399,10 @@
     "answer": "music",
     "matchedForm": "music",
     "choices": [
-      "quick",
-      "must",
-      "musical",
-      "music"
+      "enjoy",
+      "early",
+      "music",
+      "small"
     ],
     "meanings": "音楽",
     "audioKey": "4kyu_pass"
@@ -7415,10 +7415,10 @@
     "answer": "musician",
     "matchedForm": "musician",
     "choices": [
-      "musical",
-      "question",
+      "festival",
       "musician",
-      "music"
+      "exciting",
+      "go doing"
     ],
     "meanings": "音楽家、ミュージシャン",
     "audioKey": "4kyu_pass"
@@ -7431,10 +7431,10 @@
     "answer": "pop music",
     "matchedForm": "pop music",
     "choices": [
-      "music",
-      "popular",
-      "popcorn",
-      "pop music"
+      "difficult",
+      "pop music",
+      "magazine",
+      "postcard"
     ],
     "meanings": "ポピュラー音楽、ポップス",
     "audioKey": "4kyu_pass"
@@ -7447,10 +7447,10 @@
     "answer": "band",
     "matchedForm": "band",
     "choices": [
-      "and",
-      "bank",
+      "math",
+      "take",
       "band",
-      "bad"
+      "star"
     ],
     "meanings": "バンド、楽団",
     "audioKey": "4kyu_pass"
@@ -7559,10 +7559,10 @@
     "answer": "glove",
     "matchedForm": "gloves",
     "choices": [
-      "love",
-      "glove",
-      "close",
-      "give"
+      "bring",
+      "group",
+      "table",
+      "glove"
     ],
     "meanings": "手袋、グローブ",
     "audioKey": "4kyu_pass"
@@ -7591,10 +7591,10 @@
     "answer": "glasses",
     "matchedForm": "glasses",
     "choices": [
+      "culture",
       "glasses",
-      "glass",
-      "garden",
-      "class"
+      "musical",
+      "science"
     ],
     "meanings": "メガネ",
     "audioKey": "4kyu_pass"
@@ -7815,10 +7815,10 @@
     "answer": "China",
     "matchedForm": "China",
     "choices": [
-      "thing",
+      "sound",
+      "fever",
       "China",
-      "check",
-      "think"
+      "hurry"
     ],
     "meanings": "中国",
     "audioKey": "4kyu_pass"
@@ -8055,10 +8055,10 @@
     "answer": "Internet",
     "matchedForm": "Internet",
     "choices": [
+      "kind of~",
       "Internet",
-      "interesting",
-      "into",
-      "street"
+      "postcard",
+      "lunchtime"
     ],
     "meanings": "インターネット",
     "audioKey": "4kyu_pass"
@@ -8231,10 +8231,10 @@
     "answer": "list",
     "matchedForm": "list",
     "choices": [
-      "dish",
       "list",
-      "last",
-      "listen"
+      "read",
+      "find",
+      "road"
     ],
     "meanings": "リスト、名簿",
     "audioKey": "4kyu_pass"
@@ -8264,9 +8264,9 @@
     "matchedForm": "haircut",
     "choices": [
       "haircut",
-      "hard",
-      "airport",
-      "hair"
+      "popcorn",
+      "chicken",
+      "college"
     ],
     "meanings": "髪のカット",
     "audioKey": "4kyu_pass"
@@ -8295,10 +8295,10 @@
     "answer": "part",
     "matchedForm": "part",
     "choices": [
-      "park",
-      "party",
       "part",
-      "last"
+      "menu",
+      "sale",
+      "ride"
     ],
     "meanings": "部分、役割",
     "audioKey": "4kyu_pass"
@@ -8311,10 +8311,10 @@
     "answer": "seat",
     "matchedForm": "seat",
     "choices": [
-      "meat",
-      "sea",
-      "eat",
-      "seat"
+      "math",
+      "come",
+      "seat",
+      "find"
     ],
     "meanings": "座席",
     "audioKey": "4kyu_pass"
@@ -8343,10 +8343,10 @@
     "answer": "cook",
     "matchedForm": "cooks",
     "choices": [
-      "cookie",
+      "take",
       "cook",
-      "look",
-      "cool"
+      "bank",
+      "join"
     ],
     "meanings": "（を）料理する〔名〕料理する人、コック",
     "audioKey": "4kyu_pass"
@@ -8392,9 +8392,9 @@
     "matchedForm": "sleep",
     "choices": [
       "sleep",
-      "meet",
-      "sweet",
-      "sleepy"
+      "short",
+      "India",
+      "sound"
     ],
     "meanings": "眠る、〔名〕睡眠",
     "audioKey": "4kyu_pass"
@@ -8423,10 +8423,10 @@
     "answer": "send",
     "matchedForm": "send",
     "choices": [
-      "sell",
-      "end",
+      "word",
+      "wash",
       "send",
-      "seat"
+      "park"
     ],
     "meanings": "を送る",
     "audioKey": "4kyu_pass"
@@ -8503,9 +8503,9 @@
     "answer": "win",
     "matchedForm": "win",
     "choices": [
-      "in",
-      "with",
-      "windy",
+      "eat",
+      "put",
+      "sad",
       "win"
     ],
     "meanings": "（に）勝つ、を勝ち取る",
@@ -8567,10 +8567,10 @@
     "answer": "happen",
     "matchedForm": "happened",
     "choices": [
+      "people",
+      "beside",
       "happen",
-      "paper",
-      "happy",
-      "garden"
+      "useful"
     ],
     "meanings": "（偶然）起こる",
     "audioKey": "4kyu_pass"
@@ -8599,10 +8599,10 @@
     "answer": "relax",
     "matchedForm": "relax",
     "choices": [
-      "ready",
+      "actor",
       "relax",
-      "break",
-      "read"
+      "hobby",
+      "pizza"
     ],
     "meanings": "をくつろがせる、くつろぐ",
     "audioKey": "4kyu_pass"
@@ -8631,10 +8631,10 @@
     "answer": "remember",
     "matchedForm": "remember",
     "choices": [
-      "member",
-      "river",
+      "children",
       "remember",
-      "computer"
+      "wresting",
+      "musician"
     ],
     "meanings": "（を）思い出す、（を）覚えている",
     "audioKey": "4kyu_pass"
@@ -8647,10 +8647,10 @@
     "answer": "understand",
     "matchedForm": "understand",
     "choices": [
-      "understand",
-      "interesting",
-      "under",
-      "university"
+      "pineapple",
+      "different",
+      "write back",
+      "understand"
     ],
     "meanings": "（を）理解する",
     "audioKey": "4kyu_pass"
@@ -8663,10 +8663,10 @@
     "answer": "enter",
     "matchedForm": "enter",
     "choices": [
-      "letter",
-      "center",
-      "better",
-      "enter"
+      "train",
+      "enter",
+      "water",
+      "first"
     ],
     "meanings": "に入る",
     "audioKey": "4kyu_pass"
@@ -8711,10 +8711,10 @@
     "answer": "rainy",
     "matchedForm": "rainy",
     "choices": [
-      "train",
-      "paint",
-      "rainy",
-      "rain"
+      "salad",
+      "worry",
+      "drive",
+      "rainy"
     ],
     "meanings": "雨の、雨降りの",
     "audioKey": "4kyu_pass"
@@ -8727,10 +8727,10 @@
     "answer": "windy",
     "matchedForm": "windy",
     "choices": [
-      "kind",
-      "window",
+      "watch",
       "windy",
-      "win"
+      "hobby",
+      "brush"
     ],
     "meanings": "風の強い、風の吹く",
     "audioKey": "4kyu_pass"
@@ -8872,9 +8872,9 @@
     "matchedForm": "sleepy",
     "choices": [
       "cheese",
-      "speech",
-      "sleepy",
-      "sleep"
+      "center",
+      "violin",
+      "sleepy"
     ],
     "meanings": "眠い、眠そうな",
     "audioKey": "4kyu_pass"
@@ -8951,10 +8951,10 @@
     "answer": "excited",
     "matchedForm": "excited",
     "choices": [
-      "exciting",
-      "example",
-      "website",
-      "excited"
+      "culture",
+      "another",
+      "excited",
+      "pumpkin"
     ],
     "meanings": "（人が）興奮した、わくわくした",
     "audioKey": "4kyu_pass"
@@ -8967,10 +8967,10 @@
     "answer": "exciting",
     "matchedForm": "exciting",
     "choices": [
-      "painting",
-      "excited",
+      "kind of~",
+      "tomorrow",
       "exciting",
-      "wresting"
+      "chopstick"
     ],
     "meanings": "（人を）興奮させる、わくわくさせる",
     "audioKey": "4kyu_pass"
@@ -8999,10 +8999,10 @@
     "answer": "funny",
     "matchedForm": "funny",
     "choices": [
+      "money",
+      "dress",
       "funny",
-      "fun",
-      "sunny",
-      "full"
+      "write"
     ],
     "meanings": "おかしな、面白い",
     "audioKey": "4kyu_pass"
@@ -9031,10 +9031,10 @@
     "answer": "close",
     "matchedForm": "close",
     "choices": [
-      "lose",
+      "toast",
+      "catch",
       "close",
-      "cloud",
-      "class"
+      "juice"
     ],
     "meanings": "ごく近い、親密な",
     "audioKey": "4kyu_pass"
@@ -9047,10 +9047,10 @@
     "answer": "far",
     "matchedForm": "far",
     "choices": [
-      "for",
-      "arm",
+      "bank",
       "far",
-      "farm"
+      "tie",
+      "sir"
     ],
     "meanings": "遠い〔副〕遠くに",
     "audioKey": "4kyu_pass"
@@ -9111,10 +9111,10 @@
     "answer": "each",
     "matchedForm": "Each",
     "choices": [
-      "beach",
-      "eat",
       "each",
-      "easy"
+      "test",
+      "wash",
+      "take"
     ],
     "meanings": "それぞれの、各自の〔代〕それぞれ、各自〔副〕一個につき、一人につき",
     "audioKey": "4kyu_pass"
@@ -9143,10 +9143,10 @@
     "answer": "thirsty",
     "matchedForm": "thirsty",
     "choices": [
-      "think",
-      "thing",
-      "thirsty",
-      "shirt"
+      "weather",
+      "bicycle",
+      "college",
+      "thirsty"
     ],
     "meanings": "のどがかわいた",
     "audioKey": "4kyu_pass"
@@ -9191,10 +9191,10 @@
     "answer": "low",
     "matchedForm": "low",
     "choices": [
+      "job",
       "low",
-      "look",
-      "slow",
-      "now"
+      "say",
+      "try"
     ],
     "meanings": "低い〔副〕低く",
     "audioKey": "4kyu_pass"
@@ -9223,10 +9223,10 @@
     "answer": "right",
     "matchedForm": "right",
     "choices": [
+      "beach",
+      "write",
       "right",
-      "river",
-      "right now",
-      "light"
+      "train"
     ],
     "meanings": "正しい、正確な、右の〔副〕正しい、ちょうど〔名〕右",
     "audioKey": "4kyu_pass"
@@ -9303,10 +9303,10 @@
     "answer": "sometimes",
     "matchedForm": "sometimes",
     "choices": [
-      "come home",
-      "something",
-      "someday",
-      "sometimes"
+      "beautiful",
+      "sometimes",
+      "last week",
+      "chocolate"
     ],
     "meanings": "ときどき、ときには",
     "audioKey": "4kyu_pass"
@@ -9367,10 +9367,10 @@
     "answer": "already",
     "matchedForm": "already",
     "choices": [
+      "theater",
       "already",
-      "always",
-      "read",
-      "ready"
+      "surfing",
+      "usually"
     ],
     "meanings": "すでに、もう",
     "audioKey": "4kyu_pass"
@@ -9383,10 +9383,10 @@
     "answer": "slowly",
     "matchedForm": "slowly",
     "choices": [
-      "snowy",
-      "slowly",
-      "slow",
-      "flower"
+      "listen",
+      "answer",
+      "cheese",
+      "slowly"
     ],
     "meanings": "遅い、ゆっくりと",
     "audioKey": "4kyu_pass"
@@ -9415,10 +9415,10 @@
     "answer": "outside",
     "matchedForm": "outside",
     "choices": [
+      "sweater",
+      "careful",
       "outside",
-      "office",
-      "out",
-      "beside"
+      "England"
     ],
     "meanings": "外に、外側に〔前〕～の外側に、～の外側で",
     "audioKey": "4kyu_pass"
@@ -9463,10 +9463,10 @@
     "answer": "shall",
     "matchedForm": "Shall",
     "choices": [
-      "shall",
-      "small",
-      "hall",
-      "share"
+      "first",
+      "group",
+      "shirt",
+      "shall"
     ],
     "meanings": "～しましょうか、（いっしょに）～しませんか",
     "audioKey": "4kyu_pass"
@@ -9495,10 +9495,10 @@
     "answer": "everything",
     "matchedForm": "Everything",
     "choices": [
-      "anything",
-      "meeting",
       "everything",
-      "everyone"
+      "stay with~",
+      "something",
+      "speak to ~"
     ],
     "meanings": "何もかも、みんな",
     "audioKey": "4kyu_pass"
@@ -9559,10 +9559,10 @@
     "answer": "get home",
     "matchedForm": "get home",
     "choices": [
+      "practice",
       "get home",
-      "get back",
-      "become",
-      "get to ~"
+      "together",
+      "anything"
     ],
     "meanings": "帰宅する",
     "audioKey": "4kyu_pass"
@@ -9575,10 +9575,10 @@
     "answer": "come home",
     "matchedForm": "come home",
     "choices": [
-      "come",
-      "get home",
-      "come home",
-      "comedy"
+      "newspaper",
+      "anything",
+      "pineapple",
+      "come home"
     ],
     "meanings": "帰宅する",
     "audioKey": "4kyu_pass"
@@ -9591,10 +9591,10 @@
     "answer": "have a good time",
     "matchedForm": "have a good time",
     "choices": [
-      "have no idea",
-      "for a long time",
-      "have a cold",
-      "have a good time"
+      "[on]the first day",
+      "have a good time",
+      "grandfather",
+      "go back to~"
     ],
     "meanings": "楽しい時を過ごす",
     "audioKey": "4kyu_pass"
@@ -9607,10 +9607,10 @@
     "answer": "get up",
     "matchedForm": "get up",
     "choices": [
-      "get home",
-      "letter",
+      "listen",
+      "around",
       "get up",
-      "get"
+      "animal"
     ],
     "meanings": "起きる、立ち上がる",
     "audioKey": "4kyu_pass"
@@ -9624,9 +9624,9 @@
     "matchedForm": "wake up",
     "choices": [
       "wake up",
-      "give up",
-      "wake",
-      "water"
+      "trumpet",
+      "fishing",
+      "jogging"
     ],
     "meanings": "目が覚める",
     "audioKey": "4kyu_pass"
@@ -9640,9 +9640,9 @@
     "matchedForm": "take a trip",
     "choices": [
       "take a trip",
-      "take a bath",
-      "go on a trip",
-      "take a to b"
+      "speak to ~",
+      "enjoy soing",
+      "look like ~"
     ],
     "meanings": "旅行する",
     "audioKey": "4kyu_pass"
@@ -9655,10 +9655,10 @@
     "answer": "go on a trip",
     "matchedForm": "go on a trip",
     "choices": [
-      "go back to~",
-      "go on a trip",
-      "take a trip",
-      "go out"
+      "restaurant",
+      "take a shower",
+      "from A to B",
+      "go on a trip"
     ],
     "meanings": "旅行に行く",
     "audioKey": "4kyu_pass"
@@ -9671,10 +9671,10 @@
     "answer": "get back",
     "matchedForm": "get back",
     "choices": [
+      "doghouse",
+      "question",
       "get back",
-      "get to ~",
-      "back",
-      "get home"
+      "practice"
     ],
     "meanings": "戻る、帰る",
     "audioKey": "4kyu_pass"
@@ -9688,9 +9688,9 @@
     "matchedForm": "take a picture",
     "choices": [
       "take a picture",
-      "take a shower",
-      "take a to b",
-      "picture"
+      "have a good time",
+      "for example",
+      "in the future"
     ],
     "meanings": "写真を撮る",
     "audioKey": "4kyu_pass"
@@ -9703,10 +9703,10 @@
     "answer": "have a cold",
     "matchedForm": "have a cold",
     "choices": [
-      "catch a cold",
-      "have to do",
-      "have no idea",
-      "have a cold"
+      "feel better",
+      "have a cold",
+      "stay with~",
+      "be careful"
     ],
     "meanings": "風邪をひいている",
     "audioKey": "4kyu_pass"
@@ -9719,10 +9719,10 @@
     "answer": "take a bath",
     "matchedForm": "take a bath",
     "choices": [
-      "take a to b",
       "take a bath",
-      "take a walk",
-      "have a cold"
+      "understand",
+      "grandmother",
+      "a glass of ~"
     ],
     "meanings": "入浴する",
     "audioKey": "4kyu_pass"
@@ -9735,10 +9735,10 @@
     "answer": "take a walk",
     "matchedForm": "take a walk",
     "choices": [
-      "take a to b",
       "take a walk",
-      "take a bath",
-      "have a cold"
+      "by the way",
+      "supermarket",
+      "~years old"
     ],
     "meanings": "散歩をする",
     "audioKey": "4kyu_pass"
@@ -9767,10 +9767,10 @@
     "answer": "catch a cold",
     "matchedForm": "catch a cold",
     "choices": [
-      "catch",
-      "take a to b",
-      "catch a cold",
-      "have a cold"
+      "in the future",
+      "talk with ~",
+      "go on a trip",
+      "catch a cold"
     ],
     "meanings": "風邪をひく",
     "audioKey": "4kyu_pass"
@@ -9783,10 +9783,10 @@
     "answer": "give up",
     "matchedForm": "give up",
     "choices": [
-      "wake up",
-      "get up",
+      "science",
       "give up",
-      "give"
+      "airport",
+      "concert"
     ],
     "meanings": "あきらめる、やめる",
     "audioKey": "4kyu_pass"
@@ -9799,10 +9799,10 @@
     "answer": "have no idea",
     "matchedForm": "have no idea",
     "choices": [
-      "want to be~",
+      "information",
       "have no idea",
-      "have to do",
-      "have a cold"
+      "social studies",
+      "in the future"
     ],
     "meanings": "まったくわからない",
     "audioKey": "4kyu_pass"
@@ -9815,10 +9815,10 @@
     "answer": "look around",
     "matchedForm": "look around",
     "choices": [
-      "around",
-      "look like ~",
-      "look for~",
-      "look around"
+      "from A to B",
+      "look around",
+      "information",
+      "want to do"
     ],
     "meanings": "あたりを見回す",
     "audioKey": "4kyu_pass"
@@ -9831,10 +9831,10 @@
     "answer": "write back",
     "matchedForm": "write back",
     "choices": [
-      "write to ~",
-      "write",
-      "write back",
-      "get back"
+      "Australia",
+      "apartment",
+      "grandmother",
+      "write back"
     ],
     "meanings": "返事を書く",
     "audioKey": "4kyu_pass"
@@ -9847,10 +9847,10 @@
     "answer": "slow down",
     "matchedForm": "slow down",
     "choices": [
-      "london",
-      "slowly",
-      "slow down",
-      "slow"
+      "different",
+      "spaghetti",
+      "pineapple",
+      "slow down"
     ],
     "meanings": "速度を落とす、遅くする",
     "audioKey": "4kyu_pass"
@@ -9863,10 +9863,10 @@
     "answer": "play catch",
     "matchedForm": "play catch",
     "choices": [
-      "catch",
-      "pancake",
-      "place",
-      "play catch"
+      "interesting",
+      "wait for ~",
+      "play catch",
+      "ice-skating"
     ],
     "meanings": "キャッチボールをする",
     "audioKey": "4kyu_pass"
@@ -9879,10 +9879,10 @@
     "answer": "feel better",
     "matchedForm": "feel better",
     "choices": [
-      "feel",
-      "letter",
+      "take a walk",
       "feel better",
-      "better"
+      "speak to ~",
+      "wait for ~"
     ],
     "meanings": "気分が良くなる",
     "audioKey": "4kyu_pass"
@@ -9895,10 +9895,10 @@
     "answer": "be careful",
     "matchedForm": "Be careful",
     "choices": [
-      "beautiful",
-      "careful",
-      "be late for~",
-      "be careful"
+      "supermarket",
+      "everything",
+      "be careful",
+      "difficult"
     ],
     "meanings": "気をつける",
     "audioKey": "4kyu_pass"
@@ -9911,10 +9911,10 @@
     "answer": "in the morning",
     "matchedForm": "in the morning",
     "choices": [
+      "a glass of ~",
       "in the morning",
-      "in the afternoon",
-      "finish doing",
-      "in the future"
+      "feel better",
+      "come back to~"
     ],
     "meanings": "午前中に、朝に",
     "audioKey": "4kyu_pass"
@@ -9927,10 +9927,10 @@
     "answer": "in the afternoon",
     "matchedForm": "in the afternoon",
     "choices": [
-      "in the morning",
-      "in the future",
+      "grandmother",
       "in the afternoon",
-      "theater"
+      "like doing [to do]",
+      "ice-skating"
     ],
     "meanings": "午後に",
     "audioKey": "4kyu_pass"
@@ -9943,10 +9943,10 @@
     "answer": "in the future",
     "matchedForm": "in the future",
     "choices": [
-      "in the morning",
-      "in the afternoon",
-      "future",
-      "in the future"
+      "supermarket",
+      "volleyball",
+      "in the future",
+      "take a bath"
     ],
     "meanings": "将来",
     "audioKey": "4kyu_pass"
@@ -9959,10 +9959,10 @@
     "answer": "how long",
     "matchedForm": "How long",
     "choices": [
+      "airplane",
       "how long",
-      "hometown",
-      "bowling",
-      "homework"
+      "wresting",
+      "anything"
     ],
     "meanings": "どれぐらいの長さ",
     "audioKey": "4kyu_pass"
@@ -9975,10 +9975,10 @@
     "answer": "for a long time",
     "matchedForm": "for a long time",
     "choices": [
-      "for example",
-      "for a long time",
-      "for free",
-      "have a good time"
+      "stay in [at]",
+      "come back from~",
+      "leave[A]for B",
+      "for a long time"
     ],
     "meanings": "長い間",
     "audioKey": "4kyu_pass"
@@ -9991,10 +9991,10 @@
     "answer": "last week",
     "matchedForm": "last week",
     "choices": [
-      "late",
       "last week",
-      "last",
-      "street"
+      "spaghetti",
+      "postcard",
+      "cafeteria"
     ],
     "meanings": "先週",
     "audioKey": "4kyu_pass"
@@ -10007,10 +10007,10 @@
     "answer": "after work",
     "matchedForm": "after work",
     "choices": [
-      "after",
-      "airport",
-      "after work",
-      "homework"
+      "be careful",
+      "by the way",
+      "speak to ~",
+      "after work"
     ],
     "meanings": "仕事の後で",
     "audioKey": "4kyu_pass"
@@ -10023,10 +10023,10 @@
     "answer": "for example",
     "matchedForm": "For example",
     "choices": [
-      "for example",
-      "for free",
-      "example",
-      "forget"
+      "go[back]home",
+      "take a walk",
+      "stay with~",
+      "for example"
     ],
     "meanings": "たとえば",
     "audioKey": "4kyu_pass"
@@ -10039,10 +10039,10 @@
     "answer": "a lot",
     "matchedForm": "a lot",
     "choices": [
-      "actor",
-      "pilot",
-      "a lot of~",
-      "a lot"
+      "a lot",
+      "lucky",
+      "order",
+      "movie"
     ],
     "meanings": "たくさんの、ずいぶん",
     "audioKey": "4kyu_pass"
@@ -10055,10 +10055,10 @@
     "answer": "one day",
     "matchedForm": "One day",
     "choices": [
-      "someday",
-      "one day",
-      "only",
-      "one"
+      "picture",
+      "message",
+      "sweater",
+      "one day"
     ],
     "meanings": "（過去の）ある日、（未来の）いつか",
     "audioKey": "4kyu_pass"
@@ -10071,10 +10071,10 @@
     "answer": "on vacation",
     "matchedForm": "on vacation",
     "choices": [
-      "station",
-      "vacation",
+      "strawberry",
       "on vacation",
-      "information"
+      "play catch",
+      "catch a cold"
     ],
     "meanings": "休暇で",
     "audioKey": "4kyu_pass"
@@ -10103,10 +10103,10 @@
     "answer": "by the way",
     "matchedForm": "By the way",
     "choices": [
+      "difficult",
+      "dictionary",
       "by the way",
-      "yesterday",
-      "bread",
-      "break"
+      "beautiful"
     ],
     "meanings": "ところで",
     "audioKey": "4kyu_pass"
@@ -10120,9 +10120,9 @@
     "matchedForm": "more and more",
     "choices": [
       "more and more",
-      "be late for~",
-      "come back to~",
-      "more"
+      "in the morning",
+      "volleyball",
+      "go on a trip"
     ],
     "meanings": "ますます多くの",
     "audioKey": "4kyu_pass"
@@ -10135,10 +10135,10 @@
     "answer": "for free",
     "matchedForm": "for free",
     "choices": [
-      "free",
+      "building",
       "for free",
-      "coffee",
-      "forget"
+      "children",
+      "get home"
     ],
     "meanings": "無料で、ただで",
     "audioKey": "4kyu_pass"
@@ -10151,10 +10151,10 @@
     "answer": "right now",
     "matchedForm": "right now",
     "choices": [
-      "right",
       "right now",
-      "light",
-      "window"
+      "university",
+      "pop music",
+      "beautiful"
     ],
     "meanings": "今すぐに、現在、たった今",
     "audioKey": "4kyu_pass"
@@ -10167,10 +10167,10 @@
     "answer": "all over the world",
     "matchedForm": "all over the world",
     "choices": [
-      "have a cold",
-      "all day[long]",
+      "go around[round]~",
       "all over the world",
-      "after work"
+      "do one`s homework",
+      "move to A[from B]"
     ],
     "meanings": "世界中で",
     "audioKey": "4kyu_pass"

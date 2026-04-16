@@ -119,10 +119,10 @@
     "answer": "change",
     "matchedForm": "change",
     "choices": [
-      "chance",
-      "charge",
+      "afraid",
+      "couple",
       "change",
-      "exchange"
+      "advise"
     ],
     "meanings": "を変える，変わる〈into ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -151,10 +151,10 @@
     "answer": "grow",
     "matchedForm": "grows",
     "choices": [
-      "blow",
-      "row",
+      "area",
       "grow",
-      "flow"
+      "calm",
+      "wake"
     ],
     "meanings": "成長する，（数量などが）増大する，を栽培する",
     "audioKey": "pre2kyu_pass"
@@ -231,10 +231,10 @@
     "answer": "forget",
     "matchedForm": "forget",
     "choices": [
-      "formal",
-      "corner",
-      "forgive",
-      "forget"
+      "arrive",
+      "forget",
+      "fossil",
+      "change"
     ],
     "meanings": "を忘れる〈to do ～すること，doing ～したこと〉（⇔ remember）",
     "audioKey": "pre2kyu_pass"
@@ -295,10 +295,10 @@
     "answer": "return",
     "matchedForm": "return",
     "choices": [
-      "retire",
-      "result",
-      "turn",
-      "return"
+      "return",
+      "corner",
+      "reason",
+      "result"
     ],
     "meanings": "帰る，戻る〈to ～に〉，を返す（≒ bring back）",
     "audioKey": "pre2kyu_pass"
@@ -391,10 +391,10 @@
     "answer": "taste",
     "matchedForm": "tastes",
     "choices": [
-      "task",
       "taste",
-      "tasty",
-      "waste"
+      "worry",
+      "staff",
+      "cover"
     ],
     "meanings": "の味がする，を味わう",
     "audioKey": "pre2kyu_pass"
@@ -439,10 +439,10 @@
     "answer": "lose",
     "matchedForm": "lose",
     "choices": [
-      "lower",
+      "navy",
       "lose",
-      "close",
-      "long"
+      "fail",
+      "move"
     ],
     "meanings": "を失う（⇔ gain），（で）負ける（⇔ win）",
     "audioKey": "pre2kyu_pass"
@@ -472,9 +472,9 @@
     "matchedForm": "climb",
     "choices": [
       "climb",
-      "blind",
-      "claim",
-      "climate"
+      "raise",
+      "price",
+      "marry"
     ],
     "meanings": "（を）登る",
     "audioKey": "pre2kyu_pass"
@@ -487,10 +487,10 @@
     "answer": "exchange",
     "matchedForm": "exchange",
     "choices": [
+      "graduate",
       "exchange",
-      "entrance",
-      "excuse",
-      "change"
+      "remember",
+      "although"
     ],
     "meanings": "を交換する，を両替する〈for ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -519,10 +519,10 @@
     "answer": "perform",
     "matchedForm": "perform",
     "choices": [
-      "perform",
-      "effort",
-      "perfect",
-      "performance"
+      "finally",
+      "through",
+      "mistake",
+      "perform"
     ],
     "meanings": "を上演する，（を）演じる，を実行する",
     "audioKey": "pre2kyu_pass"
@@ -567,10 +567,10 @@
     "answer": "interview",
     "matchedForm": "interview",
     "choices": [
-      "internet",
-      "review",
-      "interview",
-      "interest"
+      "condition",
+      "volunteer",
+      "community",
+      "interview"
     ],
     "meanings": "にインタビューする，と面接する",
     "audioKey": "pre2kyu_pass"
@@ -599,10 +599,10 @@
     "answer": "expect",
     "matchedForm": "expect",
     "choices": [
-      "respect",
-      "expert",
-      "expect",
-      "except"
+      "custom",
+      "symbol",
+      "result",
+      "expect"
     ],
     "meanings": "を予期する，を期待する，〈to do ～すること〉",
     "audioKey": "pre2kyu_pass"
@@ -727,10 +727,10 @@
     "answer": "create",
     "matchedForm": "create",
     "choices": [
-      "creation",
-      "credit",
-      "breathe",
-      "create"
+      "change",
+      "design",
+      "create",
+      "prefer"
     ],
     "meanings": "を創造する",
     "audioKey": "pre2kyu_pass"
@@ -743,10 +743,10 @@
     "answer": "design",
     "matchedForm": "design",
     "choices": [
-      "desert",
-      "despite",
       "design",
-      "sign"
+      "invite",
+      "happen",
+      "bright"
     ],
     "meanings": "（を）デザイン［設計］する",
     "audioKey": "pre2kyu_pass"
@@ -759,10 +759,10 @@
     "answer": "increase",
     "matchedForm": "increasing",
     "choices": [
-      "decrease",
-      "increasingly",
+      "explorer",
       "increase",
-      "include"
+      "official",
+      "recently"
     ],
     "meanings": "増加する，を増やす（⇔ decrease）",
     "audioKey": "pre2kyu_pass"
@@ -775,10 +775,10 @@
     "answer": "introduce",
     "matchedForm": "introduce",
     "choices": [
-      "influence",
       "introduce",
-      "produce",
-      "introduction"
+      "discovery",
+      "knowledge",
+      "celebrate"
     ],
     "meanings": "を紹介する，を導入する〈to ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -791,10 +791,10 @@
     "answer": "prefer",
     "matchedForm": "prefer",
     "choices": [
-      "pretend",
-      "prefer",
-      "prevent",
-      "refer"
+      "center",
+      "wonder",
+      "happen",
+      "prefer"
     ],
     "meanings": "の方を好む〈to ～より〉",
     "audioKey": "pre2kyu_pass"
@@ -871,10 +871,10 @@
     "answer": "agree",
     "matchedForm": "agree",
     "choices": [
-      "agreement",
-      "area",
+      "prize",
       "agree",
-      "degree"
+      "plant",
+      "cheer"
     ],
     "meanings": "賛成する〈with（人など）に〉，同意する〈to（提案など）に〉（⇔ disagree）",
     "audioKey": "pre2kyu_pass"
@@ -919,10 +919,10 @@
     "answer": "die",
     "matchedForm": "died",
     "choices": [
-      "diet",
-      "view",
       "die",
-      "dig"
+      "lay",
+      "fit",
+      "fix"
     ],
     "meanings": "死ぬ〈of, from ～で〉",
     "audioKey": "pre2kyu_pass"
@@ -935,10 +935,10 @@
     "answer": "improve",
     "matchedForm": "improve",
     "choices": [
-      "prove",
-      "impress",
-      "import",
-      "improve"
+      "improve",
+      "vehicle",
+      "develop",
+      "instead"
     ],
     "meanings": "を改良［改善］する，良くなる",
     "audioKey": "pre2kyu_pass"
@@ -983,10 +983,10 @@
     "answer": "plant",
     "matchedForm": "plant",
     "choices": [
-      "plant",
-      "plain",
-      "planet",
-      "flat"
+      "sound",
+      "upset",
+      "smell",
+      "plant"
     ],
     "meanings": "を植える，（種）をまく",
     "audioKey": "pre2kyu_pass"
@@ -999,9 +999,9 @@
     "answer": "receive",
     "matchedForm": "received",
     "choices": [
-      "recipe",
-      "active",
-      "receipt",
+      "deliver",
+      "finally",
+      "shelter",
       "receive"
     ],
     "meanings": "を受け取る",
@@ -1095,10 +1095,10 @@
     "answer": "continue",
     "matchedForm": "continue",
     "choices": [
-      "control",
-      "sentence",
       "continue",
-      "contain"
+      "official",
+      "bacteria",
+      "shortage"
     ],
     "meanings": "を続ける〈to do, doing ～すること〉，続く",
     "audioKey": "pre2kyu_pass"
@@ -1111,10 +1111,10 @@
     "answer": "dress",
     "matchedForm": "dress",
     "choices": [
-      "dress",
-      "press",
-      "fresh",
-      "dress up"
+      "throw",
+      "trade",
+      "build",
+      "dress"
     ],
     "meanings": "服を着る，に服を着せる",
     "audioKey": "pre2kyu_pass"
@@ -1127,10 +1127,10 @@
     "answer": "follow",
     "matchedForm": "follow",
     "choices": [
-      "flow",
       "follow",
-      "following",
-      "pillow"
+      "bright",
+      "damage",
+      "future"
     ],
     "meanings": "についていく［くる］，に続く，に従う",
     "audioKey": "pre2kyu_pass"
@@ -1143,10 +1143,10 @@
     "answer": "graduate",
     "matchedForm": "graduate",
     "choices": [
-      "graduation",
-      "graduate",
-      "teammate",
-      "gradually"
+      "recently",
+      "decorate",
+      "increase",
+      "graduate"
     ],
     "meanings": "卒業する〈from ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -1159,10 +1159,10 @@
     "answer": "guess",
     "matchedForm": "guess",
     "choices": [
-      "guide",
-      "dress",
-      "guess",
-      "guest"
+      "worry",
+      "train",
+      "price",
+      "guess"
     ],
     "meanings": "を推測する",
     "audioKey": "pre2kyu_pass"
@@ -1287,10 +1287,10 @@
     "answer": "arrive",
     "matchedForm": "arrive",
     "choices": [
-      "forgive",
-      "arrive",
-      "arrival",
-      "active"
+      "enough",
+      "center",
+      "pigeon",
+      "arrive"
     ],
     "meanings": "到着する〈at, in ～に〉（⇔ depart）",
     "audioKey": "pre2kyu_pass"
@@ -1303,10 +1303,10 @@
     "answer": "cancel",
     "matchedForm": "cancel",
     "choices": [
-      "change",
-      "chance",
-      "cancel",
-      "danger"
+      "pigeon",
+      "advice",
+      "common",
+      "cancel"
     ],
     "meanings": "を中止する（≒ call off），を取り消す",
     "audioKey": "pre2kyu_pass"
@@ -1351,10 +1351,10 @@
     "answer": "enter",
     "matchedForm": "enter",
     "choices": [
-      "enemy",
-      "center",
-      "energy",
-      "enter"
+      "enter",
+      "carry",
+      "reply",
+      "train"
     ],
     "meanings": "に入る（≒ come［go］ into），に参加［出場］する",
     "audioKey": "pre2kyu_pass"
@@ -1383,10 +1383,10 @@
     "answer": "recommend",
     "matchedForm": "recommend",
     "choices": [
-      "recover",
-      "common",
       "recommend",
-      "recovery"
+      "enjoyable",
+      "necessary",
+      "disappear"
     ],
     "meanings": "を推薦する，を勧める",
     "audioKey": "pre2kyu_pass"
@@ -1399,10 +1399,10 @@
     "answer": "steal",
     "matchedForm": "steal",
     "choices": [
-      "steady",
       "steal",
-      "meal",
-      "spell"
+      "offer",
+      "train",
+      "guest"
     ],
     "meanings": "を盗む，盗みをする〈from ～から〉",
     "audioKey": "pre2kyu_pass"
@@ -1415,10 +1415,10 @@
     "answer": "throw",
     "matchedForm": "throw",
     "choices": [
-      "row",
-      "through",
-      "throw",
-      "grow"
+      "novel",
+      "actor",
+      "sound",
+      "throw"
     ],
     "meanings": "（を）投げる",
     "audioKey": "pre2kyu_pass"
@@ -1479,10 +1479,10 @@
     "answer": "contain",
     "matchedForm": "contain",
     "choices": [
-      "continue",
-      "maintain",
-      "control",
-      "contain"
+      "deliver",
+      "natural",
+      "contain",
+      "traffic"
     ],
     "meanings": "を含む，を収容できる",
     "audioKey": "pre2kyu_pass"
@@ -1527,10 +1527,10 @@
     "answer": "feed",
     "matchedForm": "feed",
     "choices": [
-      "seem",
-      "fever",
       "feed",
-      "fee"
+      "wish",
+      "quit",
+      "wake"
     ],
     "meanings": "に食べ物を与える",
     "audioKey": "pre2kyu_pass"
@@ -1608,9 +1608,9 @@
     "matchedForm": "raise",
     "choices": [
       "raise",
-      "rise",
-      "race",
-      "praise"
+      "share",
+      "match",
+      "allow"
     ],
     "meanings": "を調達する，を育てる，を上げる",
     "audioKey": "pre2kyu_pass"
@@ -1671,10 +1671,10 @@
     "answer": "advise",
     "matchedForm": "advised",
     "choices": [
-      "praise",
+      "repair",
       "advise",
-      "arrive",
-      "advice"
+      "desert",
+      "choice"
     ],
     "meanings": "（に）忠告する",
     "audioKey": "pre2kyu_pass"
@@ -1703,10 +1703,10 @@
     "answer": "belong",
     "matchedForm": "belongs",
     "choices": [
-      "beyond",
-      "below",
+      "puppet",
       "belong",
-      "long"
+      "search",
+      "center"
     ],
     "meanings": "所属する，属する〈to ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -1719,10 +1719,10 @@
     "answer": "celebrate",
     "matchedForm": "celebrate",
     "choices": [
-      "create",
-      "release",
+      "agreement",
       "celebrate",
-      "celebration"
+      "passenger",
+      "apologize"
     ],
     "meanings": "を祝う",
     "audioKey": "pre2kyu_pass"
@@ -1831,10 +1831,10 @@
     "answer": "produce",
     "matchedForm": "produces",
     "choices": [
-      "product",
-      "reduce",
+      "reserve",
+      "careful",
       "produce",
-      "protect"
+      "costume"
     ],
     "meanings": "（を）生産する（⇔ consume），を引き起こす（≒ bring about）",
     "audioKey": "pre2kyu_pass"
@@ -1863,10 +1863,10 @@
     "answer": "recover",
     "matchedForm": "recover",
     "choices": [
-      "recovery",
-      "cover",
-      "remove",
-      "recover"
+      "uniform",
+      "recover",
+      "clothes",
+      "collect"
     ],
     "meanings": "回復する〈from ～から〉，を取り戻す（≒ get back）",
     "audioKey": "pre2kyu_pass"
@@ -1895,10 +1895,10 @@
     "answer": "reserve",
     "matchedForm": "reserve",
     "choices": [
-      "reserve",
-      "serve",
-      "research",
-      "receive"
+      "instead",
+      "produce",
+      "special",
+      "reserve"
     ],
     "meanings": "を予約する，を取っておく〈for ～のために〉",
     "audioKey": "pre2kyu_pass"
@@ -1911,10 +1911,10 @@
     "answer": "serve",
     "matchedForm": "serves",
     "choices": [
-      "sense",
-      "service",
-      "leave",
-      "serve"
+      "plant",
+      "smell",
+      "serve",
+      "avoid"
     ],
     "meanings": "（飲食物）を出す，（に）給仕する，（に）仕える",
     "audioKey": "pre2kyu_pass"
@@ -1975,10 +1975,10 @@
     "answer": "transport",
     "matchedForm": "transport",
     "choices": [
-      "translate",
-      "transportation",
-      "report",
-      "transport"
+      "transport",
+      "necessary",
+      "advantage",
+      "furniture"
     ],
     "meanings": "を輸送する",
     "audioKey": "pre2kyu_pass"
@@ -1991,10 +1991,10 @@
     "answer": "upset",
     "matchedForm": "upset",
     "choices": [
-      "guest",
-      "set",
-      "upset",
-      "puppet"
+      "relax",
+      "smell",
+      "train",
+      "upset"
     ],
     "meanings": "（受身形で）動揺する〈about，by ～に［で］〉",
     "audioKey": "pre2kyu_pass"
@@ -2007,10 +2007,10 @@
     "answer": "idea",
     "matchedForm": "idea",
     "choices": [
-      "idea",
-      "item",
-      "ideal",
-      "area"
+      "grow",
+      "join",
+      "copy",
+      "idea"
     ],
     "meanings": "考え，思いつき，アイデア",
     "audioKey": "pre2kyu_pass"
@@ -2039,10 +2039,10 @@
     "answer": "apartment",
     "matchedForm": "apartment",
     "choices": [
-      "apartment",
-      "department",
-      "apart",
-      "appointment"
+      "interview",
+      "housework",
+      "difficult",
+      "apartment"
     ],
     "meanings": "アパート",
     "audioKey": "pre2kyu_pass"
@@ -2071,10 +2071,10 @@
     "answer": "photograph",
     "matchedForm": "photographs",
     "choices": [
+      "completely",
+      "overweight",
       "photograph",
-      "progress",
-      "though",
-      "photographer"
+      "graduation"
     ],
     "meanings": "写真（＝ photo）（≒ picture）",
     "audioKey": "pre2kyu_pass"
@@ -2087,9 +2087,9 @@
     "answer": "reason",
     "matchedForm": "reason",
     "choices": [
-      "tease",
-      "reasonable",
-      "reach",
+      "pigeon",
+      "chance",
+      "nature",
       "reason"
     ],
     "meanings": "理由，理性",
@@ -2103,10 +2103,10 @@
     "answer": "actor",
     "matchedForm": "actor",
     "choices": [
-      "factor",
+      "reach",
+      "event",
       "actor",
-      "author",
-      "act"
+      "build"
     ],
     "meanings": "俳優",
     "audioKey": "pre2kyu_pass"
@@ -2199,10 +2199,10 @@
     "answer": "advantage",
     "matchedForm": "advantage",
     "choices": [
-      "advertise",
-      "advantage",
-      "damage",
-      "adventure"
+      "miniature",
+      "attendant",
+      "vegetable",
+      "advantage"
     ],
     "meanings": "有利な点（⇔ disadvantage），利益",
     "audioKey": "pre2kyu_pass"
@@ -2279,10 +2279,10 @@
     "answer": "chance",
     "matchedForm": "chance",
     "choices": [
-      "change",
+      "nature",
       "chance",
-      "by chance",
-      "charge"
+      "create",
+      "lonely"
     ],
     "meanings": "機会（≒ opportunity）",
     "audioKey": "pre2kyu_pass"
@@ -2295,10 +2295,10 @@
     "answer": "clothes",
     "matchedForm": "clothes",
     "choices": [
+      "special",
       "clothes",
-      "cloth",
-      "other",
-      "close"
+      "article",
+      "certain"
     ],
     "meanings": "衣服",
     "audioKey": "pre2kyu_pass"
@@ -2328,9 +2328,9 @@
     "matchedForm": "experience",
     "choices": [
       "experience",
-      "conference",
-      "expert",
-      "experiment"
+      "attraction",
+      "get better",
+      "invitation"
     ],
     "meanings": "経験〈in，of，with ～の〉",
     "audioKey": "pre2kyu_pass"
@@ -2343,10 +2343,10 @@
     "answer": "fact",
     "matchedForm": "fact",
     "choices": [
-      "face",
-      "fat",
-      "fact",
-      "act"
+      "copy",
+      "miss",
+      "rely",
+      "fact"
     ],
     "meanings": "事実，実際にあったこと",
     "audioKey": "pre2kyu_pass"
@@ -2375,10 +2375,10 @@
     "answer": "Internet",
     "matchedForm": "Internet",
     "choices": [
-      "interest",
-      "interview",
-      "enter",
-      "Internet"
+      "moreover",
+      "remember",
+      "Internet",
+      "ceremony"
     ],
     "meanings": "（the ～）インターネット",
     "audioKey": "pre2kyu_pass"
@@ -2408,9 +2408,9 @@
     "matchedForm": "puppet",
     "choices": [
       "puppet",
-      "pure",
-      "puppy",
-      "upset"
+      "pigeon",
+      "flight",
+      "method"
     ],
     "meanings": "操り人形",
     "audioKey": "pre2kyu_pass"
@@ -2423,10 +2423,10 @@
     "answer": "accident",
     "matchedForm": "accident",
     "choices": [
-      "accidentally",
-      "ancient",
-      "by accident",
-      "accident"
+      "dinosaur",
+      "accident",
+      "activity",
+      "explorer"
     ],
     "meanings": "事故，偶然",
     "audioKey": "pre2kyu_pass"
@@ -2439,10 +2439,10 @@
     "answer": "century",
     "matchedForm": "centuries",
     "choices": [
-      "return",
-      "center",
-      "century",
-      "central"
+      "through",
+      "uniform",
+      "finally",
+      "century"
     ],
     "meanings": "1世紀，100年（間）",
     "audioKey": "pre2kyu_pass"
@@ -2471,10 +2471,10 @@
     "answer": "guest",
     "matchedForm": "guests",
     "choices": [
+      "offer",
+      "solve",
       "guest",
-      "burst",
-      "guide",
-      "guess"
+      "front"
     ],
     "meanings": "客，宿泊客，招待客",
     "audioKey": "pre2kyu_pass"
@@ -2487,10 +2487,10 @@
     "answer": "professor",
     "matchedForm": "Professor",
     "choices": [
-      "ancestor",
+      "technique",
       "professor",
-      "professional",
-      "process"
+      "vegetable",
+      "knowledge"
     ],
     "meanings": "教授（＝ Prof.）",
     "audioKey": "pre2kyu_pass"
@@ -2551,10 +2551,10 @@
     "answer": "character",
     "matchedForm": "character",
     "choices": [
-      "character",
-      "manager",
-      "charity",
-      "charge"
+      "passenger",
+      "dangerous",
+      "butterfly",
+      "character"
     ],
     "meanings": "登場人物，特徴，性格",
     "audioKey": "pre2kyu_pass"
@@ -2583,10 +2583,10 @@
     "answer": "mistake",
     "matchedForm": "mistake",
     "choices": [
-      "missing",
-      "mistake",
-      "distance",
-      "miss"
+      "develop",
+      "perform",
+      "however",
+      "mistake"
     ],
     "meanings": "間違い，誤り",
     "audioKey": "pre2kyu_pass"
@@ -2615,10 +2615,10 @@
     "answer": "shelter",
     "matchedForm": "shelter",
     "choices": [
-      "enter",
+      "deliver",
       "shelter",
-      "whether",
-      "center"
+      "correct",
+      "million"
     ],
     "meanings": "避難所，住まい",
     "audioKey": "pre2kyu_pass"
@@ -2663,10 +2663,10 @@
     "answer": "address",
     "matchedForm": "address",
     "choices": [
-      "arrest",
-      "dress",
-      "access",
-      "address"
+      "unusual",
+      "address",
+      "develop",
+      "certain"
     ],
     "meanings": "住所，演説",
     "audioKey": "pre2kyu_pass"
@@ -2727,10 +2727,10 @@
     "answer": "expert",
     "matchedForm": "expert",
     "choices": [
+      "enough",
       "expert",
-      "except",
-      "expect",
-      "desert"
+      "flight",
+      "avenue"
     ],
     "meanings": "専門家",
     "audioKey": "pre2kyu_pass"
@@ -2744,9 +2744,9 @@
     "matchedForm": "honey",
     "choices": [
       "honey",
-      "honest",
-      "honor",
-      "lonely"
+      "guest",
+      "upset",
+      "offer"
     ],
     "meanings": "あなた，おまえ（恋人や夫・妻への呼びかけ），はちみつ",
     "audioKey": "pre2kyu_pass"
@@ -2823,10 +2823,10 @@
     "answer": "service",
     "matchedForm": "service",
     "choices": [
-      "survive",
       "service",
-      "serve",
-      "advice"
+      "clothes",
+      "network",
+      "contain"
     ],
     "meanings": "サービス，（しばしば ～s）奉仕",
     "audioKey": "pre2kyu_pass"
@@ -2855,10 +2855,10 @@
     "answer": "war",
     "matchedForm": "war",
     "choices": [
-      "warn",
+      "seem",
+      "rent",
       "war",
-      "far",
-      "wait"
+      "wake"
     ],
     "meanings": "戦争（⇔ peace）",
     "audioKey": "pre2kyu_pass"
@@ -2871,10 +2871,10 @@
     "answer": "advice",
     "matchedForm": "advice",
     "choices": [
-      "advise",
-      "arrive",
-      "invite",
-      "advice"
+      "puppet",
+      "advice",
+      "likely",
+      "afraid"
     ],
     "meanings": "忠告，助言",
     "audioKey": "pre2kyu_pass"
@@ -2903,9 +2903,9 @@
     "answer": "discovery",
     "matchedForm": "discovery",
     "choices": [
-      "recovery",
-      "discover",
-      "discount",
+      "microwave",
+      "recognize",
+      "dangerous",
       "discovery"
     ],
     "meanings": "発見",
@@ -2919,10 +2919,10 @@
     "answer": "event",
     "matchedForm": "event",
     "choices": [
-      "recent",
-      "prevent",
-      "even",
-      "event"
+      "event",
+      "smell",
+      "cause",
+      "offer"
     ],
     "meanings": "出来事，行事",
     "audioKey": "pre2kyu_pass"
@@ -2951,10 +2951,10 @@
     "answer": "nature",
     "matchedForm": "nature",
     "choices": [
-      "feature",
-      "future",
-      "natural",
-      "nature"
+      "nature",
+      "return",
+      "center",
+      "wonder"
     ],
     "meanings": "（しばしば N-）自然，性質",
     "audioKey": "pre2kyu_pass"
@@ -3047,10 +3047,10 @@
     "answer": "visitor",
     "matchedForm": "visitors",
     "choices": [
-      "visible",
-      "similar",
-      "victory",
-      "visitor"
+      "another",
+      "arrange",
+      "visitor",
+      "costume"
     ],
     "meanings": "訪問者〈to ～への〉",
     "audioKey": "pre2kyu_pass"
@@ -3080,9 +3080,9 @@
     "matchedForm": "bill",
     "choices": [
       "bill",
-      "till",
-      "ill",
-      "fill"
+      "rest",
+      "hold",
+      "even"
     ],
     "meanings": "請求書（⇔ receipt），紙幣",
     "audioKey": "pre2kyu_pass"
@@ -3095,10 +3095,10 @@
     "answer": "center",
     "matchedForm": "center",
     "choices": [
-      "central",
-      "century",
+      "expert",
       "center",
-      "enter"
+      "prefer",
+      "common"
     ],
     "meanings": "中心，センター",
     "audioKey": "pre2kyu_pass"
@@ -3111,10 +3111,10 @@
     "answer": "choice",
     "matchedForm": "choice",
     "choices": [
-      "choice",
-      "notice",
       "chance",
-      "change"
+      "advice",
+      "prefer",
+      "choice"
     ],
     "meanings": "（a ～）選択権，選択（≒ selection）",
     "audioKey": "pre2kyu_pass"
@@ -3143,10 +3143,10 @@
     "answer": "community",
     "matchedForm": "community",
     "choices": [
-      "communicate",
-      "communication",
+      "chemistry",
       "community",
-      "security"
+      "necessary",
+      "operation"
     ],
     "meanings": "コミュニティー，地域社会",
     "audioKey": "pre2kyu_pass"
@@ -3239,10 +3239,10 @@
     "answer": "director",
     "matchedForm": "director",
     "choices": [
-      "direct",
-      "ancestor",
-      "director",
-      "direction"
+      "shortage",
+      "official",
+      "distance",
+      "director"
     ],
     "meanings": "（映画の）監督，管理者",
     "audioKey": "pre2kyu_pass"
@@ -3271,10 +3271,10 @@
     "answer": "employee",
     "matchedForm": "employee",
     "choices": [
-      "employee",
-      "explorer",
-      "improve",
-      "employ"
+      "announce",
+      "backyard",
+      "medicine",
+      "employee"
     ],
     "meanings": "従業員",
     "audioKey": "pre2kyu_pass"
@@ -3287,10 +3287,10 @@
     "answer": "grade",
     "matchedForm": "grade",
     "choices": [
-      "graduate",
-      "guide",
-      "grade",
-      "trade"
+      "ma'am",
+      "actor",
+      "share",
+      "grade"
     ],
     "meanings": "成績，学年，等級",
     "audioKey": "pre2kyu_pass"
@@ -3303,10 +3303,10 @@
     "answer": "health",
     "matchedForm": "health",
     "choices": [
-      "healthy",
-      "wealth",
+      "expect",
+      "puppet",
       "health",
-      "death"
+      "nearby"
     ],
     "meanings": "健康（なこと），健康状態",
     "audioKey": "pre2kyu_pass"
@@ -3335,10 +3335,10 @@
     "answer": "neighbor",
     "matchedForm": "neighbor",
     "choices": [
-      "neighborhood",
-      "weigh",
-      "neighbor",
-      "network"
+      "surprise",
+      "decorate",
+      "employee",
+      "neighbor"
     ],
     "meanings": "隣人，近所の人",
     "audioKey": "pre2kyu_pass"
@@ -3368,9 +3368,9 @@
     "matchedForm": "performance",
     "choices": [
       "performance",
-      "importance",
-      "perform",
-      "entrance"
+      "lighthouse",
+      "earthquake",
+      "no longer ～"
     ],
     "meanings": "演技，実行",
     "audioKey": "pre2kyu_pass"
@@ -3383,10 +3383,10 @@
     "answer": "research",
     "matchedForm": "research",
     "choices": [
-      "reserve",
-      "search",
       "research",
-      "resource"
+      "industry",
+      "movement",
+      "remember"
     ],
     "meanings": "調査，研究",
     "audioKey": "pre2kyu_pass"
@@ -3399,10 +3399,10 @@
     "answer": "reservation",
     "matchedForm": "reservation",
     "choices": [
-      "presentation",
-      "reservation",
-      "generation",
-      "reserve"
+      "convenient",
+      "no longer ～",
+      "celebration",
+      "reservation"
     ],
     "meanings": "（部屋・切符などの）予約（≒ booking）",
     "audioKey": "pre2kyu_pass"
@@ -3415,10 +3415,10 @@
     "answer": "restroom",
     "matchedForm": "restroom",
     "choices": [
-      "reserve",
-      "destroy",
+      "industry",
+      "neighbor",
       "restroom",
-      "rest"
+      "graduate"
     ],
     "meanings": "（公共建物内の）トイレ，化粧室",
     "audioKey": "pre2kyu_pass"
@@ -3447,9 +3447,9 @@
     "answer": "secret",
     "matchedForm": "secret",
     "choices": [
-      "select",
-      "regret",
-      "secretly",
+      "travel",
+      "fossil",
+      "likely",
       "secret"
     ],
     "meanings": "秘密，（通例 the ～）秘訣，（通例 ～s）神秘",
@@ -3463,10 +3463,10 @@
     "answer": "statement",
     "matchedForm": "statement",
     "choices": [
-      "state",
-      "apartment",
-      "statement",
-      "statue"
+      "knowledge",
+      "dormitory",
+      "professor",
+      "statement"
     ],
     "meanings": "陳述，声明",
     "audioKey": "pre2kyu_pass"
@@ -3511,10 +3511,10 @@
     "answer": "victory",
     "matchedForm": "victory",
     "choices": [
-      "victim",
+      "husband",
+      "mistake",
       "victory",
-      "visitor",
-      "factory"
+      "develop"
     ],
     "meanings": "勝利〈over，against ～に対する〉",
     "audioKey": "pre2kyu_pass"
@@ -3527,10 +3527,10 @@
     "answer": "view",
     "matchedForm": "view",
     "choices": [
-      "diet",
-      "view",
+      "pick",
+      "wish",
       "hide",
-      "die"
+      "view"
     ],
     "meanings": "眺め，見方，（しばしば ～s）意見",
     "audioKey": "pre2kyu_pass"
@@ -3543,10 +3543,10 @@
     "answer": "activity",
     "matchedForm": "activities",
     "choices": [
-      "ability",
+      "backyard",
+      "behavior",
       "activity",
-      "charity",
-      "active"
+      "medicine"
     ],
     "meanings": "活動",
     "audioKey": "pre2kyu_pass"
@@ -3575,10 +3575,10 @@
     "answer": "advertisement",
     "matchedForm": "advertisement",
     "choices": [
-      "entertainment",
-      "apartment",
-      "advertise",
-      "advertisement"
+      "organization",
+      "along with ～",
+      "advertisement",
+      "neighborhood"
     ],
     "meanings": "広告，宣伝（＝ ad, advert）",
     "audioKey": "pre2kyu_pass"
@@ -3623,10 +3623,10 @@
     "answer": "attention",
     "matchedForm": "attention",
     "choices": [
-      "attendant",
+      "direction",
       "attention",
-      "mention",
-      "attraction"
+      "operation",
+      "assistant"
     ],
     "meanings": "注意，注目",
     "audioKey": "pre2kyu_pass"
@@ -3687,10 +3687,10 @@
     "answer": "cloth",
     "matchedForm": "cloth",
     "choices": [
-      "block",
-      "clothes",
-      "close",
-      "cloth"
+      "cloth",
+      "novel",
+      "actor",
+      "serve"
     ],
     "meanings": "布",
     "audioKey": "pre2kyu_pass"
@@ -3719,10 +3719,10 @@
     "answer": "costume",
     "matchedForm": "costume",
     "choices": [
-      "cost",
+      "average",
+      "prepare",
       "costume",
-      "confuse",
-      "mistake"
+      "improve"
     ],
     "meanings": "衣装",
     "audioKey": "pre2kyu_pass"
@@ -3735,10 +3735,10 @@
     "answer": "countryside",
     "matchedForm": "countryside",
     "choices": [
-      "outside",
+      "instruction",
+      "reservation",
       "countryside",
-      "count",
-      "consider"
+      "department"
     ],
     "meanings": "（通例 the ～）田舎，田園地帯",
     "audioKey": "pre2kyu_pass"
@@ -3751,10 +3751,10 @@
     "answer": "custom",
     "matchedForm": "custom",
     "choices": [
-      "bottom",
       "custom",
-      "cute",
-      "customer"
+      "amount",
+      "symbol",
+      "common"
     ],
     "meanings": "（社会的な）慣習，（個人の）習慣",
     "audioKey": "pre2kyu_pass"
@@ -3767,10 +3767,10 @@
     "answer": "customer",
     "matchedForm": "customers",
     "choices": [
-      "custom",
-      "costume",
       "customer",
-      "discover"
+      "Internet",
+      "ordinary",
+      "official"
     ],
     "meanings": "（商店などの）顧客",
     "audioKey": "pre2kyu_pass"
@@ -3815,10 +3815,10 @@
     "answer": "disaster",
     "matchedForm": "disasters",
     "choices": [
+      "remember",
       "disaster",
-      "disappear",
-      "visitor",
-      "discover"
+      "official",
+      "distance"
     ],
     "meanings": "災害，不幸",
     "audioKey": "pre2kyu_pass"
@@ -3879,10 +3879,10 @@
     "answer": "entertainment",
     "matchedForm": "entertainment",
     "choices": [
-      "advertisement",
-      "environment",
       "entertainment",
-      "entertain"
+      "demonstration",
+      "keep up with ～",
+      "transportation"
     ],
     "meanings": "娯楽，催し物，もてなし",
     "audioKey": "pre2kyu_pass"
@@ -3895,10 +3895,10 @@
     "answer": "environment",
     "matchedForm": "environment",
     "choices": [
-      "entertainment",
-      "environmentally",
-      "government",
-      "environment"
+      "in the past",
+      "fortunately",
+      "environment",
+      "for a while"
     ],
     "meanings": "環境",
     "audioKey": "pre2kyu_pass"
@@ -3927,10 +3927,10 @@
     "answer": "fee",
     "matchedForm": "fee",
     "choices": [
-      "feed",
+      "own",
+      "mind",
       "fee",
-      "seem",
-      "fever"
+      "lose"
     ],
     "meanings": "（～s）授業料，料金，謝礼",
     "audioKey": "pre2kyu_pass"
@@ -3943,10 +3943,10 @@
     "answer": "graduation",
     "matchedForm": "graduation",
     "choices": [
-      "graduate",
+      "conclusion",
+      "reasonable",
       "graduation",
-      "gradually",
-      "production"
+      "navigation"
     ],
     "meanings": "卒業，卒業式",
     "audioKey": "pre2kyu_pass"
@@ -3959,10 +3959,10 @@
     "answer": "grandparent",
     "matchedForm": "grandparents",
     "choices": [
-      "apartment",
+      "fortunately",
+      "successful",
       "grandparent",
-      "graduate",
-      "graduation"
+      "anniversary"
     ],
     "meanings": "祖父，祖母",
     "audioKey": "pre2kyu_pass"
@@ -3975,10 +3975,10 @@
     "answer": "homestay",
     "matchedForm": "homestay",
     "choices": [
-      "chemistry",
-      "homestay",
-      "honest",
-      "honey"
+      "sometime",
+      "employee",
+      "ceremony",
+      "homestay"
     ],
     "meanings": "ホームステイ",
     "audioKey": "pre2kyu_pass"
@@ -4120,9 +4120,9 @@
     "matchedForm": "organization",
     "choices": [
       "organization",
-      "communication",
-      "examination",
-      "organize"
+      "photographer",
+      "because of ～",
+      "unfortunately"
     ],
     "meanings": "組織，団体",
     "audioKey": "pre2kyu_pass"
@@ -4279,10 +4279,10 @@
     "answer": "transportation",
     "matchedForm": "transportation",
     "choices": [
-      "translate",
-      "transport",
       "transportation",
-      "information"
+      "had better do",
+      "be said to be ～",
+      "in spite of ～"
     ],
     "meanings": "交通［輸送］機関，輸送",
     "audioKey": "pre2kyu_pass"
@@ -4311,10 +4311,10 @@
     "answer": "another",
     "matchedForm": "another",
     "choices": [
-      "author",
-      "clothes",
-      "other",
-      "another"
+      "visitor",
+      "another",
+      "project",
+      "purpose"
     ],
     "meanings": "【形】別の，もう1つ［1人］の",
     "audioKey": "pre2kyu_pass"
@@ -4327,10 +4327,10 @@
     "answer": "different",
     "matchedForm": "different",
     "choices": [
-      "difficult",
       "different",
-      "interest",
-      "difficulty"
+      "principal",
+      "assistant",
+      "carpenter"
     ],
     "meanings": "【形】違った〈from ～と〉，いろいろな",
     "audioKey": "pre2kyu_pass"
@@ -4343,9 +4343,9 @@
     "answer": "expensive",
     "matchedForm": "expensive",
     "choices": [
-      "receive",
-      "experiment",
-      "exercise",
+      "confident",
+      "principal",
+      "knowledge",
       "expensive"
     ],
     "meanings": "【形】高価な（⇔ cheap）",
@@ -4375,10 +4375,10 @@
     "answer": "difficult",
     "matchedForm": "difficult",
     "choices": [
-      "difficulty",
-      "different",
+      "regularly",
+      "interview",
       "difficult",
-      "official"
+      "dormitory"
     ],
     "meanings": "【形】困難な（⇔ easy）",
     "audioKey": "pre2kyu_pass"
@@ -4392,9 +4392,9 @@
     "matchedForm": "close",
     "choices": [
       "close",
-      "code",
-      "cloth",
-      "lose"
+      "spend",
+      "staff",
+      "marry"
     ],
     "meanings": "【形】接近した〈to ～に〉，親密な",
     "audioKey": "pre2kyu_pass"
@@ -4407,10 +4407,10 @@
     "answer": "local",
     "matchedForm": "local",
     "choices": [
-      "locate",
-      "lock",
-      "local",
-      "global"
+      "reach",
+      "waste",
+      "solve",
+      "local"
     ],
     "meanings": "【形】地元の（⇔ national），局所の",
     "audioKey": "pre2kyu_pass"
@@ -4423,10 +4423,10 @@
     "answer": "own",
     "matchedForm": "own",
     "choices": [
-      "row",
+      "run",
       "own",
-      "win",
-      "owner"
+      "hurt",
+      "cost"
     ],
     "meanings": "【形】（one's own で）自分自身の",
     "audioKey": "pre2kyu_pass"
@@ -4455,10 +4455,10 @@
     "answer": "national",
     "matchedForm": "national",
     "choices": [
-      "nationality",
-      "national",
-      "nation",
-      "material"
+      "director",
+      "ancestor",
+      "material",
+      "national"
     ],
     "meanings": "【形】全国的な（⇔ local），国民の，国立の",
     "audioKey": "pre2kyu_pass"
@@ -4471,10 +4471,10 @@
     "answer": "following",
     "matchedForm": "following",
     "choices": [
-      "boring",
-      "full-time",
-      "follow",
-      "following"
+      "dangerous",
+      "statement",
+      "following",
+      "equipment"
     ],
     "meanings": "【形】（the ～）（その）次の，以下の",
     "audioKey": "pre2kyu_pass"
@@ -4487,10 +4487,10 @@
     "answer": "international",
     "matchedForm": "international",
     "choices": [
-      "internet",
-      "information",
+      "be tired of ～",
+      "make （a） noise",
       "international",
-      "national"
+      "transportation"
     ],
     "meanings": "【形】国際的な",
     "audioKey": "pre2kyu_pass"
@@ -4503,10 +4503,10 @@
     "answer": "special",
     "matchedForm": "special",
     "choices": [
-      "especially",
-      "special",
-      "species",
-      "specialise"
+      "nervous",
+      "husband",
+      "uniform",
+      "special"
     ],
     "meanings": "【形】特別な（⇔ general, normal）",
     "audioKey": "pre2kyu_pass"
@@ -4519,10 +4519,10 @@
     "answer": "concrete",
     "matchedForm": "concrete",
     "choices": [
-      "increase",
+      "customer",
       "concrete",
-      "concern",
-      "compete"
+      "accident",
+      "distance"
     ],
     "meanings": "【形】具体的な，コンクリート製の",
     "audioKey": "pre2kyu_pass"
@@ -4535,10 +4535,10 @@
     "answer": "dangerous",
     "matchedForm": "dangerous",
     "choices": [
+      "furniture",
+      "emergency",
       "dangerous",
-      "nervous",
-      "danger",
-      "delicious"
+      "condition"
     ],
     "meanings": "【形】危険な（⇔ safe）",
     "audioKey": "pre2kyu_pass"
@@ -4567,10 +4567,10 @@
     "answer": "natural",
     "matchedForm": "natural",
     "choices": [
-      "nature",
-      "naturally",
-      "material",
-      "natural"
+      "produce",
+      "natural",
+      "similar",
+      "through"
     ],
     "meanings": "【形】自然の，当然の，生まれつきの",
     "audioKey": "pre2kyu_pass"
@@ -4583,10 +4583,10 @@
     "answer": "noisy",
     "matchedForm": "noisy",
     "choices": [
-      "join",
-      "noisy",
+      "smell",
       "novel",
-      "noise"
+      "route",
+      "noisy"
     ],
     "meanings": "【形】騒々しい（⇔ quiet）",
     "audioKey": "pre2kyu_pass"
@@ -4631,10 +4631,10 @@
     "answer": "unusual",
     "matchedForm": "unusual",
     "choices": [
-      "unique",
-      "usual",
-      "unusual",
-      "as usual"
+      "clothes",
+      "reserve",
+      "luckily",
+      "unusual"
     ],
     "meanings": "【形】異常な，普通でない（⇔ usual）",
     "audioKey": "pre2kyu_pass"
@@ -4647,10 +4647,10 @@
     "answer": "common",
     "matchedForm": "common",
     "choices": [
-      "combine",
-      "borrow",
-      "common",
-      "community"
+      "fossil",
+      "arrive",
+      "choice",
+      "common"
     ],
     "meanings": "【形】共通の，普通の",
     "audioKey": "pre2kyu_pass"
@@ -4663,9 +4663,9 @@
     "answer": "friendly",
     "matchedForm": "friendly",
     "choices": [
-      "frankly",
-      "unfriendly",
-      "freedom",
+      "continue",
+      "ancestor",
+      "discover",
       "friendly"
     ],
     "meanings": "【形】友好的な，人なつっこい（⇔ unfriendly）",
@@ -4727,10 +4727,10 @@
     "answer": "delicious",
     "matchedForm": "delicious",
     "choices": [
-      "delicate",
-      "delicious",
-      "delighted",
-      "serious"
+      "agreement",
+      "microwave",
+      "operation",
+      "delicious"
     ],
     "meanings": "【形】おいしい",
     "audioKey": "pre2kyu_pass"
@@ -4791,10 +4791,10 @@
     "answer": "careful",
     "matchedForm": "careful",
     "choices": [
+      "receive",
       "careful",
-      "care",
-      "cheerful",
-      "harmful"
+      "similar",
+      "reserve"
     ],
     "meanings": "【形】注意深い（⇔ careless）",
     "audioKey": "pre2kyu_pass"
@@ -4855,10 +4855,10 @@
     "answer": "familiar",
     "matchedForm": "familiar",
     "choices": [
-      "fail",
-      "similar",
-      "familiar",
-      "failure"
+      "engineer",
+      "official",
+      "ancestor",
+      "familiar"
     ],
     "meanings": "【形】精通して〈with ～に〉，よく知られた〈to ～に〉（⇔ strange）",
     "audioKey": "pre2kyu_pass"
@@ -4903,10 +4903,10 @@
     "answer": "main",
     "matchedForm": "main",
     "choices": [
-      "maid",
+      "calm",
       "main",
-      "gain",
-      "mainly"
+      "army",
+      "seem"
     ],
     "meanings": "【形】主な（≒ chief）",
     "audioKey": "pre2kyu_pass"
@@ -4919,10 +4919,10 @@
     "answer": "nearby",
     "matchedForm": "nearby",
     "choices": [
-      "search",
+      "expect",
       "nearby",
-      "nearly",
-      "bear"
+      "amount",
+      "nature"
     ],
     "meanings": "【形】近くの",
     "audioKey": "pre2kyu_pass"
@@ -4935,10 +4935,10 @@
     "answer": "necessary",
     "matchedForm": "necessary",
     "choices": [
-      "necessarily",
-      "necessity",
+      "afterward",
       "necessary",
-      "anniversary"
+      "microwave",
+      "gradually"
     ],
     "meanings": "【形】必要な",
     "audioKey": "pre2kyu_pass"
@@ -4951,10 +4951,10 @@
     "answer": "official",
     "matchedForm": "official",
     "choices": [
-      "special",
-      "officer",
       "official",
-      "original"
+      "exercise",
+      "explorer",
+      "portable"
     ],
     "meanings": "【形】公式の，正式の，職務上の（⇔ unofficial）",
     "audioKey": "pre2kyu_pass"
@@ -4983,10 +4983,10 @@
     "answer": "private",
     "matchedForm": "private",
     "choices": [
-      "climate",
-      "privacy",
-      "prepare",
-      "private"
+      "clothes",
+      "million",
+      "private",
+      "finally"
     ],
     "meanings": "【形】個人的な（≒ personal），私有の，私立の（⇔ public）",
     "audioKey": "pre2kyu_pass"
@@ -4999,10 +4999,10 @@
     "answer": "quiet",
     "matchedForm": "quiet",
     "choices": [
-      "quite",
-      "quiet",
-      "diet",
-      "quit"
+      "solve",
+      "coach",
+      "guess",
+      "quiet"
     ],
     "meanings": "【形】静かな（⇔ noisy）",
     "audioKey": "pre2kyu_pass"
@@ -5079,10 +5079,10 @@
     "answer": "final",
     "matchedForm": "final",
     "choices": [
-      "signal",
-      "finally",
-      "fill",
-      "final"
+      "final",
+      "owner",
+      "reply",
+      "trade"
     ],
     "meanings": "【形】最後の",
     "audioKey": "pre2kyu_pass"
@@ -5095,10 +5095,10 @@
     "answer": "honest",
     "matchedForm": "honest",
     "choices": [
-      "honey",
       "honest",
-      "moment",
-      "honor"
+      "middle",
+      "lonely",
+      "plenty"
     ],
     "meanings": "【形】正直な（⇔ dishonest）",
     "audioKey": "pre2kyu_pass"
@@ -5127,10 +5127,10 @@
     "answer": "normal",
     "matchedForm": "normal",
     "choices": [
+      "search",
       "normal",
-      "normally",
-      "novel",
-      "formal"
+      "arrive",
+      "health"
     ],
     "meanings": "【形】普通の，標準の（⇔ special）",
     "audioKey": "pre2kyu_pass"
@@ -5159,10 +5159,10 @@
     "answer": "public",
     "matchedForm": "public",
     "choices": [
+      "avenue",
       "public",
-      "pull",
-      "build",
-      "publish"
+      "follow",
+      "prefer"
     ],
     "meanings": "【形】公共の，公立の（⇔ private）",
     "audioKey": "pre2kyu_pass"
@@ -5175,10 +5175,10 @@
     "answer": "recent",
     "matchedForm": "recent",
     "choices": [
-      "event",
-      "receipt",
       "recent",
-      "recently"
+      "method",
+      "corner",
+      "plenty"
     ],
     "meanings": "【形】最近の",
     "audioKey": "pre2kyu_pass"
@@ -5191,10 +5191,10 @@
     "answer": "successful",
     "matchedForm": "successful",
     "choices": [
-      "success",
       "successful",
-      "cheerful",
-      "stressful"
+      "electronic",
+      "experiment",
+      "conference"
     ],
     "meanings": "【形】成功した〈in ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -5239,10 +5239,10 @@
     "answer": "boring",
     "matchedForm": "boring",
     "choices": [
-      "swing",
-      "boring",
-      "borrow",
-      "ring"
+      "symbol",
+      "report",
+      "degree",
+      "boring"
     ],
     "meanings": "【形】退屈な（⇔ interesting）",
     "audioKey": "pre2kyu_pass"
@@ -5287,10 +5287,10 @@
     "answer": "convenient",
     "matchedForm": "convenient",
     "choices": [
+      "get better",
       "convenient",
-      "confident",
-      "government",
-      "convenience"
+      "population",
+      "literature"
     ],
     "meanings": "【形】便利な",
     "audioKey": "pre2kyu_pass"
@@ -5352,9 +5352,9 @@
     "matchedForm": "even",
     "choices": [
       "even",
-      "event",
-      "level",
-      "earn"
+      "fact",
+      "sail",
+      "wait"
     ],
     "meanings": "【副】～でさえ，（比較級を強調して）さらに（≒ still, yet）",
     "audioKey": "pre2kyu_pass"
@@ -5367,10 +5367,10 @@
     "answer": "later",
     "matchedForm": "later",
     "choices": [
-      "lately",
-      "plate",
-      "lawyer",
-      "later"
+      "agree",
+      "enter",
+      "later",
+      "order"
     ],
     "meanings": "【副】後で（≒ afterward），もっと遅く",
     "audioKey": "pre2kyu_pass"
@@ -5383,10 +5383,10 @@
     "answer": "instead",
     "matchedForm": "instead",
     "choices": [
-      "instant",
+      "unusual",
       "instead",
-      "steady",
-      "insect"
+      "anymore",
+      "dessert"
     ],
     "meanings": "【副】その代わりに",
     "audioKey": "pre2kyu_pass"
@@ -5447,10 +5447,10 @@
     "answer": "recently",
     "matchedForm": "recently",
     "choices": [
-      "receive",
       "recently",
-      "recent",
-      "secretly"
+      "industry",
+      "announce",
+      "disaster"
     ],
     "meanings": "【副】最近，近ごろ（≒ lately）",
     "audioKey": "pre2kyu_pass"
@@ -5463,10 +5463,10 @@
     "answer": "though",
     "matchedForm": "though",
     "choices": [
+      "effort",
       "though",
-      "rough",
-      "through",
-      "thought"
+      "return",
+      "forget"
     ],
     "meanings": "【副】でも，やっぱり",
     "audioKey": "pre2kyu_pass"
@@ -5479,10 +5479,10 @@
     "answer": "far",
     "matchedForm": "far",
     "choices": [
-      "war",
-      "fare",
-      "far",
-      "fat"
+      "lend",
+      "wake",
+      "fit",
+      "far"
     ],
     "meanings": "【副】（距離が）遠くに（⇔ near），（時間が）はるかに",
     "audioKey": "pre2kyu_pass"
@@ -5543,10 +5543,10 @@
     "answer": "probably",
     "matchedForm": "probably",
     "choices": [
-      "totally",
-      "properly",
       "probably",
-      "property"
+      "Internet",
+      "remember",
+      "backyard"
     ],
     "meanings": "【副】たぶん",
     "audioKey": "pre2kyu_pass"
@@ -5559,10 +5559,10 @@
     "answer": "finally",
     "matchedForm": "finally",
     "choices": [
+      "collect",
+      "average",
       "finally",
-      "fill",
-      "equally",
-      "final"
+      "develop"
     ],
     "meanings": "【副】ついに（≒ at last），最後に",
     "audioKey": "pre2kyu_pass"
@@ -5576,9 +5576,9 @@
     "matchedForm": "luckily",
     "choices": [
       "luckily",
-      "quickly",
-      "likely",
-      "luck"
+      "control",
+      "dessert",
+      "network"
     ],
     "meanings": "【副】運良く",
     "audioKey": "pre2kyu_pass"
@@ -5592,9 +5592,9 @@
     "matchedForm": "nearly",
     "choices": [
       "nearly",
-      "greatly",
-      "search",
-      "nearby"
+      "choice",
+      "invite",
+      "common"
     ],
     "meanings": "【副】ほとんど（≒ almost）",
     "audioKey": "pre2kyu_pass"
@@ -5607,10 +5607,10 @@
     "answer": "sometime",
     "matchedForm": "sometime",
     "choices": [
-      "sometime",
-      "somewhere",
-      "lifetime",
-      "on time"
+      "friendly",
+      "employee",
+      "explorer",
+      "sometime"
     ],
     "meanings": "（未来の）いつか，（過去の）ある時，かつて",
     "audioKey": "pre2kyu_pass"
@@ -5624,9 +5624,9 @@
     "matchedForm": "inside",
     "choices": [
       "inside",
-      "insist",
-      "divide",
-      "invite"
+      "common",
+      "belong",
+      "lonely"
     ],
     "meanings": "屋内に［で］，内側に［で］（⇔ outside）",
     "audioKey": "pre2kyu_pass"
@@ -5735,10 +5735,10 @@
     "answer": "quite",
     "matchedForm": "quite",
     "choices": [
-      "guide",
-      "quite",
-      "quit",
-      "quiet"
+      "solve",
+      "allow",
+      "spell",
+      "quite"
     ],
     "meanings": "とても，かなり，全く",
     "audioKey": "pre2kyu_pass"
@@ -5751,10 +5751,10 @@
     "answer": "regularly",
     "matchedForm": "regularly",
     "choices": [
-      "regret",
-      "regular",
-      "equally",
-      "regularly"
+      "regularly",
+      "confident",
+      "crocodile",
+      "different"
     ],
     "meanings": "定期的に，規則正しく",
     "audioKey": "pre2kyu_pass"
@@ -5799,10 +5799,10 @@
     "answer": "completely",
     "matchedForm": "completely",
     "choices": [
-      "complain",
+      "decoration",
       "completely",
-      "lately",
-      "compete"
+      "commercial",
+      "popularity"
     ],
     "meanings": "完全に",
     "audioKey": "pre2kyu_pass"
@@ -5815,10 +5815,10 @@
     "answer": "gradually",
     "matchedForm": "gradually",
     "choices": [
-      "naturally",
-      "gradually",
-      "graduate",
-      "graduation"
+      "miniature",
+      "disappear",
+      "delicious",
+      "gradually"
     ],
     "meanings": "徐々に（≒ little by little）",
     "audioKey": "pre2kyu_pass"
@@ -5847,10 +5847,10 @@
     "answer": "although",
     "matchedForm": "Although",
     "choices": [
-      "though",
-      "through",
-      "author",
-      "although"
+      "although",
+      "moreover",
+      "approach",
+      "graduate"
     ],
     "meanings": "...だけれども（≒ though）",
     "audioKey": "pre2kyu_pass"
@@ -5863,10 +5863,10 @@
     "answer": "through",
     "matchedForm": "through",
     "choices": [
-      "though",
       "through",
-      "rough",
-      "throughout"
+      "nervous",
+      "against",
+      "correct"
     ],
     "meanings": "～を通って，～を通じて，～中ずっと",
     "audioKey": "pre2kyu_pass"
@@ -5895,10 +5895,10 @@
     "answer": "below",
     "matchedForm": "below",
     "choices": [
+      "solve",
+      "check",
       "below",
-      "belong",
-      "allow",
-      "blow"
+      "guide"
     ],
     "meanings": "～より下に（⇔ above）",
     "audioKey": "pre2kyu_pass"
@@ -5927,10 +5927,10 @@
     "answer": "throughout",
     "matchedForm": "throughout",
     "choices": [
-      "thought",
-      "through",
-      "rough",
-      "throughout"
+      "throughout",
+      "by mistake",
+      "downstairs",
+      "literature"
     ],
     "meanings": "（時について）～の間ずっと，（場所について）～の至るところに",
     "audioKey": "pre2kyu_pass"
@@ -5943,10 +5943,10 @@
     "answer": "unlike",
     "matchedForm": "Unlike",
     "choices": [
-      "alike",
-      "unlikely",
+      "symbol",
       "unlike",
-      "unite"
+      "custom",
+      "invite"
     ],
     "meanings": "～と異なって，～らしくない",
     "audioKey": "pre2kyu_pass"
@@ -5959,10 +5959,10 @@
     "answer": "within",
     "matchedForm": "within",
     "choices": [
+      "borrow",
       "within",
-      "width",
-      "thin",
-      "widen"
+      "enough",
+      "belong"
     ],
     "meanings": "～以内で［に］",
     "audioKey": "pre2kyu_pass"
@@ -5975,10 +5975,10 @@
     "answer": "accept",
     "matchedForm": "accept",
     "choices": [
-      "accident",
+      "plenty",
+      "expert",
       "accept",
-      "access",
-      "except"
+      "moment"
     ],
     "meanings": "を受け入れる（⇔ reject），を受け取る",
     "audioKey": "pre2kyu_pass"
@@ -6023,9 +6023,9 @@
     "answer": "control",
     "matchedForm": "control",
     "choices": [
-      "borrow",
-      "central",
-      "contain",
+      "correct",
+      "visitor",
+      "project",
       "control"
     ],
     "meanings": "を管理する，を支配する，を制御する",
@@ -6039,10 +6039,10 @@
     "answer": "deliver",
     "matchedForm": "deliver",
     "choices": [
-      "belief",
-      "delivery",
+      "purpose",
+      "recover",
       "deliver",
-      "decide"
+      "finally"
     ],
     "meanings": "（を）配達する",
     "audioKey": "pre2kyu_pass"
@@ -6071,10 +6071,10 @@
     "answer": "disappear",
     "matchedForm": "disappear",
     "choices": [
-      "disappoint",
-      "disaster",
-      "disappear",
-      "appear"
+      "agreement",
+      "dormitory",
+      "afterward",
+      "disappear"
     ],
     "meanings": "姿を消す（⇔ appear），消息を絶つ",
     "audioKey": "pre2kyu_pass"
@@ -6087,10 +6087,10 @@
     "answer": "disappoint",
     "matchedForm": "disappointed",
     "choices": [
-      "discount",
+      "psychology",
+      "navigation",
       "disappoint",
-      "support",
-      "disappear"
+      "unfriendly"
     ],
     "meanings": "（受身形で）失望する〈with ～に〉，を失望させる",
     "audioKey": "pre2kyu_pass"
@@ -6119,10 +6119,10 @@
     "answer": "explain",
     "matchedForm": "explain",
     "choices": [
-      "plain",
-      "explain",
-      "expand",
-      "explore"
+      "receive",
+      "similar",
+      "visitor",
+      "explain"
     ],
     "meanings": "（を）説明する〈to ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -6231,10 +6231,10 @@
     "answer": "imagine",
     "matchedForm": "imagine",
     "choices": [
-      "image",
       "imagine",
-      "imagination",
-      "examine"
+      "service",
+      "quality",
+      "receive"
     ],
     "meanings": "（を）想像する",
     "audioKey": "pre2kyu_pass"
@@ -6311,10 +6311,10 @@
     "answer": "organize",
     "matchedForm": "organize",
     "choices": [
-      "ordinary",
-      "realize",
-      "organize",
-      "organization"
+      "industry",
+      "Internet",
+      "practice",
+      "organize"
     ],
     "meanings": "を主催する，を組織する",
     "audioKey": "pre2kyu_pass"
@@ -6327,10 +6327,10 @@
     "answer": "paint",
     "matchedForm": "paint",
     "choices": [
-      "paint",
-      "plain",
-      "pain",
-      "wait"
+      "dress",
+      "offer",
+      "cause",
+      "paint"
     ],
     "meanings": "にペンキを塗る，の絵を描く",
     "audioKey": "pre2kyu_pass"
@@ -6359,10 +6359,10 @@
     "answer": "publish",
     "matchedForm": "publish",
     "choices": [
-      "punish",
       "publish",
-      "sunlight",
-      "public"
+      "average",
+      "victory",
+      "visitor"
     ],
     "meanings": "を出版する",
     "audioKey": "pre2kyu_pass"
@@ -6375,10 +6375,10 @@
     "answer": "quit",
     "matchedForm": "quit",
     "choices": [
-      "wait",
+      "join",
       "quit",
-      "quiet",
-      "quite"
+      "wake",
+      "copy"
     ],
     "meanings": "（を）やめる〈doing ～すること〉",
     "audioKey": "pre2kyu_pass"
@@ -6391,10 +6391,10 @@
     "answer": "recognize",
     "matchedForm": "recognize",
     "choices": [
+      "disappear",
+      "emergency",
       "recognize",
-      "recommend",
-      "memorize",
-      "receive"
+      "president"
     ],
     "meanings": "（～を見て［聞いて］）それと分かる，を認識する，を認める",
     "audioKey": "pre2kyu_pass"
@@ -6439,10 +6439,10 @@
     "answer": "sail",
     "matchedForm": "sail",
     "choices": [
-      "fail",
-      "sailor",
+      "feed",
+      "mind",
       "sail",
-      "soil"
+      "sale"
     ],
     "meanings": "航海する",
     "audioKey": "pre2kyu_pass"
@@ -6471,10 +6471,10 @@
     "answer": "stress",
     "matchedForm": "stressed",
     "choices": [
+      "borrow",
       "stress",
-      "stressful",
-      "stretch",
-      "dress"
+      "travel",
+      "repair"
     ],
     "meanings": "（受身形で）ストレスがたまっている",
     "audioKey": "pre2kyu_pass"
@@ -6487,10 +6487,10 @@
     "answer": "support",
     "matchedForm": "support",
     "choices": [
+      "service",
       "support",
-      "superior",
-      "supply",
-      "report"
+      "network",
+      "improve"
     ],
     "meanings": "を支持する（≒ back up），を支える",
     "audioKey": "pre2kyu_pass"
@@ -6551,10 +6551,10 @@
     "answer": "warn",
     "matchedForm": "warned",
     "choices": [
-      "war",
-      "earn",
+      "save",
+      "cute",
       "warn",
-      "wait"
+      "meal"
     ],
     "meanings": "に警告する〈of ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -6567,10 +6567,10 @@
     "answer": "weigh",
     "matchedForm": "weighs",
     "choices": [
-      "weight",
-      "height",
-      "weigh",
-      "wish"
+      "carry",
+      "dress",
+      "climb",
+      "weigh"
     ],
     "meanings": "の重さがある，の重さを量る",
     "audioKey": "pre2kyu_pass"
@@ -6599,10 +6599,10 @@
     "answer": "access",
     "matchedForm": "access",
     "choices": [
-      "arrest",
-      "success",
-      "accept",
-      "access"
+      "happen",
+      "access",
+      "wonder",
+      "appear"
     ],
     "meanings": "にアクセスする，に近づく",
     "audioKey": "pre2kyu_pass"
@@ -6615,10 +6615,10 @@
     "answer": "achieve",
     "matchedForm": "achieve",
     "choices": [
+      "several",
+      "network",
       "achieve",
-      "active",
-      "achievement",
-      "receive"
+      "unusual"
     ],
     "meanings": "を達成する，を成し遂げる",
     "audioKey": "pre2kyu_pass"
@@ -6647,10 +6647,10 @@
     "answer": "attend",
     "matchedForm": "attend",
     "choices": [
+      "search",
       "attend",
-      "tend",
-      "attack",
-      "attendant"
+      "expert",
+      "desert"
     ],
     "meanings": "（に）出席する，の世話をする",
     "audioKey": "pre2kyu_pass"
@@ -6679,10 +6679,10 @@
     "answer": "block",
     "matchedForm": "blocked",
     "choices": [
-      "rock",
-      "lock",
+      "cloth",
       "block",
-      "blow"
+      "carry",
+      "cheer"
     ],
     "meanings": "を邪魔する，をふさぐ",
     "audioKey": "pre2kyu_pass"
@@ -6711,10 +6711,10 @@
     "answer": "compare",
     "matchedForm": "compare",
     "choices": [
-      "compete",
       "compare",
-      "complain",
-      "prepare"
+      "traffic",
+      "receive",
+      "mistake"
     ],
     "meanings": "を比較する〈with ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -6743,10 +6743,10 @@
     "answer": "decorate",
     "matchedForm": "decorated",
     "choices": [
+      "national",
+      "shortage",
       "decorate",
-      "decrease",
-      "separate",
-      "decoration"
+      "memorize"
     ],
     "meanings": "を飾る〈with ～で〉",
     "audioKey": "pre2kyu_pass"
@@ -6791,10 +6791,10 @@
     "answer": "dig",
     "matchedForm": "dig",
     "choices": [
+      "wait",
+      "bear",
       "dig",
-      "die",
-      "win",
-      "diet"
+      "war"
     ],
     "meanings": "を掘る",
     "audioKey": "pre2kyu_pass"
@@ -6807,10 +6807,10 @@
     "answer": "discover",
     "matchedForm": "discover",
     "choices": [
+      "actually",
+      "forecast",
       "discover",
-      "discovery",
-      "discount",
-      "recover"
+      "dinosaur"
     ],
     "meanings": "を発見する（≒ find out）",
     "audioKey": "pre2kyu_pass"
@@ -6823,10 +6823,10 @@
     "answer": "discuss",
     "matchedForm": "discuss",
     "choices": [
-      "success",
       "discuss",
-      "discount",
-      "disease"
+      "develop",
+      "several",
+      "million"
     ],
     "meanings": "について議論する",
     "audioKey": "pre2kyu_pass"
@@ -6839,10 +6839,10 @@
     "answer": "draw",
     "matchedForm": "draw",
     "choices": [
-      "raw",
+      "lose",
+      "mind",
       "draw",
-      "dead",
-      "trap"
+      "feed"
     ],
     "meanings": "を描く，を引く",
     "audioKey": "pre2kyu_pass"
@@ -6871,10 +6871,10 @@
     "answer": "exhibit",
     "matchedForm": "exhibit",
     "choices": [
-      "exist",
-      "exhibition",
-      "habit",
-      "exhibit"
+      "another",
+      "exhibit",
+      "control",
+      "dessert"
     ],
     "meanings": "を展示する",
     "audioKey": "pre2kyu_pass"
@@ -6919,10 +6919,10 @@
     "answer": "forgive",
     "matchedForm": "forgive",
     "choices": [
-      "forget",
       "forgive",
-      "survive",
-      "foreign"
+      "anymore",
+      "address",
+      "prepare"
     ],
     "meanings": "（人・罪など）を許す",
     "audioKey": "pre2kyu_pass"
@@ -6935,9 +6935,9 @@
     "answer": "freeze",
     "matchedForm": "freeze",
     "choices": [
-      "create",
-      "fresh",
-      "freedom",
+      "plenty",
+      "result",
+      "borrow",
       "freeze"
     ],
     "meanings": "凍る，を凍らせる",
@@ -6983,9 +6983,9 @@
     "answer": "impress",
     "matchedForm": "impressed",
     "choices": [
-      "press",
-      "improve",
-      "express",
+      "similar",
+      "develop",
+      "natural",
       "impress"
     ],
     "meanings": "（受身形で）感心する，感銘を受ける〈with, by ～に〉，に（良い）印象を与える",
@@ -7047,10 +7047,10 @@
     "answer": "locate",
     "matchedForm": "located",
     "choices": [
-      "location",
+      "puppet",
+      "enough",
       "locate",
-      "voyage",
-      "local"
+      "custom"
     ],
     "meanings": "（受身形で）位置する，を配置する，を設ける",
     "audioKey": "pre2kyu_pass"
@@ -7079,10 +7079,10 @@
     "answer": "memorize",
     "matchedForm": "memorize",
     "choices": [
-      "medicine",
       "memorize",
-      "memory",
-      "recognize"
+      "neighbor",
+      "customer",
+      "employee"
     ],
     "meanings": "を暗記する，を記憶する（≒ learn ～ by heart）",
     "audioKey": "pre2kyu_pass"
@@ -7127,10 +7127,10 @@
     "answer": "press",
     "matchedForm": "Press",
     "choices": [
-      "pretty",
       "press",
-      "pressure",
-      "dress"
+      "build",
+      "cheer",
+      "relax"
     ],
     "meanings": "（を）押す，（に）アイロンをかける",
     "audioKey": "pre2kyu_pass"
@@ -7143,10 +7143,10 @@
     "answer": "prevent",
     "matchedForm": "prevent",
     "choices": [
-      "pretend",
-      "event",
+      "similar",
+      "project",
       "prevent",
-      "recent"
+      "address"
     ],
     "meanings": "を防ぐ，を妨げる",
     "audioKey": "pre2kyu_pass"
@@ -7159,10 +7159,10 @@
     "answer": "provide",
     "matchedForm": "provide",
     "choices": [
-      "prove",
-      "promise",
+      "reserve",
+      "article",
       "provide",
-      "divide"
+      "luckily"
     ],
     "meanings": "に供給する〈with ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -7207,10 +7207,10 @@
     "answer": "recycle",
     "matchedForm": "recycle",
     "choices": [
-      "recycle",
-      "cycle",
-      "receive",
-      "recipe"
+      "trouble",
+      "instead",
+      "private",
+      "recycle"
     ],
     "meanings": "（を）再生利用する",
     "audioKey": "pre2kyu_pass"
@@ -7239,10 +7239,10 @@
     "answer": "remove",
     "matchedForm": "remove",
     "choices": [
-      "recover",
-      "move",
-      "remove",
-      "remain"
+      "appear",
+      "cancel",
+      "follow",
+      "remove"
     ],
     "meanings": "を取り除く，を移動させる",
     "audioKey": "pre2kyu_pass"
@@ -7271,10 +7271,10 @@
     "answer": "replace",
     "matchedForm": "replace",
     "choices": [
-      "reply",
+      "control",
+      "natural",
       "replace",
-      "repair",
-      "prepare"
+      "average"
     ],
     "meanings": "を取り換える〈with ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -7287,10 +7287,10 @@
     "answer": "require",
     "matchedForm": "require",
     "choices": [
-      "request",
-      "square",
-      "retire",
-      "require"
+      "anymore",
+      "project",
+      "require",
+      "husband"
     ],
     "meanings": "を必要とする",
     "audioKey": "pre2kyu_pass"
@@ -7383,10 +7383,10 @@
     "answer": "suggest",
     "matchedForm": "suggest",
     "choices": [
-      "suggestion",
-      "guest",
-      "suggest",
-      "success"
+      "ancient",
+      "service",
+      "shelter",
+      "suggest"
     ],
     "meanings": "を提案する〈doing ～すること〉，を暗示する",
     "audioKey": "pre2kyu_pass"
@@ -7495,10 +7495,10 @@
     "answer": "act",
     "matchedForm": "act",
     "choices": [
-      "add",
-      "actor",
+      "hit",
+      "dig",
       "act",
-      "fact"
+      "join"
     ],
     "meanings": "（を）演じる，行動する",
     "audioKey": "pre2kyu_pass"
@@ -7527,10 +7527,10 @@
     "answer": "advertise",
     "matchedForm": "advertise",
     "choices": [
-      "otherwise",
-      "adventure",
-      "advertisement",
-      "advertise"
+      "expensive",
+      "miniature",
+      "advertise",
+      "advantage"
     ],
     "meanings": "（を）宣伝する",
     "audioKey": "pre2kyu_pass"
@@ -7575,10 +7575,10 @@
     "answer": "apologize",
     "matchedForm": "apologize",
     "choices": [
-      "police",
+      "professor",
       "apologize",
-      "recognize",
-      "polite"
+      "advertise",
+      "gradually"
     ],
     "meanings": "謝る〈to ～に，for ～のことで〉",
     "audioKey": "pre2kyu_pass"
@@ -7623,10 +7623,10 @@
     "answer": "argue",
     "matchedForm": "argue",
     "choices": [
-      "arrive",
-      "argument",
-      "true",
-      "argue"
+      "argue",
+      "relax",
+      "grade",
+      "upset"
     ],
     "meanings": "と主張する，言い争う",
     "audioKey": "pre2kyu_pass"
@@ -7639,10 +7639,10 @@
     "answer": "attract",
     "matchedForm": "attracts",
     "choices": [
-      "attack",
+      "instead",
+      "recover",
       "attract",
-      "strict",
-      "attraction"
+      "clothes"
     ],
     "meanings": "（受身形で）魅了される〈to, by ～に〉，の心をとらえる，（注意・興味など）を引く",
     "audioKey": "pre2kyu_pass"
@@ -7687,10 +7687,10 @@
     "answer": "behave",
     "matchedForm": "behave",
     "choices": [
-      "leave",
-      "behind",
-      "behavior",
-      "behave"
+      "arrive",
+      "moment",
+      "behave",
+      "advice"
     ],
     "meanings": "振る舞う，行動する",
     "audioKey": "pre2kyu_pass"
@@ -7831,10 +7831,10 @@
     "answer": "climate",
     "matchedForm": "climate",
     "choices": [
-      "climb",
-      "private",
-      "create",
-      "climate"
+      "perform",
+      "instead",
+      "climate",
+      "trouble"
     ],
     "meanings": "気候",
     "audioKey": "pre2kyu_pass"
@@ -7863,10 +7863,10 @@
     "answer": "commercial",
     "matchedForm": "commercials",
     "choices": [
-      "communicate",
-      "material",
+      "generation",
+      "atmosphere",
       "commercial",
-      "community"
+      "attraction"
     ],
     "meanings": "コマーシャル",
     "audioKey": "pre2kyu_pass"
@@ -7879,10 +7879,10 @@
     "answer": "credit",
     "matchedForm": "credit",
     "choices": [
-      "creation",
-      "treat",
+      "future",
       "credit",
-      "create"
+      "bright",
+      "lonely"
     ],
     "meanings": "クレジット，信用",
     "audioKey": "pre2kyu_pass"
@@ -7895,10 +7895,10 @@
     "answer": "decoration",
     "matchedForm": "decorations",
     "choices": [
-      "demonstration",
+      "literature",
       "decoration",
-      "generation",
-      "decorate"
+      "by mistake",
+      "especially"
     ],
     "meanings": "飾り，装飾",
     "audioKey": "pre2kyu_pass"
@@ -7927,10 +7927,10 @@
     "answer": "exhibition",
     "matchedForm": "exhibition",
     "choices": [
-      "navigation",
-      "exhibit",
-      "exhibition",
-      "examination"
+      "completely",
+      "government",
+      "experiment",
+      "exhibition"
     ],
     "meanings": "展覧会，展示会",
     "audioKey": "pre2kyu_pass"
@@ -7943,10 +7943,10 @@
     "answer": "experiment",
     "matchedForm": "experiment",
     "choices": [
-      "experience",
-      "experiment",
-      "government",
-      "expert"
+      "successful",
+      "electronic",
+      "importance",
+      "experiment"
     ],
     "meanings": "実験〈on ～の〉",
     "audioKey": "pre2kyu_pass"
@@ -7959,10 +7959,10 @@
     "answer": "factory",
     "matchedForm": "factory",
     "choices": [
-      "fact",
-      "factor",
+      "vehicle",
       "factory",
-      "victory"
+      "however",
+      "contain"
     ],
     "meanings": "工場",
     "audioKey": "pre2kyu_pass"
@@ -7975,10 +7975,10 @@
     "answer": "freedom",
     "matchedForm": "freedom",
     "choices": [
+      "quality",
+      "develop",
       "freedom",
-      "seldom",
-      "feed",
-      "freeze"
+      "tourist"
     ],
     "meanings": "自由（≒ liberty）",
     "audioKey": "pre2kyu_pass"
@@ -7991,9 +7991,9 @@
     "answer": "height",
     "matchedForm": "height",
     "choices": [
-      "flight",
-      "weight",
-      "weigh",
+      "middle",
+      "advise",
+      "center",
       "height"
     ],
     "meanings": "高さ",
@@ -8023,10 +8023,10 @@
     "answer": "image",
     "matchedForm": "image",
     "choices": [
-      "male",
-      "damage",
+      "share",
       "image",
-      "imagine"
+      "actor",
+      "agree"
     ],
     "meanings": "イメージ，映像，肖像",
     "audioKey": "pre2kyu_pass"
@@ -8071,10 +8071,10 @@
     "answer": "knowledge",
     "matchedForm": "knowledge",
     "choices": [
-      "edge",
-      "include",
-      "however",
-      "knowledge"
+      "adventure",
+      "knowledge",
+      "statement",
+      "delicious"
     ],
     "meanings": "知識",
     "audioKey": "pre2kyu_pass"
@@ -8103,10 +8103,10 @@
     "answer": "medicine",
     "matchedForm": "medicine",
     "choices": [
-      "delicate",
+      "ancestor",
       "medicine",
-      "media",
-      "medium"
+      "forecast",
+      "although"
     ],
     "meanings": "薬，医学",
     "audioKey": "pre2kyu_pass"
@@ -8119,10 +8119,10 @@
     "answer": "memory",
     "matchedForm": "memory",
     "choices": [
-      "memory",
-      "memorize",
-      "report",
-      "method"
+      "repair",
+      "center",
+      "amount",
+      "memory"
     ],
     "meanings": "思い出，記憶力",
     "audioKey": "pre2kyu_pass"
@@ -8135,10 +8135,10 @@
     "answer": "noise",
     "matchedForm": "noise",
     "choices": [
-      "raise",
-      "notice",
       "noise",
-      "noisy"
+      "actor",
+      "event",
+      "mayor"
     ],
     "meanings": "騒音",
     "audioKey": "pre2kyu_pass"
@@ -8167,10 +8167,10 @@
     "answer": "police",
     "matchedForm": "police",
     "choices": [
-      "policy",
-      "notice",
-      "polite",
-      "police"
+      "plenty",
+      "police",
+      "fossil",
+      "follow"
     ],
     "meanings": "（the ～）警察",
     "audioKey": "pre2kyu_pass"
@@ -8215,10 +8215,10 @@
     "answer": "success",
     "matchedForm": "success",
     "choices": [
-      "succeed",
-      "successful",
-      "access",
-      "success"
+      "century",
+      "success",
+      "private",
+      "dentist"
     ],
     "meanings": "成功（⇔ failure）",
     "audioKey": "pre2kyu_pass"
@@ -8247,10 +8247,10 @@
     "answer": "tournament",
     "matchedForm": "tournament",
     "choices": [
-      "tourist",
-      "talent",
-      "government",
-      "tournament"
+      "tournament",
+      "break down",
+      "commercial",
+      "graduation"
     ],
     "meanings": "トーナメント，勝ち抜き試合",
     "audioKey": "pre2kyu_pass"
@@ -8263,10 +8263,10 @@
     "answer": "variety",
     "matchedForm": "variety",
     "choices": [
-      "charity",
-      "variety",
-      "various",
-      "vary"
+      "protect",
+      "produce",
+      "dessert",
+      "variety"
     ],
     "meanings": "（a ～）いろいろ，多様性",
     "audioKey": "pre2kyu_pass"
@@ -8295,10 +8295,10 @@
     "answer": "agreement",
     "matchedForm": "agreement",
     "choices": [
-      "statement",
-      "agreement",
-      "agree",
-      "argument"
+      "crocodile",
+      "emergency",
+      "dangerous",
+      "agreement"
     ],
     "meanings": "合意（⇔ disagreement），協定",
     "audioKey": "pre2kyu_pass"
@@ -8391,10 +8391,10 @@
     "answer": "behavior",
     "matchedForm": "behavior",
     "choices": [
+      "Internet",
+      "restroom",
       "behavior",
-      "relation",
-      "behind",
-      "behave"
+      "surround"
     ],
     "meanings": "振る舞い，行動",
     "audioKey": "pre2kyu_pass"
@@ -8455,10 +8455,10 @@
     "answer": "charity",
     "matchedForm": "charity",
     "choices": [
+      "control",
       "charity",
-      "quality",
-      "charming",
-      "charge"
+      "produce",
+      "careful"
     ],
     "meanings": "慈善（事業）",
     "audioKey": "pre2kyu_pass"
@@ -8471,10 +8471,10 @@
     "answer": "communication",
     "matchedForm": "communication",
     "choices": [
-      "communicate",
-      "community",
+      "here and there",
+      "a variety of ～",
       "communication",
-      "organization"
+      "along with ～"
     ],
     "meanings": "コミュニケーション，伝達",
     "audioKey": "pre2kyu_pass"
@@ -8487,10 +8487,10 @@
     "answer": "conference",
     "matchedForm": "conference",
     "choices": [
-      "confident",
-      "influence",
-      "convenience",
-      "conference"
+      "originally",
+      "atmosphere",
+      "conference",
+      "conclusion"
     ],
     "meanings": "（公式の）会議，協議会",
     "audioKey": "pre2kyu_pass"
@@ -8503,10 +8503,10 @@
     "answer": "convenience",
     "matchedForm": "convenience",
     "choices": [
-      "conference",
+      "temperature",
+      "organization",
       "convenience",
-      "experience",
-      "convenient"
+      "on business"
     ],
     "meanings": "便利（⇔ inconvenience）",
     "audioKey": "pre2kyu_pass"
@@ -8535,10 +8535,10 @@
     "answer": "difficulty",
     "matchedForm": "difficulty",
     "choices": [
-      "particular",
-      "different",
-      "difficult",
-      "difficulty"
+      "population",
+      "appreciate",
+      "difficulty",
+      "disappoint"
     ],
     "meanings": "困難〈（in） doing ～することの〉（⇔ ease）",
     "audioKey": "pre2kyu_pass"
@@ -8551,10 +8551,10 @@
     "answer": "direction",
     "matchedForm": "directions",
     "choices": [
-      "direction",
-      "director",
-      "selection",
-      "direct"
+      "transport",
+      "emergency",
+      "furniture",
+      "direction"
     ],
     "meanings": "方向，（～s）指示",
     "audioKey": "pre2kyu_pass"
@@ -8567,10 +8567,10 @@
     "answer": "discount",
     "matchedForm": "discount",
     "choices": [
-      "count",
-      "discover",
-      "discuss",
-      "discount"
+      "friendly",
+      "shortage",
+      "discount",
+      "research"
     ],
     "meanings": "割引，値引",
     "audioKey": "pre2kyu_pass"
@@ -8599,9 +8599,9 @@
     "answer": "education",
     "matchedForm": "Education",
     "choices": [
-      "operation",
-      "educate",
-      "location",
+      "condition",
+      "miniature",
+      "emergency",
       "education"
     ],
     "meanings": "教育",
@@ -8664,9 +8664,9 @@
     "matchedForm": "engine",
     "choices": [
       "engine",
-      "engineer",
-      "invite",
-      "examine"
+      "advice",
+      "prefer",
+      "expert"
     ],
     "meanings": "エンジン",
     "audioKey": "pre2kyu_pass"
@@ -8679,10 +8679,10 @@
     "answer": "engineer",
     "matchedForm": "engineer",
     "choices": [
-      "engine",
-      "continue",
-      "enter",
-      "engineer"
+      "engineer",
+      "customer",
+      "memorize",
+      "shortage"
     ],
     "meanings": "エンジニア，技術者",
     "audioKey": "pre2kyu_pass"
@@ -8744,9 +8744,9 @@
     "matchedForm": "explorer",
     "choices": [
       "explorer",
-      "explore",
-      "explain",
-      "colored"
+      "discount",
+      "movement",
+      "graduate"
     ],
     "meanings": "探検家",
     "audioKey": "pre2kyu_pass"
@@ -8791,10 +8791,10 @@
     "answer": "forecast",
     "matchedForm": "forecast",
     "choices": [
-      "forever",
+      "director",
+      "research",
       "forecast",
-      "correct",
-      "foreign"
+      "actually"
     ],
     "meanings": "予報",
     "audioKey": "pre2kyu_pass"
@@ -8855,10 +8855,10 @@
     "answer": "harvest",
     "matchedForm": "harvest",
     "choices": [
-      "arrest",
-      "harvest",
-      "harmony",
-      "harmful"
+      "average",
+      "receive",
+      "instead",
+      "harvest"
     ],
     "meanings": "（作物の）収穫",
     "audioKey": "pre2kyu_pass"
@@ -8919,10 +8919,10 @@
     "answer": "instrument",
     "matchedForm": "instruments",
     "choices": [
-      "instant",
-      "government",
-      "instruction",
-      "instrument"
+      "particular",
+      "individual",
+      "instrument",
+      "break down"
     ],
     "meanings": "器具，道具",
     "audioKey": "pre2kyu_pass"
@@ -8983,10 +8983,10 @@
     "answer": "movement",
     "matchedForm": "movement",
     "choices": [
-      "government",
+      "although",
+      "graduate",
       "movement",
-      "move",
-      "moment"
+      "continue"
     ],
     "meanings": "運動，動き",
     "audioKey": "pre2kyu_pass"
@@ -8999,10 +8999,10 @@
     "answer": "nation",
     "matchedForm": "nation",
     "choices": [
-      "national",
-      "emotion",
-      "nature",
-      "nation"
+      "pigeon",
+      "nation",
+      "advise",
+      "middle"
     ],
     "meanings": "国家，（the ～）国民",
     "audioKey": "pre2kyu_pass"
@@ -9031,10 +9031,10 @@
     "answer": "officer",
     "matchedForm": "officer",
     "choices": [
-      "soldier",
-      "offer",
+      "instead",
+      "control",
       "officer",
-      "official"
+      "receive"
     ],
     "meanings": "警官，役人",
     "audioKey": "pre2kyu_pass"
@@ -9047,10 +9047,10 @@
     "answer": "package",
     "matchedForm": "package",
     "choices": [
-      "garbage",
-      "pack",
-      "baggage",
-      "package"
+      "package",
+      "unusual",
+      "against",
+      "contain"
     ],
     "meanings": "（小さな）包み",
     "audioKey": "pre2kyu_pass"
@@ -9063,10 +9063,10 @@
     "answer": "photographer",
     "matchedForm": "photographer",
     "choices": [
-      "toothache",
-      "get together",
+      "grandparent",
       "photographer",
-      "photograph"
+      "convenience",
+      "imagination"
     ],
     "meanings": "写真家，カメラマン",
     "audioKey": "pre2kyu_pass"
@@ -9079,10 +9079,10 @@
     "answer": "planet",
     "matchedForm": "planet",
     "choices": [
+      "likely",
       "planet",
-      "plant",
-      "plate",
-      "later"
+      "lonely",
+      "desert"
     ],
     "meanings": "惑星（⇔ star 恒星）",
     "audioKey": "pre2kyu_pass"
@@ -9095,10 +9095,10 @@
     "answer": "population",
     "matchedForm": "population",
     "choices": [
-      "population",
-      "pollution",
-      "popularity",
-      "operation"
+      "especially",
+      "individual",
+      "flashlight",
+      "population"
     ],
     "meanings": "人口",
     "audioKey": "pre2kyu_pass"
@@ -9111,10 +9111,10 @@
     "answer": "position",
     "matchedForm": "position",
     "choices": [
-      "positive",
-      "pollution",
+      "restroom",
+      "surprise",
       "position",
-      "condition"
+      "recently"
     ],
     "meanings": "位置，地位",
     "audioKey": "pre2kyu_pass"
@@ -9127,10 +9127,10 @@
     "answer": "product",
     "matchedForm": "product",
     "choices": [
+      "luckily",
       "product",
-      "production",
-      "reduce",
-      "produce"
+      "husband",
+      "private"
     ],
     "meanings": "製品，産物，結果",
     "audioKey": "pre2kyu_pass"
@@ -9143,10 +9143,10 @@
     "answer": "puppy",
     "matchedForm": "puppy",
     "choices": [
-      "pull",
+      "coach",
       "puppy",
-      "puppet",
-      "supply"
+      "actor",
+      "delay"
     ],
     "meanings": "子犬",
     "audioKey": "pre2kyu_pass"
@@ -9159,10 +9159,10 @@
     "answer": "receipt",
     "matchedForm": "receipt",
     "choices": [
-      "receive",
-      "recent",
+      "million",
       "receipt",
-      "accept"
+      "husband",
+      "costume"
     ],
     "meanings": "レシート，領収書（⇔ bill），受領",
     "audioKey": "pre2kyu_pass"
@@ -9223,9 +9223,9 @@
     "answer": "row",
     "matchedForm": "row",
     "choices": [
-      "grow",
-      "rock",
-      "raw",
+      "cost",
+      "set",
+      "navy",
       "row"
     ],
     "meanings": "列",
@@ -9255,10 +9255,10 @@
     "answer": "sailor",
     "matchedForm": "sailor",
     "choices": [
-      "sail",
-      "sailor",
-      "sale",
-      "factor"
+      "method",
+      "create",
+      "center",
+      "sailor"
     ],
     "meanings": "船乗り",
     "audioKey": "pre2kyu_pass"
@@ -9287,10 +9287,10 @@
     "answer": "shortage",
     "matchedForm": "shortage",
     "choices": [
+      "backyard",
       "shortage",
-      "shout",
-      "portable",
-      "shortly"
+      "movement",
+      "homestay"
     ],
     "meanings": "不足，欠乏",
     "audioKey": "pre2kyu_pass"
@@ -9303,9 +9303,9 @@
     "answer": "signal",
     "matchedForm": "signal",
     "choices": [
-      "final",
-      "sign",
-      "sight",
+      "cancel",
+      "prefer",
+      "return",
       "signal"
     ],
     "meanings": "信号，合図",
@@ -9415,10 +9415,10 @@
     "answer": "spray",
     "matchedForm": "spray",
     "choices": [
-      "pray",
+      "novel",
+      "allow",
       "spray",
-      "spicy",
-      "spread"
+      "prize"
     ],
     "meanings": "スプレー",
     "audioKey": "pre2kyu_pass"
@@ -9431,10 +9431,10 @@
     "answer": "state",
     "matchedForm": "state",
     "choices": [
+      "front",
+      "cloth",
       "state",
-      "stare",
-      "statue",
-      "taste"
+      "cause"
     ],
     "meanings": "（ふつう S-）州，（しばしば S-）国家",
     "audioKey": "pre2kyu_pass"
@@ -9447,10 +9447,10 @@
     "answer": "suggestion",
     "matchedForm": "suggestion",
     "choices": [
-      "selection",
-      "suggest",
-      "connection",
-      "suggestion"
+      "each other",
+      "suggestion",
+      "specialise",
+      "frightened"
     ],
     "meanings": "提案，暗示",
     "audioKey": "pre2kyu_pass"
@@ -9479,10 +9479,10 @@
     "answer": "technique",
     "matchedForm": "technique",
     "choices": [
-      "technology",
+      "apartment",
+      "microwave",
       "technique",
-      "unique",
-      "technical"
+      "celebrate"
     ],
     "meanings": "技術，技法，技巧",
     "audioKey": "pre2kyu_pass"
@@ -9543,9 +9543,9 @@
     "answer": "weight",
     "matchedForm": "weight",
     "choices": [
-      "weigh",
-      "height",
-      "flight",
+      "enough",
+      "design",
+      "pigeon",
       "weight"
     ],
     "meanings": "重さ，体重",
@@ -9559,10 +9559,10 @@
     "answer": "adventure",
     "matchedForm": "adventure",
     "choices": [
+      "adventure",
+      "afterward",
       "advantage",
-      "advertise",
-      "feature",
-      "adventure"
+      "enjoyable"
     ],
     "meanings": "冒険",
     "audioKey": "pre2kyu_pass"
@@ -9623,10 +9623,10 @@
     "answer": "argument",
     "matchedForm": "argument",
     "choices": [
-      "argue",
-      "movement",
+      "concrete",
+      "bacteria",
       "argument",
-      "agreement"
+      "memorize"
     ],
     "meanings": "口論，論争，主張",
     "audioKey": "pre2kyu_pass"
@@ -9671,10 +9671,10 @@
     "answer": "attendant",
     "matchedForm": "attendant",
     "choices": [
-      "dependent",
+      "knowledge",
       "attendant",
-      "attention",
-      "attend"
+      "available",
+      "technique"
     ],
     "meanings": "（会社・ホテルなどの）サービス係，付添い人",
     "audioKey": "pre2kyu_pass"
@@ -9735,10 +9735,10 @@
     "answer": "celebration",
     "matchedForm": "celebration",
     "choices": [
-      "celebrate",
-      "reservation",
       "celebration",
-      "generation"
+      "department",
+      "get A to do",
+      "point out ～"
     ],
     "meanings": "祝賀（会）",
     "audioKey": "pre2kyu_pass"
@@ -9751,10 +9751,10 @@
     "answer": "charge",
     "matchedForm": "charge",
     "choices": [
-      "chance",
+      "happen",
       "charge",
       "change",
-      "share"
+      "center"
     ],
     "meanings": "（サービスに対する）料金",
     "audioKey": "pre2kyu_pass"
@@ -9927,10 +9927,10 @@
     "answer": "danger",
     "matchedForm": "danger",
     "choices": [
-      "manager",
-      "damage",
       "danger",
-      "dangerous"
+      "excuse",
+      "create",
+      "spread"
     ],
     "meanings": "危険（⇔ safety）",
     "audioKey": "pre2kyu_pass"
@@ -9975,10 +9975,10 @@
     "answer": "decision",
     "matchedForm": "decision",
     "choices": [
-      "decide",
       "decision",
-      "design",
-      "position"
+      "audience",
+      "decrease",
+      "employee"
     ],
     "meanings": "決定",
     "audioKey": "pre2kyu_pass"
@@ -9991,10 +9991,10 @@
     "answer": "diet",
     "matchedForm": "diet",
     "choices": [
-      "view",
-      "direct",
+      "pick",
+      "else",
       "diet",
-      "die"
+      "True"
     ],
     "meanings": "ダイエット，日常の食事",
     "audioKey": "pre2kyu_pass"
@@ -10023,10 +10023,10 @@
     "answer": "electricity",
     "matchedForm": "electricity",
     "choices": [
-      "security",
-      "electronic",
+      "communicate",
+      "department",
       "electricity",
-      "activity"
+      "lighthouse"
     ],
     "meanings": "電気",
     "audioKey": "pre2kyu_pass"
@@ -10103,10 +10103,10 @@
     "answer": "explanation",
     "matchedForm": "explanation",
     "choices": [
-      "examination",
-      "separation",
+      "get A to do",
       "explanation",
-      "explain"
+      "no longer ～",
+      "in the past"
     ],
     "meanings": "説明",
     "audioKey": "pre2kyu_pass"
@@ -10119,10 +10119,10 @@
     "answer": "excellent",
     "matchedForm": "excellent",
     "choices": [
-      "experiment",
-      "dependent",
-      "except",
-      "excellent"
+      "community",
+      "excellent",
+      "dormitory",
+      "character"
     ],
     "meanings": "【形】優れた〈in, at ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -10135,10 +10135,10 @@
     "answer": "formal",
     "matchedForm": "formal",
     "choices": [
-      "normal",
-      "form",
-      "formal",
-      "forget"
+      "nature",
+      "couple",
+      "reason",
+      "formal"
     ],
     "meanings": "【形】正式の，格式ばった（⇔ informal）",
     "audioKey": "pre2kyu_pass"
@@ -10151,10 +10151,10 @@
     "answer": "healthy",
     "matchedForm": "healthy",
     "choices": [
-      "wealth",
-      "health",
+      "husband",
       "healthy",
-      "headache"
+      "century",
+      "include"
     ],
     "meanings": "【形】健康な（⇔ unhealthy）",
     "audioKey": "pre2kyu_pass"
@@ -10231,10 +10231,10 @@
     "answer": "traditional",
     "matchedForm": "traditional",
     "choices": [
-      "national",
+      "lighthouse",
+      "immediately",
       "traditional",
-      "tradition",
-      "train"
+      "communicate"
     ],
     "meanings": "【形】伝統的な",
     "audioKey": "pre2kyu_pass"
@@ -10247,10 +10247,10 @@
     "answer": "usual",
     "matchedForm": "usual",
     "choices": [
-      "steal",
+      "upset",
+      "delay",
       "usual",
-      "unusual",
-      "local"
+      "cause"
     ],
     "meanings": "【形】いつもの，普通の（⇔ unusual）",
     "audioKey": "pre2kyu_pass"
@@ -10263,10 +10263,10 @@
     "answer": "central",
     "matchedForm": "central",
     "choices": [
-      "general",
-      "center",
-      "central",
-      "century"
+      "deliver",
+      "reserve",
+      "tourist",
+      "central"
     ],
     "meanings": "【形】中心（部）の",
     "audioKey": "pre2kyu_pass"
@@ -10295,10 +10295,10 @@
     "answer": "direct",
     "matchedForm": "direct",
     "choices": [
-      "direction",
-      "director",
+      "pigeon",
+      "detail",
       "direct",
-      "insect"
+      "advice"
     ],
     "meanings": "【形】直接の（⇔ indirect），真っすぐな",
     "audioKey": "pre2kyu_pass"
@@ -10359,10 +10359,10 @@
     "answer": "foreign",
     "matchedForm": "foreign",
     "choices": [
-      "forever",
-      "foreign",
-      "forgive",
-      "origin"
+      "control",
+      "similar",
+      "develop",
+      "foreign"
     ],
     "meanings": "【形】外国の",
     "audioKey": "pre2kyu_pass"
@@ -10375,10 +10375,10 @@
     "answer": "frightened",
     "matchedForm": "frightened",
     "choices": [
-      "delighted",
-      "frightening",
-      "flight",
-      "frightened"
+      "technology",
+      "invitation",
+      "frightened",
+      "completely"
     ],
     "meanings": "【形】おびえた〈of ～に〉，ぎょっとした",
     "audioKey": "pre2kyu_pass"
@@ -10391,9 +10391,9 @@
     "answer": "gentle",
     "matchedForm": "gentle",
     "choices": [
-      "enter",
-      "center",
-      "sense",
+      "excuse",
+      "method",
+      "middle",
       "gentle"
     ],
     "meanings": "【形】優しい，穏やかな",
@@ -10423,10 +10423,10 @@
     "answer": "harmful",
     "matchedForm": "harmful",
     "choices": [
-      "helpful",
-      "careful",
+      "another",
+      "victory",
       "harmful",
-      "harmony"
+      "finally"
     ],
     "meanings": "【形】有害な（⇔ harmless）",
     "audioKey": "pre2kyu_pass"
@@ -10455,10 +10455,10 @@
     "answer": "ideal",
     "matchedForm": "ideal",
     "choices": [
-      "meal",
-      "idea",
+      "reply",
+      "agree",
       "ideal",
-      "steal"
+      "raise"
     ],
     "meanings": "【形】理想的な",
     "audioKey": "pre2kyu_pass"
@@ -10487,10 +10487,10 @@
     "answer": "original",
     "matchedForm": "original",
     "choices": [
-      "origin",
-      "original",
-      "signal",
-      "originally"
+      "organize",
+      "employee",
+      "graduate",
+      "original"
     ],
     "meanings": "【形】独創的な，元の",
     "audioKey": "pre2kyu_pass"
@@ -10519,10 +10519,10 @@
     "answer": "particular",
     "matchedForm": "particular",
     "choices": [
-      "article",
-      "in particular",
-      "partner",
-      "particular"
+      "suggestion",
+      "particular",
+      "popularity",
+      "technology"
     ],
     "meanings": "【形】特定の，特別の",
     "audioKey": "pre2kyu_pass"
@@ -10535,10 +10535,10 @@
     "answer": "perfect",
     "matchedForm": "perfect",
     "choices": [
-      "percent",
-      "perfect",
-      "effect",
-      "perform"
+      "article",
+      "correct",
+      "victory",
+      "perfect"
     ],
     "meanings": "【形】完全な",
     "audioKey": "pre2kyu_pass"
@@ -10567,10 +10567,10 @@
     "answer": "regular",
     "matchedForm": "Regular",
     "choices": [
-      "similar",
-      "regular",
-      "result",
-      "regularly"
+      "shelter",
+      "unusual",
+      "special",
+      "regular"
     ],
     "meanings": "【形】通常の，規則正しい（⇔ irregular）",
     "audioKey": "pre2kyu_pass"
@@ -10855,10 +10855,10 @@
     "answer": "charming",
     "matchedForm": "charming",
     "choices": [
-      "charity",
-      "charming",
-      "harmony",
-      "charge"
+      "portable",
+      "approach",
+      "accident",
+      "charming"
     ],
     "meanings": "【形】魅力的な",
     "audioKey": "pre2kyu_pass"
@@ -10871,10 +10871,10 @@
     "answer": "cheerful",
     "matchedForm": "cheerful",
     "choices": [
-      "cheer",
-      "careful",
-      "helpful",
-      "cheerful"
+      "cheerful",
+      "surprise",
+      "discount",
+      "Internet"
     ],
     "meanings": "【形】陽気な，元気の良い",
     "audioKey": "pre2kyu_pass"
@@ -10903,10 +10903,10 @@
     "answer": "constant",
     "matchedForm": "constant",
     "choices": [
-      "consist",
-      "instant",
+      "sunlight",
       "constant",
-      "contain"
+      "remember",
+      "ordinary"
     ],
     "meanings": "【形】一定の，不断の",
     "audioKey": "pre2kyu_pass"
@@ -10935,10 +10935,10 @@
     "answer": "delicate",
     "matchedForm": "delicate",
     "choices": [
-      "delicious",
-      "climate",
       "delicate",
-      "delighted"
+      "sometime",
+      "engineer",
+      "national"
     ],
     "meanings": "【形】取り扱いの難しい，繊細な",
     "audioKey": "pre2kyu_pass"
@@ -10951,10 +10951,10 @@
     "answer": "delighted",
     "matchedForm": "delighted",
     "choices": [
-      "slightly",
-      "delicate",
-      "delighted",
-      "deliver"
+      "crocodile",
+      "butterfly",
+      "microwave",
+      "delighted"
     ],
     "meanings": "【形】喜んで〈with, at, by ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -10967,10 +10967,10 @@
     "answer": "dependent",
     "matchedForm": "dependent",
     "choices": [
-      "excellent",
-      "department",
       "dependent",
-      "depend"
+      "apologize",
+      "gradually",
+      "childhood"
     ],
     "meanings": "【形】依存している〈on ～に〉，頼っている（⇔ independent）",
     "audioKey": "pre2kyu_pass"
@@ -10999,10 +10999,10 @@
     "answer": "electronic",
     "matchedForm": "electronic",
     "choices": [
-      "education",
-      "electronic",
-      "selection",
-      "electricity"
+      "generation",
+      "reasonable",
+      "conference",
+      "electronic"
     ],
     "meanings": "【形】電子の",
     "audioKey": "pre2kyu_pass"
@@ -11079,10 +11079,10 @@
     "answer": "frightening",
     "matchedForm": "frightening",
     "choices": [
-      "right away",
-      "frightening",
-      "frightened",
-      "friendly"
+      "instruction",
+      "point out ～",
+      "for a while",
+      "frightening"
     ],
     "meanings": "【形】恐ろしい，ぎょっとするような",
     "audioKey": "pre2kyu_pass"
@@ -11111,10 +11111,10 @@
     "answer": "handsome",
     "matchedForm": "handsome",
     "choices": [
+      "engineer",
+      "restroom",
       "handsome",
-      "anymore",
-      "hand in ～",
-      "handle"
+      "movement"
     ],
     "meanings": "【形】ハンサムな，端正な顔立ちの",
     "audioKey": "pre2kyu_pass"
@@ -11143,10 +11143,10 @@
     "answer": "historical",
     "matchedForm": "historical",
     "choices": [
-      "historian",
-      "material",
-      "physical",
-      "historical"
+      "by mistake",
+      "tournament",
+      "historical",
+      "get better"
     ],
     "meanings": "【形】歴史上の，歴史の",
     "audioKey": "pre2kyu_pass"
@@ -11175,10 +11175,10 @@
     "answer": "environmentally",
     "matchedForm": "environmentally",
     "choices": [
-      "environmentally",
-      "environment",
-      "eventually",
-      "accidentally"
+      "little by little",
+      "be made up of ～",
+      "either A or B",
+      "environmentally"
     ],
     "meanings": "【副】環境（保護）の点で",
     "audioKey": "pre2kyu_pass"
@@ -11191,10 +11191,10 @@
     "answer": "especially",
     "matchedForm": "especially",
     "choices": [
-      "special",
-      "especially",
-      "eventually",
-      "specialise"
+      "appreciate",
+      "overweight",
+      "specialise",
+      "especially"
     ],
     "meanings": "【副】特に，とりわけ（≒ particularly）",
     "audioKey": "pre2kyu_pass"
@@ -11207,10 +11207,10 @@
     "answer": "fairly",
     "matchedForm": "fairly",
     "choices": [
-      "fail",
-      "mainly",
-      "fairly",
-      "fair"
+      "search",
+      "desert",
+      "nature",
+      "fairly"
     ],
     "meanings": "【副】まあまあ，公正に",
     "audioKey": "pre2kyu_pass"
@@ -11223,10 +11223,10 @@
     "answer": "perhaps",
     "matchedForm": "Perhaps",
     "choices": [
-      "perfect",
-      "perform",
-      "certain",
-      "perhaps"
+      "special",
+      "perhaps",
+      "unusual",
+      "receive"
     ],
     "meanings": "【副】もしかすると（≒ maybe）",
     "audioKey": "pre2kyu_pass"
@@ -11239,10 +11239,10 @@
     "answer": "widely",
     "matchedForm": "widely",
     "choices": [
-      "widen",
       "widely",
-      "width",
-      "likely"
+      "choice",
+      "appear",
+      "prefer"
     ],
     "meanings": "【副】広く，広範囲に",
     "audioKey": "pre2kyu_pass"
@@ -11255,9 +11255,9 @@
     "answer": "eventually",
     "matchedForm": "eventually",
     "choices": [
-      "event",
-      "equally",
-      "generally",
+      "navigation",
+      "specialise",
+      "electronic",
       "eventually"
     ],
     "meanings": "【副】結局（は）",
@@ -11271,10 +11271,10 @@
     "answer": "exactly",
     "matchedForm": "exactly",
     "choices": [
-      "examine",
-      "exact",
+      "million",
       "exactly",
-      "healthy"
+      "tourist",
+      "uniform"
     ],
     "meanings": "【副】正確に，まさに",
     "audioKey": "pre2kyu_pass"
@@ -11303,10 +11303,10 @@
     "answer": "generally",
     "matchedForm": "Generally",
     "choices": [
-      "several",
-      "generally",
-      "general",
-      "generation"
+      "advantage",
+      "microwave",
+      "crocodile",
+      "generally"
     ],
     "meanings": "【副】一般的に（≒ in general）",
     "audioKey": "pre2kyu_pass"
@@ -11335,10 +11335,10 @@
     "answer": "naturally",
     "matchedForm": "Naturally",
     "choices": [
-      "naturally",
-      "natural",
-      "nature",
-      "actually"
+      "celebrate",
+      "discovery",
+      "regularly",
+      "naturally"
     ],
     "meanings": "【副】自然に，（通例文頭で）当然",
     "audioKey": "pre2kyu_pass"
@@ -11367,10 +11367,10 @@
     "answer": "originally",
     "matchedForm": "originally",
     "choices": [
+      "navigation",
       "originally",
-      "origin",
-      "original",
-      "finally"
+      "particular",
+      "successful"
     ],
     "meanings": "【副】最初は，もともと",
     "audioKey": "pre2kyu_pass"
@@ -11383,10 +11383,10 @@
     "answer": "otherwise",
     "matchedForm": "otherwise",
     "choices": [
+      "expensive",
       "otherwise",
-      "advertise",
-      "other",
-      "exercise"
+      "afterward",
+      "direction"
     ],
     "meanings": "【副】その他の点では，そうでなければ",
     "audioKey": "pre2kyu_pass"
@@ -11399,10 +11399,10 @@
     "answer": "rapidly",
     "matchedForm": "rapidly",
     "choices": [
+      "against",
+      "trouble",
       "rapidly",
-      "rarely",
-      "rapid",
-      "fairly"
+      "average"
     ],
     "meanings": "【副】急速に，速く",
     "audioKey": "pre2kyu_pass"
@@ -11431,10 +11431,10 @@
     "answer": "somewhere",
     "matchedForm": "somewhere",
     "choices": [
+      "discovery",
       "somewhere",
-      "soldier",
-      "come true",
-      "sometime"
+      "statement",
+      "vegetable"
     ],
     "meanings": "【副】どこかに［で，へ］",
     "audioKey": "pre2kyu_pass"
@@ -11447,9 +11447,9 @@
     "answer": "unfortunately",
     "matchedForm": "Unfortunately",
     "choices": [
-      "opportunity",
-      "unfriendly",
-      "fortunately",
+      "in particular",
+      "increasingly",
+      "after a while",
       "unfortunately"
     ],
     "meanings": "【副】残念ながら，不運にも（⇔ fortunately）",
@@ -11479,10 +11479,10 @@
     "answer": "apart",
     "matchedForm": "Apart",
     "choices": [
-      "apart",
-      "apartment",
-      "smart",
-      "award"
+      "trade",
+      "prize",
+      "ma'am",
+      "apart"
     ],
     "meanings": "【副】（apart from で）を除いて，から離れて",
     "audioKey": "pre2kyu_pass"
@@ -11559,10 +11559,10 @@
     "answer": "forever",
     "matchedForm": "forever",
     "choices": [
-      "forgive",
+      "special",
       "forever",
-      "however",
-      "foreign"
+      "costume",
+      "collect"
     ],
     "meanings": "【副】永久に（≒ eternally）",
     "audioKey": "pre2kyu_pass"
@@ -11575,10 +11575,10 @@
     "answer": "fortunately",
     "matchedForm": "Fortunately",
     "choices": [
-      "for a while",
-      "formal",
-      "unfortunately",
-      "fortunately"
+      "competition",
+      "fortunately",
+      "get A to do",
+      "frightening"
     ],
     "meanings": "【副】幸運にも（⇔ unfortunately）",
     "audioKey": "pre2kyu_pass"
@@ -11671,10 +11671,10 @@
     "answer": "except",
     "matchedForm": "except",
     "choices": [
-      "accept",
-      "expert",
+      "effort",
       "except",
-      "expect"
+      "remain",
+      "decide"
     ],
     "meanings": "【前】～を除いては（≒ other than），～の他は",
     "audioKey": "pre2kyu_pass"
@@ -11767,10 +11767,10 @@
     "answer": "chase",
     "matchedForm": "chase",
     "choices": [
-      "share",
-      "chance",
-      "change",
-      "chase"
+      "chase",
+      "dress",
+      "adult",
+      "novel"
     ],
     "meanings": "（を）追跡する",
     "audioKey": "pre2kyu_pass"
@@ -11799,9 +11799,9 @@
     "answer": "communicate",
     "matchedForm": "communicate",
     "choices": [
-      "locate",
-      "communication",
-      "community",
+      "grandparent",
+      "fall asleep",
+      "apply for ～",
       "communicate"
     ],
     "meanings": "意思を通じ合う〈with ～と〉，を伝達する〈to ～に〉",
@@ -11815,10 +11815,10 @@
     "answer": "compete",
     "matchedForm": "compete",
     "choices": [
-      "compare",
-      "athlete",
       "compete",
-      "completely"
+      "against",
+      "quality",
+      "finally"
     ],
     "meanings": "競争する〈with, against ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -11831,10 +11831,10 @@
     "answer": "complain",
     "matchedForm": "complain",
     "choices": [
-      "explain",
-      "compare",
-      "contain",
-      "complain"
+      "movement",
+      "complain",
+      "customer",
+      "surround"
     ],
     "meanings": "不平［苦情］を言う〈of，about ～について，to ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -11848,9 +11848,9 @@
     "matchedForm": "concentrate",
     "choices": [
       "concentrate",
-      "concern",
-      "concrete",
-      "demonstrate"
+      "no longer ～",
+      "examination",
+      "point out ～"
     ],
     "meanings": "集中する〈on ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -11863,10 +11863,10 @@
     "answer": "concern",
     "matchedForm": "concerned",
     "choices": [
-      "wonder",
-      "connect",
-      "concern",
-      "concrete"
+      "network",
+      "vehicle",
+      "private",
+      "concern"
     ],
     "meanings": "（受身形で）心配している〈about ～を〉，に関係する",
     "audioKey": "pre2kyu_pass"
@@ -11896,9 +11896,9 @@
     "matchedForm": "connect",
     "choices": [
       "connect",
-      "correct",
-      "connection",
-      "honest"
+      "however",
+      "deliver",
+      "another"
     ],
     "meanings": "をつなぐ〈with，to ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -11911,10 +11911,10 @@
     "answer": "consist",
     "matchedForm": "consists",
     "choices": [
-      "insist",
-      "consider",
-      "constant",
-      "consist"
+      "trouble",
+      "consist",
+      "recover",
+      "similar"
     ],
     "meanings": "成る〈of ～から〉（≒ be made up of）",
     "audioKey": "pre2kyu_pass"
@@ -11943,10 +11943,10 @@
     "answer": "cycle",
     "matchedForm": "cycling",
     "choices": [
+      "guide",
+      "guess",
       "cycle",
-      "recycle",
-      "close",
-      "cause"
+      "dress"
     ],
     "meanings": "自転車に乗る，循環する",
     "audioKey": "pre2kyu_pass"
@@ -12023,10 +12023,10 @@
     "answer": "educate",
     "matchedForm": "educate",
     "choices": [
-      "escape",
-      "locate",
+      "correct",
+      "trouble",
       "educate",
-      "education"
+      "quality"
     ],
     "meanings": "(を教育する)",
     "audioKey": "pre2kyu_pass"
@@ -12055,10 +12055,10 @@
     "answer": "employ",
     "matchedForm": "employs",
     "choices": [
-      "employee",
+      "decide",
       "employ",
-      "empty",
-      "reply"
+      "health",
+      "detail"
     ],
     "meanings": "(を雇う)",
     "audioKey": "pre2kyu_pass"
@@ -12071,10 +12071,10 @@
     "answer": "entertain",
     "matchedForm": "entertained",
     "choices": [
-      "entertainment",
-      "enter",
-      "certain",
-      "entertain"
+      "statement",
+      "community",
+      "entertain",
+      "equipment"
     ],
     "meanings": "(を楽しませる〈with ～で〉)",
     "audioKey": "pre2kyu_pass"
@@ -12119,10 +12119,10 @@
     "answer": "expand",
     "matchedForm": "expand",
     "choices": [
-      "depend",
-      "expert",
-      "expand",
-      "expect"
+      "desert",
+      "borrow",
+      "forget",
+      "expand"
     ],
     "meanings": "（を）拡大［拡張］する)",
     "audioKey": "pre2kyu_pass"
@@ -12135,10 +12135,10 @@
     "answer": "explore",
     "matchedForm": "explore",
     "choices": [
-      "improve",
-      "explorer",
-      "explain",
-      "explore"
+      "receive",
+      "trouble",
+      "explore",
+      "network"
     ],
     "meanings": "（を）探検する，（を）調査する)",
     "audioKey": "pre2kyu_pass"
@@ -12215,10 +12215,10 @@
     "answer": "fulfill",
     "matchedForm": "fulfill",
     "choices": [
-      "fuel",
+      "finally",
+      "collect",
       "fulfill",
-      "fill",
-      "luckily"
+      "address"
     ],
     "meanings": "を果たす，を完全に実現させる)",
     "audioKey": "pre2kyu_pass"
@@ -12247,10 +12247,10 @@
     "answer": "handle",
     "matchedForm": "handle",
     "choices": [
+      "enough",
       "handle",
-      "hardly",
-      "handsome",
-      "change"
+      "health",
+      "nature"
     ],
     "meanings": "を扱う（≒ deal with），に手を触れる)",
     "audioKey": "pre2kyu_pass"
@@ -12279,10 +12279,10 @@
     "answer": "import",
     "matchedForm": "imports",
     "choices": [
-      "importance",
-      "improve",
-      "report",
-      "import"
+      "import",
+      "common",
+      "excuse",
+      "create"
     ],
     "meanings": "を輸入する〈from ～から〉（⇔ export）)",
     "audioKey": "pre2kyu_pass"
@@ -12295,10 +12295,10 @@
     "answer": "insist",
     "matchedForm": "insisted",
     "choices": [
-      "inside",
-      "consist",
+      "bright",
       "insist",
-      "insect"
+      "arrive",
+      "common"
     ],
     "meanings": "強く主張する〈on ～を〉)",
     "audioKey": "pre2kyu_pass"
@@ -12455,10 +12455,10 @@
     "answer": "overcome",
     "matchedForm": "overcome",
     "choices": [
-      "overweight",
       "overcome",
-      "exercise",
-      "average"
+      "friendly",
+      "explorer",
+      "probably"
     ],
     "meanings": "（を）克服する（≒ break through, get over），（に）打ち勝つ",
     "audioKey": "pre2kyu_pass"
@@ -12471,10 +12471,10 @@
     "answer": "pray",
     "matchedForm": "pray",
     "choices": [
-      "spray",
-      "army",
-      "pray",
-      "pay"
+      "luck",
+      "calm",
+      "melt",
+      "pray"
     ],
     "meanings": "祈る〈for ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -12503,10 +12503,10 @@
     "answer": "pronounce",
     "matchedForm": "pronounce",
     "choices": [
+      "apartment",
+      "adventure",
       "pronounce",
-      "announce",
-      "produce",
-      "product"
+      "carpenter"
     ],
     "meanings": "（を）発音する",
     "audioKey": "pre2kyu_pass"
@@ -12519,10 +12519,10 @@
     "answer": "prove",
     "matchedForm": "prove",
     "choices": [
+      "waste",
+      "order",
       "prove",
-      "provide",
-      "proof",
-      "move"
+      "climb"
     ],
     "meanings": "を証明する，分かる〈to be ～であることが〉（≒ turn out）",
     "audioKey": "pre2kyu_pass"
@@ -12551,9 +12551,9 @@
     "answer": "realize",
     "matchedForm": "realized",
     "choices": [
-      "organize",
-      "real",
-      "relative",
+      "century",
+      "natural",
+      "network",
       "realize"
     ],
     "meanings": "を悟る，を実現する（英 realise）",
@@ -12567,10 +12567,10 @@
     "answer": "refer",
     "matchedForm": "refer",
     "choices": [
-      "reflect",
+      "reply",
       "refer",
-      "refresh",
-      "prefer"
+      "guess",
+      "route"
     ],
     "meanings": "言及する〈to ～に〉，参照する〈to ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -12631,10 +12631,10 @@
     "answer": "request",
     "matchedForm": "request",
     "choices": [
-      "require",
-      "guest",
+      "control",
+      "husband",
       "request",
-      "reflect"
+      "traffic"
     ],
     "meanings": "を要請する（≒ ask for）",
     "audioKey": "pre2kyu_pass"
@@ -12647,10 +12647,10 @@
     "answer": "respond",
     "matchedForm": "respond",
     "choices": [
-      "beyond",
+      "luckily",
+      "through",
       "respond",
-      "respect",
-      "resort"
+      "collect"
     ],
     "meanings": "応答する〈to ～に〉，反応する",
     "audioKey": "pre2kyu_pass"
@@ -12663,10 +12663,10 @@
     "answer": "separate",
     "matchedForm": "separate",
     "choices": [
-      "separation",
-      "spare",
-      "decorate",
-      "separate"
+      "shortage",
+      "actually",
+      "separate",
+      "surprise"
     ],
     "meanings": "を分ける，（を）分離する〈from ～から〉",
     "audioKey": "pre2kyu_pass"
@@ -12791,10 +12791,10 @@
     "answer": "stretch",
     "matchedForm": "stretch",
     "choices": [
+      "nervous",
       "stretch",
-      "reach",
-      "strength",
-      "stress"
+      "special",
+      "contain"
     ],
     "meanings": "ストレッチをする，伸びる，を伸ばす",
     "audioKey": "pre2kyu_pass"
@@ -12807,10 +12807,10 @@
     "answer": "succeed",
     "matchedForm": "succeed",
     "choices": [
-      "successful",
-      "success",
+      "reserve",
       "succeed",
-      "nuclear"
+      "deliver",
+      "collect"
     ],
     "meanings": "成功する〈in ～に〉（⇔ fail），継承する〈to ～を〉",
     "audioKey": "pre2kyu_pass"
@@ -12839,10 +12839,10 @@
     "answer": "supply",
     "matchedForm": "supply",
     "choices": [
-      "support",
-      "apply",
-      "puppy",
-      "supply"
+      "happen",
+      "repair",
+      "supply",
+      "design"
     ],
     "meanings": "を供給する〈for ～に〉",
     "audioKey": "pre2kyu_pass"
@@ -12887,10 +12887,10 @@
     "answer": "translate",
     "matchedForm": "translate",
     "choices": [
-      "graduate",
+      "expensive",
+      "celebrate",
       "translate",
-      "transport",
-      "teammate"
+      "attendant"
     ],
     "meanings": "を翻訳する〈into ～に，from ～から〉",
     "audioKey": "pre2kyu_pass"
@@ -12919,10 +12919,10 @@
     "answer": "widen",
     "matchedForm": "widen",
     "choices": [
-      "widen",
-      "widely",
-      "width",
-      "hide"
+      "route",
+      "taste",
+      "throw",
+      "widen"
     ],
     "meanings": "を広げる（⇔ narrow），広くなる",
     "audioKey": "pre2kyu_pass"
@@ -12951,10 +12951,10 @@
     "answer": "appreciate",
     "matchedForm": "appreciate",
     "choices": [
-      "appreciate",
-      "appreciation",
-      "approach",
-      "prepare"
+      "each other",
+      "overweight",
+      "earthquake",
+      "appreciate"
     ],
     "meanings": "を感謝する",
     "audioKey": "pre2kyu_pass"
@@ -13031,10 +13031,10 @@
     "answer": "combine",
     "matchedForm": "combine",
     "choices": [
-      "compete",
+      "reserve",
       "combine",
-      "compare",
-      "mobile"
+      "recover",
+      "natural"
     ],
     "meanings": "を結びつける〈with ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -13047,9 +13047,9 @@
     "answer": "consider",
     "matchedForm": "consider",
     "choices": [
-      "wonder",
-      "consist",
-      "confident",
+      "movement",
+      "research",
+      "friendly",
       "consider"
     ],
     "meanings": "についてよく考える，（を）熟考する",
@@ -13079,9 +13079,9 @@
     "answer": "demonstrate",
     "matchedForm": "demonstrate",
     "choices": [
-      "demonstration",
-      "decorate",
       "demonstrate",
+      "no longer ～",
+      "corporation",
       "concentrate"
     ],
     "meanings": "を論証する，を実演して見せる，デモをする",
@@ -13095,9 +13095,9 @@
     "answer": "depend",
     "matchedForm": "depend",
     "choices": [
-      "desert",
-      "dependent",
-      "spend",
+      "excuse",
+      "advise",
+      "pigeon",
       "depend"
     ],
     "meanings": "頼る，依存する〈on ～に〉",
@@ -13111,9 +13111,9 @@
     "answer": "examine",
     "matchedForm": "examine",
     "choices": [
-      "imagine",
-      "examination",
-      "exactly",
+      "uniform",
+      "private",
+      "develop",
       "examine"
     ],
     "meanings": "を調べる，に試験をする",
@@ -13127,10 +13127,10 @@
     "answer": "express",
     "matchedForm": "express",
     "choices": [
-      "expression",
-      "expect",
       "express",
-      "impress"
+      "costume",
+      "outside",
+      "against"
     ],
     "meanings": "を表現する",
     "audioKey": "pre2kyu_pass"
@@ -13175,10 +13175,10 @@
     "answer": "maintain",
     "matchedForm": "maintain",
     "choices": [
-      "contain",
-      "main",
-      "maintain",
-      "mainly"
+      "surround",
+      "discover",
+      "surprise",
+      "maintain"
     ],
     "meanings": "を維持する（≒ keep up），を主張する〈that ...ということ〉",
     "audioKey": "pre2kyu_pass"
@@ -13223,10 +13223,10 @@
     "answer": "refresh",
     "matchedForm": "refresh",
     "choices": [
+      "quality",
+      "trouble",
       "refresh",
-      "refer",
-      "reflect",
-      "fresh"
+      "similar"
     ],
     "meanings": "を元気づける，の気分をさわやかにする",
     "audioKey": "pre2kyu_pass"
@@ -13287,10 +13287,10 @@
     "answer": "review",
     "matchedForm": "review",
     "choices": [
-      "recipe",
       "review",
-      "view",
-      "retire"
+      "return",
+      "flight",
+      "detail"
     ],
     "meanings": "（を）復習する，をよく調べる",
     "audioKey": "pre2kyu_pass"
@@ -13335,10 +13335,10 @@
     "answer": "select",
     "matchedForm": "select",
     "choices": [
-      "selection",
-      "secret",
+      "appear",
+      "damage",
       "select",
-      "reject"
+      "change"
     ],
     "meanings": "を選ぶ",
     "audioKey": "pre2kyu_pass"
@@ -13431,10 +13431,10 @@
     "answer": "fever",
     "matchedForm": "fever",
     "choices": [
-      "fever",
-      "level",
-      "fee",
-      "feed"
+      "event",
+      "upset",
+      "enter",
+      "fever"
     ],
     "meanings": "熱",
     "audioKey": "pre2kyu_pass"
@@ -13447,10 +13447,10 @@
     "answer": "flashlight",
     "matchedForm": "flashlight",
     "choices": [
-      "sunlight",
-      "flash",
-      "flight",
-      "flashlight"
+      "flashlight",
+      "completely",
+      "throughout",
+      "specialise"
     ],
     "meanings": "懐中電灯（英 electric torch）",
     "audioKey": "pre2kyu_pass"
@@ -13527,10 +13527,10 @@
     "answer": "harmony",
     "matchedForm": "harmony",
     "choices": [
+      "several",
+      "through",
       "harmony",
-      "harm",
-      "harmful",
-      "ceremony"
+      "perform"
     ],
     "meanings": "調和〈with ～との〉",
     "audioKey": "pre2kyu_pass"
@@ -13543,10 +13543,10 @@
     "answer": "historian",
     "matchedForm": "historian",
     "choices": [
-      "material",
-      "historical",
-      "horizon",
-      "historian"
+      "historian",
+      "transport",
+      "necessary",
+      "direction"
     ],
     "meanings": "歴史家，歴史学者",
     "audioKey": "pre2kyu_pass"
@@ -13575,10 +13575,10 @@
     "answer": "imagination",
     "matchedForm": "imagination",
     "choices": [
-      "invitation",
-      "imagine",
-      "examination",
-      "imagination"
+      "convenience",
+      "instruction",
+      "imagination",
+      "information"
     ],
     "meanings": "想像（力）",
     "audioKey": "pre2kyu_pass"
@@ -13591,10 +13591,10 @@
     "answer": "importance",
     "matchedForm": "importance",
     "choices": [
-      "import",
-      "performance",
-      "in advance",
-      "importance"
+      "importance",
+      "popularity",
+      "flashlight",
+      "photograph"
     ],
     "meanings": "重要性",
     "audioKey": "pre2kyu_pass"
@@ -13623,10 +13623,10 @@
     "answer": "interest",
     "matchedForm": "interest",
     "choices": [
-      "interview",
-      "internet",
+      "shortage",
       "interest",
-      "different"
+      "approach",
+      "announce"
     ],
     "meanings": "興味，利子",
     "audioKey": "pre2kyu_pass"
@@ -13639,10 +13639,10 @@
     "answer": "introduction",
     "matchedForm": "introduction",
     "choices": [
-      "introduce",
-      "production",
+      "accidentally",
+      "increasingly",
       "introduction",
-      "instruction"
+      "corporation"
     ],
     "meanings": "導入，紹介",
     "audioKey": "pre2kyu_pass"
@@ -13687,10 +13687,10 @@
     "answer": "lifetime",
     "matchedForm": "lifetime",
     "choices": [
-      "lifelong",
-      "lifetime",
-      "sometime",
-      "lift"
+      "discover",
+      "familiar",
+      "homestay",
+      "lifetime"
     ],
     "meanings": "一生，生涯",
     "audioKey": "pre2kyu_pass"
@@ -13735,10 +13735,10 @@
     "answer": "location",
     "matchedForm": "location",
     "choices": [
-      "relation",
-      "location",
-      "position",
-      "locate"
+      "national",
+      "decorate",
+      "restroom",
+      "location"
     ],
     "meanings": "場所，位置，ロケ地",
     "audioKey": "pre2kyu_pass"
@@ -13815,10 +13815,10 @@
     "answer": "media",
     "matchedForm": "media",
     "choices": [
-      "medium",
-      "media",
-      "idea",
-      "mean"
+      "offer",
+      "agree",
+      "solve",
+      "media"
     ],
     "meanings": "（the ～）（集合的に）マスコミ，マスメディア（＝ mass media）",
     "audioKey": "pre2kyu_pass"
@@ -13847,9 +13847,9 @@
     "answer": "messenger",
     "matchedForm": "messenger",
     "choices": [
-      "passenger",
-      "mess",
-      "missing",
+      "recognize",
+      "different",
+      "excellent",
       "messenger"
     ],
     "meanings": "配達人，使者，使い走り",
@@ -13879,10 +13879,10 @@
     "answer": "nationality",
     "matchedForm": "nationality",
     "choices": [
+      "examination",
+      "necessarily",
       "nationality",
-      "nation",
-      "national",
-      "personality"
+      "even if ..."
     ],
     "meanings": "国籍",
     "audioKey": "pre2kyu_pass"
@@ -13895,10 +13895,10 @@
     "answer": "navigation",
     "matchedForm": "navigation",
     "choices": [
-      "nation",
+      "tournament",
       "navigation",
-      "examination",
-      "invitation"
+      "conclusion",
+      "frightened"
     ],
     "meanings": "運行指示，航行，飛行",
     "audioKey": "pre2kyu_pass"
@@ -13911,10 +13911,10 @@
     "answer": "necessity",
     "matchedForm": "necessities",
     "choices": [
-      "necessary",
+      "dormitory",
+      "microwave",
       "necessity",
-      "security",
-      "necessarily"
+      "professor"
     ],
     "meanings": "必需品，必要，必要性",
     "audioKey": "pre2kyu_pass"
@@ -13927,10 +13927,10 @@
     "answer": "neighborhood",
     "matchedForm": "neighborhood",
     "choices": [
-      "childhood",
-      "network",
-      "neighbor",
-      "neighborhood"
+      "introduction",
+      "neighborhood",
+      "performance",
+      "explanation"
     ],
     "meanings": "近所，地域",
     "audioKey": "pre2kyu_pass"
@@ -13959,10 +13959,10 @@
     "answer": "origin",
     "matchedForm": "origin",
     "choices": [
-      "bright",
-      "original",
-      "originally",
-      "origin"
+      "design",
+      "origin",
+      "expert",
+      "health"
     ],
     "meanings": "起源",
     "audioKey": "pre2kyu_pass"
@@ -14039,10 +14039,10 @@
     "answer": "plate",
     "matchedForm": "plate",
     "choices": [
-      "plant",
       "plate",
-      "planet",
-      "later"
+      "smell",
+      "grade",
+      "solve"
     ],
     "meanings": "皿",
     "audioKey": "pre2kyu_pass"
@@ -14071,10 +14071,10 @@
     "answer": "policy",
     "matchedForm": "policy",
     "choices": [
-      "policy",
-      "noisy",
-      "polite",
-      "police"
+      "plenty",
+      "reason",
+      "design",
+      "policy"
     ],
     "meanings": "政策，方針",
     "audioKey": "pre2kyu_pass"
@@ -14087,10 +14087,10 @@
     "answer": "popularity",
     "matchedForm": "popularity",
     "choices": [
-      "charity",
-      "quality",
-      "population",
-      "popularity"
+      "popularity",
+      "invitation",
+      "government",
+      "suggestion"
     ],
     "meanings": "人気",
     "audioKey": "pre2kyu_pass"
@@ -14120,9 +14120,9 @@
     "matchedForm": "praise",
     "choices": [
       "praise",
-      "raise",
-      "price",
-      "prize"
+      "cancel",
+      "repair",
+      "arrive"
     ],
     "meanings": "称賛〈of，for ～に対する〉，賛美",
     "audioKey": "pre2kyu_pass"
@@ -14151,10 +14151,10 @@
     "answer": "pressure",
     "matchedForm": "pressure",
     "choices": [
+      "distance",
       "pressure",
-      "prepare",
-      "press",
-      "measure"
+      "neighbor",
+      "announce"
     ],
     "meanings": "圧力",
     "audioKey": "pre2kyu_pass"
@@ -14167,10 +14167,10 @@
     "answer": "privacy",
     "matchedForm": "privacy",
     "choices": [
-      "price",
-      "arrival",
-      "private",
-      "privacy"
+      "privacy",
+      "service",
+      "luckily",
+      "improve"
     ],
     "meanings": "プライバシー，秘密",
     "audioKey": "pre2kyu_pass"
@@ -14279,10 +14279,10 @@
     "answer": "relation",
     "matchedForm": "relations",
     "choices": [
-      "reaction",
-      "creation",
       "relation",
-      "relative"
+      "surround",
+      "exchange",
+      "portable"
     ],
     "meanings": "（～s）関係〈between ～の間の，with ～との〉，結びつき",
     "audioKey": "pre2kyu_pass"
@@ -14296,9 +14296,9 @@
     "matchedForm": "relatives",
     "choices": [
       "relative",
-      "negative",
-      "receive",
-      "relation"
+      "customer",
+      "graduate",
+      "sunlight"
     ],
     "meanings": "親戚，身内",
     "audioKey": "pre2kyu_pass"
@@ -14311,10 +14311,10 @@
     "answer": "resource",
     "matchedForm": "resources",
     "choices": [
-      "research",
+      "remember",
+      "disaster",
       "resource",
-      "pressure",
-      "resort"
+      "medicine"
     ],
     "meanings": "（通例 ～s）資源，資金",
     "audioKey": "pre2kyu_pass"
@@ -14391,10 +14391,10 @@
     "answer": "safety",
     "matchedForm": "safety",
     "choices": [
-      "save",
       "safety",
-      "safe",
-      "lately"
+      "center",
+      "damage",
+      "chance"
     ],
     "meanings": "安全（⇔ danger）",
     "audioKey": "pre2kyu_pass"
@@ -14407,10 +14407,10 @@
     "answer": "scene",
     "matchedForm": "scene",
     "choices": [
-      "sense",
-      "event",
+      "avoid",
+      "novel",
       "scene",
-      "scenery"
+      "grade"
     ],
     "meanings": "場面，眺め，景色",
     "audioKey": "pre2kyu_pass"
@@ -14455,10 +14455,10 @@
     "answer": "security",
     "matchedForm": "security",
     "choices": [
-      "security",
-      "secret",
-      "charity",
-      "secretly"
+      "ordinary",
+      "entrance",
+      "ceremony",
+      "security"
     ],
     "meanings": "警備，安全",
     "audioKey": "pre2kyu_pass"
@@ -14472,9 +14472,9 @@
     "matchedForm": "selection",
     "choices": [
       "selection",
-      "direction",
-      "reaction",
-      "select"
+      "difficult",
+      "attention",
+      "passenger"
     ],
     "meanings": "品ぞろえ，選ばれた物［人］，選択（≒ choice）",
     "audioKey": "pre2kyu_pass"
@@ -14535,10 +14535,10 @@
     "answer": "species",
     "matchedForm": "species",
     "choices": [
-      "specific",
-      "special",
-      "besides",
-      "species"
+      "collect",
+      "species",
+      "anymore",
+      "arrange"
     ],
     "meanings": "種（しゅ）",
     "audioKey": "pre2kyu_pass"
@@ -14567,10 +14567,10 @@
     "answer": "statue",
     "matchedForm": "statue",
     "choices": [
-      "stare",
-      "nature",
       "statue",
-      "state"
+      "secret",
+      "search",
+      "pigeon"
     ],
     "meanings": "像，彫像",
     "audioKey": "pre2kyu_pass"
@@ -14616,9 +14616,9 @@
     "matchedForm": "strength",
     "choices": [
       "strength",
-      "stretch",
-      "strongly",
-      "rent"
+      "dinosaur",
+      "although",
+      "sunlight"
     ],
     "meanings": "強さ，力，長所",
     "audioKey": "pre2kyu_pass"
@@ -14631,10 +14631,10 @@
     "answer": "surface",
     "matchedForm": "surface",
     "choices": [
-      "surface",
-      "face",
-      "surf",
-      "survive"
+      "arrange",
+      "another",
+      "perform",
+      "surface"
     ],
     "meanings": "表面，（the ～）外見",
     "audioKey": "pre2kyu_pass"
@@ -14679,10 +14679,10 @@
     "answer": "technology",
     "matchedForm": "technology",
     "choices": [
-      "technical",
-      "technology",
-      "technique",
-      "psychology"
+      "overweight",
+      "apparently",
+      "attraction",
+      "technology"
     ],
     "meanings": "科学技術，テクノロジー",
     "audioKey": "pre2kyu_pass"
@@ -14775,10 +14775,10 @@
     "answer": "victim",
     "matchedForm": "victim",
     "choices": [
-      "victory",
-      "victim",
-      "arctic",
-      "visitor"
+      "health",
+      "middle",
+      "search",
+      "victim"
     ],
     "meanings": "犠牲（者），いけにえ",
     "audioKey": "pre2kyu_pass"
@@ -14823,10 +14823,10 @@
     "answer": "achievement",
     "matchedForm": "achievement",
     "choices": [
+      "be sold out",
       "achievement",
-      "achieve",
-      "agreement",
-      "movement"
+      "organization",
+      "plenty of ～"
     ],
     "meanings": "功績〈in ～における〉，業績，達成",
     "audioKey": "pre2kyu_pass"
@@ -14839,10 +14839,10 @@
     "answer": "admission",
     "matchedForm": "Admission",
     "choices": [
-      "decision",
-      "admit",
       "admission",
-      "advise"
+      "interview",
+      "advertise",
+      "transport"
     ],
     "meanings": "入場（許可），入会，入学",
     "audioKey": "pre2kyu_pass"
@@ -14871,10 +14871,10 @@
     "answer": "appreciation",
     "matchedForm": "appreciation",
     "choices": [
-      "attraction",
-      "operation",
-      "appreciate",
-      "appreciation"
+      "appreciation",
+      "instead of ～",
+      "celebration",
+      "accidentally"
     ],
     "meanings": "感謝，評価",
     "audioKey": "pre2kyu_pass"
@@ -14887,10 +14887,10 @@
     "answer": "arrival",
     "matchedForm": "arrival",
     "choices": [
-      "arrange",
+      "quality",
+      "clothes",
       "arrival",
-      "capital",
-      "arrive"
+      "address"
     ],
     "meanings": "到着（⇔ departure）",
     "audioKey": "pre2kyu_pass"
@@ -14919,10 +14919,10 @@
     "answer": "attraction",
     "matchedForm": "attraction",
     "choices": [
-      "attract",
-      "operation",
-      "attention",
-      "attraction"
+      "lighthouse",
+      "attraction",
+      "connection",
+      "individual"
     ],
     "meanings": "（観光の）名所，呼び物，魅力",
     "audioKey": "pre2kyu_pass"
@@ -14951,10 +14951,10 @@
     "answer": "belief",
     "matchedForm": "belief",
     "choices": [
-      "review",
+      "invite",
       "belief",
-      "below",
-      "belong"
+      "middle",
+      "change"
     ],
     "meanings": "信仰，確信，信念",
     "audioKey": "pre2kyu_pass"
@@ -15095,10 +15095,10 @@
     "answer": "connection",
     "matchedForm": "connection",
     "choices": [
-      "direction",
+      "successful",
       "connection",
-      "condition",
-      "connect"
+      "decoration",
+      "importance"
     ],
     "meanings": "関係〈with ～との，between ～の間の〉，結合",
     "audioKey": "pre2kyu_pass"
@@ -15111,10 +15111,10 @@
     "answer": "creation",
     "matchedForm": "creation",
     "choices": [
+      "employee",
       "creation",
-      "reaction",
-      "relation",
-      "create"
+      "friendly",
+      "research"
     ],
     "meanings": "創作，創造",
     "audioKey": "pre2kyu_pass"
@@ -15127,10 +15127,10 @@
     "answer": "delivery",
     "matchedForm": "delivery",
     "choices": [
-      "delicate",
-      "recovery",
-      "delivery",
-      "deliver"
+      "disaster",
+      "announce",
+      "probably",
+      "delivery"
     ],
     "meanings": "配達",
     "audioKey": "pre2kyu_pass"
@@ -15143,10 +15143,10 @@
     "answer": "demonstration",
     "matchedForm": "demonstration",
     "choices": [
-      "demonstrate",
+      "after a while",
+      "prefer A to B",
       "demonstration",
-      "decoration",
-      "generation"
+      "help A （to） do"
     ],
     "meanings": "デモ，実演",
     "audioKey": "pre2kyu_pass"
@@ -15175,10 +15175,10 @@
     "answer": "expression",
     "matchedForm": "expression",
     "choices": [
-      "express",
       "expression",
-      "expensive",
-      "suggestion"
+      "find out ～",
+      "attraction",
+      "experience"
     ],
     "meanings": "表現，表情",
     "audioKey": "pre2kyu_pass"
@@ -15191,10 +15191,10 @@
     "answer": "factor",
     "matchedForm": "factor",
     "choices": [
-      "fact",
-      "factory",
-      "actor",
-      "factor"
+      "appear",
+      "fossil",
+      "factor",
+      "symbol"
     ],
     "meanings": "要素，要因",
     "audioKey": "pre2kyu_pass"
@@ -15207,10 +15207,10 @@
     "answer": "failure",
     "matchedForm": "failure",
     "choices": [
-      "fail",
-      "nature",
-      "failure",
-      "figure"
+      "several",
+      "purpose",
+      "anymore",
+      "failure"
     ],
     "meanings": "失敗〈in ～での〉（⇔ success）",
     "audioKey": "pre2kyu_pass"
@@ -15223,10 +15223,10 @@
     "answer": "fair",
     "matchedForm": "fair",
     "choices": [
+      "rock",
       "fair",
-      "fairly",
-      "wait",
-      "fail"
+      "long",
+      "move"
     ],
     "meanings": "見本市，博覧会，品評会",
     "audioKey": "pre2kyu_pass"
@@ -15239,10 +15239,10 @@
     "answer": "fare",
     "matchedForm": "fare",
     "choices": [
-      "far",
-      "care",
-      "face",
-      "fare"
+      "True",
+      "fare",
+      "copy",
+      "sale"
     ],
     "meanings": "（乗り物の）料金",
     "audioKey": "pre2kyu_pass"
@@ -15319,10 +15319,10 @@
     "answer": "form",
     "matchedForm": "form",
     "choices": [
-      "harm",
-      "fold",
-      "formal",
-      "form"
+      "form",
+      "hold",
+      "gift",
+      "rent"
     ],
     "meanings": "（書き込み）用紙，形",
     "audioKey": "pre2kyu_pass"
@@ -15335,10 +15335,10 @@
     "answer": "generation",
     "matchedForm": "generation",
     "choices": [
-      "generation",
-      "reservation",
-      "generally",
-      "general"
+      "flashlight",
+      "reasonable",
+      "individual",
+      "generation"
     ],
     "meanings": "世代",
     "audioKey": "pre2kyu_pass"
@@ -15367,10 +15367,10 @@
     "answer": "ground",
     "matchedForm": "ground",
     "choices": [
-      "round",
-      "sound",
-      "pound",
-      "ground"
+      "expect",
+      "ground",
+      "plenty",
+      "custom"
     ],
     "meanings": "（通例 the ～）地面，土地",
     "audioKey": "pre2kyu_pass"
@@ -15383,10 +15383,10 @@
     "answer": "headache",
     "matchedForm": "headache",
     "choices": [
-      "health",
-      "healthy",
-      "replace",
-      "headache"
+      "headache",
+      "shortage",
+      "practice",
+      "ordinary"
     ],
     "meanings": "頭痛",
     "audioKey": "pre2kyu_pass"
@@ -15447,10 +15447,10 @@
     "answer": "opportunity",
     "matchedForm": "opportunity",
     "choices": [
-      "fortunately",
-      "opportunity",
-      "community",
-      "opposite"
+      "convenient",
+      "get A to do",
+      "all the way",
+      "opportunity"
     ],
     "meanings": "機会（≒ chance）",
     "audioKey": "pre2kyu_pass"
@@ -15463,10 +15463,10 @@
     "answer": "pain",
     "matchedForm": "pain",
     "choices": [
-      "paint",
       "pain",
-      "plain",
-      "main"
+      "save",
+      "bear",
+      "else"
     ],
     "meanings": "苦痛，（～s）苦労",
     "audioKey": "pre2kyu_pass"
@@ -15511,10 +15511,10 @@
     "answer": "personality",
     "matchedForm": "personality",
     "choices": [
-      "personal",
       "personality",
-      "popularity",
-      "nationality"
+      "grandparent",
+      "communicate",
+      "for a while"
     ],
     "meanings": "性格，個性，人格",
     "audioKey": "pre2kyu_pass"
@@ -15543,10 +15543,10 @@
     "answer": "production",
     "matchedForm": "production",
     "choices": [
-      "graduation",
-      "produce",
-      "product",
-      "production"
+      "production",
+      "navigation",
+      "convenient",
+      "overweight"
     ],
     "meanings": "生産",
     "audioKey": "pre2kyu_pass"
@@ -15575,10 +15575,10 @@
     "answer": "property",
     "matchedForm": "properties",
     "choices": [
-      "grocery",
+      "probably",
+      "moreover",
       "property",
-      "protect",
-      "properly"
+      "Internet"
     ],
     "meanings": "（集合的に）財産，（通例 ～ ties）特性",
     "audioKey": "pre2kyu_pass"
@@ -15591,9 +15591,9 @@
     "answer": "recovery",
     "matchedForm": "recovery",
     "choices": [
-      "delivery",
-      "recover",
-      "recommend",
+      "increase",
+      "approach",
+      "familiar",
       "recovery"
     ],
     "meanings": "（a ～）回復",
@@ -15607,10 +15607,10 @@
     "answer": "scenery",
     "matchedForm": "scenery",
     "choices": [
-      "scene",
+      "quality",
+      "finally",
       "scenery",
-      "scary",
-      "center"
+      "several"
     ],
     "meanings": "（集合的に）風景",
     "audioKey": "pre2kyu_pass"
@@ -15623,10 +15623,10 @@
     "answer": "separation",
     "matchedForm": "separation",
     "choices": [
-      "separate",
-      "separation",
-      "generation",
-      "decoration"
+      "commercial",
+      "atmosphere",
+      "get better",
+      "separation"
     ],
     "meanings": "分離",
     "audioKey": "pre2kyu_pass"
@@ -15655,10 +15655,10 @@
     "answer": "sign",
     "matchedForm": "sign",
     "choices": [
-      "sign",
-      "sight",
-      "signal",
-      "win"
+      "turn",
+      "hide",
+      "rely",
+      "sign"
     ],
     "meanings": "標識，合図，前兆",
     "audioKey": "pre2kyu_pass"
@@ -15671,10 +15671,10 @@
     "answer": "task",
     "matchedForm": "task",
     "choices": [
-      "taste",
       "task",
-      "tasty",
-      "pack"
+      "bake",
+      "join",
+      "miss"
     ],
     "meanings": "（課せられた）仕事",
     "audioKey": "pre2kyu_pass"
@@ -15719,9 +15719,9 @@
     "answer": "thought",
     "matchedForm": "thought",
     "choices": [
-      "through",
-      "shout",
-      "though",
+      "deliver",
+      "address",
+      "similar",
       "thought"
     ],
     "meanings": "考え，思考",
@@ -15735,10 +15735,10 @@
     "answer": "tradition",
     "matchedForm": "tradition",
     "choices": [
-      "graduation",
-      "condition",
-      "traditional",
-      "tradition"
+      "apologize",
+      "tradition",
+      "difficult",
+      "agreement"
     ],
     "meanings": "伝統",
     "audioKey": "pre2kyu_pass"
@@ -15751,10 +15751,10 @@
     "answer": "value",
     "matchedForm": "value",
     "choices": [
-      "vase",
-      "sale",
-      "valuable",
-      "value"
+      "value",
+      "event",
+      "plant",
+      "favor"
     ],
     "meanings": "価値",
     "audioKey": "pre2kyu_pass"
@@ -15783,10 +15783,10 @@
     "answer": "wealth",
     "matchedForm": "wealth",
     "choices": [
-      "health",
-      "healthy",
-      "death",
-      "wealth"
+      "expert",
+      "wealth",
+      "desert",
+      "damage"
     ],
     "meanings": "財産，富",
     "audioKey": "pre2kyu_pass"
@@ -15799,9 +15799,9 @@
     "answer": "ill",
     "matchedForm": "ill",
     "choices": [
-      "bill",
-      "till",
-      "fill",
+      "gift",
+      "save",
+      "mind",
       "ill"
     ],
     "meanings": "【形】病気で（≒ sick）（⇔ well），悪い",
@@ -15815,10 +15815,10 @@
     "answer": "instant",
     "matchedForm": "instant",
     "choices": [
+      "dessert",
+      "collect",
       "instant",
-      "in fact",
-      "constant",
-      "instead"
+      "anymore"
     ],
     "meanings": "【形】即時の，即席の",
     "audioKey": "pre2kyu_pass"
@@ -15831,10 +15831,10 @@
     "answer": "intelligent",
     "matchedForm": "intelligent",
     "choices": [
+      "information",
+      "completely",
       "intelligent",
-      "excellent",
-      "internet",
-      "interview"
+      "necessarily"
     ],
     "meanings": "【形】知能の高い，気のきいた",
     "audioKey": "pre2kyu_pass"
@@ -15879,10 +15879,10 @@
     "answer": "lifelong",
     "matchedForm": "lifelong",
     "choices": [
-      "likely",
-      "belong",
+      "official",
       "lifelong",
-      "lifetime"
+      "exercise",
+      "decrease"
     ],
     "meanings": "【形】一生の",
     "audioKey": "pre2kyu_pass"
@@ -15911,10 +15911,10 @@
     "answer": "medium",
     "matchedForm": "medium",
     "choices": [
-      "medicine",
-      "media",
-      "medium",
-      "decide"
+      "spread",
+      "create",
+      "pigeon",
+      "medium"
     ],
     "meanings": "【形】中間の，中くらいの",
     "audioKey": "pre2kyu_pass"
@@ -15943,10 +15943,10 @@
     "answer": "missing",
     "matchedForm": "missing",
     "choices": [
-      "mistake",
-      "swing",
+      "traffic",
       "missing",
-      "miss"
+      "another",
+      "purpose"
     ],
     "meanings": "【形】欠けている，失われた〈from ～から〉",
     "audioKey": "pre2kyu_pass"
@@ -16007,10 +16007,10 @@
     "answer": "overweight",
     "matchedForm": "overweight",
     "choices": [
-      "bright",
-      "weight",
-      "overcome",
-      "overweight"
+      "overweight",
+      "downstairs",
+      "importance",
+      "generation"
     ],
     "meanings": "【形】太り過ぎの，重量超過の（⇔ underweight）",
     "audioKey": "pre2kyu_pass"
@@ -16023,10 +16023,10 @@
     "answer": "painful",
     "matchedForm": "painful",
     "choices": [
-      "pain",
-      "careful",
-      "painful",
-      "paint"
+      "however",
+      "recover",
+      "through",
+      "painful"
     ],
     "meanings": "【形】つらい，苦痛な，苦しい（⇔ painless）",
     "audioKey": "pre2kyu_pass"
@@ -16055,10 +16055,10 @@
     "answer": "personal",
     "matchedForm": "personal",
     "choices": [
-      "personality",
-      "perform",
-      "national",
-      "personal"
+      "ceremony",
+      "organize",
+      "personal",
+      "remember"
     ],
     "meanings": "【形】個人の，私的な（≒ private）（⇔ public）",
     "audioKey": "pre2kyu_pass"
@@ -16103,10 +16103,10 @@
     "answer": "polite",
     "matchedForm": "polite",
     "choices": [
-      "notice",
-      "police",
-      "policy",
-      "polite"
+      "degree",
+      "lonely",
+      "polite",
+      "puppet"
     ],
     "meanings": "【形】礼儀正しい（⇔ impolite, rude）",
     "audioKey": "pre2kyu_pass"
@@ -16119,10 +16119,10 @@
     "answer": "positive",
     "matchedForm": "positive",
     "choices": [
-      "possible",
-      "relative",
       "positive",
-      "position"
+      "practice",
+      "graduate",
+      "moreover"
     ],
     "meanings": "【形】肯定的な，積極的な（⇔ negative）",
     "audioKey": "pre2kyu_pass"
@@ -16135,10 +16135,10 @@
     "answer": "professional",
     "matchedForm": "professional",
     "choices": [
-      "professor",
-      "process",
-      "traditional",
-      "professional"
+      "frightening",
+      "intelligent",
+      "professional",
+      "organization"
     ],
     "meanings": "【形】プロの，専門の（⇔ amateur）",
     "audioKey": "pre2kyu_pass"
@@ -16151,10 +16151,10 @@
     "answer": "rapid",
     "matchedForm": "rapid",
     "choices": [
-      "rapidly",
       "rapid",
-      "raise",
-      "maid"
+      "cloth",
+      "cheer",
+      "waste"
     ],
     "meanings": "【形】急速な，（動きが）速い",
     "audioKey": "pre2kyu_pass"
@@ -16183,10 +16183,10 @@
     "answer": "responsible",
     "matchedForm": "responsible",
     "choices": [
-      "possible",
-      "respond",
+      "apply for ～",
+      "explanation",
       "responsible",
-      "reasonable"
+      "plenty of ～"
     ],
     "meanings": "【形】責任のある〈for ～に対して〉",
     "audioKey": "pre2kyu_pass"
@@ -16247,10 +16247,10 @@
     "answer": "sharp",
     "matchedForm": "sharp",
     "choices": [
-      "share",
+      "allow",
+      "relax",
       "sharp",
-      "harm",
-      "shape"
+      "front"
     ],
     "meanings": "【形】鋭い，（坂などが）急な，鋭敏な",
     "audioKey": "pre2kyu_pass"
@@ -16295,10 +16295,10 @@
     "answer": "standard",
     "matchedForm": "standard",
     "choices": [
-      "standard",
-      "stand",
-      "stare",
-      "award"
+      "engineer",
+      "position",
+      "moreover",
+      "standard"
     ],
     "meanings": "【形】標準の",
     "audioKey": "pre2kyu_pass"
@@ -16311,10 +16311,10 @@
     "answer": "steady",
     "matchedForm": "steady",
     "choices": [
-      "lead",
-      "stereo",
-      "steal",
-      "steady"
+      "amount",
+      "advise",
+      "steady",
+      "plenty"
     ],
     "meanings": "【形】着実な，一定した，固定された",
     "audioKey": "pre2kyu_pass"
@@ -16327,10 +16327,10 @@
     "answer": "stressful",
     "matchedForm": "stressful",
     "choices": [
+      "education",
+      "dangerous",
       "stressful",
-      "successful",
-      "careful",
-      "stress"
+      "knowledge"
     ],
     "meanings": "【形】ストレスの原因となる，緊張を強いる",
     "audioKey": "pre2kyu_pass"
@@ -16359,10 +16359,10 @@
     "answer": "tasty",
     "matchedForm": "tasty",
     "choices": [
-      "past",
-      "task",
-      "taste",
-      "tasty"
+      "reply",
+      "upset",
+      "tasty",
+      "plant"
     ],
     "meanings": "【形】おいしい，風味の良い",
     "audioKey": "pre2kyu_pass"
@@ -16375,10 +16375,10 @@
     "answer": "technical",
     "matchedForm": "technical",
     "choices": [
-      "special",
-      "technology",
-      "technique",
-      "technical"
+      "crocodile",
+      "technical",
+      "apartment",
+      "fantastic"
     ],
     "meanings": "【形】専門の，工業技術の",
     "audioKey": "pre2kyu_pass"
@@ -16391,10 +16391,10 @@
     "answer": "terrible",
     "matchedForm": "terrible",
     "choices": [
-      "terribly",
-      "trouble",
-      "terrible",
-      "possible"
+      "accident",
+      "actually",
+      "homestay",
+      "terrible"
     ],
     "meanings": "【形】ひどい，恐ろしい",
     "audioKey": "pre2kyu_pass"
@@ -16455,10 +16455,10 @@
     "answer": "unfriendly",
     "matchedForm": "unfriendly",
     "choices": [
+      "particular",
+      "originally",
       "unfriendly",
-      "unkind",
-      "friendly",
-      "unlikely"
+      "appreciate"
     ],
     "meanings": "【形】不親切な，よそよそしい（⇔ friendly）",
     "audioKey": "pre2kyu_pass"
@@ -16471,10 +16471,10 @@
     "answer": "unknown",
     "matchedForm": "unknown",
     "choices": [
-      "own",
-      "unkind",
-      "uniform",
-      "unknown"
+      "develop",
+      "unknown",
+      "instead",
+      "address"
     ],
     "meanings": "【形】知られていない，無名の",
     "audioKey": "pre2kyu_pass"
@@ -16487,10 +16487,10 @@
     "answer": "unlikely",
     "matchedForm": "unlikely",
     "choices": [
+      "friendly",
+      "backyard",
       "unlikely",
-      "unless",
-      "likely",
-      "unlike"
+      "portable"
     ],
     "meanings": "【形】ありそうにない（⇔ likely）",
     "audioKey": "pre2kyu_pass"
@@ -16551,10 +16551,10 @@
     "answer": "active",
     "matchedForm": "active",
     "choices": [
-      "arrive",
-      "receive",
+      "appear",
       "active",
-      "activity"
+      "follow",
+      "travel"
     ],
     "meanings": "【形】活動的な，積極的な（⇔ passive）",
     "audioKey": "pre2kyu_pass"
@@ -16583,10 +16583,10 @@
     "answer": "exact",
     "matchedForm": "exact",
     "choices": [
-      "exactly",
-      "exist",
       "exact",
-      "fact"
+      "raise",
+      "ma'am",
+      "carry"
     ],
     "meanings": "【形】正確な",
     "audioKey": "pre2kyu_pass"
@@ -16599,10 +16599,10 @@
     "answer": "general",
     "matchedForm": "general",
     "choices": [
-      "generally",
-      "generation",
-      "several",
-      "general"
+      "general",
+      "nervous",
+      "victory",
+      "dessert"
     ],
     "meanings": "【形】一般の（⇔ special），全体の",
     "audioKey": "pre2kyu_pass"
@@ -16631,10 +16631,10 @@
     "answer": "nuclear",
     "matchedForm": "Nuclear",
     "choices": [
-      "succeed",
-      "clear",
       "nuclear",
-      "success"
+      "trouble",
+      "develop",
+      "produce"
     ],
     "meanings": "【形】原子力利用の，核の",
     "audioKey": "pre2kyu_pass"
@@ -16647,10 +16647,10 @@
     "answer": "opposite",
     "matchedForm": "opposite",
     "choices": [
+      "although",
+      "activity",
       "opposite",
-      "opportunity",
-      "outside",
-      "polite"
+      "director"
     ],
     "meanings": "【形】反対の〈to, from ～と〉",
     "audioKey": "pre2kyu_pass"
@@ -16679,10 +16679,10 @@
     "answer": "raw",
     "matchedForm": "raw",
     "choices": [
-      "raw",
-      "row",
-      "draw",
-      "race"
+      "wake",
+      "aim",
+      "war",
+      "raw"
     ],
     "meanings": "【形】未加工の，生（なま）の",
     "audioKey": "pre2kyu_pass"
@@ -16695,10 +16695,10 @@
     "answer": "reasonable",
     "matchedForm": "reasonable",
     "choices": [
-      "responsible",
-      "reason",
-      "reasonable",
-      "enjoyable"
+      "navigation",
+      "connection",
+      "popularity",
+      "reasonable"
     ],
     "meanings": "【形】手ごろな，道理に合った",
     "audioKey": "pre2kyu_pass"
@@ -16727,10 +16727,10 @@
     "answer": "specific",
     "matchedForm": "specific",
     "choices": [
-      "species",
+      "actually",
       "specific",
-      "decision",
-      "special"
+      "probably",
+      "familiar"
     ],
     "meanings": "【形】特定の，明確な",
     "audioKey": "pre2kyu_pass"
@@ -16823,10 +16823,10 @@
     "answer": "valuable",
     "matchedForm": "valuable",
     "choices": [
-      "vegetable",
-      "available",
-      "value",
-      "valuable"
+      "recently",
+      "although",
+      "valuable",
+      "announce"
     ],
     "meanings": "【形】貴重な，高価な",
     "audioKey": "pre2kyu_pass"
@@ -16839,10 +16839,10 @@
     "answer": "various",
     "matchedForm": "various",
     "choices": [
+      "special",
       "various",
-      "serious",
-      "nervous",
-      "variety"
+      "collect",
+      "natural"
     ],
     "meanings": "【形】さまざまな",
     "audioKey": "pre2kyu_pass"
@@ -16855,10 +16855,10 @@
     "answer": "visible",
     "matchedForm": "visible",
     "choices": [
-      "possible",
-      "visitor",
-      "vehicle",
-      "visible"
+      "reserve",
+      "visible",
+      "prepare",
+      "through"
     ],
     "meanings": "【形】目に見える（⇔ invisible），明白な",
     "audioKey": "pre2kyu_pass"
@@ -16920,9 +16920,9 @@
     "matchedForm": "lately",
     "choices": [
       "lately",
-      "rarely",
-      "likely",
-      "later"
+      "create",
+      "puppet",
+      "forget"
     ],
     "meanings": "【副】最近，近ごろ（≒ recently）",
     "audioKey": "pre2kyu_pass"
@@ -16936,9 +16936,9 @@
     "matchedForm": "mainly",
     "choices": [
       "mainly",
-      "fairly",
-      "maid",
-      "main"
+      "invite",
+      "avenue",
+      "moment"
     ],
     "meanings": "【副】主に",
     "audioKey": "pre2kyu_pass"
@@ -16967,10 +16967,10 @@
     "answer": "necessarily",
     "matchedForm": "necessarily",
     "choices": [
-      "necessity",
-      "recently",
+      "immediately",
+      "be sold out",
       "necessarily",
-      "necessary"
+      "carry out ～"
     ],
     "meanings": "【副】（否定文で）必ずしも（～でない），必然的に",
     "audioKey": "pre2kyu_pass"
@@ -16983,10 +16983,10 @@
     "answer": "properly",
     "matchedForm": "properly",
     "choices": [
-      "probably",
-      "property",
-      "properly",
-      "grocery"
+      "ordinary",
+      "graduate",
+      "actually",
+      "properly"
     ],
     "meanings": "【副】適切に",
     "audioKey": "pre2kyu_pass"
@@ -17015,10 +17015,10 @@
     "answer": "secretly",
     "matchedForm": "secretly",
     "choices": [
-      "recently",
-      "security",
-      "secret",
-      "secretly"
+      "entrance",
+      "approach",
+      "secretly",
+      "recently"
     ],
     "meanings": "【副】ひそかに",
     "audioKey": "pre2kyu_pass"
@@ -17031,10 +17031,10 @@
     "answer": "shortly",
     "matchedForm": "shortly",
     "choices": [
-      "shortage",
+      "several",
+      "produce",
       "shortly",
-      "mostly",
-      "shout"
+      "ancient"
     ],
     "meanings": "【副】じきに，間もなく",
     "audioKey": "pre2kyu_pass"
@@ -17095,10 +17095,10 @@
     "answer": "surprisingly",
     "matchedForm": "Surprisingly",
     "choices": [
-      "surround",
-      "surprise",
+      "believe in ～",
       "surprisingly",
-      "increasingly"
+      "be against ～",
+      "introduction"
     ],
     "meanings": "【副】驚くほど，意外にも",
     "audioKey": "pre2kyu_pass"
@@ -17143,10 +17143,10 @@
     "answer": "accidentally",
     "matchedForm": "accidentally",
     "choices": [
-      "accidentally",
-      "recently",
-      "actually",
-      "accident"
+      "look after ～",
+      "instruction",
+      "concentrate",
+      "accidentally"
     ],
     "meanings": "【副】誤って，偶然に（≒ by accident）",
     "audioKey": "pre2kyu_pass"
@@ -17191,10 +17191,10 @@
     "answer": "extremely",
     "matchedForm": "extremely",
     "choices": [
-      "experiment",
-      "extra",
-      "extremely",
-      "butterfly"
+      "confident",
+      "recognize",
+      "pollution",
+      "extremely"
     ],
     "meanings": "【副】非常に，極端に",
     "audioKey": "pre2kyu_pass"
@@ -17223,10 +17223,10 @@
     "answer": "increasingly",
     "matchedForm": "increasingly",
     "choices": [
-      "international",
-      "increase",
-      "increasingly",
-      "surprisingly"
+      "for instance",
+      "demonstrate",
+      "instead of ～",
+      "increasingly"
     ],
     "meanings": "【副】ますます，だんだん",
     "audioKey": "pre2kyu_pass"
@@ -17271,10 +17271,10 @@
     "answer": "normally",
     "matchedForm": "normally",
     "choices": [
-      "formal",
-      "normal",
+      "ordinary",
+      "actually",
       "normally",
-      "totally"
+      "sometime"
     ],
     "meanings": "【副】通常は，普通は",
     "audioKey": "pre2kyu_pass"
@@ -17303,10 +17303,10 @@
     "answer": "rarely",
     "matchedForm": "rarely",
     "choices": [
-      "lately",
-      "rarely",
-      "rely",
-      "race"
+      "chance",
+      "advise",
+      "lonely",
+      "rarely"
     ],
     "meanings": "【副】めったに～しない（≒ seldom）",
     "audioKey": "pre2kyu_pass"
@@ -17335,10 +17335,10 @@
     "answer": "terribly",
     "matchedForm": "terribly",
     "choices": [
-      "trouble",
       "terribly",
-      "secretly",
-      "terrible"
+      "accident",
+      "disaster",
+      "decrease"
     ],
     "meanings": "【副】ひどく，とても",
     "audioKey": "pre2kyu_pass"
@@ -17351,10 +17351,10 @@
     "answer": "after a while",
     "matchedForm": "After a while",
     "choices": [
-      "afterward",
-      "after a while",
-      "once in a while",
-      "for a while"
+      "be based on ～",
+      "advertisement",
+      "give A a ride",
+      "after a while"
     ],
     "meanings": "しばらくして",
     "audioKey": "pre2kyu_pass"
@@ -17383,10 +17383,10 @@
     "answer": "as usual",
     "matchedForm": "as usual",
     "choices": [
-      "as usual",
-      "usual",
-      "assistant",
-      "unusual"
+      "memorize",
+      "disaster",
+      "graduate",
+      "as usual"
     ],
     "meanings": "いつものように",
     "audioKey": "pre2kyu_pass"
@@ -17447,10 +17447,10 @@
     "answer": "by accident",
     "matchedForm": "by accident",
     "choices": [
-      "patient",
       "by accident",
-      "accident",
-      "ancient"
+      "opportunity",
+      "examination",
+      "reservation"
     ],
     "meanings": "偶然に（≒ by chance）（⇔ on purpose）",
     "audioKey": "pre2kyu_pass"
@@ -17463,10 +17463,10 @@
     "answer": "by chance",
     "matchedForm": "by chance",
     "choices": [
-      "chance",
-      "balance",
+      "knowledge",
+      "afterward",
       "by chance",
-      "by nature"
+      "agreement"
     ],
     "meanings": "偶然に（≒ by accident）（⇔ on purpose）",
     "audioKey": "pre2kyu_pass"
@@ -17495,10 +17495,10 @@
     "answer": "by mistake",
     "matchedForm": "by mistake",
     "choices": [
-      "by chance",
-      "mistake",
-      "by nature",
-      "by mistake"
+      "experiment",
+      "by mistake",
+      "separation",
+      "specialise"
     ],
     "meanings": "間違って",
     "audioKey": "pre2kyu_pass"
@@ -17512,9 +17512,9 @@
     "matchedForm": "by nature",
     "choices": [
       "by nature",
-      "miniature",
-      "nature",
-      "furniture"
+      "regularly",
+      "furniture",
+      "education"
     ],
     "meanings": "生まれつき",
     "audioKey": "pre2kyu_pass"
@@ -17527,10 +17527,10 @@
     "answer": "check out",
     "matchedForm": "check out",
     "choices": [
+      "enjoyable",
+      "attention",
       "check out",
-      "shout",
-      "cheerful",
-      "check"
+      "recommend"
     ],
     "meanings": "チェックアウトする（⇔ check in）",
     "audioKey": "pre2kyu_pass"
@@ -17543,10 +17543,10 @@
     "answer": "come true",
     "matchedForm": "come true",
     "choices": [
-      "come out",
-      "sometime",
-      "come true",
-      "compare"
+      "community",
+      "agreement",
+      "discovery",
+      "come true"
     ],
     "meanings": "実現する（≒ be realized）",
     "audioKey": "pre2kyu_pass"
@@ -17575,10 +17575,10 @@
     "answer": "dress up",
     "matchedForm": "dress up",
     "choices": [
-      "stressful",
+      "industry",
+      "continue",
       "dress up",
-      "dessert",
-      "dress"
+      "distance"
     ],
     "meanings": "正装する",
     "audioKey": "pre2kyu_pass"
@@ -17607,10 +17607,10 @@
     "answer": "each other",
     "matchedForm": "each other",
     "choices": [
-      "another",
+      "government",
       "each other",
-      "other",
-      "clothes"
+      "apparently",
+      "disappoint"
     ],
     "meanings": "お互い",
     "audioKey": "pre2kyu_pass"
@@ -17623,10 +17623,10 @@
     "answer": "fall asleep",
     "matchedForm": "fall asleep",
     "choices": [
+      "organization",
       "fall asleep",
-      "asleep",
-      "fantastic",
-      "failure"
+      "temperature",
+      "responsible"
     ],
     "meanings": "寝入る",
     "audioKey": "pre2kyu_pass"
@@ -17639,10 +17639,10 @@
     "answer": "for a while",
     "matchedForm": "for a while",
     "choices": [
-      "forgive",
-      "after a while",
+      "achievement",
       "for a while",
-      "for free"
+      "electricity",
+      "in the past"
     ],
     "meanings": "しばらく（の間）",
     "audioKey": "pre2kyu_pass"
@@ -17655,10 +17655,10 @@
     "answer": "for free",
     "matchedForm": "for free",
     "choices": [
-      "concrete",
+      "actually",
+      "Internet",
       "for free",
-      "for fun",
-      "forever"
+      "research"
     ],
     "meanings": "無料で（≒ for nothing）",
     "audioKey": "pre2kyu_pass"
@@ -17671,10 +17671,10 @@
     "answer": "for fun",
     "matchedForm": "for fun",
     "choices": [
-      "for free",
+      "article",
       "for fun",
-      "foreign",
-      "careful"
+      "luckily",
+      "however"
     ],
     "meanings": "遊びで",
     "audioKey": "pre2kyu_pass"
@@ -17687,10 +17687,10 @@
     "answer": "for instance",
     "matchedForm": "for instance",
     "choices": [
-      "for instance",
-      "for free",
-      "distance",
-      "for a while"
+      "traditional",
+      "unfortunately",
+      "enough to do",
+      "for instance"
     ],
     "meanings": "例えば（≒ for example）",
     "audioKey": "pre2kyu_pass"
@@ -17703,10 +17703,10 @@
     "answer": "for the first time",
     "matchedForm": "for the first time",
     "choices": [
-      "for a while",
-      "at the sight of ～",
+      "as a result of ～",
+      "keep （on） doing",
       "for the first time",
-      "for instance"
+      "be crowded with ～"
     ],
     "meanings": "初めて",
     "audioKey": "pre2kyu_pass"
@@ -17719,10 +17719,10 @@
     "answer": "get away",
     "matchedForm": "get away",
     "choices": [
-      "get away",
-      "get a to do",
-      "right away",
-      "be away"
+      "although",
+      "customer",
+      "ceremony",
+      "get away"
     ],
     "meanings": "離れる",
     "audioKey": "pre2kyu_pass"
@@ -17735,10 +17735,10 @@
     "answer": "get better",
     "matchedForm": "get better",
     "choices": [
-      "get a to do",
-      "messenger",
+      "eventually",
+      "photograph",
       "get better",
-      "get together"
+      "government"
     ],
     "meanings": "体調が良くなる，上手になる",
     "audioKey": "pre2kyu_pass"
@@ -17751,10 +17751,10 @@
     "answer": "get married",
     "matchedForm": "get married",
     "choices": [
-      "get a to do",
-      "interview",
-      "get better",
-      "get married"
+      "get married",
+      "achievement",
+      "traditional",
+      "reservation"
     ],
     "meanings": "結婚する",
     "audioKey": "pre2kyu_pass"
@@ -17767,10 +17767,10 @@
     "answer": "get together",
     "matchedForm": "get together",
     "choices": [
-      "get married",
-      "get better",
-      "photographer",
-      "get together"
+      "go against ～",
+      "get together",
+      "presentation",
+      "communication"
     ],
     "meanings": "集まる",
     "audioKey": "pre2kyu_pass"
@@ -17784,9 +17784,9 @@
     "matchedForm": "go ahead",
     "choices": [
       "go ahead",
-      "ahead",
-      "goal",
-      "go wrong"
+      "familiar",
+      "exercise",
+      "actually"
     ],
     "meanings": "先に行く",
     "audioKey": "pre2kyu_pass"
@@ -17799,10 +17799,10 @@
     "answer": "grow up",
     "matchedForm": "grow up",
     "choices": [
+      "produce",
       "grow up",
-      "grow",
-      "show up",
-      "ground"
+      "through",
+      "purpose"
     ],
     "meanings": "成長する",
     "audioKey": "pre2kyu_pass"
@@ -17831,10 +17831,10 @@
     "answer": "in advance",
     "matchedForm": "in advance",
     "choices": [
-      "in any case",
-      "by chance",
+      "separation",
       "in advance",
-      "importance"
+      "find out ～",
+      "completely"
     ],
     "meanings": "あらかじめ（≒ ahead，beforehand）",
     "audioKey": "pre2kyu_pass"
@@ -17847,10 +17847,10 @@
     "answer": "in any case",
     "matchedForm": "in any case",
     "choices": [
-      "in any case",
-      "in advance",
-      "in the past",
-      "on purpose"
+      "no longer ～",
+      "necessarily",
+      "successful",
+      "in any case"
     ],
     "meanings": "とにかく（≒ anyway）",
     "audioKey": "pre2kyu_pass"
@@ -17879,10 +17879,10 @@
     "answer": "in particular",
     "matchedForm": "in particular",
     "choices": [
-      "in fact",
-      "in any case",
-      "in particular",
-      "particular"
+      "advertisement",
+      "entertainment",
+      "be ready for ～",
+      "in particular"
     ],
     "meanings": "特に（≒ especially）（⇔ in general）",
     "audioKey": "pre2kyu_pass"
@@ -17895,10 +17895,10 @@
     "answer": "in return",
     "matchedForm": "in return",
     "choices": [
-      "in time",
-      "return",
-      "introduce",
-      "in return"
+      "furniture",
+      "in return",
+      "education",
+      "volunteer"
     ],
     "meanings": "お返しに",
     "audioKey": "pre2kyu_pass"
@@ -17911,10 +17911,10 @@
     "answer": "in the long run",
     "matchedForm": "in the long run",
     "choices": [
-      "no longer ～",
-      "in the past",
+      "be said to be ～",
       "in the long run",
-      "in the middle of ～"
+      "environmentally",
+      "be bad［poor］ at ～"
     ],
     "meanings": "長い目で見れば，結局は（⇔ in the short run）",
     "audioKey": "pre2kyu_pass"
@@ -17975,10 +17975,10 @@
     "answer": "make a decision",
     "matchedForm": "make a decision",
     "choices": [
-      "make （a） noise",
-      "decision",
       "make a decision",
-      "make a mistake"
+      "be crowded with ～",
+      "had better do",
+      "little by little"
     ],
     "meanings": "決定する，決意する（≒ decide）",
     "audioKey": "pre2kyu_pass"
@@ -17991,10 +17991,10 @@
     "answer": "make a mistake",
     "matchedForm": "make a mistake",
     "choices": [
-      "make （a） noise",
-      "make a decision",
-      "make a mistake",
-      "by mistake"
+      "appreciation",
+      "surprisingly",
+      "either A or B",
+      "make a mistake"
     ],
     "meanings": "間違える",
     "audioKey": "pre2kyu_pass"
@@ -18039,10 +18039,10 @@
     "answer": "on purpose",
     "matchedForm": "on purpose",
     "choices": [
-      "purpose",
-      "on foot",
+      "decoration",
       "on purpose",
-      "on business"
+      "connection",
+      "generation"
     ],
     "meanings": "わざと（⇔ by accident，by chance）",
     "audioKey": "pre2kyu_pass"
@@ -18055,10 +18055,10 @@
     "answer": "on sale",
     "matchedForm": "on sale",
     "choices": [
-      "on time",
-      "on sale",
-      "on foot",
-      "sale"
+      "finally",
+      "certain",
+      "unusual",
+      "on sale"
     ],
     "meanings": "売り出し中で",
     "audioKey": "pre2kyu_pass"

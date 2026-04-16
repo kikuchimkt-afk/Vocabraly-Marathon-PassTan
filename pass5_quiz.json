@@ -263,10 +263,10 @@
     "answer": "T-shirt",
     "matchedForm": "T-shirt",
     "choices": [
-      "shirt",
-      "T-shirt",
-      "third",
-      "thirty"
+      "January",
+      "pumpkin",
+      "o'clock",
+      "T-shirt"
     ],
     "meanings": "ティーシャツ",
     "audioKey": "5kyu_pass"
@@ -279,10 +279,10 @@
     "answer": "window",
     "matchedForm": "window",
     "choices": [
-      "windy",
-      "winter",
-      "know",
-      "window"
+      "window",
+      "street",
+      "around",
+      "office"
     ],
     "meanings": "まど",
     "audioKey": "5kyu_pass"
@@ -440,9 +440,9 @@
     "matchedForm": "afternoon",
     "choices": [
       "afternoon",
-      "after",
-      "bathroom",
-      "notebook"
+      "Wednesday",
+      "bus stop",
+      "daughter"
     ],
     "meanings": "ごご",
     "audioKey": "5kyu_pass"
@@ -455,10 +455,10 @@
     "answer": "evening",
     "matchedForm": "evening",
     "choices": [
-      "evening",
-      "every",
-      "everyone",
-      "morning"
+      "subject",
+      "weekend",
+      "hamster",
+      "evening"
     ],
     "meanings": "ゆうがた",
     "audioKey": "5kyu_pass"
@@ -503,10 +503,10 @@
     "answer": "hour",
     "matchedForm": "hour",
     "choices": [
+      "girl",
+      "bird",
       "hour",
-      "four",
-      "our",
-      "your"
+      "food"
     ],
     "meanings": "いちじかん",
     "audioKey": "5kyu_pass"
@@ -551,10 +551,10 @@
     "answer": "week",
     "matchedForm": "week",
     "choices": [
-      "week",
-      "weekend",
-      "well",
-      "meet"
+      "bath",
+      "aunt",
+      "fish",
+      "week"
     ],
     "meanings": "しゅう",
     "audioKey": "5kyu_pass"
@@ -567,10 +567,10 @@
     "answer": "weekend",
     "matchedForm": "weekends",
     "choices": [
+      "dessert",
+      "number",
       "weekend",
-      "week",
-      "present",
-      "eleven"
+      "subject"
     ],
     "meanings": "しゅうまつ",
     "audioKey": "5kyu_pass"
@@ -583,10 +583,10 @@
     "answer": "year",
     "matchedForm": "years",
     "choices": [
-      "near",
-      "yen",
-      "ear",
-      "year"
+      "pink",
+      "park",
+      "year",
+      "week"
     ],
     "meanings": "とし",
     "audioKey": "5kyu_pass"
@@ -615,10 +615,10 @@
     "answer": "textbook",
     "matchedForm": "textbook",
     "choices": [
-      "book",
-      "teeth",
+      "notebook",
+      "evening",
       "textbook",
-      "notebook"
+      "T-shirt"
     ],
     "meanings": "きょうかしょ",
     "audioKey": "5kyu_pass"
@@ -663,10 +663,10 @@
     "answer": "homework",
     "matchedForm": "homework",
     "choices": [
-      "home",
+      "picture",
+      "library",
       "homework",
-      "hour",
-      "notebook"
+      "softball"
     ],
     "meanings": "しゅくだい",
     "audioKey": "5kyu_pass"
@@ -695,10 +695,10 @@
     "answer": "math",
     "matchedForm": "math",
     "choices": [
-      "bath",
-      "man",
-      "many",
-      "math"
+      "math",
+      "help",
+      "book",
+      "park"
     ],
     "meanings": "すうがく",
     "audioKey": "5kyu_pass"
@@ -711,10 +711,10 @@
     "answer": "student",
     "matchedForm": "student",
     "choices": [
-      "student",
-      "study",
-      "present",
-      "street"
+      "museum",
+      "Tuesday",
+      "bicycle",
+      "student"
     ],
     "meanings": "せいと",
     "audioKey": "5kyu_pass"
@@ -727,10 +727,10 @@
     "answer": "teacher",
     "matchedForm": "teacher",
     "choices": [
-      "teach",
+      "fifteen",
       "teacher",
-      "weather",
-      "team"
+      "airport",
+      "usually"
     ],
     "meanings": "せんせい",
     "audioKey": "5kyu_pass"
@@ -743,10 +743,10 @@
     "answer": "pencil",
     "matchedForm": "pencil",
     "choices": [
-      "tennis",
-      "pen",
-      "pencil",
-      "pencil case"
+      "Sunday",
+      "player",
+      "before",
+      "pencil"
     ],
     "meanings": "えんぴつ",
     "audioKey": "5kyu_pass"
@@ -839,10 +839,10 @@
     "answer": "Classroom",
     "matchedForm": "classroom",
     "choices": [
-      "classmate",
+      "festival",
       "Classroom",
-      "class",
-      "bathroom"
+      "badminton",
+      "sometimes"
     ],
     "meanings": "きょうしつ、教室",
     "audioKey": "5kyu_pass"
@@ -887,10 +887,10 @@
     "answer": "classmate",
     "matchedForm": "classmate",
     "choices": [
-      "classroom",
       "classmate",
-      "skate",
-      "class"
+      "birthday",
+      "Wednesday",
+      "Thursday"
     ],
     "meanings": "どうきゅうせい、同級生，クラスメート",
     "audioKey": "5kyu_pass"
@@ -935,10 +935,10 @@
     "answer": "story",
     "matchedForm": "story",
     "choices": [
-      "stop",
-      "store",
-      "story",
-      "history"
+      "lunch",
+      "apple",
+      "sport",
+      "story"
     ],
     "meanings": "はなし、話",
     "audioKey": "5kyu_pass"
@@ -1015,10 +1015,10 @@
     "answer": "man",
     "matchedForm": "man",
     "choices": [
+      "pet",
+      "new",
       "man",
-      "can",
-      "may",
-      "many"
+      "bus"
     ],
     "meanings": "だんせい、男性",
     "audioKey": "5kyu_pass"
@@ -1063,10 +1063,10 @@
     "answer": "singer",
     "matchedForm": "singer",
     "choices": [
-      "finger",
+      "pocket",
+      "school",
       "singer",
-      "sing",
-      "sister"
+      "father"
     ],
     "meanings": "かしゅ、歌手",
     "audioKey": "5kyu_pass"
@@ -1096,9 +1096,9 @@
     "matchedForm": "train",
     "choices": [
       "train",
-      "rainy",
-      "tree",
-      "rain"
+      "every",
+      "story",
+      "night"
     ],
     "meanings": "でんしゃ、電車",
     "audioKey": "5kyu_pass"
@@ -1111,10 +1111,10 @@
     "answer": "bus",
     "matchedForm": "bus",
     "choices": [
-      "busy",
-      "us",
+      "dog",
       "bus",
-      "but"
+      "cup",
+      "sit"
     ],
     "meanings": "バス",
     "audioKey": "5kyu_pass"
@@ -1143,10 +1143,10 @@
     "answer": "car",
     "matchedForm": "car",
     "choices": [
-      "card",
+      "who",
+      "sit",
       "car",
-      "ear",
-      "cap"
+      "hot"
     ],
     "meanings": "くるま、車",
     "audioKey": "5kyu_pass"
@@ -1255,10 +1255,10 @@
     "answer": "museum",
     "matchedForm": "museum",
     "choices": [
-      "use",
-      "music",
       "museum",
-      "meter"
+      "violin",
+      "soccer",
+      "dancer"
     ],
     "meanings": "はくぶんかん、博物館",
     "audioKey": "5kyu_pass"
@@ -1271,10 +1271,10 @@
     "answer": "hospital",
     "matchedForm": "hospital",
     "choices": [
-      "hotel",
+      "practice",
+      "November",
       "hospital",
-      "festival",
-      "hot"
+      "building"
     ],
     "meanings": "びょういん、病院",
     "audioKey": "5kyu_pass"
@@ -1287,10 +1287,10 @@
     "answer": "street",
     "matchedForm": "street",
     "choices": [
-      "student",
-      "tree",
+      "camera",
+      "little",
       "street",
-      "sweet"
+      "office"
     ],
     "meanings": "とおり、通り",
     "audioKey": "5kyu_pass"
@@ -1303,9 +1303,9 @@
     "answer": "breakfast",
     "matchedForm": "breakfast",
     "choices": [
-      "bread",
-      "brush",
-      "great",
+      "badminton",
+      "afternoon",
+      "Wednesday",
       "breakfast"
     ],
     "meanings": "ちょうしょく、朝食",
@@ -1319,10 +1319,10 @@
     "answer": "lunch",
     "matchedForm": "lunch",
     "choices": [
-      "lunchtime",
       "lunch",
-      "sunny",
-      "long"
+      "black",
+      "curry",
+      "speak"
     ],
     "meanings": "ちゅうしょく、昼食",
     "audioKey": "5kyu_pass"
@@ -1671,10 +1671,10 @@
     "answer": "son",
     "matchedForm": "son",
     "choices": [
-      "song",
-      "so",
-      "son",
-      "on"
+      "DVD",
+      "pen",
+      "Mr.",
+      "son"
     ],
     "meanings": "息子",
     "audioKey": "5kyu_pass"
@@ -1687,10 +1687,10 @@
     "answer": "tennis",
     "matchedForm": "tennis",
     "choices": [
-      "pencil",
-      "tennis",
-      "ten",
-      "tenth"
+      "August",
+      "Friday",
+      "doctor",
+      "tennis"
     ],
     "meanings": "テニス",
     "audioKey": "5kyu_pass"
@@ -1703,10 +1703,10 @@
     "answer": "baseball",
     "matchedForm": "baseball",
     "choices": [
+      "thirteen",
       "baseball",
-      "ball",
-      "softball",
-      "basketball"
+      "February",
+      "Saturday"
     ],
     "meanings": "野球",
     "audioKey": "5kyu_pass"
@@ -1783,10 +1783,10 @@
     "answer": "basketball",
     "matchedForm": "basketball",
     "choices": [
-      "softball",
-      "basket",
       "basketball",
-      "baseball"
+      "afternoon",
+      "strawberry",
+      "pencil case"
     ],
     "meanings": "バスケットボール",
     "audioKey": "5kyu_pass"
@@ -1799,10 +1799,10 @@
     "answer": "team",
     "matchedForm": "team",
     "choices": [
-      "tea",
-      "year",
+      "sing",
+      "math",
       "team",
-      "teach"
+      "June"
     ],
     "meanings": "チーム",
     "audioKey": "5kyu_pass"
@@ -2199,10 +2199,10 @@
     "answer": "May",
     "matchedForm": "May",
     "choices": [
-      "many",
-      "day",
-      "May",
-      "man"
+      "gym",
+      "man",
+      "toy",
+      "May"
     ],
     "meanings": "５月",
     "audioKey": "5kyu_pass"
@@ -2487,10 +2487,10 @@
     "answer": "piano",
     "matchedForm": "piano",
     "choices": [
-      "stand",
-      "pink",
-      "pianist",
-      "piano"
+      "ready",
+      "where",
+      "piano",
+      "right"
     ],
     "meanings": "ピアノ",
     "audioKey": "5kyu_pass"
@@ -2503,10 +2503,10 @@
     "answer": "song",
     "matchedForm": "song",
     "choices": [
+      "blue",
+      "want",
       "song",
-      "long",
-      "son",
-      "sing"
+      "look"
     ],
     "meanings": "歌 （うた）",
     "audioKey": "5kyu_pass"
@@ -2567,10 +2567,10 @@
     "answer": "show",
     "matchedForm": "show",
     "choices": [
-      "shop",
-      "shoe",
       "show",
-      "how"
+      "come",
+      "swim",
+      "read"
     ],
     "meanings": "ショー",
     "audioKey": "5kyu_pass"
@@ -2711,10 +2711,10 @@
     "answer": "English",
     "matchedForm": "English",
     "choices": [
-      "eighth",
-      "eighty",
-      "tennis",
-      "English"
+      "player",
+      "history",
+      "English",
+      "hundred"
     ],
     "meanings": "英語（えいご）",
     "audioKey": "5kyu_pass"
@@ -2727,10 +2727,10 @@
     "answer": "Japanese",
     "matchedForm": "Japanese",
     "choices": [
-      "japan",
-      "chinese",
+      "November",
+      "everyone",
       "Japanese",
-      "jacket"
+      "practice"
     ],
     "meanings": "日本語（にほんご）",
     "audioKey": "5kyu_pass"
@@ -2759,10 +2759,10 @@
     "answer": "Japan",
     "matchedForm": "Japan",
     "choices": [
-      "japanese",
-      "a, an",
+      "which",
       "Japan",
-      "jam"
+      "teach",
+      "class"
     ],
     "meanings": "日本 (にほん)",
     "audioKey": "5kyu_pass"
@@ -2775,10 +2775,10 @@
     "answer": "Canada",
     "matchedForm": "Canada",
     "choices": [
-      "camera",
+      "dinner",
       "Canada",
-      "can",
-      "banana"
+      "dollar",
+      "really"
     ],
     "meanings": "カナダ",
     "audioKey": "5kyu_pass"
@@ -2807,10 +2807,10 @@
     "answer": "hand",
     "matchedForm": "hands",
     "choices": [
-      "hat",
-      "hair",
       "hand",
-      "and"
+      "year",
+      "cake",
+      "shop"
     ],
     "meanings": "手 (て)",
     "audioKey": "5kyu_pass"
@@ -2823,10 +2823,10 @@
     "answer": "hair",
     "matchedForm": "hair",
     "choices": [
-      "chair",
-      "have",
+      "face",
+      "play",
       "hair",
-      "hand"
+      "shop"
     ],
     "meanings": "髪の毛（かみのけ）",
     "audioKey": "5kyu_pass"
@@ -3000,9 +3000,9 @@
     "matchedForm": "play",
     "choices": [
       "play",
-      "plane",
-      "player",
-      "lady"
+      "have",
+      "open",
+      "park"
     ],
     "meanings": "遊ぶ（あそぶ）",
     "audioKey": "5kyu_pass"
@@ -3047,10 +3047,10 @@
     "answer": "open",
     "matchedForm": "Open",
     "choices": [
-      "pen",
-      "often",
-      "one",
-      "open"
+      "show",
+      "open",
+      "live",
+      "bird"
     ],
     "meanings": "開ける（あける）",
     "audioKey": "5kyu_pass"
@@ -3096,9 +3096,9 @@
     "matchedForm": "eat",
     "choices": [
       "eat",
-      "meat",
-      "easy",
-      "ear"
+      "put",
+      "how",
+      "can"
     ],
     "meanings": "食べる (たべる)",
     "audioKey": "5kyu_pass"
@@ -3111,10 +3111,10 @@
     "answer": "read",
     "matchedForm": "read",
     "choices": [
-      "head",
-      "red",
-      "ready",
-      "read"
+      "book",
+      "read",
+      "bath",
+      "game"
     ],
     "meanings": "読む （よむ）",
     "audioKey": "5kyu_pass"
@@ -3160,9 +3160,9 @@
     "matchedForm": "know",
     "choices": [
       "know",
-      "snow",
-      "now",
-      "show"
+      "meet",
+      "walk",
+      "talk"
     ],
     "meanings": "知っている（しっている）",
     "audioKey": "5kyu_pass"
@@ -3287,10 +3287,10 @@
     "answer": "sing",
     "matchedForm": "sing",
     "choices": [
-      "song",
+      "city",
       "sing",
-      "singer",
-      "pink"
+      "shop",
+      "ball"
     ],
     "meanings": "歌う （うたう）",
     "audioKey": "5kyu_pass"
@@ -3319,10 +3319,10 @@
     "answer": "study",
     "matchedForm": "study",
     "choices": [
-      "student",
-      "story",
+      "chair",
       "study",
-      "july"
+      "dance",
+      "water"
     ],
     "meanings": "勉強する（べんきょうする）",
     "audioKey": "5kyu_pass"
@@ -3416,9 +3416,9 @@
     "matchedForm": "cook",
     "choices": [
       "cook",
-      "cookie",
-      "look",
-      "book"
+      "week",
+      "tree",
+      "look"
     ],
     "meanings": "料理する（りょうりする）",
     "audioKey": "5kyu_pass"
@@ -3431,10 +3431,10 @@
     "answer": "start",
     "matchedForm": "starts",
     "choices": [
-      "stand",
+      "teeth",
       "story",
       "start",
-      "art"
+      "close"
     ],
     "meanings": "始まる（はじめる）",
     "audioKey": "5kyu_pass"
@@ -3463,10 +3463,10 @@
     "answer": "teach",
     "matchedForm": "teaches",
     "choices": [
-      "teacher",
       "teach",
-      "beach",
-      "team"
+      "watch",
+      "March",
+      "after"
     ],
     "meanings": "教える（おしえる）",
     "audioKey": "5kyu_pass"
@@ -3495,10 +3495,10 @@
     "answer": "help",
     "matchedForm": "help",
     "choices": [
-      "well",
       "help",
-      "her",
-      "hers"
+      "bike",
+      "home",
+      "hour"
     ],
     "meanings": "助ける（たすける）",
     "audioKey": "5kyu_pass"
@@ -3511,10 +3511,10 @@
     "answer": "love",
     "matchedForm": "love",
     "choices": [
+      "head",
       "love",
-      "glove",
-      "look",
-      "live"
+      "aunt",
+      "park"
     ],
     "meanings": "大好き（だいすき）",
     "audioKey": "5kyu_pass"
@@ -3591,10 +3591,10 @@
     "answer": "brush",
     "matchedForm": "brush",
     "choices": [
-      "busy",
-      "just",
-      "bus",
-      "brush"
+      "brush",
+      "phone",
+      "curry",
+      "under"
     ],
     "meanings": "みがく",
     "audioKey": "5kyu_pass"
@@ -3607,10 +3607,10 @@
     "answer": "dance",
     "matchedForm": "dance",
     "choices": [
-      "face",
       "dance",
-      "date",
-      "dancer"
+      "black",
+      "about",
+      "story"
     ],
     "meanings": "踊る（おどる）",
     "audioKey": "5kyu_pass"
@@ -3735,10 +3735,10 @@
     "answer": "old",
     "matchedForm": "old",
     "choices": [
-      "cold",
-      "on",
-      "only",
-      "old"
+      "zoo",
+      "out",
+      "old",
+      "art"
     ],
     "meanings": "古い（ふるい）",
     "audioKey": "5kyu_pass"
@@ -3911,10 +3911,10 @@
     "answer": "cute",
     "matchedForm": "cute",
     "choices": [
-      "cut",
-      "june",
-      "cup",
-      "cute"
+      "hand",
+      "cute",
+      "year",
+      "wash"
     ],
     "meanings": "かわいい",
     "audioKey": "5kyu_pass"
@@ -3943,10 +3943,10 @@
     "answer": "great",
     "matchedForm": "great",
     "choices": [
-      "green",
-      "bread",
       "great",
-      "read"
+      "curry",
+      "a, an",
+      "there"
     ],
     "meanings": "すばらしい",
     "audioKey": "5kyu_pass"
@@ -3975,10 +3975,10 @@
     "answer": "cold",
     "matchedForm": "cold",
     "choices": [
-      "come",
-      "cold",
-      "old",
-      "color"
+      "read",
+      "milk",
+      "bike",
+      "cold"
     ],
     "meanings": "寒い（さむい）",
     "audioKey": "5kyu_pass"
@@ -4023,10 +4023,10 @@
     "answer": "ready",
     "matchedForm": "ready",
     "choices": [
-      "ready",
-      "bread",
-      "read",
-      "really"
+      "whose",
+      "today",
+      "enjoy",
+      "ready"
     ],
     "meanings": "準備ができている（じゅんびができている）",
     "audioKey": "5kyu_pass"
@@ -4103,10 +4103,10 @@
     "answer": "here",
     "matchedForm": "here",
     "choices": [
-      "there",
-      "here",
-      "her",
-      "hers"
+      "year",
+      "tree",
+      "head",
+      "here"
     ],
     "meanings": "ここ",
     "audioKey": "5kyu_pass"
@@ -4119,10 +4119,10 @@
     "answer": "very",
     "matchedForm": "very",
     "choices": [
-      "every",
+      "math",
+      "walk",
       "very",
-      "her",
-      "hers"
+      "wash"
     ],
     "meanings": "とても",
     "audioKey": "5kyu_pass"
@@ -4167,10 +4167,10 @@
     "answer": "now",
     "matchedForm": "now",
     "choices": [
-      "new",
-      "now",
-      "know",
-      "how"
+      "fly",
+      "get",
+      "man",
+      "now"
     ],
     "meanings": "今 （いま）",
     "audioKey": "5kyu_pass"
@@ -4263,10 +4263,10 @@
     "answer": "really",
     "matchedForm": "really",
     "choices": [
-      "ready",
-      "read",
-      "easy",
-      "really"
+      "summer",
+      "really",
+      "sister",
+      "mother"
     ],
     "meanings": "本当に（ほんとうに）",
     "audioKey": "5kyu_pass"
@@ -4312,9 +4312,9 @@
     "matchedForm": "out",
     "choices": [
       "out",
-      "put",
-      "ours",
-      "our"
+      "bag",
+      "day",
+      "hot"
     ],
     "meanings": "外に（そとに）",
     "audioKey": "5kyu_pass"
@@ -4327,10 +4327,10 @@
     "answer": "sometimes",
     "matchedForm": "sometimes",
     "choices": [
-      "summer",
-      "some",
-      "sometimes",
-      "together"
+      "chocolate",
+      "December",
+      "cafeteria",
+      "sometimes"
     ],
     "meanings": "ときどき",
     "audioKey": "5kyu_pass"
@@ -4504,9 +4504,9 @@
     "matchedForm": "for",
     "choices": [
       "for",
-      "fork",
-      "or",
-      "four"
+      "man",
+      "sea",
+      "gym"
     ],
     "meanings": "～のために",
     "audioKey": "5kyu_pass"
@@ -4600,9 +4600,9 @@
     "matchedForm": "after",
     "choices": [
       "after",
-      "water",
-      "often",
-      "afternoon"
+      "brush",
+      "music",
+      "close"
     ],
     "meanings": "～の後に（のあとに）",
     "audioKey": "5kyu_pass"
@@ -4631,10 +4631,10 @@
     "answer": "about",
     "matchedForm": "about",
     "choices": [
-      "around",
-      "but",
+      "movie",
+      "short",
       "about",
-      "out"
+      "black"
     ],
     "meanings": "～について",
     "audioKey": "5kyu_pass"
@@ -4647,10 +4647,10 @@
     "answer": "near",
     "matchedForm": "near",
     "choices": [
+      "bike",
       "near",
-      "next",
-      "ear",
-      "year"
+      "live",
+      "face"
     ],
     "meanings": "～の近くに（のちかくに）",
     "audioKey": "5kyu_pass"
@@ -4663,10 +4663,10 @@
     "answer": "the",
     "matchedForm": "the",
     "choices": [
-      "they",
-      "then",
-      "she",
-      "the"
+      "run",
+      "bed",
+      "the",
+      "but"
     ],
     "meanings": "その",
     "audioKey": "5kyu_pass"
@@ -4679,10 +4679,10 @@
     "answer": "and",
     "matchedForm": "and",
     "choices": [
+      "can",
       "and",
-      "art",
-      "any",
-      "hand"
+      "the",
+      "bed"
     ],
     "meanings": "そして",
     "audioKey": "5kyu_pass"
@@ -4759,10 +4759,10 @@
     "answer": "what",
     "matchedForm": "What",
     "choices": [
-      "hat",
+      "make",
+      "July",
       "what",
-      "that",
-      "want"
+      "ball"
     ],
     "meanings": "何，何の，どんな",
     "audioKey": "5kyu_pass"
@@ -4775,10 +4775,10 @@
     "answer": "how",
     "matchedForm": "How",
     "choices": [
-      "show",
-      "now",
-      "hot",
-      "how"
+      "cap",
+      "how",
+      "pie",
+      "bed"
     ],
     "meanings": "どうやって，どんなぐあいで，どれくらい",
     "audioKey": "5kyu_pass"
@@ -4791,10 +4791,10 @@
     "answer": "where",
     "matchedForm": "Where",
     "choices": [
-      "when",
-      "here",
-      "where",
-      "there"
+      "sport",
+      "April",
+      "dance",
+      "where"
     ],
     "meanings": "どこに，どこへ",
     "audioKey": "5kyu_pass"
@@ -4824,9 +4824,9 @@
     "matchedForm": "Who",
     "choices": [
       "who",
-      "whose",
-      "why",
-      "hot"
+      "dog",
+      "tea",
+      "and"
     ],
     "meanings": "だれ，だれが",
     "audioKey": "5kyu_pass"
@@ -4887,10 +4887,10 @@
     "answer": "everyone",
     "matchedForm": "Everyone",
     "choices": [
+      "together",
       "everyone",
-      "very",
-      "evening",
-      "every"
+      "ice cream",
+      "backpack"
     ],
     "meanings": "みんな，だれでも",
     "audioKey": "5kyu_pass"
@@ -4920,9 +4920,9 @@
     "matchedForm": "every",
     "choices": [
       "every",
-      "enjoy",
-      "very",
-      "everyone"
+      "small",
+      "whose",
+      "speak"
     ],
     "meanings": "毎～，あらゆる，すべての",
     "audioKey": "5kyu_pass"
@@ -4951,10 +4951,10 @@
     "answer": "many",
     "matchedForm": "many",
     "choices": [
-      "many",
-      "may",
-      "man",
-      "any"
+      "look",
+      "fall",
+      "book",
+      "many"
     ],
     "meanings": "たくさんの，多数の",
     "audioKey": "5kyu_pass"
@@ -4968,9 +4968,9 @@
     "matchedForm": "All",
     "choices": [
       "all",
-      "ball",
-      "wall",
-      "fall"
+      "hat",
+      "egg",
+      "DVD"
     ],
     "meanings": "すべての，あらゆる",
     "audioKey": "5kyu_pass"
@@ -4984,8 +4984,8 @@
     "matchedForm": "any",
     "choices": [
       "art",
-      "many",
-      "and",
+      "see",
+      "toy",
       "any"
     ],
     "meanings": "（疑問文で）いくつかの，何か，（否定文で）少しも，何も",
@@ -5031,10 +5031,10 @@
     "answer": "chair",
     "matchedForm": "chair",
     "choices": [
+      "April",
+      "great",
       "chair",
-      "their",
-      "hair",
-      "car"
+      "class"
     ],
     "meanings": "いす",
     "audioKey": "5kyu_pass"
@@ -5079,10 +5079,10 @@
     "answer": "bathroom",
     "matchedForm": "bathroom",
     "choices": [
-      "bedroom",
-      "bath",
+      "December",
       "bathroom",
-      "classroom"
+      "ice cream",
+      "library"
     ],
     "meanings": "浴室",
     "audioKey": "5kyu_pass"
@@ -5159,10 +5159,10 @@
     "answer": "basket",
     "matchedForm": "basket",
     "choices": [
-      "racket",
-      "basket",
-      "basketball",
-      "jacket"
+      "singer",
+      "rabbit",
+      "Canada",
+      "basket"
     ],
     "meanings": "かご",
     "audioKey": "5kyu_pass"
@@ -5191,10 +5191,10 @@
     "answer": "bedroom",
     "matchedForm": "bedroom",
     "choices": [
-      "bed",
       "bedroom",
-      "room",
-      "bathroom"
+      "fifteen",
+      "computer",
+      "January"
     ],
     "meanings": "寝室",
     "audioKey": "5kyu_pass"
@@ -5207,10 +5207,10 @@
     "answer": "newspaper",
     "matchedForm": "newspaper",
     "choices": [
+      "chopstick",
       "newspaper",
-      "near",
-      "new",
-      "eraser"
+      "December",
+      "sandwich"
     ],
     "meanings": "新聞",
     "audioKey": "5kyu_pass"
@@ -5287,10 +5287,10 @@
     "answer": "glove",
     "matchedForm": "gloves",
     "choices": [
+      "curry",
+      "Japan",
       "glove",
-      "close",
-      "glass",
-      "love"
+      "enjoy"
     ],
     "meanings": "（ふつう複数形で）手袋，グローブ",
     "audioKey": "5kyu_pass"
@@ -5367,10 +5367,10 @@
     "answer": "shower",
     "matchedForm": "shower",
     "choices": [
+      "Friday",
       "shower",
-      "shoe",
-      "show",
-      "flower"
+      "number",
+      "hungry"
     ],
     "meanings": "シャワー",
     "audioKey": "5kyu_pass"
@@ -5415,10 +5415,10 @@
     "answer": "card",
     "matchedForm": "card",
     "choices": [
-      "car",
       "card",
-      "park",
-      "call"
+      "read",
+      "blue",
+      "year"
     ],
     "meanings": "カード，はがき",
     "audioKey": "5kyu_pass"
@@ -5479,10 +5479,10 @@
     "answer": "radio",
     "matchedForm": "radio",
     "choices": [
-      "rain",
+      "a, an",
+      "brown",
       "radio",
-      "train",
-      "rainy"
+      "Japan"
     ],
     "meanings": "ラジオ",
     "audioKey": "5kyu_pass"
@@ -5495,10 +5495,10 @@
     "answer": "towel",
     "matchedForm": "towel",
     "choices": [
-      "tower",
-      "today",
       "towel",
-      "hotel"
+      "movie",
+      "speak",
+      "apple"
     ],
     "meanings": "タオル",
     "audioKey": "5kyu_pass"
@@ -5575,10 +5575,10 @@
     "answer": "skirt",
     "matchedForm": "skirt",
     "choices": [
+      "sport",
+      "house",
       "skirt",
-      "shirt",
-      "first",
-      "ski"
+      "mouth"
     ],
     "meanings": "スカート",
     "audioKey": "5kyu_pass"
@@ -5639,10 +5639,10 @@
     "answer": "pencil case",
     "matchedForm": "pencil case",
     "choices": [
-      "pencil",
-      "class",
-      "pencil case",
-      "people"
+      "daughter",
+      "dining room",
+      "baseball",
+      "pencil case"
     ],
     "meanings": "筆箱",
     "audioKey": "5kyu_pass"
@@ -5655,10 +5655,10 @@
     "answer": "lesson",
     "matchedForm": "lesson",
     "choices": [
-      "son",
       "lesson",
-      "listen",
-      "letter"
+      "school",
+      "museum",
+      "spring"
     ],
     "meanings": "レッスン，授業",
     "audioKey": "5kyu_pass"
@@ -5719,10 +5719,10 @@
     "answer": "test",
     "matchedForm": "test",
     "choices": [
+      "rice",
+      "song",
       "test",
-      "tenth",
-      "ten",
-      "next"
+      "shop"
     ],
     "meanings": "テスト",
     "audioKey": "5kyu_pass"
@@ -5767,10 +5767,10 @@
     "answer": "blackboard",
     "matchedForm": "blackboard",
     "choices": [
-      "library",
-      "black",
-      "backpack",
-      "blackboard"
+      "blackboard",
+      "favorite",
+      "newspaper",
+      "lunchtime"
     ],
     "meanings": "黒板",
     "audioKey": "5kyu_pass"
@@ -5799,9 +5799,9 @@
     "answer": "history",
     "matchedForm": "History",
     "choices": [
-      "his",
-      "story",
-      "sister",
+      "letter",
+      "bedroom",
+      "hamster",
       "history"
     ],
     "meanings": "歴史",
@@ -5895,10 +5895,10 @@
     "answer": "cook",
     "matchedForm": "cook",
     "choices": [
-      "look",
-      "book",
-      "cookie",
-      "cook"
+      "rice",
+      "cook",
+      "fall",
+      "noon"
     ],
     "meanings": "コック，（を）料理する",
     "audioKey": "5kyu_pass"
@@ -5927,10 +5927,10 @@
     "answer": "police officer",
     "matchedForm": "police officer",
     "choices": [
-      "police station",
+      "gas station",
       "police officer",
-      "post office",
-      "office"
+      "Saturday",
+      "grandfather"
     ],
     "meanings": "警察官",
     "audioKey": "5kyu_pass"
@@ -5943,9 +5943,9 @@
     "answer": "dancer",
     "matchedForm": "dancer",
     "choices": [
-      "dinner",
-      "father",
-      "dance",
+      "ground",
+      "camera",
+      "player",
       "dancer"
     ],
     "meanings": "ダンサー",
@@ -5975,10 +5975,10 @@
     "answer": "pianist",
     "matchedForm": "pianist",
     "choices": [
-      "paint",
-      "piano",
+      "weather",
       "pianist",
-      "tennis"
+      "fifteen",
+      "concert"
     ],
     "meanings": "ピアニスト",
     "audioKey": "5kyu_pass"
@@ -5991,10 +5991,10 @@
     "answer": "driver",
     "matchedForm": "driver",
     "choices": [
-      "river",
-      "dinner",
-      "drink",
-      "driver"
+      "coffee",
+      "office",
+      "driver",
+      "August"
     ],
     "meanings": "運転手",
     "audioKey": "5kyu_pass"
@@ -6023,10 +6023,10 @@
     "answer": "store",
     "matchedForm": "store",
     "choices": [
-      "close",
-      "score",
-      "story",
-      "store"
+      "often",
+      "about",
+      "store",
+      "right"
     ],
     "meanings": "店",
     "audioKey": "5kyu_pass"
@@ -6135,10 +6135,10 @@
     "answer": "bookstore",
     "matchedForm": "bookstore",
     "choices": [
+      "bus stop",
+      "vegetable",
       "bookstore",
-      "store",
-      "book",
-      "bus stop"
+      "Classroom"
     ],
     "meanings": "書店",
     "audioKey": "5kyu_pass"
@@ -6183,10 +6183,10 @@
     "answer": "tower",
     "matchedForm": "tower",
     "choices": [
-      "towel",
-      "shower",
-      "tower",
-      "flower"
+      "which",
+      "enjoy",
+      "study",
+      "tower"
     ],
     "meanings": "タワー，塔",
     "audioKey": "5kyu_pass"
@@ -6215,10 +6215,10 @@
     "answer": "bus stop",
     "matchedForm": "bus stop",
     "choices": [
-      "bus stop",
-      "stop",
-      "busy",
-      "bus"
+      "practice",
+      "brother",
+      "hospital",
+      "bus stop"
     ],
     "meanings": "バス停",
     "audioKey": "5kyu_pass"
@@ -6231,10 +6231,10 @@
     "answer": "gas station",
     "matchedForm": "gas station",
     "choices": [
+      "restaurant",
       "gas station",
-      "station",
-      "police station",
-      "bus stop"
+      "grandfather",
+      "cafeteria"
     ],
     "meanings": "ガソリンスタンド",
     "audioKey": "5kyu_pass"
@@ -6247,10 +6247,10 @@
     "answer": "hotel",
     "matchedForm": "hotel",
     "choices": [
-      "hot",
-      "home",
-      "hotel",
-      "towel"
+      "teeth",
+      "table",
+      "small",
+      "hotel"
     ],
     "meanings": "ホテル",
     "audioKey": "5kyu_pass"
@@ -6279,9 +6279,9 @@
     "answer": "post office",
     "matchedForm": "post office",
     "choices": [
-      "office",
-      "postcard",
-      "police officer",
+      "living room",
+      "baseball",
+      "Wednesday",
       "post office"
     ],
     "meanings": "郵便局",
@@ -6295,10 +6295,10 @@
     "answer": "police station",
     "matchedForm": "police station",
     "choices": [
-      "police officer",
-      "gas station",
-      "station",
-      "police station"
+      "police station",
+      "post office",
+      "homework",
+      "badminton"
     ],
     "meanings": "警察署",
     "audioKey": "5kyu_pass"
@@ -6327,8 +6327,8 @@
     "answer": "tea",
     "matchedForm": "tea",
     "choices": [
-      "team",
-      "ten",
+      "red",
+      "day",
       "sea",
       "tea"
     ],
@@ -6391,9 +6391,9 @@
     "answer": "cookie",
     "matchedForm": "cookie",
     "choices": [
-      "movie",
-      "cook",
-      "coffee",
+      "sister",
+      "winter",
+      "family",
       "cookie"
     ],
     "meanings": "クッキー",
@@ -6439,10 +6439,10 @@
     "answer": "bread",
     "matchedForm": "bread",
     "choices": [
-      "ready",
-      "great",
-      "bread",
-      "read"
+      "about",
+      "black",
+      "teach",
+      "bread"
     ],
     "meanings": "パン",
     "audioKey": "5kyu_pass"
@@ -6583,10 +6583,10 @@
     "answer": "lunchtime",
     "matchedForm": "lunchtime",
     "choices": [
+      "newspaper",
       "lunchtime",
-      "lunch",
-      "time",
-      "practice"
+      "basketball",
+      "bathroom"
     ],
     "meanings": "昼食時間，ランチタイム",
     "audioKey": "5kyu_pass"
@@ -6599,9 +6599,9 @@
     "answer": "meat",
     "matchedForm": "meat",
     "choices": [
-      "meet",
-      "eat",
-      "year",
+      "read",
+      "bike",
+      "aunt",
       "meat"
     ],
     "meanings": "肉",
@@ -6631,10 +6631,10 @@
     "answer": "vegetable",
     "matchedForm": "vegetables",
     "choices": [
-      "table",
-      "baseball",
-      "vegetable",
-      "december"
+      "birthday",
+      "tomorrow",
+      "umbrella",
+      "vegetable"
     ],
     "meanings": "（ふつう複数形で）野菜",
     "audioKey": "5kyu_pass"
@@ -6647,10 +6647,10 @@
     "answer": "carrot",
     "matchedForm": "carrots",
     "choices": [
+      "always",
       "carrot",
-      "car",
-      "card",
-      "art"
+      "street",
+      "e-mail"
     ],
     "meanings": "ニンジン",
     "audioKey": "5kyu_pass"
@@ -6696,9 +6696,9 @@
     "matchedForm": "fork",
     "choices": [
       "fork",
-      "for",
-      "forty",
-      "work"
+      "hair",
+      "bike",
+      "pink"
     ],
     "meanings": "フォーク",
     "audioKey": "5kyu_pass"
@@ -6807,10 +6807,10 @@
     "answer": "grandmother",
     "matchedForm": "grandmother",
     "choices": [
-      "grandfather",
-      "mother",
-      "brother",
-      "grandmother"
+      "grandmother",
+      "volleyball",
+      "Classroom",
+      "strawberry"
     ],
     "meanings": "祖母",
     "audioKey": "5kyu_pass"
@@ -6823,10 +6823,10 @@
     "answer": "grandfather",
     "matchedForm": "grandfather",
     "choices": [
-      "grape",
-      "father",
       "grandfather",
-      "grandmother"
+      "centimeter",
+      "Singapore",
+      "pencil case"
     ],
     "meanings": "祖父",
     "audioKey": "5kyu_pass"
@@ -6871,10 +6871,10 @@
     "answer": "softball",
     "matchedForm": "softball",
     "choices": [
-      "soft",
-      "sofa",
-      "softball",
-      "football"
+      "subject",
+      "thirteen",
+      "Classroom",
+      "softball"
     ],
     "meanings": "ソフトボール",
     "audioKey": "5kyu_pass"
@@ -6903,10 +6903,10 @@
     "answer": "football",
     "matchedForm": "football",
     "choices": [
+      "student",
+      "shoulder",
       "football",
-      "softball",
-      "foot",
-      "food"
+      "hospital"
     ],
     "meanings": "フットボール",
     "audioKey": "5kyu_pass"
@@ -6919,10 +6919,10 @@
     "answer": "badminton",
     "matchedForm": "badminton",
     "choices": [
-      "bath",
+      "Wednesday",
+      "lunchtime",
       "badminton",
-      "radio",
-      "bathroom"
+      "practice"
     ],
     "meanings": "バドミントン",
     "audioKey": "5kyu_pass"
@@ -6951,10 +6951,10 @@
     "answer": "snow",
     "matchedForm": "snow",
     "choices": [
-      "snowy",
-      "know",
-      "show",
-      "snow"
+      "team",
+      "hair",
+      "snow",
+      "city"
     ],
     "meanings": "雪，雪が降る",
     "audioKey": "5kyu_pass"
@@ -6983,10 +6983,10 @@
     "answer": "river",
     "matchedForm": "river",
     "choices": [
-      "driver",
-      "ruler",
       "river",
-      "rice"
+      "piano",
+      "juice",
+      "story"
     ],
     "meanings": "川",
     "audioKey": "5kyu_pass"
@@ -7095,10 +7095,10 @@
     "answer": "elephant",
     "matchedForm": "elephant",
     "choices": [
-      "elephant",
-      "eleventh",
-      "eleven",
-      "want"
+      "children",
+      "picture",
+      "classmate",
+      "elephant"
     ],
     "meanings": "ゾウ",
     "audioKey": "5kyu_pass"
@@ -7191,10 +7191,10 @@
     "answer": "party",
     "matchedForm": "party",
     "choices": [
-      "park",
-      "art",
-      "paint",
-      "party"
+      "black",
+      "apple",
+      "party",
+      "drink"
     ],
     "meanings": "パーティー",
     "audioKey": "5kyu_pass"
@@ -7255,10 +7255,10 @@
     "answer": "centimeter",
     "matchedForm": "centimeters",
     "choices": [
-      "letter",
-      "cent",
-      "september",
-      "centimeter"
+      "cafeteria",
+      "centimeter",
+      "breakfast",
+      "wonderful"
     ],
     "meanings": "センチメートル",
     "audioKey": "5kyu_pass"
@@ -7303,9 +7303,9 @@
     "answer": "Singapore",
     "matchedForm": "Singapore",
     "choices": [
-      "finger",
-      "singer",
-      "sing",
+      "volleyball",
+      "magazine",
+      "bathroom",
       "Singapore"
     ],
     "meanings": "シンガポール",
@@ -7335,10 +7335,10 @@
     "answer": "ear",
     "matchedForm": "ears",
     "choices": [
-      "eat",
-      "near",
-      "year",
-      "ear"
+      "box",
+      "too",
+      "ear",
+      "egg"
     ],
     "meanings": "耳",
     "audioKey": "5kyu_pass"
@@ -7383,10 +7383,10 @@
     "answer": "cut",
     "matchedForm": "cut",
     "choices": [
-      "put",
-      "cup",
+      "egg",
       "cut",
-      "cute"
+      "cat",
+      "cup"
     ],
     "meanings": "を切る",
     "audioKey": "5kyu_pass"
@@ -7399,10 +7399,10 @@
     "answer": "sleep",
     "matchedForm": "sleep",
     "choices": [
-      "green",
-      "sleep",
-      "sheep",
-      "sleepy"
+      "night",
+      "story",
+      "month",
+      "sleep"
     ],
     "meanings": "眠る",
     "audioKey": "5kyu_pass"
@@ -7432,9 +7432,9 @@
     "matchedForm": "paint",
     "choices": [
       "paint",
-      "pink",
-      "rain",
-      "rainy"
+      "apple",
+      "about",
+      "clean"
     ],
     "meanings": "（絵の具で）を描く",
     "audioKey": "5kyu_pass"
@@ -7447,10 +7447,10 @@
     "answer": "rain",
     "matchedForm": "rain",
     "choices": [
-      "rain",
-      "rainy",
-      "train",
-      "radio"
+      "meet",
+      "date",
+      "cake",
+      "rain"
     ],
     "meanings": "雨が降る，雨",
     "audioKey": "5kyu_pass"
@@ -7511,10 +7511,10 @@
     "answer": "ski",
     "matchedForm": "ski",
     "choices": [
-      "skirt",
-      "i",
       "ski",
-      "sky"
+      "use",
+      "out",
+      "cat"
     ],
     "meanings": "スキーをする",
     "audioKey": "5kyu_pass"
@@ -7639,10 +7639,10 @@
     "answer": "rainy",
     "matchedForm": "rainy",
     "choices": [
-      "paint",
-      "rainy",
-      "rain",
-      "train"
+      "small",
+      "write",
+      "water",
+      "rainy"
     ],
     "meanings": "雨の",
     "audioKey": "5kyu_pass"
@@ -7655,10 +7655,10 @@
     "answer": "windy",
     "matchedForm": "windy",
     "choices": [
+      "Japan",
       "windy",
-      "winter",
-      "find",
-      "window"
+      "teeth",
+      "month"
     ],
     "meanings": "風の強い，風の吹く",
     "audioKey": "5kyu_pass"
@@ -7671,10 +7671,10 @@
     "answer": "snowy",
     "matchedForm": "snowy",
     "choices": [
-      "snowy",
-      "snow",
-      "know",
-      "story"
+      "under",
+      "apple",
+      "which",
+      "snowy"
     ],
     "meanings": "雪の降る",
     "audioKey": "5kyu_pass"
@@ -7687,10 +7687,10 @@
     "answer": "young",
     "matchedForm": "young",
     "choices": [
-      "yours",
-      "your",
+      "March",
+      "where",
       "young",
-      "song"
+      "there"
     ],
     "meanings": "若い",
     "audioKey": "5kyu_pass"
@@ -7752,9 +7752,9 @@
     "matchedForm": "busy",
     "choices": [
       "busy",
-      "buy",
-      "july",
-      "bus"
+      "aunt",
+      "home",
+      "song"
     ],
     "meanings": "忙しい",
     "audioKey": "5kyu_pass"
@@ -7816,9 +7816,9 @@
     "matchedForm": "sleepy",
     "choices": [
       "sleepy",
-      "green",
-      "sleep",
-      "sheep"
+      "pocket",
+      "family",
+      "museum"
     ],
     "meanings": "眠い",
     "audioKey": "5kyu_pass"
@@ -7943,10 +7943,10 @@
     "answer": "four",
     "matchedForm": "four",
     "choices": [
-      "hour",
-      "fourth",
+      "room",
+      "hair",
       "four",
-      "for"
+      "blue"
     ],
     "meanings": "4",
     "audioKey": "5kyu_pass"
@@ -7975,10 +7975,10 @@
     "answer": "six",
     "matchedForm": "six",
     "choices": [
-      "sixty",
       "six",
-      "sit",
-      "big"
+      "hat",
+      "run",
+      "DVD"
     ],
     "meanings": "6",
     "audioKey": "5kyu_pass"
@@ -7991,10 +7991,10 @@
     "answer": "seven",
     "matchedForm": "seven",
     "choices": [
-      "seven",
-      "seventh",
-      "seventy",
-      "eleven"
+      "chair",
+      "music",
+      "curry",
+      "seven"
     ],
     "meanings": "7",
     "audioKey": "5kyu_pass"
@@ -8007,10 +8007,10 @@
     "answer": "eight",
     "matchedForm": "eight",
     "choices": [
-      "eighth",
-      "night",
       "eight",
-      "eighty"
+      "March",
+      "drink",
+      "often"
     ],
     "meanings": "8",
     "audioKey": "5kyu_pass"
@@ -8023,10 +8023,10 @@
     "answer": "nine",
     "matchedForm": "nine",
     "choices": [
-      "ninety",
-      "nice",
+      "June",
       "nine",
-      "fine"
+      "game",
+      "club"
     ],
     "meanings": "9",
     "audioKey": "5kyu_pass"
@@ -8055,10 +8055,10 @@
     "answer": "eleven",
     "matchedForm": "eleven",
     "choices": [
-      "eleventh",
-      "elephant",
+      "rabbit",
       "eleven",
-      "seven"
+      "always",
+      "pencil"
     ],
     "meanings": "11",
     "audioKey": "5kyu_pass"
@@ -8071,10 +8071,10 @@
     "answer": "twelve",
     "matchedForm": "twelve",
     "choices": [
-      "well",
-      "twelfth",
-      "twenty",
-      "twelve"
+      "window",
+      "around",
+      "twelve",
+      "minute"
     ],
     "meanings": "12",
     "audioKey": "5kyu_pass"
@@ -8087,10 +8087,10 @@
     "answer": "thirteen",
     "matchedForm": "thirteen",
     "choices": [
-      "fifteen",
-      "thirty",
-      "three",
-      "thirteen"
+      "Saturday",
+      "thirteen",
+      "ice cream",
+      "homework"
     ],
     "meanings": "13",
     "audioKey": "5kyu_pass"
@@ -8103,10 +8103,10 @@
     "answer": "fourteen",
     "matchedForm": "fourteen",
     "choices": [
-      "thirteen",
-      "four",
-      "fourteen",
-      "fourth"
+      "breakfast",
+      "afternoon",
+      "football",
+      "fourteen"
     ],
     "meanings": "14",
     "audioKey": "5kyu_pass"
@@ -8119,9 +8119,9 @@
     "answer": "fifteen",
     "matchedForm": "fifteen",
     "choices": [
-      "fifty",
-      "fifth",
-      "sixteen",
+      "concert",
+      "eraser",
+      "tomorrow",
       "fifteen"
     ],
     "meanings": "15",
@@ -8135,10 +8135,10 @@
     "answer": "sixteen",
     "matchedForm": "sixteen",
     "choices": [
-      "sixty",
       "sixteen",
-      "fifteen",
-      "sixth"
+      "dessert",
+      "eraser",
+      "number"
     ],
     "meanings": "16",
     "audioKey": "5kyu_pass"
@@ -8151,10 +8151,10 @@
     "answer": "seventeen",
     "matchedForm": "seventeen",
     "choices": [
-      "seventh",
+      "Thursday",
+      "restaurant",
       "seventeen",
-      "seventy",
-      "eighteen"
+      "backpack"
     ],
     "meanings": "17",
     "audioKey": "5kyu_pass"
@@ -8167,10 +8167,10 @@
     "answer": "eighteen",
     "matchedForm": "eighteen",
     "choices": [
-      "eighty",
-      "nineteen",
-      "eight",
-      "eighteen"
+      "eighteen",
+      "daughter",
+      "classmate",
+      "weekend"
     ],
     "meanings": "18",
     "audioKey": "5kyu_pass"
@@ -8183,10 +8183,10 @@
     "answer": "nineteen",
     "matchedForm": "nineteen",
     "choices": [
-      "ninety",
-      "eighteen",
+      "teacher",
       "nineteen",
-      "nine"
+      "subject",
+      "Classroom"
     ],
     "meanings": "19",
     "audioKey": "5kyu_pass"
@@ -8215,10 +8215,10 @@
     "answer": "thirty",
     "matchedForm": "thirty",
     "choices": [
-      "thirteen",
-      "shirt",
+      "tennis",
       "thirty",
-      "third"
+      "rabbit",
+      "summer"
     ],
     "meanings": "30",
     "audioKey": "5kyu_pass"
@@ -8231,10 +8231,10 @@
     "answer": "forty",
     "matchedForm": "forty",
     "choices": [
-      "party",
+      "start",
+      "juice",
       "forty",
-      "fork",
-      "for"
+      "stand"
     ],
     "meanings": "40",
     "audioKey": "5kyu_pass"
@@ -8247,10 +8247,10 @@
     "answer": "fifty",
     "matchedForm": "fifty",
     "choices": [
-      "fifty",
-      "sixty",
-      "fifth",
-      "fifteen"
+      "sport",
+      "March",
+      "where",
+      "fifty"
     ],
     "meanings": "50",
     "audioKey": "5kyu_pass"
@@ -8263,10 +8263,10 @@
     "answer": "sixty",
     "matchedForm": "sixty",
     "choices": [
-      "sixth",
-      "fifty",
-      "six",
-      "sixty"
+      "sixty",
+      "mouth",
+      "great",
+      "after"
     ],
     "meanings": "60",
     "audioKey": "5kyu_pass"
@@ -8279,10 +8279,10 @@
     "answer": "seventy",
     "matchedForm": "seventy",
     "choices": [
-      "seventh",
-      "every",
-      "seventy",
-      "seven"
+      "October",
+      "number",
+      "Italian",
+      "seventy"
     ],
     "meanings": "70",
     "audioKey": "5kyu_pass"
@@ -8295,10 +8295,10 @@
     "answer": "eighty",
     "matchedForm": "eighty",
     "choices": [
-      "night",
-      "eighth",
       "eighty",
-      "eight"
+      "hungry",
+      "player",
+      "dancer"
     ],
     "meanings": "80",
     "audioKey": "5kyu_pass"
@@ -8312,9 +8312,9 @@
     "matchedForm": "ninety",
     "choices": [
       "ninety",
-      "fine",
-      "nine",
-      "ninth"
+      "Canada",
+      "pocket",
+      "pencil"
     ],
     "meanings": "90",
     "audioKey": "5kyu_pass"
@@ -8391,10 +8391,10 @@
     "answer": "third",
     "matchedForm": "third",
     "choices": [
-      "shirt",
-      "think",
+      "woman",
+      "speak",
       "third",
-      "thirty"
+      "apple"
     ],
     "meanings": "３番目の",
     "audioKey": "5kyu_pass"
@@ -8408,9 +8408,9 @@
     "matchedForm": "fourth",
     "choices": [
       "fourth",
-      "fourteen",
-      "four",
-      "mouth"
+      "Canada",
+      "coffee",
+      "waiter"
     ],
     "meanings": "４番目の",
     "audioKey": "5kyu_pass"
@@ -8423,10 +8423,10 @@
     "answer": "fifth",
     "matchedForm": "fifth",
     "choices": [
-      "fifty",
+      "mouth",
+      "April",
       "fifth",
-      "sixth",
-      "fish"
+      "month"
     ],
     "meanings": "５番目の",
     "audioKey": "5kyu_pass"
@@ -8439,10 +8439,10 @@
     "answer": "sixth",
     "matchedForm": "sixth",
     "choices": [
+      "dance",
+      "music",
       "sixth",
-      "fifth",
-      "sixty",
-      "six"
+      "class"
     ],
     "meanings": "６番目の",
     "audioKey": "5kyu_pass"
@@ -8455,10 +8455,10 @@
     "answer": "seventh",
     "matchedForm": "seventh",
     "choices": [
-      "eleventh",
-      "seventy",
       "seventh",
-      "seven"
+      "picture",
+      "January",
+      "usually"
     ],
     "meanings": "７番目の",
     "audioKey": "5kyu_pass"
@@ -8471,10 +8471,10 @@
     "answer": "eighth",
     "matchedForm": "eighth",
     "choices": [
-      "eighty",
-      "eight",
-      "eighth",
-      "night"
+      "tennis",
+      "dinner",
+      "Sunday",
+      "eighth"
     ],
     "meanings": "８番目の",
     "audioKey": "5kyu_pass"
@@ -8487,10 +8487,10 @@
     "answer": "ninth",
     "matchedForm": "ninth",
     "choices": [
-      "fifth",
-      "ninety",
-      "nine",
-      "ninth"
+      "ready",
+      "April",
+      "ninth",
+      "uncle"
     ],
     "meanings": "９番目の",
     "audioKey": "5kyu_pass"
@@ -8503,10 +8503,10 @@
     "answer": "tenth",
     "matchedForm": "tenth",
     "choices": [
-      "teeth",
-      "ten",
-      "tenth",
-      "cent"
+      "drink",
+      "whose",
+      "brush",
+      "tenth"
     ],
     "meanings": "１０番目の",
     "audioKey": "5kyu_pass"
@@ -8519,10 +8519,10 @@
     "answer": "eleventh",
     "matchedForm": "eleventh",
     "choices": [
-      "eleven",
+      "December",
       "eleventh",
-      "elephant",
-      "seventh"
+      "station",
+      "ice cream"
     ],
     "meanings": "１１番目の",
     "audioKey": "5kyu_pass"
@@ -8535,10 +8535,10 @@
     "answer": "twelfth",
     "matchedForm": "twelfth",
     "choices": [
-      "twelve",
-      "well",
-      "twenty",
-      "twelfth"
+      "twelfth",
+      "January",
+      "country",
+      "student"
     ],
     "meanings": "１２番目の",
     "audioKey": "5kyu_pass"
@@ -8615,10 +8615,10 @@
     "answer": "you",
     "matchedForm": "You",
     "choices": [
-      "young",
-      "your",
+      "red",
       "you",
-      "out"
+      "but",
+      "DVD"
     ],
     "meanings": "あなたは",
     "audioKey": "5kyu_pass"
@@ -8631,10 +8631,10 @@
     "answer": "your",
     "matchedForm": "your",
     "choices": [
+      "show",
       "your",
-      "hour",
-      "yours",
-      "you"
+      "July",
+      "girl"
     ],
     "meanings": "あなたの",
     "audioKey": "5kyu_pass"
@@ -8648,9 +8648,9 @@
     "matchedForm": "you",
     "choices": [
       "you",
-      "out",
-      "young",
-      "your"
+      "gym",
+      "all",
+      "who"
     ],
     "meanings": "あなたを［に］",
     "audioKey": "5kyu_pass"
@@ -8663,10 +8663,10 @@
     "answer": "yours",
     "matchedForm": "yours",
     "choices": [
-      "your",
-      "ours",
-      "yours",
-      "young"
+      "after",
+      "white",
+      "great",
+      "yours"
     ],
     "meanings": "あなたのもの",
     "audioKey": "5kyu_pass"
@@ -8695,10 +8695,10 @@
     "answer": "his",
     "matchedForm": "his",
     "choices": [
-      "him",
-      "this",
-      "high",
-      "his"
+      "pen",
+      "his",
+      "out",
+      "zoo"
     ],
     "meanings": "彼の",
     "audioKey": "5kyu_pass"
@@ -8727,9 +8727,9 @@
     "answer": "his",
     "matchedForm": "his",
     "choices": [
-      "him",
-      "high",
-      "this",
+      "eat",
+      "tea",
+      "any",
       "his"
     ],
     "meanings": "彼のもの",
@@ -8759,10 +8759,10 @@
     "answer": "her",
     "matchedForm": "her",
     "choices": [
-      "here",
       "her",
-      "bed",
-      "hers"
+      "sit",
+      "now",
+      "big"
     ],
     "meanings": "彼女の",
     "audioKey": "5kyu_pass"
@@ -8775,10 +8775,10 @@
     "answer": "her",
     "matchedForm": "her",
     "choices": [
-      "hers",
+      "her",
       "bed",
-      "here",
-      "her"
+      "see",
+      "sky"
     ],
     "meanings": "彼女を［に］",
     "audioKey": "5kyu_pass"
@@ -8791,10 +8791,10 @@
     "answer": "hers",
     "matchedForm": "hers",
     "choices": [
-      "here",
-      "very",
       "hers",
-      "her"
+      "tree",
+      "hair",
+      "girl"
     ],
     "meanings": "彼女のもの",
     "audioKey": "5kyu_pass"
@@ -8871,10 +8871,10 @@
     "answer": "our",
     "matchedForm": "our",
     "choices": [
-      "hour",
-      "out",
+      "son",
+      "bag",
       "our",
-      "ours"
+      "hot"
     ],
     "meanings": "私たちの",
     "audioKey": "5kyu_pass"
@@ -8903,10 +8903,10 @@
     "answer": "ours",
     "matchedForm": "ours",
     "choices": [
-      "yours",
-      "our",
-      "out",
-      "ours"
+      "wash",
+      "ours",
+      "bird",
+      "have"
     ],
     "meanings": "私たちのもの",
     "audioKey": "5kyu_pass"
@@ -8935,10 +8935,10 @@
     "answer": "their",
     "matchedForm": "their",
     "choices": [
+      "green",
       "their",
-      "theirs",
-      "there",
-      "chair"
+      "stand",
+      "music"
     ],
     "meanings": "彼らの，彼女らの",
     "audioKey": "5kyu_pass"
@@ -8967,10 +8967,10 @@
     "answer": "theirs",
     "matchedForm": "theirs",
     "choices": [
-      "their",
-      "there",
+      "window",
       "theirs",
-      "hers"
+      "friend",
+      "around"
     ],
     "meanings": "彼らのもの，彼女らのもの",
     "audioKey": "5kyu_pass"
@@ -8983,10 +8983,10 @@
     "answer": "this",
     "matchedForm": "This",
     "choices": [
-      "third",
-      "his",
-      "think",
-      "this"
+      "this",
+      "city",
+      "hour",
+      "hand"
     ],
     "meanings": "これ，この",
     "audioKey": "5kyu_pass"
@@ -8999,10 +8999,10 @@
     "answer": "that",
     "matchedForm": "That",
     "choices": [
-      "hat",
-      "what",
+      "make",
+      "food",
       "that",
-      "then"
+      "face"
     ],
     "meanings": "あれ，それ，あの，その",
     "audioKey": "5kyu_pass"
