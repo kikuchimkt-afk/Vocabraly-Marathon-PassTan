@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>📚 パス単マラソン</title>
+  <meta name="description" content="英検パス単の4択空所補充クイズアプリ">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='80'>📚</text></svg>">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- ===== Setup Screen ===== -->
+  <div id="setupScreen" class="screen active">
+    <header class="app-header">
+      <h1 class="app-title">📚 パス単マラソン</h1>
+      <p class="app-subtitle">出る順パス単 · 4択空所補充</p>
+    </header>
+
+    <div id="streakBadge" class="streak-badge"></div>
+
+    <div class="setup-card glass-card">
+      <h2 class="setup-heading">📋 級を選択</h2>
+      <div id="gradeBtns" class="grade-grid"></div>
+    </div>
+
+    <div id="marathonProgress" class="marathon-progress"></div>
+
+    <div class="setup-card glass-card">
+      <h2 class="setup-heading">🎯 出題範囲</h2>
+      <div class="range-group">
+        <label class="range-label">単語ID <span id="wordRangeInfo" class="range-info"></span></label>
+        <div class="range-inputs">
+          <input type="number" id="wordIdStart" placeholder="開始" min="1" class="range-input">
+          <span class="range-sep">〜</span>
+          <input type="number" id="wordIdEnd" placeholder="終了" class="range-input">
+        </div>
+      </div>
+    </div>
+
+    <div class="setup-card glass-card">
+      <h2 class="setup-heading">⚙️ 問題数</h2>
+      <select id="questionCount" class="select-input">
+        <option value="10">10問</option>
+        <option value="20" selected>20問</option>
+        <option value="30">30問</option>
+        <option value="50">50問</option>
+        <option value="100">100問</option>
+        <option value="0">全問</option>
+      </select>
+    </div>
+
+    <div id="summary" class="summary-box glass-card"></div>
+
+    <div class="start-area">
+      <button id="startBtn" class="start-btn" disabled>▶️ スタート</button>
+      <button id="mistakeBtn" class="mistake-review-btn" style="display:none">📝 ミスした問題を復習</button>
+    </div>
+
+    <div class="help-section">
+      <button id="helpBtn" class="help-toggle">📖 使い方</button>
+      <div id="helpContent" class="help-content hidden">
+        <h3>使い方</h3>
+        <p>1. 級を選んでスタート</p>
+        <p>2. 例文の空欄に入る単語を4択から選択</p>
+        <p>3. 正解するとその問題は「クリア」としてマーカーされます</p>
+        <p>4. ヒントボタンで例文の日本語訳を表示できます</p>
+        <p>5. 1日10問以上で連続トレーニング記録がつきます</p>
+        <h3>🔊 音声</h3>
+        <p>正解時に例文の音声が自動再生されます</p>
+        <h3>📝 ミス復習</h3>
+        <p>間違えた問題は自動保存。トップ画面から復習できます</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Quiz Screen ===== -->
+  <div id="quizScreen" class="screen">
+    <div class="quiz-header">
+      <div class="quiz-progress">
+        <span id="quizCounter" class="counter">1 / 20</span>
+        <div class="score-display">
+          <span class="score-correct" id="scoreCorrect">⭕ 0</span>
+          <span class="score-wrong" id="scoreWrong">❌ 0</span>
+        </div>
+      </div>
+      <div class="progress-bar">
+        <div id="progressFill" class="progress-fill"></div>
+      </div>
+    </div>
+
+    <div class="quiz-body">
+      <div id="questionCard" class="question-card glass-card">
+        <div class="question-meta">
+          <span id="questionRank" class="q-rank"></span>
+          <span id="questionMeaning" class="q-meaning"></span>
+        </div>
+        <p id="questionText" class="question-text"></p>
+        <p id="questionJa" class="question-ja hidden"></p>
+      </div>
+
+      <div id="choicesArea" class="choices-area"></div>
+
+      <div id="feedbackArea" class="feedback-area hidden">
+        <div id="feedbackIcon" class="feedback-icon"></div>
+        <div id="feedbackDetails" class="feedback-details"></div>
+      </div>
+
+      <div class="quiz-actions">
+        <button id="hintBtn" class="action-btn hint-btn">💡 ヒント</button>
+        <button id="audioBtn" class="action-btn audio-btn" style="display:none">🔊 もう一度</button>
+        <button id="nextBtn" class="action-btn next-btn" style="display:none">次の問題 →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Result Screen ===== -->
+  <div id="resultScreen" class="screen">
+    <div class="result-card glass-card">
+      <h2 class="result-title">📊 結果</h2>
+      <div class="result-score">
+        <div class="score-circle" id="scoreCircle">
+          <span id="scorePct">0</span><span class="pct">%</span>
+        </div>
+      </div>
+      <div class="result-stats">
+        <div class="stat"><span class="stat-label">正解数</span><span class="stat-value" id="resultCorrect">0</span></div>
+        <div class="stat"><span class="stat-label">不正解</span><span class="stat-value" id="resultWrong">0</span></div>
+        <div class="stat"><span class="stat-label">合計</span><span class="stat-value" id="resultTotal">0</span></div>
+      </div>
+    </div>
+    <div id="resultMistakes" class="result-mistakes"></div>
+    <div class="result-actions">
+      <button id="retryBtn" class="start-btn">🔁 もう一度</button>
+      <button id="homeBtn" class="start-btn secondary">🏠 トップへ</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

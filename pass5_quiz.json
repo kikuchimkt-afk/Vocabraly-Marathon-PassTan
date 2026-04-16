@@ -1,0 +1,9042 @@
+[
+  {
+    "id": "5kyu_1",
+    "rank": 1,
+    "question": "This is my _______.",
+    "questionJa": "これは私の家です。",
+    "answer": "house",
+    "matchedForm": "house",
+    "choices": [
+      "house",
+      "home",
+      "whose",
+      "hour"
+    ],
+    "meanings": "いえ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_2",
+    "rank": 2,
+    "question": "I like this _______.",
+    "questionJa": "私はこの本が好きです。",
+    "answer": "book",
+    "matchedForm": "book",
+    "choices": [
+      "box",
+      "book",
+      "look",
+      "cook"
+    ],
+    "meanings": "ほん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_3",
+    "rank": 3,
+    "question": "This is my _______.",
+    "questionJa": "これは私の部屋です。",
+    "answer": "room",
+    "matchedForm": "room",
+    "choices": [
+      "rose",
+      "book",
+      "room",
+      "door"
+    ],
+    "meanings": "へや",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_4",
+    "rank": 4,
+    "question": "Let's go _______.",
+    "questionJa": "家に帰りましょう。",
+    "answer": "home",
+    "matchedForm": "home",
+    "choices": [
+      "hotel",
+      "home",
+      "some",
+      "come"
+    ],
+    "meanings": "いえへ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_5",
+    "rank": 5,
+    "question": "Sit at the _______.",
+    "questionJa": "テーブルに座りなさい。",
+    "answer": "table",
+    "matchedForm": "table",
+    "choices": [
+      "table",
+      "apple",
+      "talk",
+      "take"
+    ],
+    "meanings": "テーブル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_6",
+    "rank": 6,
+    "question": "Look at this _______!",
+    "questionJa": "この写真を見て！",
+    "answer": "picture",
+    "matchedForm": "picture",
+    "choices": [
+      "minute",
+      "practice",
+      "picture",
+      "pie"
+    ],
+    "meanings": "え、しゃしん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_7",
+    "rank": 7,
+    "question": "I have a _______.",
+    "questionJa": "私はコンピューターを持っています。",
+    "answer": "computer",
+    "matchedForm": "computer",
+    "choices": [
+      "come",
+      "computer",
+      "cute",
+      "hamster"
+    ],
+    "meanings": "コンピューター",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_8",
+    "rank": 8,
+    "question": "Open the _______.",
+    "questionJa": "箱を開けて。",
+    "answer": "box",
+    "matchedForm": "box",
+    "choices": [
+      "book",
+      "boy",
+      "son",
+      "box"
+    ],
+    "meanings": "はこ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_9",
+    "rank": 9,
+    "question": "Let's watch _______.",
+    "questionJa": "テレビを見ましょう。",
+    "answer": "TV",
+    "matchedForm": "TV",
+    "choices": [
+      "TV",
+      "to",
+      "by",
+      "cd"
+    ],
+    "meanings": "テレビ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_10",
+    "rank": 10,
+    "question": "This is my _______.",
+    "questionJa": "これは私の帽子です。",
+    "answer": "cap",
+    "matchedForm": "cap",
+    "choices": [
+      "cap",
+      "car",
+      "bag",
+      "cat"
+    ],
+    "meanings": "ぼうし",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_11",
+    "rank": 11,
+    "question": "Where is my _______?",
+    "questionJa": "私のカバンはどこですか？",
+    "answer": "bag",
+    "matchedForm": "bag",
+    "choices": [
+      "bag",
+      "cap",
+      "bath",
+      "big"
+    ],
+    "meanings": "かばん，バッグ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_12",
+    "rank": 12,
+    "question": "I write a _______.",
+    "questionJa": "私は手紙を書きます。",
+    "answer": "letter",
+    "matchedForm": "letter",
+    "choices": [
+      "meter",
+      "listen",
+      "little",
+      "letter"
+    ],
+    "meanings": "てがみ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_13",
+    "rank": 13,
+    "question": "Go to _______ now.",
+    "questionJa": "もう寝なさい。",
+    "answer": "bed",
+    "matchedForm": "bed",
+    "choices": [
+      "red",
+      "box",
+      "bag",
+      "bed"
+    ],
+    "meanings": "ベッド",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_14",
+    "rank": 14,
+    "question": "I have a _______.",
+    "questionJa": "私はカメラを持っています。",
+    "answer": "camera",
+    "matchedForm": "camera",
+    "choices": [
+      "canada",
+      "water",
+      "camp",
+      "camera"
+    ],
+    "meanings": "カメラ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_15",
+    "rank": 15,
+    "question": "Open the _______.",
+    "questionJa": "ドアを開けて。",
+    "answer": "door",
+    "matchedForm": "door",
+    "choices": [
+      "doctor",
+      "book",
+      "door",
+      "down"
+    ],
+    "meanings": "ドア，と",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_16",
+    "rank": 16,
+    "question": "I have a _______.",
+    "questionJa": "私はペットを飼っています。",
+    "answer": "pet",
+    "matchedForm": "pet",
+    "choices": [
+      "pen",
+      "get",
+      "put",
+      "pet"
+    ],
+    "meanings": "ペット",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_17",
+    "rank": 17,
+    "question": "This _______ is new.",
+    "questionJa": "このTシャツは新しいです。",
+    "answer": "T-shirt",
+    "matchedForm": "T-shirt",
+    "choices": [
+      "shirt",
+      "T-shirt",
+      "third",
+      "thirty"
+    ],
+    "meanings": "ティーシャツ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_18",
+    "rank": 18,
+    "question": "Open the _______.",
+    "questionJa": "窓を開けて。",
+    "answer": "window",
+    "matchedForm": "window",
+    "choices": [
+      "windy",
+      "winter",
+      "know",
+      "window"
+    ],
+    "meanings": "まど",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_19",
+    "rank": 19,
+    "question": "I send an _______.",
+    "questionJa": "私はEメールを送ります。",
+    "answer": "e-mail",
+    "matchedForm": "e-mail",
+    "choices": [
+      "e-mail",
+      "pencil",
+      "family",
+      "small"
+    ],
+    "meanings": "イーメール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_20",
+    "rank": 20,
+    "question": "I take a _______.",
+    "questionJa": "私はお風呂に入ります。",
+    "answer": "bath",
+    "matchedForm": "bath",
+    "choices": [
+      "math",
+      "ball",
+      "bath",
+      "bank"
+    ],
+    "meanings": "にゅうよく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_21",
+    "rank": 21,
+    "question": "This is my _______.",
+    "questionJa": "これは私の腕時計です。",
+    "answer": "watch",
+    "matchedForm": "watch",
+    "choices": [
+      "wash",
+      "water",
+      "watch",
+      "march"
+    ],
+    "meanings": "うでどけい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_22",
+    "rank": 22,
+    "question": "I read _______.",
+    "questionJa": "私は漫画本を読みます。",
+    "answer": "comic book",
+    "matchedForm": "comic books",
+    "choices": [
+      "notebook",
+      "cook",
+      "computer",
+      "comic book"
+    ],
+    "meanings": "まんがぼん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_23",
+    "rank": 23,
+    "question": "I have an _______.",
+    "questionJa": "私は傘を持っています。",
+    "answer": "umbrella",
+    "matchedForm": "umbrella",
+    "choices": [
+      "australia",
+      "umbrella",
+      "usually",
+      "number"
+    ],
+    "meanings": "かさ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_24",
+    "rank": 24,
+    "question": "What day is _______?",
+    "questionJa": "今日は何曜日ですか？",
+    "answer": "today",
+    "matchedForm": "today",
+    "choices": [
+      "today",
+      "towel",
+      "monday",
+      "toy"
+    ],
+    "meanings": "きょう",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_25",
+    "rank": 25,
+    "question": "See you _______!",
+    "questionJa": "また明日ね！",
+    "answer": "tomorrow",
+    "matchedForm": "tomorrow",
+    "choices": [
+      "tomato",
+      "tomorrow",
+      "door",
+      "too"
+    ],
+    "meanings": "あした",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_26",
+    "rank": 26,
+    "question": "Today is a sunny _______.",
+    "questionJa": "今日は晴れた日です。",
+    "answer": "day",
+    "matchedForm": "day",
+    "choices": [
+      "may",
+      "cap",
+      "date",
+      "day"
+    ],
+    "meanings": "ひ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_27",
+    "rank": 27,
+    "question": "I eat breakfast in the _______.",
+    "questionJa": "私は朝に朝食を食べます。",
+    "answer": "morning",
+    "matchedForm": "morning",
+    "choices": [
+      "evening",
+      "morning",
+      "mountain",
+      "spring"
+    ],
+    "meanings": "あさ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_28",
+    "rank": 28,
+    "question": "Let's play in the _______.",
+    "questionJa": "午後に遊びましょう。",
+    "answer": "afternoon",
+    "matchedForm": "afternoon",
+    "choices": [
+      "afternoon",
+      "after",
+      "bathroom",
+      "notebook"
+    ],
+    "meanings": "ごご",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_29",
+    "rank": 29,
+    "question": "I watch TV in the _______.",
+    "questionJa": "私は夕方にテレビを見ます。",
+    "answer": "evening",
+    "matchedForm": "evening",
+    "choices": [
+      "evening",
+      "every",
+      "everyone",
+      "morning"
+    ],
+    "meanings": "ゆうがた",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_30",
+    "rank": 30,
+    "question": "Good _______, everyone!",
+    "questionJa": "皆さん、おやすみなさい！",
+    "answer": "night",
+    "matchedForm": "night",
+    "choices": [
+      "night",
+      "right",
+      "ninth",
+      "eight"
+    ],
+    "meanings": "よる",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_31",
+    "rank": 31,
+    "question": "What _______ is it now?",
+    "questionJa": "今、何時ですか？",
+    "answer": "time",
+    "matchedForm": "time",
+    "choices": [
+      "rice",
+      "bike",
+      "tree",
+      "time"
+    ],
+    "meanings": "じかん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_32",
+    "rank": 32,
+    "question": "The class is one _______.",
+    "questionJa": "その授業は1時間です。",
+    "answer": "hour",
+    "matchedForm": "hour",
+    "choices": [
+      "hour",
+      "four",
+      "our",
+      "your"
+    ],
+    "meanings": "いちじかん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_33",
+    "rank": 33,
+    "question": "Let's eat lunch at _______.",
+    "questionJa": "正午に昼食を食べましょう。",
+    "answer": "noon",
+    "matchedForm": "noon",
+    "choices": [
+      "room",
+      "now",
+      "noon",
+      "book"
+    ],
+    "meanings": "しょうご",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_34",
+    "rank": 34,
+    "question": "What is today's _______?",
+    "questionJa": "今日の日付は何ですか？",
+    "answer": "date",
+    "matchedForm": "date",
+    "choices": [
+      "day",
+      "name",
+      "dance",
+      "date"
+    ],
+    "meanings": "ひづけ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_35",
+    "rank": 35,
+    "question": "I study English every _______.",
+    "questionJa": "私は毎週英語を勉強します。",
+    "answer": "week",
+    "matchedForm": "week",
+    "choices": [
+      "week",
+      "weekend",
+      "well",
+      "meet"
+    ],
+    "meanings": "しゅう",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_36",
+    "rank": 36,
+    "question": "I play soccer on _______.",
+    "questionJa": "私は週末にサッカーをします。",
+    "answer": "weekend",
+    "matchedForm": "weekends",
+    "choices": [
+      "weekend",
+      "week",
+      "present",
+      "eleven"
+    ],
+    "meanings": "しゅうまつ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_37",
+    "rank": 37,
+    "question": "I am ten _______ old.",
+    "questionJa": "私は10歳です。",
+    "answer": "year",
+    "matchedForm": "years",
+    "choices": [
+      "near",
+      "yen",
+      "ear",
+      "year"
+    ],
+    "meanings": "とし",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_38",
+    "rank": 38,
+    "question": "I go to _______ by bus.",
+    "questionJa": "私はバスで学校に行きます。",
+    "answer": "school",
+    "matchedForm": "school",
+    "choices": [
+      "cook",
+      "score",
+      "spoon",
+      "school"
+    ],
+    "meanings": "がっこう",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_39",
+    "rank": 39,
+    "question": "Open your _______ to page 5.",
+    "questionJa": "教科書の5ページを開いてください。",
+    "answer": "textbook",
+    "matchedForm": "textbook",
+    "choices": [
+      "book",
+      "teeth",
+      "textbook",
+      "notebook"
+    ],
+    "meanings": "きょうかしょ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_40",
+    "rank": 40,
+    "question": "This is my math _______.",
+    "questionJa": "これは私の数学の授業です。",
+    "answer": "class",
+    "matchedForm": "class",
+    "choices": [
+      "last",
+      "class",
+      "glass",
+      "close"
+    ],
+    "meanings": "じゅぎょう",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_41",
+    "rank": 41,
+    "question": "I have a blue _______.",
+    "questionJa": "私は青いペンを持っています。",
+    "answer": "pen",
+    "matchedForm": "pen",
+    "choices": [
+      "yen",
+      "ten",
+      "pen",
+      "pet"
+    ],
+    "meanings": "ペン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_42",
+    "rank": 42,
+    "question": "I do my _______ daily.",
+    "questionJa": "私は毎日宿題をします。",
+    "answer": "homework",
+    "matchedForm": "homework",
+    "choices": [
+      "home",
+      "homework",
+      "hour",
+      "notebook"
+    ],
+    "meanings": "しゅくだい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_43",
+    "rank": 43,
+    "question": "My _______ is Kenta.",
+    "questionJa": "私の名前はケンタです。",
+    "answer": "name",
+    "matchedForm": "name",
+    "choices": [
+      "cake",
+      "date",
+      "name",
+      "game"
+    ],
+    "meanings": "なまえ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_44",
+    "rank": 44,
+    "question": "I like _______ very much.",
+    "questionJa": "私は数学が大好きです。",
+    "answer": "math",
+    "matchedForm": "math",
+    "choices": [
+      "bath",
+      "man",
+      "many",
+      "math"
+    ],
+    "meanings": "すうがく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_45",
+    "rank": 45,
+    "question": "I am a junior high _______.",
+    "questionJa": "私は中学生です。",
+    "answer": "student",
+    "matchedForm": "student",
+    "choices": [
+      "student",
+      "study",
+      "present",
+      "street"
+    ],
+    "meanings": "せいと",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_46",
+    "rank": 46,
+    "question": "She is my English _______.",
+    "questionJa": "彼女は私の英語の先生です。",
+    "answer": "teacher",
+    "matchedForm": "teacher",
+    "choices": [
+      "teach",
+      "teacher",
+      "weather",
+      "team"
+    ],
+    "meanings": "せんせい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_47",
+    "rank": 47,
+    "question": "I use a _______ to write.",
+    "questionJa": "私は書くために鉛筆を使います。",
+    "answer": "pencil",
+    "matchedForm": "pencil",
+    "choices": [
+      "tennis",
+      "pen",
+      "pencil",
+      "pencil case"
+    ],
+    "meanings": "えんぴつ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_48",
+    "rank": 48,
+    "question": "I am in the soccer _______.",
+    "questionJa": "私はサッカー部に入っています。",
+    "answer": "club",
+    "matchedForm": "club",
+    "choices": [
+      "cut",
+      "club",
+      "blue",
+      "cup"
+    ],
+    "meanings": "クラブ，ぶ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_49",
+    "rank": 49,
+    "question": "Do you have an _______?",
+    "questionJa": "消しゴムを持っていますか？",
+    "answer": "eraser",
+    "matchedForm": "eraser",
+    "choices": [
+      "driver",
+      "ear",
+      "player",
+      "eraser"
+    ],
+    "meanings": "けしゴム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_50",
+    "rank": 50,
+    "question": "Use your _______, please.",
+    "questionJa": "辞書を使ってください。",
+    "answer": "dictionary",
+    "matchedForm": "dictionary",
+    "choices": [
+      "diary",
+      "doctor",
+      "library",
+      "dictionary"
+    ],
+    "meanings": "じしょ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_51",
+    "rank": 51,
+    "question": "We play in the _______.",
+    "questionJa": "私たちは体育館で遊びます。",
+    "answer": "gym",
+    "matchedForm": "gym",
+    "choices": [
+      "game",
+      "get",
+      "gym",
+      "by"
+    ],
+    "meanings": "たいいくかん、体育館",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_52",
+    "rank": 52,
+    "question": "I like _______ class.",
+    "questionJa": "私は理科の授業が好きです。",
+    "answer": "science",
+    "matchedForm": "science",
+    "choices": [
+      "friend",
+      "score",
+      "seventy",
+      "science"
+    ],
+    "meanings": "りか、理科",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_53",
+    "rank": 53,
+    "question": "This is my _______.",
+    "questionJa": "ここが私の教室です。",
+    "answer": "Classroom",
+    "matchedForm": "classroom",
+    "choices": [
+      "classmate",
+      "Classroom",
+      "class",
+      "bathroom"
+    ],
+    "meanings": "きょうしつ、教室",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_54",
+    "rank": 54,
+    "question": "I have a new _______.",
+    "questionJa": "私は新しいノートを持っています。",
+    "answer": "notebook",
+    "matchedForm": "notebook",
+    "choices": [
+      "notebook",
+      "textbook",
+      "november",
+      "homework"
+    ],
+    "meanings": "ノート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_55",
+    "rank": 55,
+    "question": "_______ class is fun.",
+    "questionJa": "美術の授業は楽しいです。",
+    "answer": "art",
+    "matchedForm": "Art",
+    "choices": [
+      "at",
+      "and",
+      "art",
+      "car"
+    ],
+    "meanings": "びじゅつ、美術",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_56",
+    "rank": 56,
+    "question": "He is my _______.",
+    "questionJa": "彼が私のクラスメートです。",
+    "answer": "classmate",
+    "matchedForm": "classmate",
+    "choices": [
+      "classroom",
+      "classmate",
+      "skate",
+      "class"
+    ],
+    "meanings": "どうきゅうせい、同級生，クラスメート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_57",
+    "rank": 57,
+    "question": "What is your _______?",
+    "questionJa": "あなたの番号は何ですか？",
+    "answer": "number",
+    "matchedForm": "number",
+    "choices": [
+      "number",
+      "nurse",
+      "under",
+      "summer"
+    ],
+    "meanings": "ばんごう、番号",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_58",
+    "rank": 58,
+    "question": "What is your favorite _______?",
+    "questionJa": "あなたの好きな科目は何ですか？",
+    "answer": "subject",
+    "matchedForm": "subject",
+    "choices": [
+      "subject",
+      "summer",
+      "number",
+      "student"
+    ],
+    "meanings": "かもく、科目",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_59",
+    "rank": 59,
+    "question": "I like this _______.",
+    "questionJa": "私はこの話が好きです。",
+    "answer": "story",
+    "matchedForm": "story",
+    "choices": [
+      "stop",
+      "store",
+      "story",
+      "history"
+    ],
+    "meanings": "はなし、話",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_60",
+    "rank": 60,
+    "question": "She is my best _______.",
+    "questionJa": "彼女は私の親友です。",
+    "answer": "friend",
+    "matchedForm": "friend",
+    "choices": [
+      "friday",
+      "french",
+      "friend",
+      "around"
+    ],
+    "meanings": "ともだち、友だち",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_61",
+    "rank": 61,
+    "question": "He is a nice _______.",
+    "questionJa": "彼はお利口な男の子です。",
+    "answer": "boy",
+    "matchedForm": "boy",
+    "choices": [
+      "box",
+      "toy",
+      "buy",
+      "boy"
+    ],
+    "meanings": "おとこのこ、男の子",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_62",
+    "rank": 62,
+    "question": "She is a cute _______.",
+    "questionJa": "彼女はかわいい女の子です。",
+    "answer": "girl",
+    "matchedForm": "girl",
+    "choices": [
+      "bird",
+      "milk",
+      "city",
+      "girl"
+    ],
+    "meanings": "おんなのこ、女の子",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_63",
+    "rank": 63,
+    "question": "He is a good _______.",
+    "questionJa": "彼は良い選手です。",
+    "answer": "player",
+    "matchedForm": "player",
+    "choices": [
+      "water",
+      "plate",
+      "plane",
+      "player"
+    ],
+    "meanings": "せんしゅ、選手",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_64",
+    "rank": 64,
+    "question": "That _______ is tall.",
+    "questionJa": "あの男性は背が高いです。",
+    "answer": "man",
+    "matchedForm": "man",
+    "choices": [
+      "man",
+      "can",
+      "may",
+      "many"
+    ],
+    "meanings": "だんせい、男性",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_65",
+    "rank": 65,
+    "question": "That _______ is kind.",
+    "questionJa": "あの女性は親切です。",
+    "answer": "woman",
+    "matchedForm": "woman",
+    "choices": [
+      "today",
+      "world",
+      "woman",
+      "work"
+    ],
+    "meanings": "じょせい、女性",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_66",
+    "rank": 66,
+    "question": "Many _______ are here.",
+    "questionJa": "たくさんの人々がここにいます。",
+    "answer": "people",
+    "matchedForm": "people",
+    "choices": [
+      "people",
+      "apple",
+      "purple",
+      "phone"
+    ],
+    "meanings": "ひとびと、人々",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_67",
+    "rank": 67,
+    "question": "She is a good _______.",
+    "questionJa": "彼女は歌が上手な歌手です。",
+    "answer": "singer",
+    "matchedForm": "singer",
+    "choices": [
+      "finger",
+      "singer",
+      "sing",
+      "sister"
+    ],
+    "meanings": "かしゅ、歌手",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_68",
+    "rank": 68,
+    "question": "Let's go to the _______.",
+    "questionJa": "公園に行きましょう。",
+    "answer": "park",
+    "matchedForm": "park",
+    "choices": [
+      "party",
+      "walk",
+      "park",
+      "page"
+    ],
+    "meanings": "こうえん、公園",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_69",
+    "rank": 69,
+    "question": "I go by _______.",
+    "questionJa": "私は電車で行きます。",
+    "answer": "train",
+    "matchedForm": "train",
+    "choices": [
+      "train",
+      "rainy",
+      "tree",
+      "rain"
+    ],
+    "meanings": "でんしゃ、電車",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_70",
+    "rank": 70,
+    "question": "Take the _______ there.",
+    "questionJa": "そこまでバスに乗ってください。",
+    "answer": "bus",
+    "matchedForm": "bus",
+    "choices": [
+      "busy",
+      "us",
+      "bus",
+      "but"
+    ],
+    "meanings": "バス",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_71",
+    "rank": 71,
+    "question": "I like the _______.",
+    "questionJa": "私は図書館が好きです。",
+    "answer": "library",
+    "matchedForm": "library",
+    "choices": [
+      "diary",
+      "february",
+      "library",
+      "january"
+    ],
+    "meanings": "としょかん、図書館",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_72",
+    "rank": 72,
+    "question": "This is my dad's _______.",
+    "questionJa": "これは私のお父さんの車です。",
+    "answer": "car",
+    "matchedForm": "car",
+    "choices": [
+      "card",
+      "car",
+      "ear",
+      "cap"
+    ],
+    "meanings": "くるま、車",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_73",
+    "rank": 73,
+    "question": "Let's watch a _______.",
+    "questionJa": "映画を見ましょう。",
+    "answer": "movie",
+    "matchedForm": "movie",
+    "choices": [
+      "movie",
+      "mouth",
+      "love",
+      "month"
+    ],
+    "meanings": "えいが、映画",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_74",
+    "rank": 74,
+    "question": "We eat at a _______.",
+    "questionJa": "私たちはレストランで食べます。",
+    "answer": "restaurant",
+    "matchedForm": "restaurant",
+    "choices": [
+      "student",
+      "elephant",
+      "start",
+      "restaurant"
+    ],
+    "meanings": "レストラン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_75",
+    "rank": 75,
+    "question": "The _______ is near.",
+    "questionJa": "駅は近いです。",
+    "answer": "station",
+    "matchedForm": "station",
+    "choices": [
+      "station",
+      "start",
+      "italian",
+      "stand"
+    ],
+    "meanings": "えき、駅",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_76",
+    "rank": 76,
+    "question": "Let's go to the _______.",
+    "questionJa": "お店に行きましょう。",
+    "answer": "shop",
+    "matchedForm": "shop",
+    "choices": [
+      "shop",
+      "hot",
+      "shoe",
+      "show"
+    ],
+    "meanings": "みせ、店",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_77",
+    "rank": 77,
+    "question": "I like the _______.",
+    "questionJa": "私は動物園が好きです。",
+    "answer": "zoo",
+    "matchedForm": "zoo",
+    "choices": [
+      "book",
+      "zoo",
+      "too",
+      "room"
+    ],
+    "meanings": "どうぶつえん、動物園",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_78",
+    "rank": 78,
+    "question": "This is a big _______.",
+    "questionJa": "ここは大きな市です。",
+    "answer": "city",
+    "matchedForm": "city",
+    "choices": [
+      "with",
+      "city",
+      "cat",
+      "cute"
+    ],
+    "meanings": "し、市",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_79",
+    "rank": 79,
+    "question": "The _______ is interesting.",
+    "questionJa": "その博物館は面白いです。",
+    "answer": "museum",
+    "matchedForm": "museum",
+    "choices": [
+      "use",
+      "music",
+      "museum",
+      "meter"
+    ],
+    "meanings": "はくぶんかん、博物館",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_80",
+    "rank": 80,
+    "question": "My mother works at a _______.",
+    "questionJa": "私の母は病院で働いています。",
+    "answer": "hospital",
+    "matchedForm": "hospital",
+    "choices": [
+      "hotel",
+      "hospital",
+      "festival",
+      "hot"
+    ],
+    "meanings": "びょういん、病院",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_81",
+    "rank": 81,
+    "question": "Look at that _______.",
+    "questionJa": "あの通りを見て。",
+    "answer": "street",
+    "matchedForm": "street",
+    "choices": [
+      "student",
+      "tree",
+      "street",
+      "sweet"
+    ],
+    "meanings": "とおり、通り",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_82",
+    "rank": 82,
+    "question": "I eat _______ at 7.",
+    "questionJa": "私は7時に朝食を食べます。",
+    "answer": "breakfast",
+    "matchedForm": "breakfast",
+    "choices": [
+      "bread",
+      "brush",
+      "great",
+      "breakfast"
+    ],
+    "meanings": "ちょうしょく、朝食",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_83",
+    "rank": 83,
+    "question": "What's for _______?",
+    "questionJa": "昼食は何ですか？",
+    "answer": "lunch",
+    "matchedForm": "lunch",
+    "choices": [
+      "lunchtime",
+      "lunch",
+      "sunny",
+      "long"
+    ],
+    "meanings": "ちゅうしょく、昼食",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_84",
+    "rank": 84,
+    "question": "Let's have _______ now.",
+    "questionJa": "さあ、夕食を食べましょう。",
+    "answer": "dinner",
+    "matchedForm": "dinner",
+    "choices": [
+      "finger",
+      "dinner",
+      "winter",
+      "singer"
+    ],
+    "meanings": "ゆうしょく、夕食",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_85",
+    "rank": 85,
+    "question": "I like _______ very much.",
+    "questionJa": "私はケーキが大好きです。",
+    "answer": "cake",
+    "matchedForm": "cake",
+    "choices": [
+      "cake",
+      "card",
+      "make",
+      "take"
+    ],
+    "meanings": "ケーキ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_86",
+    "rank": 86,
+    "question": "Do you want an _______?",
+    "questionJa": "リンゴが欲しいですか？",
+    "answer": "apple",
+    "matchedForm": "apple",
+    "choices": [
+      "table",
+      "page",
+      "april",
+      "apple"
+    ],
+    "meanings": "リンゴ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_87",
+    "rank": 87,
+    "question": "This _______ is delicious!",
+    "questionJa": "この食べ物はおいしい！",
+    "answer": "food",
+    "matchedForm": "food",
+    "choices": [
+      "food",
+      "fork",
+      "good",
+      "foot"
+    ],
+    "meanings": "たべもの、食べ物",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_88",
+    "rank": 88,
+    "question": "I want some _______.",
+    "questionJa": "私はアイスクリームが欲しいです。",
+    "answer": "ice cream",
+    "matchedForm": "ice cream",
+    "choices": [
+      "ice cream",
+      "kilogram",
+      "picture",
+      "idea"
+    ],
+    "meanings": "アイスクリーム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_89",
+    "rank": 89,
+    "question": "I eat a _______ for lunch.",
+    "questionJa": "私は昼食にサンドイッチを食べます。",
+    "answer": "sandwich",
+    "matchedForm": "sandwich",
+    "choices": [
+      "english",
+      "sunday",
+      "sandwich",
+      "saturday"
+    ],
+    "meanings": "サンドイッチ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_90",
+    "rank": 90,
+    "question": "We eat _______ every day.",
+    "questionJa": "私たちは毎日ごはんを食べます。",
+    "answer": "rice",
+    "matchedForm": "rice",
+    "choices": [
+      "time",
+      "rice",
+      "nice",
+      "river"
+    ],
+    "meanings": "ごはん",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_91",
+    "rank": 91,
+    "question": "My father likes _______.",
+    "questionJa": "私の父はコーヒーが好きです。",
+    "answer": "coffee",
+    "matchedForm": "coffee",
+    "choices": [
+      "coffee",
+      "cookie",
+      "come",
+      "office"
+    ],
+    "meanings": "コーヒー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_92",
+    "rank": 92,
+    "question": "Drink _______ every morning.",
+    "questionJa": "毎朝牛乳を飲みなさい。",
+    "answer": "milk",
+    "matchedForm": "milk",
+    "choices": [
+      "walk",
+      "pink",
+      "mine",
+      "milk"
+    ],
+    "meanings": "ぎゅうにゅう、牛乳",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_93",
+    "rank": 93,
+    "question": "I drink _______.",
+    "questionJa": "私はジュースを飲みます。",
+    "answer": "juice",
+    "matchedForm": "juice",
+    "choices": [
+      "june",
+      "juice",
+      "rice",
+      "july"
+    ],
+    "meanings": "ジュース",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_94",
+    "rank": 94,
+    "question": "I like _______ rice.",
+    "questionJa": "私はカレーライスが好きです。",
+    "answer": "curry",
+    "matchedForm": "curry",
+    "choices": [
+      "curry",
+      "sunny",
+      "cup",
+      "cut"
+    ],
+    "meanings": "カレー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_95",
+    "rank": 95,
+    "question": "I eat an _______ for breakfast.",
+    "questionJa": "私は朝食に卵を食べます。",
+    "answer": "egg",
+    "matchedForm": "egg",
+    "choices": [
+      "ear",
+      "eat",
+      "egg",
+      "leg"
+    ],
+    "meanings": "たまご",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_96",
+    "rank": 96,
+    "question": "This is an _______.",
+    "questionJa": "これはオレンジです。",
+    "answer": "orange",
+    "matchedForm": "orange",
+    "choices": [
+      "dance",
+      "bridge",
+      "orange",
+      "one"
+    ],
+    "meanings": "オレンジ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_97",
+    "rank": 97,
+    "question": "I have a _______.",
+    "questionJa": "私には兄弟がいます。",
+    "answer": "brother",
+    "matchedForm": "brother",
+    "choices": [
+      "mother",
+      "weather",
+      "brown",
+      "brother"
+    ],
+    "meanings": "あに、兄︰おとうと、弟",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_98",
+    "rank": 98,
+    "question": "She is my _______.",
+    "questionJa": "彼女は私の姉（妹）です。",
+    "answer": "sister",
+    "matchedForm": "sister",
+    "choices": [
+      "winter",
+      "listen",
+      "sister",
+      "singer"
+    ],
+    "meanings": "あね、姉︰いもうと、妹",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_99",
+    "rank": 99,
+    "question": "My _______ is tall.",
+    "questionJa": "私の父は背が高いです。",
+    "answer": "father",
+    "matchedForm": "father",
+    "choices": [
+      "face",
+      "father",
+      "water",
+      "mother"
+    ],
+    "meanings": "ちち、父",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_100",
+    "rank": 100,
+    "question": "My _______ is kind.",
+    "questionJa": "私の母は親切です。",
+    "answer": "mother",
+    "matchedForm": "mother",
+    "choices": [
+      "meter",
+      "monkey",
+      "brother",
+      "mother"
+    ],
+    "meanings": "はは、母",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_101",
+    "rank": 101,
+    "question": "I love my _______.",
+    "questionJa": "私は家族が大好きです。",
+    "answer": "family",
+    "matchedForm": "family",
+    "choices": [
+      "fall",
+      "rainy",
+      "family",
+      "father"
+    ],
+    "meanings": "家族",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_102",
+    "rank": 102,
+    "question": "My _______ is kind.",
+    "questionJa": "私のおばは親切です。",
+    "answer": "aunt",
+    "matchedForm": "aunt",
+    "choices": [
+      "art",
+      "june",
+      "aunt",
+      "and"
+    ],
+    "meanings": "おば",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_103",
+    "rank": 103,
+    "question": "He is my _______.",
+    "questionJa": "彼はおじです。",
+    "answer": "uncle",
+    "matchedForm": "uncle",
+    "choices": [
+      "use",
+      "uncle",
+      "june",
+      "under"
+    ],
+    "meanings": "おじ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_104",
+    "rank": 104,
+    "question": "She is my _______.",
+    "questionJa": "彼女は私の娘です。",
+    "answer": "daughter",
+    "matchedForm": "daughter",
+    "choices": [
+      "daughter",
+      "dancer",
+      "hamster",
+      "date"
+    ],
+    "meanings": "娘",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_105",
+    "rank": 105,
+    "question": "He is my _______.",
+    "questionJa": "彼は私の息子です。",
+    "answer": "son",
+    "matchedForm": "son",
+    "choices": [
+      "song",
+      "so",
+      "son",
+      "on"
+    ],
+    "meanings": "息子",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_106",
+    "rank": 106,
+    "question": "I like _______.",
+    "questionJa": "私はテニスが好きです。",
+    "answer": "tennis",
+    "matchedForm": "tennis",
+    "choices": [
+      "pencil",
+      "tennis",
+      "ten",
+      "tenth"
+    ],
+    "meanings": "テニス",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_107",
+    "rank": 107,
+    "question": "Let's play _______.",
+    "questionJa": "野球をしましょう。",
+    "answer": "baseball",
+    "matchedForm": "baseball",
+    "choices": [
+      "baseball",
+      "ball",
+      "softball",
+      "basketball"
+    ],
+    "meanings": "野球",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_108",
+    "rank": 108,
+    "question": "This _______ is fun.",
+    "questionJa": "このゲームは楽しいです。",
+    "answer": "game",
+    "matchedForm": "game",
+    "choices": [
+      "name",
+      "game",
+      "date",
+      "grape"
+    ],
+    "meanings": "試合，ゲーム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_109",
+    "rank": 109,
+    "question": "Do you like _______?",
+    "questionJa": "サッカーは好きですか。",
+    "answer": "soccer",
+    "matchedForm": "soccer",
+    "choices": [
+      "soccer",
+      "mother",
+      "shower",
+      "some"
+    ],
+    "meanings": "サッカー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_110",
+    "rank": 110,
+    "question": "What _______ do you like?",
+    "questionJa": "どんなスポーツが好きですか。",
+    "answer": "sport",
+    "matchedForm": "sport",
+    "choices": [
+      "forty",
+      "sport",
+      "spoon",
+      "short"
+    ],
+    "meanings": "スポーツ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_111",
+    "rank": 111,
+    "question": "I ride my _______.",
+    "questionJa": "私は自転車に乗ります。",
+    "answer": "bike",
+    "matchedForm": "bike",
+    "choices": [
+      "bike",
+      "like",
+      "bird",
+      "big"
+    ],
+    "meanings": "自転車",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_112",
+    "rank": 112,
+    "question": "I play _______.",
+    "questionJa": "私はバスケットボールをします。",
+    "answer": "basketball",
+    "matchedForm": "basketball",
+    "choices": [
+      "softball",
+      "basket",
+      "basketball",
+      "baseball"
+    ],
+    "meanings": "バスケットボール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_113",
+    "rank": 113,
+    "question": "Our _______ is strong.",
+    "questionJa": "私たちのチームは強いです。",
+    "answer": "team",
+    "matchedForm": "team",
+    "choices": [
+      "tea",
+      "year",
+      "team",
+      "teach"
+    ],
+    "meanings": "チーム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_114",
+    "rank": 114,
+    "question": "Let's play _______.",
+    "questionJa": "バレーボールをしましょう。",
+    "answer": "volleyball",
+    "matchedForm": "volleyball",
+    "choices": [
+      "basketball",
+      "softball",
+      "volleyball",
+      "baseball"
+    ],
+    "meanings": "バレーボール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_115",
+    "rank": 115,
+    "question": "Throw the _______.",
+    "questionJa": "ボールを投げて。",
+    "answer": "ball",
+    "matchedForm": "ball",
+    "choices": [
+      "ball",
+      "bath",
+      "wall",
+      "fall"
+    ],
+    "meanings": "ボール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_116",
+    "rank": 116,
+    "question": "I have a _______.",
+    "questionJa": "私は犬を飼っています。",
+    "answer": "dog",
+    "matchedForm": "dog",
+    "choices": [
+      "dog",
+      "box",
+      "down",
+      "door"
+    ],
+    "meanings": "犬",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_117",
+    "rank": 117,
+    "question": "Look at that _______.",
+    "questionJa": "あの鳥を見て。",
+    "answer": "bird",
+    "matchedForm": "bird",
+    "choices": [
+      "girl",
+      "big",
+      "bike",
+      "bird"
+    ],
+    "meanings": "鳥",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_118",
+    "rank": 118,
+    "question": "I like _______.",
+    "questionJa": "私はネコが好きです。",
+    "answer": "cat",
+    "matchedForm": "cats",
+    "choices": [
+      "car",
+      "hat",
+      "cat",
+      "cap"
+    ],
+    "meanings": "ネコ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_119",
+    "rank": 119,
+    "question": "This is a big _______.",
+    "questionJa": "これは大きな木です。",
+    "answer": "tree",
+    "matchedForm": "tree",
+    "choices": [
+      "tree",
+      "there",
+      "three",
+      "green"
+    ],
+    "meanings": "木",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_120",
+    "rank": 120,
+    "question": "What is your favorite _______?",
+    "questionJa": "好きな動物は何ですか。",
+    "answer": "animal",
+    "matchedForm": "animal",
+    "choices": [
+      "e-mail",
+      "animal",
+      "any",
+      "and"
+    ],
+    "meanings": "動物",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_121",
+    "rank": 121,
+    "question": "I like to eat _______.",
+    "questionJa": "私は魚を食べるのが好きです。",
+    "answer": "fish",
+    "matchedForm": "fish",
+    "choices": [
+      "find",
+      "fish",
+      "dish",
+      "first"
+    ],
+    "meanings": "魚",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_122",
+    "rank": 122,
+    "question": "That _______ is high.",
+    "questionJa": "あの山は高いです。",
+    "answer": "mountain",
+    "matchedForm": "mountain",
+    "choices": [
+      "mountain",
+      "mouth",
+      "curtain",
+      "morning"
+    ],
+    "meanings": "山",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_123",
+    "rank": 123,
+    "question": "I saw a _______.",
+    "questionJa": "私はウサギを見ました。",
+    "answer": "rabbit",
+    "matchedForm": "rabbit",
+    "choices": [
+      "rain",
+      "racket",
+      "about",
+      "rabbit"
+    ],
+    "meanings": "ウサギ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_124",
+    "rank": 124,
+    "question": "Drink some _______.",
+    "questionJa": "水を飲んでください。",
+    "answer": "water",
+    "matchedForm": "water",
+    "choices": [
+      "after",
+      "watch",
+      "water",
+      "waiter"
+    ],
+    "meanings": "水",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_125",
+    "rank": 125,
+    "question": "Today is _______.",
+    "questionJa": "今日は日曜日です。",
+    "answer": "Sunday",
+    "matchedForm": "Sunday",
+    "choices": [
+      "monday",
+      "Sunday",
+      "study",
+      "sunny"
+    ],
+    "meanings": "日曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_126",
+    "rank": 126,
+    "question": "Today is _______.",
+    "questionJa": "今日は月曜日です。",
+    "answer": "Monday",
+    "matchedForm": "Monday",
+    "choices": [
+      "month",
+      "Monday",
+      "monkey",
+      "today"
+    ],
+    "meanings": "月曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_127",
+    "rank": 127,
+    "question": "I go to school on _______.",
+    "questionJa": "私は火曜日に学校へ行きます。",
+    "answer": "Tuesday",
+    "matchedForm": "Tuesday",
+    "choices": [
+      "sunday",
+      "thursday",
+      "Tuesday",
+      "today"
+    ],
+    "meanings": "火曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_128",
+    "rank": 128,
+    "question": "We have art class on _______.",
+    "questionJa": "私たちは水曜日に美術の授業があります。",
+    "answer": "Wednesday",
+    "matchedForm": "Wednesday",
+    "choices": [
+      "Wednesday",
+      "weekend",
+      "tuesday",
+      "windy"
+    ],
+    "meanings": "水曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_129",
+    "rank": 129,
+    "question": "Do you like _______?",
+    "questionJa": "木曜日は好きですか？",
+    "answer": "Thursday",
+    "matchedForm": "Thursday",
+    "choices": [
+      "sunday",
+      "Thursday",
+      "thirty",
+      "tuesday"
+    ],
+    "meanings": "木曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_130",
+    "rank": 130,
+    "question": "_______ is my favorite day.",
+    "questionJa": "金曜日は私のお気に入りの日です。",
+    "answer": "Friday",
+    "matchedForm": "Friday",
+    "choices": [
+      "Friday",
+      "sunday",
+      "fifty",
+      "friend"
+    ],
+    "meanings": "金曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_131",
+    "rank": 131,
+    "question": "I play soccer on _______.",
+    "questionJa": "私は土曜日にサッカーをします。",
+    "answer": "Saturday",
+    "matchedForm": "Saturday",
+    "choices": [
+      "study",
+      "sunday",
+      "thursday",
+      "Saturday"
+    ],
+    "meanings": "土曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_132",
+    "rank": 132,
+    "question": "Let's meet on _______.",
+    "questionJa": "土曜日に会いましょう。",
+    "answer": "Saturday",
+    "matchedForm": "Saturday",
+    "choices": [
+      "thursday",
+      "sunday",
+      "study",
+      "Saturday"
+    ],
+    "meanings": "土曜日",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_133",
+    "rank": 133,
+    "question": "This _______ is May.",
+    "questionJa": "今月は5月です。",
+    "answer": "month",
+    "matchedForm": "month",
+    "choices": [
+      "ninth",
+      "mouth",
+      "month",
+      "math"
+    ],
+    "meanings": "月，１か月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_134",
+    "rank": 134,
+    "question": "My birthday is in _______.",
+    "questionJa": "私の誕生日は1月です。",
+    "answer": "January",
+    "matchedForm": "January",
+    "choices": [
+      "library",
+      "January",
+      "japan",
+      "february"
+    ],
+    "meanings": "１月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_135",
+    "rank": 135,
+    "question": "_______ has 28 days.",
+    "questionJa": "2月は28日あります。",
+    "answer": "February",
+    "matchedForm": "February",
+    "choices": [
+      "February",
+      "diary",
+      "library",
+      "january"
+    ],
+    "meanings": "２月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_136",
+    "rank": 136,
+    "question": "School starts in _______.",
+    "questionJa": "学校は3月に始まります。",
+    "answer": "March",
+    "matchedForm": "March",
+    "choices": [
+      "many",
+      "March",
+      "watch",
+      "math"
+    ],
+    "meanings": "３月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_137",
+    "rank": 137,
+    "question": "_______ is a nice month.",
+    "questionJa": "4月は良い月です。",
+    "answer": "April",
+    "matchedForm": "April",
+    "choices": [
+      "art",
+      "apple",
+      "April",
+      "girl"
+    ],
+    "meanings": "４月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_138",
+    "rank": 138,
+    "question": "_______ is my favorite month.",
+    "questionJa": "5月は私のお気に入りの月です。",
+    "answer": "May",
+    "matchedForm": "May",
+    "choices": [
+      "many",
+      "day",
+      "May",
+      "man"
+    ],
+    "meanings": "５月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_139",
+    "rank": 139,
+    "question": "It rains a lot in _______.",
+    "questionJa": "6月は雨がたくさん降ります。",
+    "answer": "June",
+    "matchedForm": "June",
+    "choices": [
+      "June",
+      "cute",
+      "jump",
+      "july"
+    ],
+    "meanings": "６月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_140",
+    "rank": 140,
+    "question": "We have summer vacation in _______.",
+    "questionJa": "私たちは7月に夏休みがあります。",
+    "answer": "July",
+    "matchedForm": "July",
+    "choices": [
+      "busy",
+      "July",
+      "just",
+      "jump"
+    ],
+    "meanings": "７月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_141",
+    "rank": 141,
+    "question": "_______ is a hot month.",
+    "questionJa": "8月は暑い月です。",
+    "answer": "August",
+    "matchedForm": "August",
+    "choices": [
+      "August",
+      "aunt",
+      "about",
+      "just"
+    ],
+    "meanings": "８月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_142",
+    "rank": 142,
+    "question": "My brother's birthday is in _______.",
+    "questionJa": "私の兄（弟）の誕生日は9月です。",
+    "answer": "September",
+    "matchedForm": "September",
+    "choices": [
+      "sister",
+      "november",
+      "december",
+      "September"
+    ],
+    "meanings": "９月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_143",
+    "rank": 143,
+    "question": "Happy Halloween in _______!",
+    "questionJa": "10月にハッピーハロウィン！",
+    "answer": "October",
+    "matchedForm": "October",
+    "choices": [
+      "tower",
+      "often",
+      "doctor",
+      "October"
+    ],
+    "meanings": "10月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_144",
+    "rank": 144,
+    "question": "It gets cold in _______.",
+    "questionJa": "11月は寒くなります。",
+    "answer": "November",
+    "matchedForm": "November",
+    "choices": [
+      "number",
+      "together",
+      "November",
+      "december"
+    ],
+    "meanings": "11月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_145",
+    "rank": 145,
+    "question": "Merry Christmas in _______!",
+    "questionJa": "12月にメリークリスマス！",
+    "answer": "December",
+    "matchedForm": "December",
+    "choices": [
+      "september",
+      "December",
+      "november",
+      "cucumber"
+    ],
+    "meanings": "12月",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_146",
+    "rank": 146,
+    "question": "What is your favorite _______?",
+    "questionJa": "あなたのお気に入りの色は何ですか？",
+    "answer": "color",
+    "matchedForm": "color",
+    "choices": [
+      "cold",
+      "cook",
+      "color",
+      "door"
+    ],
+    "meanings": "色",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_147",
+    "rank": 147,
+    "question": "The sky is _______.",
+    "questionJa": "空は青いです。",
+    "answer": "blue",
+    "matchedForm": "blue",
+    "choices": [
+      "bike",
+      "bus",
+      "flute",
+      "blue"
+    ],
+    "meanings": "青，青い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_148",
+    "rank": 148,
+    "question": "My cat is _______.",
+    "questionJa": "私の猫は黒いです。",
+    "answer": "black",
+    "matchedForm": "black",
+    "choices": [
+      "black",
+      "bank",
+      "class",
+      "beach"
+    ],
+    "meanings": "黒，黒い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_149",
+    "rank": 149,
+    "question": "I like _______ apples.",
+    "questionJa": "私は赤いリンゴが好きです。",
+    "answer": "red",
+    "matchedForm": "red",
+    "choices": [
+      "read",
+      "bed",
+      "pet",
+      "red"
+    ],
+    "meanings": "赤，赤い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_150",
+    "rank": 150,
+    "question": "The snow is _______.",
+    "questionJa": "雪は白いです。",
+    "answer": "white",
+    "matchedForm": "white",
+    "choices": [
+      "time",
+      "white",
+      "which",
+      "write"
+    ],
+    "meanings": "白，白い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_151",
+    "rank": 151,
+    "question": "My bag is _______.",
+    "questionJa": "私のかばんはピンク色です。",
+    "answer": "pink",
+    "matchedForm": "pink",
+    "choices": [
+      "milk",
+      "pie",
+      "piano",
+      "pink"
+    ],
+    "meanings": "ピンク色，ピンク色の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_152",
+    "rank": 152,
+    "question": "I like _______ apples.",
+    "questionJa": "私は緑のリンゴが好きです。",
+    "answer": "green",
+    "matchedForm": "green",
+    "choices": [
+      "garden",
+      "great",
+      "green",
+      "tree"
+    ],
+    "meanings": "みどり",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_153",
+    "rank": 153,
+    "question": "The sun is _______.",
+    "questionJa": "太陽は黄色です。",
+    "answer": "yellow",
+    "matchedForm": "yellow",
+    "choices": [
+      "year",
+      "well",
+      "lesson",
+      "yellow"
+    ],
+    "meanings": "きいろ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_154",
+    "rank": 154,
+    "question": "My dog is _______.",
+    "questionJa": "私の犬は茶色です。",
+    "answer": "brown",
+    "matchedForm": "brown",
+    "choices": [
+      "brush",
+      "bread",
+      "brown",
+      "down"
+    ],
+    "meanings": "ちゃいろ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_155",
+    "rank": 155,
+    "question": "I like _______.",
+    "questionJa": "私は音楽が好きです。",
+    "answer": "music",
+    "matchedForm": "music",
+    "choices": [
+      "music",
+      "juice",
+      "movie",
+      "museum"
+    ],
+    "meanings": "おんがく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_156",
+    "rank": 156,
+    "question": "I can play the _______.",
+    "questionJa": "私はピアノを弾けます。",
+    "answer": "piano",
+    "matchedForm": "piano",
+    "choices": [
+      "stand",
+      "pink",
+      "pianist",
+      "piano"
+    ],
+    "meanings": "ピアノ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_157",
+    "rank": 157,
+    "question": "Let's sing a _______.",
+    "questionJa": "歌を歌いましょう。",
+    "answer": "song",
+    "matchedForm": "song",
+    "choices": [
+      "song",
+      "long",
+      "son",
+      "sing"
+    ],
+    "meanings": "歌 （うた）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_158",
+    "rank": 158,
+    "question": "This is a new _______.",
+    "questionJa": "これは新しいCDです。",
+    "answer": "CD",
+    "matchedForm": "CD",
+    "choices": [
+      "my",
+      "CD",
+      "tv",
+      "by"
+    ],
+    "meanings": "CD （シーディー）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_159",
+    "rank": 159,
+    "question": "She plays the _______ well.",
+    "questionJa": "彼女はバイオリンを上手に弾きます。",
+    "answer": "violin",
+    "matchedForm": "violin",
+    "choices": [
+      "violin",
+      "woman",
+      "listen",
+      "cookie"
+    ],
+    "meanings": "バイオリン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_160",
+    "rank": 160,
+    "question": "Can you play the _______?",
+    "questionJa": "あなたはギターを弾けますか？",
+    "answer": "guitar",
+    "matchedForm": "guitar",
+    "choices": [
+      "letter",
+      "guitar",
+      "waiter",
+      "great"
+    ],
+    "meanings": "ギター",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_161",
+    "rank": 161,
+    "question": "Let's watch the _______.",
+    "questionJa": "ショーを見ましょう。",
+    "answer": "show",
+    "matchedForm": "show",
+    "choices": [
+      "shop",
+      "shoe",
+      "show",
+      "how"
+    ],
+    "meanings": "ショー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_162",
+    "rank": 162,
+    "question": "I like _______.",
+    "questionJa": "私は春が好きです。",
+    "answer": "spring",
+    "matchedForm": "spring",
+    "choices": [
+      "spring",
+      "spoon",
+      "sing",
+      "morning"
+    ],
+    "meanings": "春（はる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_163",
+    "rank": 163,
+    "question": "_______ is hot.",
+    "questionJa": "夏は暑いです。",
+    "answer": "summer",
+    "matchedForm": "Summer",
+    "choices": [
+      "number",
+      "summer",
+      "sister",
+      "singer"
+    ],
+    "meanings": "夏（なつ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_164",
+    "rank": 164,
+    "question": "_______ is my favorite season.",
+    "questionJa": "秋は私のお気に入りの季節です。",
+    "answer": "fall",
+    "matchedForm": "Fall",
+    "choices": [
+      "fall",
+      "wall",
+      "fast",
+      "ball"
+    ],
+    "meanings": "秋",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_165",
+    "rank": 165,
+    "question": "_______ is cold.",
+    "questionJa": "冬は寒いです。",
+    "answer": "winter",
+    "matchedForm": "Winter",
+    "choices": [
+      "window",
+      "winter",
+      "singer",
+      "dinner"
+    ],
+    "meanings": "冬（ふゆ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_166",
+    "rank": 166,
+    "question": "Happy _______!",
+    "questionJa": "誕生日おめでとう！",
+    "answer": "birthday",
+    "matchedForm": "birthday",
+    "choices": [
+      "birthday",
+      "friday",
+      "today",
+      "bird"
+    ],
+    "meanings": "誕生日（たんじょうび）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_167",
+    "rank": 167,
+    "question": "I went to the _______.",
+    "questionJa": "私は祭りに行きました。",
+    "answer": "festival",
+    "matchedForm": "festival",
+    "choices": [
+      "football",
+      "hospital",
+      "festival",
+      "friday"
+    ],
+    "meanings": "祭り（まつり）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_168",
+    "rank": 168,
+    "question": "This is a _______ for you.",
+    "questionJa": "これはあなたへのプレゼントです。",
+    "answer": "present",
+    "matchedForm": "present",
+    "choices": [
+      "pretty",
+      "green",
+      "student",
+      "present"
+    ],
+    "meanings": "プレゼント",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_169",
+    "rank": 169,
+    "question": "It costs five _______.",
+    "questionJa": "それは5ドルです。",
+    "answer": "dollar",
+    "matchedForm": "dollars",
+    "choices": [
+      "door",
+      "dollar",
+      "color",
+      "doctor"
+    ],
+    "meanings": "ドル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_170",
+    "rank": 170,
+    "question": "I can speak _______.",
+    "questionJa": "私は英語を話せます。",
+    "answer": "English",
+    "matchedForm": "English",
+    "choices": [
+      "eighth",
+      "eighty",
+      "tennis",
+      "English"
+    ],
+    "meanings": "英語（えいご）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_171",
+    "rank": 171,
+    "question": "I study _______.",
+    "questionJa": "私は日本語を勉強します。",
+    "answer": "Japanese",
+    "matchedForm": "Japanese",
+    "choices": [
+      "japan",
+      "chinese",
+      "Japanese",
+      "jacket"
+    ],
+    "meanings": "日本語（にほんご）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_172",
+    "rank": 172,
+    "question": "I want to go to _______.",
+    "questionJa": "私はオーストラリアに行きたいです。",
+    "answer": "Australia",
+    "matchedForm": "Australia",
+    "choices": [
+      "train",
+      "aunt",
+      "umbrella",
+      "Australia"
+    ],
+    "meanings": "オーストラリア",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_173",
+    "rank": 173,
+    "question": "I live in _______.",
+    "questionJa": "私は日本に住んでいます。",
+    "answer": "Japan",
+    "matchedForm": "Japan",
+    "choices": [
+      "japanese",
+      "a, an",
+      "Japan",
+      "jam"
+    ],
+    "meanings": "日本 (にほん)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_174",
+    "rank": 174,
+    "question": "He is from _______.",
+    "questionJa": "彼はカナダ出身です。",
+    "answer": "Canada",
+    "matchedForm": "Canada",
+    "choices": [
+      "camera",
+      "Canada",
+      "can",
+      "banana"
+    ],
+    "meanings": "カナダ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_175",
+    "rank": 175,
+    "question": "Japan is a beautiful _______.",
+    "questionJa": "日本は美しい国です。",
+    "answer": "country",
+    "matchedForm": "country",
+    "choices": [
+      "country",
+      "concert",
+      "hungry",
+      "curry"
+    ],
+    "meanings": "国（くに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_176",
+    "rank": 176,
+    "question": "I have small _______.",
+    "questionJa": "私は小さな手を持っています。",
+    "answer": "hand",
+    "matchedForm": "hands",
+    "choices": [
+      "hat",
+      "hair",
+      "hand",
+      "and"
+    ],
+    "meanings": "手 (て)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_177",
+    "rank": 177,
+    "question": "She has long _______.",
+    "questionJa": "彼女は長い髪の毛をしています。",
+    "answer": "hair",
+    "matchedForm": "hair",
+    "choices": [
+      "chair",
+      "have",
+      "hair",
+      "hand"
+    ],
+    "meanings": "髪の毛（かみのけ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_178",
+    "rank": 178,
+    "question": "My dog has four _______.",
+    "questionJa": "私の犬は4本の脚を持っています。",
+    "answer": "leg",
+    "matchedForm": "legs",
+    "choices": [
+      "bed",
+      "leg",
+      "pet",
+      "pen"
+    ],
+    "meanings": "脚（あし）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_179",
+    "rank": 179,
+    "question": "Wash your _______.",
+    "questionJa": "顔を洗いなさい。",
+    "answer": "face",
+    "matchedForm": "face",
+    "choices": [
+      "face",
+      "fast",
+      "fall",
+      "date"
+    ],
+    "meanings": "顔（かお）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_180",
+    "rank": 180,
+    "question": "He has a big _______.",
+    "questionJa": "彼には大きな頭があります。",
+    "answer": "head",
+    "matchedForm": "head",
+    "choices": [
+      "head",
+      "help",
+      "here",
+      "read"
+    ],
+    "meanings": "頭（あたま）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_181",
+    "rank": 181,
+    "question": "Open your _______.",
+    "questionJa": "口を開けて。",
+    "answer": "mouth",
+    "matchedForm": "mouth",
+    "choices": [
+      "mouth",
+      "math",
+      "fourth",
+      "month"
+    ],
+    "meanings": "口（くち）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_182",
+    "rank": 182,
+    "question": "I have ten _______.",
+    "questionJa": "私は10本の指を持っています。",
+    "answer": "finger",
+    "matchedForm": "fingers",
+    "choices": [
+      "fine",
+      "singer",
+      "finger",
+      "dinner"
+    ],
+    "meanings": "指（ゆび）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_183",
+    "rank": 183,
+    "question": "Brush your _______.",
+    "questionJa": "歯を磨きなさい。",
+    "answer": "teeth",
+    "matchedForm": "teeth",
+    "choices": [
+      "tenth",
+      "meet",
+      "teach",
+      "teeth"
+    ],
+    "meanings": "歯（は）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_185",
+    "rank": 185,
+    "question": "I _______ apples.",
+    "questionJa": "私はリンゴが好きです。",
+    "answer": "like",
+    "matchedForm": "like",
+    "choices": [
+      "like",
+      "live",
+      "bike",
+      "time"
+    ],
+    "meanings": "好き（すき）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_186",
+    "rank": 186,
+    "question": "I _______ a pen.",
+    "questionJa": "私はペンを持っています。",
+    "answer": "have",
+    "matchedForm": "have",
+    "choices": [
+      "date",
+      "hair",
+      "hand",
+      "have"
+    ],
+    "meanings": "持っている（もっている）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_187",
+    "rank": 187,
+    "question": "Let's _______ home.",
+    "questionJa": "家に帰りましょう。",
+    "answer": "go",
+    "matchedForm": "go",
+    "choices": [
+      "to",
+      "go",
+      "good",
+      "so"
+    ],
+    "meanings": "行く （いく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_188",
+    "rank": 188,
+    "question": "_______ here, please.",
+    "questionJa": "ここに来て、お願いします。",
+    "answer": "come",
+    "matchedForm": "Come",
+    "choices": [
+      "some",
+      "come",
+      "cook",
+      "home"
+    ],
+    "meanings": "来る (くる)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_189",
+    "rank": 189,
+    "question": "Let's _______ soccer.",
+    "questionJa": "サッカーをしましょう。",
+    "answer": "play",
+    "matchedForm": "play",
+    "choices": [
+      "play",
+      "plane",
+      "player",
+      "lady"
+    ],
+    "meanings": "遊ぶ（あそぶ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_190",
+    "rank": 190,
+    "question": "I _______ a new toy.",
+    "questionJa": "私は新しいおもちゃがほしいです。",
+    "answer": "want",
+    "matchedForm": "want",
+    "choices": [
+      "hand",
+      "want",
+      "wash",
+      "walk"
+    ],
+    "meanings": "ほしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_191",
+    "rank": 191,
+    "question": "I can _______ a cake.",
+    "questionJa": "私はケーキを作ることができます。",
+    "answer": "make",
+    "matchedForm": "make",
+    "choices": [
+      "math",
+      "take",
+      "cake",
+      "make"
+    ],
+    "meanings": "作る （つくる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_192",
+    "rank": 192,
+    "question": "_______ the door.",
+    "questionJa": "ドアを開けてください。",
+    "answer": "open",
+    "matchedForm": "Open",
+    "choices": [
+      "pen",
+      "often",
+      "one",
+      "open"
+    ],
+    "meanings": "開ける（あける）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_193",
+    "rank": 193,
+    "question": "_______ the window.",
+    "questionJa": "窓を閉めてください。",
+    "answer": "close",
+    "matchedForm": "Close",
+    "choices": [
+      "class",
+      "close",
+      "whose",
+      "come"
+    ],
+    "meanings": "閉じる（とじる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_194",
+    "rank": 194,
+    "question": "I can _______ a bird.",
+    "questionJa": "私は鳥が見えます。",
+    "answer": "see",
+    "matchedForm": "see",
+    "choices": [
+      "week",
+      "she",
+      "see",
+      "sea"
+    ],
+    "meanings": "見える（みえる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_195",
+    "rank": 195,
+    "question": "I _______ breakfast.",
+    "questionJa": "私は朝食を食べます。",
+    "answer": "eat",
+    "matchedForm": "eat",
+    "choices": [
+      "eat",
+      "meat",
+      "easy",
+      "ear"
+    ],
+    "meanings": "食べる (たべる)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_196",
+    "rank": 196,
+    "question": "I like to _______ books.",
+    "questionJa": "私は本を読むのが好きです。",
+    "answer": "read",
+    "matchedForm": "read",
+    "choices": [
+      "head",
+      "red",
+      "ready",
+      "read"
+    ],
+    "meanings": "読む （よむ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_197",
+    "rank": 197,
+    "question": "_______ at the picture.",
+    "questionJa": "その写真を見て。",
+    "answer": "look",
+    "matchedForm": "Look",
+    "choices": [
+      "look",
+      "cook",
+      "love",
+      "book"
+    ],
+    "meanings": "見る（みる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_198",
+    "rank": 198,
+    "question": "I _______ TV.",
+    "questionJa": "私はテレビを見ます。",
+    "answer": "watch",
+    "matchedForm": "watch",
+    "choices": [
+      "wash",
+      "water",
+      "watch",
+      "march"
+    ],
+    "meanings": "じっと見る（じっとみる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_199",
+    "rank": 199,
+    "question": "I _______ his name.",
+    "questionJa": "私は彼の名前を知っています。",
+    "answer": "know",
+    "matchedForm": "know",
+    "choices": [
+      "know",
+      "snow",
+      "now",
+      "show"
+    ],
+    "meanings": "知っている（しっている）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_200",
+    "rank": 200,
+    "question": "I can _______ English.",
+    "questionJa": "私は英語を話せます。",
+    "answer": "speak",
+    "matchedForm": "speak",
+    "choices": [
+      "sea",
+      "sport",
+      "speak",
+      "clean"
+    ],
+    "meanings": "話す (はなす)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_201",
+    "rank": 201,
+    "question": "I _______ a pen.",
+    "questionJa": "私はペンを使います。",
+    "answer": "use",
+    "matchedForm": "use",
+    "choices": [
+      "us",
+      "use",
+      "june",
+      "cute"
+    ],
+    "meanings": "使う （つかう）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_202",
+    "rank": 202,
+    "question": "Please _______ your hands.",
+    "questionJa": "手を洗ってください。",
+    "answer": "wash",
+    "matchedForm": "wash",
+    "choices": [
+      "walk",
+      "wash",
+      "bath",
+      "want"
+    ],
+    "meanings": "洗う（あらう）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_203",
+    "rank": 203,
+    "question": "I can _______ fast.",
+    "questionJa": "私は速く走れます。",
+    "answer": "run",
+    "matchedForm": "run",
+    "choices": [
+      "put",
+      "bus",
+      "run",
+      "red"
+    ],
+    "meanings": "走る（はしる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_204",
+    "rank": 204,
+    "question": "Let's _______ a letter.",
+    "questionJa": "手紙を書きましょう。",
+    "answer": "write",
+    "matchedForm": "write",
+    "choices": [
+      "white",
+      "write",
+      "rice",
+      "with"
+    ],
+    "meanings": "書く（かく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_205",
+    "rank": 205,
+    "question": "I _______ a bus to school.",
+    "questionJa": "私は学校へバスに乗ります。",
+    "answer": "take",
+    "matchedForm": "take",
+    "choices": [
+      "take",
+      "table",
+      "make",
+      "cake"
+    ],
+    "meanings": "（のりものに）乗る（のる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_206",
+    "rank": 206,
+    "question": "I _______ in Tokyo.",
+    "questionJa": "私は東京に住んでいます。",
+    "answer": "live",
+    "matchedForm": "live",
+    "choices": [
+      "five",
+      "love",
+      "like",
+      "live"
+    ],
+    "meanings": "住む（すむ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_207",
+    "rank": 207,
+    "question": "She can _______ well.",
+    "questionJa": "彼女は上手に歌えます。",
+    "answer": "sing",
+    "matchedForm": "sing",
+    "choices": [
+      "song",
+      "sing",
+      "singer",
+      "pink"
+    ],
+    "meanings": "歌う （うたう）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_208",
+    "rank": 208,
+    "question": "I want to _______ a new book.",
+    "questionJa": "私は新しい本を手に入れたいです。",
+    "answer": "get",
+    "matchedForm": "get",
+    "choices": [
+      "bed",
+      "pen",
+      "pet",
+      "get"
+    ],
+    "meanings": "手に入れる（てにいれる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_209",
+    "rank": 209,
+    "question": "I _______ English every day.",
+    "questionJa": "私は毎日英語を勉強します。",
+    "answer": "study",
+    "matchedForm": "study",
+    "choices": [
+      "student",
+      "story",
+      "study",
+      "july"
+    ],
+    "meanings": "勉強する（べんきょうする）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_210",
+    "rank": 210,
+    "question": "I like to _______ in the park.",
+    "questionJa": "私は公園を歩くのが好きです。",
+    "answer": "walk",
+    "matchedForm": "walk",
+    "choices": [
+      "wall",
+      "talk",
+      "walk",
+      "want"
+    ],
+    "meanings": "歩く （あるく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_211",
+    "rank": 211,
+    "question": "I _______ to music.",
+    "questionJa": "私は音楽を聴きます。",
+    "answer": "listen",
+    "matchedForm": "listen",
+    "choices": [
+      "little",
+      "like",
+      "sister",
+      "listen"
+    ],
+    "meanings": "聞く (きく)",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_212",
+    "rank": 212,
+    "question": "I _______ water every day.",
+    "questionJa": "私は毎日水を飲みます。",
+    "answer": "drink",
+    "matchedForm": "drink",
+    "choices": [
+      "think",
+      "drink",
+      "pink",
+      "driver"
+    ],
+    "meanings": "飲む （のむ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_213",
+    "rank": 213,
+    "question": "I can _______ in the pool.",
+    "questionJa": "私はプールで泳げます。",
+    "answer": "swim",
+    "matchedForm": "swim",
+    "choices": [
+      "him",
+      "sit",
+      "ship",
+      "swim"
+    ],
+    "meanings": "泳ぐ（およぐ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_214",
+    "rank": 214,
+    "question": "Let's _______ at 3.",
+    "questionJa": "3時に会いましょう。",
+    "answer": "meet",
+    "matchedForm": "meet",
+    "choices": [
+      "meet",
+      "meter",
+      "week",
+      "meat"
+    ],
+    "meanings": "会う （あう）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_215",
+    "rank": 215,
+    "question": "My mother can _______ well.",
+    "questionJa": "私の母は料理が上手です。",
+    "answer": "cook",
+    "matchedForm": "cook",
+    "choices": [
+      "cook",
+      "cookie",
+      "look",
+      "book"
+    ],
+    "meanings": "料理する（りょうりする）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_216",
+    "rank": 216,
+    "question": "The class _______ at 9.",
+    "questionJa": "授業は9時に始まります。",
+    "answer": "start",
+    "matchedForm": "starts",
+    "choices": [
+      "stand",
+      "story",
+      "start",
+      "art"
+    ],
+    "meanings": "始まる（はじめる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_217",
+    "rank": 217,
+    "question": "Let's _______ about school.",
+    "questionJa": "学校のことについて話しましょう。",
+    "answer": "talk",
+    "matchedForm": "talk",
+    "choices": [
+      "take",
+      "talk",
+      "walk",
+      "tall"
+    ],
+    "meanings": "話をする（はなしをする）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_218",
+    "rank": 218,
+    "question": "My teacher _______ math.",
+    "questionJa": "私の先生は数学を教えます。",
+    "answer": "teach",
+    "matchedForm": "teaches",
+    "choices": [
+      "teacher",
+      "teach",
+      "beach",
+      "team"
+    ],
+    "meanings": "教える（おしえる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_219",
+    "rank": 219,
+    "question": "Please _______ your room.",
+    "questionJa": "部屋をきれいにしてください。",
+    "answer": "clean",
+    "matchedForm": "clean",
+    "choices": [
+      "clean",
+      "speak",
+      "class",
+      "close"
+    ],
+    "meanings": "きれいにする、そうじする",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_220",
+    "rank": 220,
+    "question": "Can you _______ me?",
+    "questionJa": "手伝ってくれますか？",
+    "answer": "help",
+    "matchedForm": "help",
+    "choices": [
+      "well",
+      "help",
+      "her",
+      "hers"
+    ],
+    "meanings": "助ける（たすける）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_221",
+    "rank": 221,
+    "question": "I _______ my family.",
+    "questionJa": "私は家族が大好きです。",
+    "answer": "love",
+    "matchedForm": "love",
+    "choices": [
+      "love",
+      "glove",
+      "look",
+      "live"
+    ],
+    "meanings": "大好き（だいすき）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_222",
+    "rank": 222,
+    "question": "Please _______ down here.",
+    "questionJa": "ここに座ってください。",
+    "answer": "sit",
+    "matchedForm": "sit",
+    "choices": [
+      "it",
+      "sing",
+      "six",
+      "sit"
+    ],
+    "meanings": "すわる",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_223",
+    "rank": 223,
+    "question": "Please _______ up.",
+    "questionJa": "立ってください。",
+    "answer": "stand",
+    "matchedForm": "stand",
+    "choices": [
+      "story",
+      "hand",
+      "start",
+      "stand"
+    ],
+    "meanings": "立つ（たつ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_224",
+    "rank": 224,
+    "question": "My father _______ at a bank.",
+    "questionJa": "私の父は銀行で働いています。",
+    "answer": "work",
+    "matchedForm": "works",
+    "choices": [
+      "week",
+      "world",
+      "fork",
+      "work"
+    ],
+    "meanings": "働く（はたらく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_225",
+    "rank": 225,
+    "question": "We can _______ high.",
+    "questionJa": "私たちは高く跳べます。",
+    "answer": "jump",
+    "matchedForm": "jump",
+    "choices": [
+      "jump",
+      "just",
+      "cup",
+      "july"
+    ],
+    "meanings": "とぶ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_226",
+    "rank": 226,
+    "question": "I _______ my teeth.",
+    "questionJa": "私は歯をみがきます。",
+    "answer": "brush",
+    "matchedForm": "brush",
+    "choices": [
+      "busy",
+      "just",
+      "bus",
+      "brush"
+    ],
+    "meanings": "みがく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_227",
+    "rank": 227,
+    "question": "I can _______ well.",
+    "questionJa": "私は上手に踊れます。",
+    "answer": "dance",
+    "matchedForm": "dance",
+    "choices": [
+      "face",
+      "dance",
+      "date",
+      "dancer"
+    ],
+    "meanings": "踊る（おどる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_228",
+    "rank": 228,
+    "question": "Birds can _______.",
+    "questionJa": "鳥は飛ぶことができます。",
+    "answer": "fly",
+    "matchedForm": "fly",
+    "choices": [
+      "sky",
+      "for",
+      "why",
+      "fly"
+    ],
+    "meanings": "飛ぶ（とぶ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_229",
+    "rank": 229,
+    "question": "Let's _______ together!",
+    "questionJa": "一緒にスケートしよう！",
+    "answer": "skate",
+    "matchedForm": "skate",
+    "choices": [
+      "skate",
+      "date",
+      "plate",
+      "skirt"
+    ],
+    "meanings": "スケートする",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_230",
+    "rank": 230,
+    "question": "Please _______ here.",
+    "questionJa": "ここで止まってください。",
+    "answer": "stop",
+    "matchedForm": "stop",
+    "choices": [
+      "stop",
+      "shop",
+      "toy",
+      "story"
+    ],
+    "meanings": "止める（とめる）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_231",
+    "rank": 231,
+    "question": "I _______ playing soccer.",
+    "questionJa": "私はサッカーをするのが好きです。",
+    "answer": "enjoy",
+    "matchedForm": "enjoy",
+    "choices": [
+      "enjoy",
+      "every",
+      "onion",
+      "easy"
+    ],
+    "meanings": "楽しむ（たのしむ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_232",
+    "rank": 232,
+    "question": "I _______ the piano.",
+    "questionJa": "私はピアノを練習します。",
+    "answer": "practice",
+    "matchedForm": "practice",
+    "choices": [
+      "picture",
+      "plate",
+      "practice",
+      "rice"
+    ],
+    "meanings": "練習する（れんしゅうする）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_233",
+    "rank": 233,
+    "question": "_______ your bag here.",
+    "questionJa": "ここにカバンを置いてください。",
+    "answer": "put",
+    "matchedForm": "Put",
+    "choices": [
+      "cut",
+      "but",
+      "put",
+      "pet"
+    ],
+    "meanings": "置く（おく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_234",
+    "rank": 234,
+    "question": "This is a _______ book.",
+    "questionJa": "これはいい本です。",
+    "answer": "good",
+    "matchedForm": "good",
+    "choices": [
+      "book",
+      "good",
+      "room",
+      "food"
+    ],
+    "meanings": "いい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_235",
+    "rank": 235,
+    "question": "This is an _______ house.",
+    "questionJa": "これは古い家です。",
+    "answer": "old",
+    "matchedForm": "old",
+    "choices": [
+      "cold",
+      "on",
+      "only",
+      "old"
+    ],
+    "meanings": "古い（ふるい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_236",
+    "rank": 236,
+    "question": "I have a _______ pen.",
+    "questionJa": "私は新しいペンを持っています。",
+    "answer": "new",
+    "matchedForm": "new",
+    "choices": [
+      "now",
+      "bed",
+      "new",
+      "next"
+    ],
+    "meanings": "あたらしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_237",
+    "rank": 237,
+    "question": "I am _______ today.",
+    "questionJa": "私は今日元気です。",
+    "answer": "fine",
+    "matchedForm": "fine",
+    "choices": [
+      "nine",
+      "fine",
+      "five",
+      "find"
+    ],
+    "meanings": "元気で，晴れた，すばらしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_238",
+    "rank": 238,
+    "question": "This is a _______ park.",
+    "questionJa": "これは素敵な公園です。",
+    "answer": "nice",
+    "matchedForm": "nice",
+    "choices": [
+      "time",
+      "nine",
+      "rice",
+      "nice"
+    ],
+    "meanings": "すてきな、よい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_239",
+    "rank": 239,
+    "question": "That's _______!",
+    "questionJa": "その通りです！",
+    "answer": "right",
+    "matchedForm": "right",
+    "choices": [
+      "right",
+      "night",
+      "eight",
+      "high"
+    ],
+    "meanings": "正しい（ただしい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_240",
+    "rank": 240,
+    "question": "I have a _______ dog.",
+    "questionJa": "私は大きい犬を飼っています。",
+    "answer": "big",
+    "matchedForm": "big",
+    "choices": [
+      "bird",
+      "bag",
+      "big",
+      "sit"
+    ],
+    "meanings": "大きい （おおきい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_241",
+    "rank": 241,
+    "question": "This is a _______ box.",
+    "questionJa": "これは小さい箱です。",
+    "answer": "small",
+    "matchedForm": "small",
+    "choices": [
+      "ball",
+      "wall",
+      "small",
+      "fall"
+    ],
+    "meanings": "小さい （ちいさい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_242",
+    "rank": 242,
+    "question": "I have a _______ money.",
+    "questionJa": "私は少しお金を持っています。",
+    "answer": "little",
+    "matchedForm": "little",
+    "choices": [
+      "little",
+      "listen",
+      "sister",
+      "like"
+    ],
+    "meanings": "少し（すこし）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_243",
+    "rank": 243,
+    "question": "My hair is _______.",
+    "questionJa": "私の髪は長いです。",
+    "answer": "long",
+    "matchedForm": "long",
+    "choices": [
+      "look",
+      "long",
+      "song",
+      "love"
+    ],
+    "meanings": "長い（ながい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_244",
+    "rank": 244,
+    "question": "My pencil is _______.",
+    "questionJa": "私の鉛筆は短いです。",
+    "answer": "short",
+    "matchedForm": "short",
+    "choices": [
+      "shirt",
+      "sport",
+      "short",
+      "hot"
+    ],
+    "meanings": "短い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_245",
+    "rank": 245,
+    "question": "That tree is _______.",
+    "questionJa": "あの木は高いです。",
+    "answer": "high",
+    "matchedForm": "high",
+    "choices": [
+      "high",
+      "his",
+      "him",
+      "fish"
+    ],
+    "meanings": "高い（たかい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_246",
+    "rank": 246,
+    "question": "This cat is _______.",
+    "questionJa": "この猫はかわいいです。",
+    "answer": "cute",
+    "matchedForm": "cute",
+    "choices": [
+      "cut",
+      "june",
+      "cup",
+      "cute"
+    ],
+    "meanings": "かわいい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_247",
+    "rank": 247,
+    "question": "See you _______ week.",
+    "questionJa": "また来週ね。",
+    "answer": "next",
+    "matchedForm": "next",
+    "choices": [
+      "new",
+      "near",
+      "test",
+      "next"
+    ],
+    "meanings": "次の（つぎの）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_248",
+    "rank": 248,
+    "question": "That's a _______ idea!",
+    "questionJa": "それは素晴らしい考えですね！",
+    "answer": "great",
+    "matchedForm": "great",
+    "choices": [
+      "green",
+      "bread",
+      "great",
+      "read"
+    ],
+    "meanings": "すばらしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_249",
+    "rank": 249,
+    "question": "I am _______ now.",
+    "questionJa": "私は今おなかがすいています。",
+    "answer": "hungry",
+    "matchedForm": "hungry",
+    "choices": [
+      "hundred",
+      "curry",
+      "hungry",
+      "sunny"
+    ],
+    "meanings": "おなかがすいた",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_250",
+    "rank": 250,
+    "question": "It is _______ today.",
+    "questionJa": "今日は寒いです。",
+    "answer": "cold",
+    "matchedForm": "cold",
+    "choices": [
+      "come",
+      "cold",
+      "old",
+      "color"
+    ],
+    "meanings": "寒い（さむい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_251",
+    "rank": 251,
+    "question": "It is very _______ today.",
+    "questionJa": "今日はとても暑いです。",
+    "answer": "hot",
+    "matchedForm": "hot",
+    "choices": [
+      "hat",
+      "how",
+      "box",
+      "hot"
+    ],
+    "meanings": "暑い（あつい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_252",
+    "rank": 252,
+    "question": "My _______ color is blue.",
+    "questionJa": "私の大好きな色あおです。",
+    "answer": "favorite",
+    "matchedForm": "favorite",
+    "choices": [
+      "favorite",
+      "write",
+      "forty",
+      "family"
+    ],
+    "meanings": "大好きな（だいすきな）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_253",
+    "rank": 253,
+    "question": "Are you _______ for school?",
+    "questionJa": "学校へ行く準備はできていますか？",
+    "answer": "ready",
+    "matchedForm": "ready",
+    "choices": [
+      "ready",
+      "bread",
+      "read",
+      "really"
+    ],
+    "meanings": "準備ができている（じゅんびができている）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_254",
+    "rank": 254,
+    "question": "This flower is _______.",
+    "questionJa": "この花は美しいです。",
+    "answer": "beautiful",
+    "matchedForm": "beautiful",
+    "choices": [
+      "beautiful",
+      "festival",
+      "beach",
+      "wonderful"
+    ],
+    "meanings": "美しい（うつくしい）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_255",
+    "rank": 255,
+    "question": "I like _______ food.",
+    "questionJa": "私は中華料理が好きです。",
+    "answer": "Chinese",
+    "matchedForm": "Chinese",
+    "choices": [
+      "these",
+      "coffee",
+      "children",
+      "Chinese"
+    ],
+    "meanings": "中国の（ちゅうごくの）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_256",
+    "rank": 256,
+    "question": "This is the _______ bus.",
+    "questionJa": "これが最終バスです。",
+    "answer": "last",
+    "matchedForm": "last",
+    "choices": [
+      "want",
+      "last",
+      "fast",
+      "lady"
+    ],
+    "meanings": "最後の（さいごの）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_257",
+    "rank": 257,
+    "question": "This park is _______.",
+    "questionJa": "この公園はすばらしいです。",
+    "answer": "wonderful",
+    "matchedForm": "wonderful",
+    "choices": [
+      "winter",
+      "work",
+      "beautiful",
+      "wonderful"
+    ],
+    "meanings": "すばらしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_258",
+    "rank": 258,
+    "question": "Please come _______.",
+    "questionJa": "ここに来てください。",
+    "answer": "here",
+    "matchedForm": "here",
+    "choices": [
+      "there",
+      "here",
+      "her",
+      "hers"
+    ],
+    "meanings": "ここ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_259",
+    "rank": 259,
+    "question": "I am _______ happy.",
+    "questionJa": "私はとても幸せです。",
+    "answer": "very",
+    "matchedForm": "very",
+    "choices": [
+      "every",
+      "very",
+      "her",
+      "hers"
+    ],
+    "meanings": "とても",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_260",
+    "rank": 260,
+    "question": "I like apples, _______.",
+    "questionJa": "私もリンゴが好きです。",
+    "answer": "too",
+    "matchedForm": "too",
+    "choices": [
+      "toy",
+      "too",
+      "zoo",
+      "to"
+    ],
+    "meanings": "～も",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_261",
+    "rank": 261,
+    "question": "I _______ play soccer.",
+    "questionJa": "私はよくサッカーをします。",
+    "answer": "often",
+    "matchedForm": "often",
+    "choices": [
+      "of",
+      "often",
+      "after",
+      "open"
+    ],
+    "meanings": "よく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_262",
+    "rank": 262,
+    "question": "Let's go _______.",
+    "questionJa": "今行きましょう。",
+    "answer": "now",
+    "matchedForm": "now",
+    "choices": [
+      "new",
+      "now",
+      "know",
+      "how"
+    ],
+    "meanings": "今 （いま）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_263",
+    "rank": 263,
+    "question": "Let's go _______.",
+    "questionJa": "そこに行きましょう。",
+    "answer": "there",
+    "matchedForm": "there",
+    "choices": [
+      "three",
+      "there",
+      "where",
+      "these"
+    ],
+    "meanings": "そこ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_264",
+    "rank": 264,
+    "question": "It is six _______.",
+    "questionJa": "6時です。",
+    "answer": "o'clock",
+    "matchedForm": "o'clock",
+    "choices": [
+      "look",
+      "cook",
+      "o'clock",
+      "october"
+    ],
+    "meanings": "～時（じ）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_265",
+    "rank": 265,
+    "question": "Look _______ at the sky.",
+    "questionJa": "空を見上げてください。",
+    "answer": "up",
+    "matchedForm": "up",
+    "choices": [
+      "up",
+      "us",
+      "cup",
+      "bus"
+    ],
+    "meanings": "上に（うえに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_266",
+    "rank": 266,
+    "question": "Please sit _______.",
+    "questionJa": "座ってください。",
+    "answer": "down",
+    "matchedForm": "down",
+    "choices": [
+      "son",
+      "dog",
+      "down",
+      "door"
+    ],
+    "meanings": "下に（したに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_267",
+    "rank": 267,
+    "question": "He runs very _______.",
+    "questionJa": "彼はとても速く走ります。",
+    "answer": "fast",
+    "matchedForm": "fast",
+    "choices": [
+      "face",
+      "last",
+      "fast",
+      "fall"
+    ],
+    "meanings": "速く（はやく）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_268",
+    "rank": 268,
+    "question": "I _______ like this book.",
+    "questionJa": "私はこの本が本当に好きです。",
+    "answer": "really",
+    "matchedForm": "really",
+    "choices": [
+      "ready",
+      "read",
+      "easy",
+      "really"
+    ],
+    "meanings": "本当に（ほんとうに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_269",
+    "rank": 269,
+    "question": "I _______ walk to school.",
+    "questionJa": "私はふつう学校まで歩きます。",
+    "answer": "usually",
+    "matchedForm": "usually",
+    "choices": [
+      "sunday",
+      "usually",
+      "really",
+      "small"
+    ],
+    "meanings": "ふつう",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_270",
+    "rank": 270,
+    "question": "She can sing _______.",
+    "questionJa": "彼女はうまく歌えます。",
+    "answer": "well",
+    "matchedForm": "well",
+    "choices": [
+      "wall",
+      "well",
+      "help",
+      "week"
+    ],
+    "meanings": "うまく",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_271",
+    "rank": 271,
+    "question": "Let's go _______.",
+    "questionJa": "外に出かけましょう。",
+    "answer": "out",
+    "matchedForm": "out",
+    "choices": [
+      "out",
+      "put",
+      "ours",
+      "our"
+    ],
+    "meanings": "外に（そとに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_272",
+    "rank": 272,
+    "question": "I _______ play tennis.",
+    "questionJa": "私はときどきテニスをします。",
+    "answer": "sometimes",
+    "matchedForm": "sometimes",
+    "choices": [
+      "summer",
+      "some",
+      "sometimes",
+      "together"
+    ],
+    "meanings": "ときどき",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_273",
+    "rank": 273,
+    "question": "He _______ helps me.",
+    "questionJa": "彼はいといつも私を助けてくれます。",
+    "answer": "always",
+    "matchedForm": "always",
+    "choices": [
+      "class",
+      "album",
+      "a, an",
+      "always"
+    ],
+    "meanings": "いつも",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_274",
+    "rank": 274,
+    "question": "It's _______ a game.",
+    "questionJa": "それはただのゲームです。",
+    "answer": "just",
+    "matchedForm": "just",
+    "choices": [
+      "july",
+      "just",
+      "jump",
+      "busy"
+    ],
+    "meanings": "ただ～",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_275",
+    "rank": 275,
+    "question": "I have _______ one apple.",
+    "questionJa": "私はリンゴを1つだけ持っています。",
+    "answer": "only",
+    "matchedForm": "only",
+    "choices": [
+      "on",
+      "july",
+      "only",
+      "old"
+    ],
+    "meanings": "ただ～だけ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_276",
+    "rank": 276,
+    "question": "It's _______ six o'clock.",
+    "questionJa": "およそ6時です。",
+    "answer": "around",
+    "matchedForm": "around",
+    "choices": [
+      "about",
+      "ground",
+      "around",
+      "friend"
+    ],
+    "meanings": "およそ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_277",
+    "rank": 277,
+    "question": "My sister _______ likes it.",
+    "questionJa": "私の妹もそれが好きです。",
+    "answer": "also",
+    "matchedForm": "also",
+    "choices": [
+      "album",
+      "also",
+      "all",
+      "so"
+    ],
+    "meanings": "～も",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_278",
+    "rank": 278,
+    "question": "Eat breakfast, _______ go to school.",
+    "questionJa": "朝食を食べて、それから学校へ行きなさい。",
+    "answer": "then",
+    "matchedForm": "then",
+    "choices": [
+      "then",
+      "when",
+      "them",
+      "they"
+    ],
+    "meanings": "それから",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_279",
+    "rank": 279,
+    "question": "My book is _______ the bag.",
+    "questionJa": "私の本はカバンの中にあります。",
+    "answer": "in",
+    "matchedForm": "in",
+    "choices": [
+      "in",
+      "it",
+      "on",
+      "i"
+    ],
+    "meanings": "～の中に（のなかに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_280",
+    "rank": 280,
+    "question": "Let's go _______ the park.",
+    "questionJa": "公園へ行きましょう。",
+    "answer": "to",
+    "matchedForm": "to",
+    "choices": [
+      "go",
+      "to",
+      "toy",
+      "too"
+    ],
+    "meanings": "～へ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_281",
+    "rank": 281,
+    "question": "I am _______ school now.",
+    "questionJa": "私は今、学校にいます。",
+    "answer": "at",
+    "matchedForm": "at",
+    "choices": [
+      "cat",
+      "art",
+      "at",
+      "hat"
+    ],
+    "meanings": "～のところに",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_282",
+    "rank": 282,
+    "question": "The pen is _______ the desk.",
+    "questionJa": "ペンは机の上にあります。",
+    "answer": "on",
+    "matchedForm": "on",
+    "choices": [
+      "on",
+      "son",
+      "of",
+      "or"
+    ],
+    "meanings": "～の上に（のうえに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_283",
+    "rank": 283,
+    "question": "This is _______ you.",
+    "questionJa": "これはあなたのためです。",
+    "answer": "for",
+    "matchedForm": "for",
+    "choices": [
+      "for",
+      "fork",
+      "or",
+      "four"
+    ],
+    "meanings": "～のために",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_284",
+    "rank": 284,
+    "question": "I like a cup _______ tea.",
+    "questionJa": "私は一杯の紅茶が好きです。",
+    "answer": "of",
+    "matchedForm": "of",
+    "choices": [
+      "or",
+      "go",
+      "of",
+      "on"
+    ],
+    "meanings": "～の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_285",
+    "rank": 285,
+    "question": "Sit _______ me.",
+    "questionJa": "私のそばに座りなさい。",
+    "answer": "by",
+    "matchedForm": "by",
+    "choices": [
+      "my",
+      "buy",
+      "by",
+      "boy"
+    ],
+    "meanings": "～のそばに",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_286",
+    "rank": 286,
+    "question": "I play _______ my dog.",
+    "questionJa": "私は犬と一緒に遊びます。",
+    "answer": "with",
+    "matchedForm": "with",
+    "choices": [
+      "which",
+      "with",
+      "fish",
+      "city"
+    ],
+    "meanings": "～と共に（とともに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_287",
+    "rank": 287,
+    "question": "I am _______ Japan.",
+    "questionJa": "私は日本出身です。",
+    "answer": "from",
+    "matchedForm": "from",
+    "choices": [
+      "room",
+      "food",
+      "for",
+      "from"
+    ],
+    "meanings": "～から",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_288",
+    "rank": 288,
+    "question": "The cat is _______ the chair.",
+    "questionJa": "その猫は椅子の下にいます。",
+    "answer": "under",
+    "matchedForm": "under",
+    "choices": [
+      "uncle",
+      "ruler",
+      "use",
+      "under"
+    ],
+    "meanings": "～の下に（のしたに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_289",
+    "rank": 289,
+    "question": "Let's play _______ school.",
+    "questionJa": "放課後、遊びましょう。",
+    "answer": "after",
+    "matchedForm": "after",
+    "choices": [
+      "after",
+      "water",
+      "often",
+      "afternoon"
+    ],
+    "meanings": "～の後に（のあとに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_290",
+    "rank": 290,
+    "question": "Wash your hands _______ dinner.",
+    "questionJa": "夕食の前に手を洗いなさい。",
+    "answer": "before",
+    "matchedForm": "before",
+    "choices": [
+      "bedroom",
+      "store",
+      "before",
+      "score"
+    ],
+    "meanings": "～の前に（のまえに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_291",
+    "rank": 291,
+    "question": "Tell me _______ your school.",
+    "questionJa": "あなたの学校について教えてください。",
+    "answer": "about",
+    "matchedForm": "about",
+    "choices": [
+      "around",
+      "but",
+      "about",
+      "out"
+    ],
+    "meanings": "～について",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_292",
+    "rank": 292,
+    "question": "My house is _______ the park.",
+    "questionJa": "私の家は公園の近くにあります。",
+    "answer": "near",
+    "matchedForm": "near",
+    "choices": [
+      "near",
+      "next",
+      "ear",
+      "year"
+    ],
+    "meanings": "～の近くに（のちかくに）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_293",
+    "rank": 293,
+    "question": "This is _______ pen.",
+    "questionJa": "これがそのペンです。",
+    "answer": "the",
+    "matchedForm": "the",
+    "choices": [
+      "they",
+      "then",
+      "she",
+      "the"
+    ],
+    "meanings": "その",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_295",
+    "rank": 295,
+    "question": "I like apples _______ oranges.",
+    "questionJa": "私はリンゴとオレンジが好きです。",
+    "answer": "and",
+    "matchedForm": "and",
+    "choices": [
+      "and",
+      "art",
+      "any",
+      "hand"
+    ],
+    "meanings": "そして",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_296",
+    "rank": 296,
+    "question": "Do you like tea _______ coffee?",
+    "questionJa": "あなたは紅茶かコーヒーが好きですか？",
+    "answer": "or",
+    "matchedForm": "or",
+    "choices": [
+      "for",
+      "on",
+      "or",
+      "of"
+    ],
+    "meanings": "～～～か・・・",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_297",
+    "rank": 297,
+    "question": "I like summer, _______ it is hot.",
+    "questionJa": "私は夏が好きですが、暑いです。",
+    "answer": "but",
+    "matchedForm": "but",
+    "choices": [
+      "buy",
+      "bus",
+      "but",
+      "put"
+    ],
+    "meanings": "しかし",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_298",
+    "rank": 298,
+    "question": "I am hungry, _______ I eat bread.",
+    "questionJa": "私はお腹が空いた、だからパンを食べます。",
+    "answer": "so",
+    "matchedForm": "so",
+    "choices": [
+      "go",
+      "so",
+      "to",
+      "son"
+    ],
+    "meanings": "それで，だから",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_299",
+    "rank": 299,
+    "question": "I _______ play soccer.",
+    "questionJa": "私はサッカーができます。",
+    "answer": "can",
+    "matchedForm": "can",
+    "choices": [
+      "car",
+      "cap",
+      "can",
+      "man"
+    ],
+    "meanings": "～することができる，～してもよい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_300",
+    "rank": 300,
+    "question": "_______ is your name?",
+    "questionJa": "あなたの名前は何ですか？",
+    "answer": "what",
+    "matchedForm": "What",
+    "choices": [
+      "hat",
+      "what",
+      "that",
+      "want"
+    ],
+    "meanings": "何，何の，どんな",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_301",
+    "rank": 301,
+    "question": "_______ are you?",
+    "questionJa": "お元気ですか？",
+    "answer": "how",
+    "matchedForm": "How",
+    "choices": [
+      "show",
+      "now",
+      "hot",
+      "how"
+    ],
+    "meanings": "どうやって，どんなぐあいで，どれくらい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_302",
+    "rank": 302,
+    "question": "_______ is my bag?",
+    "questionJa": "私のカバンはどこですか？",
+    "answer": "where",
+    "matchedForm": "Where",
+    "choices": [
+      "when",
+      "here",
+      "where",
+      "there"
+    ],
+    "meanings": "どこに，どこへ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_303",
+    "rank": 303,
+    "question": "_______ is your birthday?",
+    "questionJa": "あなたの誕生日はいつですか？",
+    "answer": "when",
+    "matchedForm": "When",
+    "choices": [
+      "then",
+      "what",
+      "when",
+      "where"
+    ],
+    "meanings": "いつ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_304",
+    "rank": 304,
+    "question": "_______ is that boy?",
+    "questionJa": "あの男の子はだれですか？",
+    "answer": "who",
+    "matchedForm": "Who",
+    "choices": [
+      "who",
+      "whose",
+      "why",
+      "hot"
+    ],
+    "meanings": "だれ，だれが",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_305",
+    "rank": 305,
+    "question": "_______ pen is this?",
+    "questionJa": "これはだれのペンですか？",
+    "answer": "whose",
+    "matchedForm": "Whose",
+    "choices": [
+      "white",
+      "those",
+      "whose",
+      "where"
+    ],
+    "meanings": "だれの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_306",
+    "rank": 306,
+    "question": "_______ is your favorite color?",
+    "questionJa": "あなたの好きな色はどちらですか？",
+    "answer": "which",
+    "matchedForm": "Which",
+    "choices": [
+      "high",
+      "with",
+      "white",
+      "which"
+    ],
+    "meanings": "どちら，どれ，どの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_307",
+    "rank": 307,
+    "question": "_______ are you sad?",
+    "questionJa": "なぜあなたは悲しいのですか？",
+    "answer": "why",
+    "matchedForm": "Why",
+    "choices": [
+      "fly",
+      "why",
+      "who",
+      "what"
+    ],
+    "meanings": "なぜ，どうして",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_308",
+    "rank": 308,
+    "question": "_______ likes him.",
+    "questionJa": "みんな彼が好きです。",
+    "answer": "everyone",
+    "matchedForm": "Everyone",
+    "choices": [
+      "everyone",
+      "very",
+      "evening",
+      "every"
+    ],
+    "meanings": "みんな，だれでも",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_309",
+    "rank": 309,
+    "question": "I want a new _______.",
+    "questionJa": "私は新しいものが欲しいです。",
+    "answer": "one",
+    "matchedForm": "one",
+    "choices": [
+      "on",
+      "open",
+      "one",
+      "home"
+    ],
+    "meanings": "（前に述べられた名詞の代わりとして）もの，１つ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_310",
+    "rank": 310,
+    "question": "I play soccer _______ day.",
+    "questionJa": "私は毎日サッカーをします。",
+    "answer": "every",
+    "matchedForm": "every",
+    "choices": [
+      "every",
+      "enjoy",
+      "very",
+      "everyone"
+    ],
+    "meanings": "毎～，あらゆる，すべての",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_311",
+    "rank": 311,
+    "question": "I have _______ books.",
+    "questionJa": "私は何冊か本を持っています。",
+    "answer": "some",
+    "matchedForm": "some",
+    "choices": [
+      "some",
+      "song",
+      "home",
+      "come"
+    ],
+    "meanings": "いくつかの，いくらかの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_312",
+    "rank": 312,
+    "question": "She has _______ friends.",
+    "questionJa": "彼女はたくさんの友達がいます。",
+    "answer": "many",
+    "matchedForm": "many",
+    "choices": [
+      "many",
+      "may",
+      "man",
+      "any"
+    ],
+    "meanings": "たくさんの，多数の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_313",
+    "rank": 313,
+    "question": "_______ students like him.",
+    "questionJa": "すべての生徒が彼を好きです。",
+    "answer": "all",
+    "matchedForm": "All",
+    "choices": [
+      "all",
+      "ball",
+      "wall",
+      "fall"
+    ],
+    "meanings": "すべての，あらゆる",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_314",
+    "rank": 314,
+    "question": "Do you have _______ questions?",
+    "questionJa": "何か質問はありますか？",
+    "answer": "any",
+    "matchedForm": "any",
+    "choices": [
+      "art",
+      "many",
+      "and",
+      "any"
+    ],
+    "meanings": "（疑問文で）いくつかの，何か，（否定文で）少しも，何も",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_315",
+    "rank": 315,
+    "question": "This is _______ Tanaka.",
+    "questionJa": "こちらは田中さんです。",
+    "answer": "Mr.",
+    "matchedForm": "Mr.",
+    "choices": [
+      "art",
+      "ms.",
+      "mrs.",
+      "Mr."
+    ],
+    "meanings": "～さん，～氏，～先生（男性の姓または姓名の前につける）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_316",
+    "rank": 316,
+    "question": "She is _______ Smith.",
+    "questionJa": "彼女はスミスさんです。",
+    "answer": "Ms.",
+    "matchedForm": "Ms.",
+    "choices": [
+      "Ms.",
+      "use",
+      "mr.",
+      "mrs."
+    ],
+    "meanings": "～さん，～先生（結婚している，していないに関係なく，女性の姓または姓名の前につける）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_317",
+    "rank": 317,
+    "question": "Sit on the _______.",
+    "questionJa": "いすに座りなさい。",
+    "answer": "chair",
+    "matchedForm": "chair",
+    "choices": [
+      "chair",
+      "their",
+      "hair",
+      "car"
+    ],
+    "meanings": "いす",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_318",
+    "rank": 318,
+    "question": "I like this _______.",
+    "questionJa": "私はこの雑誌が好きです。",
+    "answer": "magazine",
+    "matchedForm": "magazine",
+    "choices": [
+      "japanese",
+      "man",
+      "magazine",
+      "mine"
+    ],
+    "meanings": "雑誌",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_319",
+    "rank": 319,
+    "question": "Call me on the _______.",
+    "questionJa": "電話で私に連絡してね。",
+    "answer": "phone",
+    "matchedForm": "phone",
+    "choices": [
+      "whose",
+      "those",
+      "phone",
+      "plane"
+    ],
+    "meanings": "電話",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_320",
+    "rank": 320,
+    "question": "The _______ is clean.",
+    "questionJa": "その浴室はきれいです。",
+    "answer": "bathroom",
+    "matchedForm": "bathroom",
+    "choices": [
+      "bedroom",
+      "bath",
+      "bathroom",
+      "classroom"
+    ],
+    "meanings": "浴室",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_321",
+    "rank": 321,
+    "question": "I want a new _______.",
+    "questionJa": "私は新しい帽子が欲しいです。",
+    "answer": "hat",
+    "matchedForm": "hat",
+    "choices": [
+      "hat",
+      "hand",
+      "cat",
+      "hot"
+    ],
+    "meanings": "（縁のある）帽子",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_322",
+    "rank": 322,
+    "question": "Please give me a _______.",
+    "questionJa": "カップをください。",
+    "answer": "cup",
+    "matchedForm": "cup",
+    "choices": [
+      "cut",
+      "cap",
+      "cup",
+      "up"
+    ],
+    "meanings": "カップ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_323",
+    "rank": 323,
+    "question": "My mother is in the _______.",
+    "questionJa": "私の母は台所にいます。",
+    "answer": "kitchen",
+    "matchedForm": "kitchen",
+    "choices": [
+      "little",
+      "listen",
+      "then",
+      "kitchen"
+    ],
+    "meanings": "台所",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_324",
+    "rank": 324,
+    "question": "Put your book on the _______.",
+    "questionJa": "本を机の上に置きなさい。",
+    "answer": "desk",
+    "matchedForm": "desk",
+    "choices": [
+      "dish",
+      "week",
+      "desk",
+      "test"
+    ],
+    "meanings": "机",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_325",
+    "rank": 325,
+    "question": "This is a fruit _______.",
+    "questionJa": "これはフルーツバスケットです。",
+    "answer": "basket",
+    "matchedForm": "basket",
+    "choices": [
+      "racket",
+      "basket",
+      "basketball",
+      "jacket"
+    ],
+    "meanings": "かご",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_326",
+    "rank": 326,
+    "question": "I like flowers in the _______.",
+    "questionJa": "私は庭の花が好きです。",
+    "answer": "garden",
+    "matchedForm": "garden",
+    "choices": [
+      "garden",
+      "green",
+      "large",
+      "game"
+    ],
+    "meanings": "庭",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_327",
+    "rank": 327,
+    "question": "This is my _______.",
+    "questionJa": "ここが私の寝室です。",
+    "answer": "bedroom",
+    "matchedForm": "bedroom",
+    "choices": [
+      "bed",
+      "bedroom",
+      "room",
+      "bathroom"
+    ],
+    "meanings": "寝室",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_328",
+    "rank": 328,
+    "question": "My father reads a _______.",
+    "questionJa": "私の父は新聞を読みます。",
+    "answer": "newspaper",
+    "matchedForm": "newspaper",
+    "choices": [
+      "newspaper",
+      "near",
+      "new",
+      "eraser"
+    ],
+    "meanings": "新聞",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_329",
+    "rank": 329,
+    "question": "I like your new _______.",
+    "questionJa": "私はあなたの新しいシャツが好きです。",
+    "answer": "shirt",
+    "matchedForm": "shirt",
+    "choices": [
+      "shirt",
+      "skirt",
+      "short",
+      "third"
+    ],
+    "meanings": "シャツ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_330",
+    "rank": 330,
+    "question": "Let's watch this _______.",
+    "questionJa": "このDVDを見ましょう。",
+    "answer": "DVD",
+    "matchedForm": "DVD",
+    "choices": [
+      "tv",
+      "day",
+      "DVD",
+      "dog"
+    ],
+    "meanings": "DVD",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_331",
+    "rank": 331,
+    "question": "Do you have the _______?",
+    "questionJa": "そのDVDを持っていますか？",
+    "answer": "DVD",
+    "matchedForm": "DVD",
+    "choices": [
+      "tv",
+      "day",
+      "DVD",
+      "dog"
+    ],
+    "meanings": "DVD",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_332",
+    "rank": 332,
+    "question": "Please clean the _______.",
+    "questionJa": "床を掃除してください。",
+    "answer": "floor",
+    "matchedForm": "floor",
+    "choices": [
+      "food",
+      "floor",
+      "flower",
+      "door"
+    ],
+    "meanings": "床，階",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_333",
+    "rank": 333,
+    "question": "I need new _______.",
+    "questionJa": "私は新しい手袋が必要です。",
+    "answer": "glove",
+    "matchedForm": "gloves",
+    "choices": [
+      "glove",
+      "close",
+      "glass",
+      "love"
+    ],
+    "meanings": "（ふつう複数形で）手袋，グローブ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_334",
+    "rank": 334,
+    "question": "We watch TV in the _______.",
+    "questionJa": "私たちは居間でテレビを見ます。",
+    "answer": "living room",
+    "matchedForm": "living room",
+    "choices": [
+      "dining room",
+      "live",
+      "comic book",
+      "living room"
+    ],
+    "meanings": "居間",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_335",
+    "rank": 335,
+    "question": "My _______ are red.",
+    "questionJa": "私の靴は赤いです。",
+    "answer": "shoe",
+    "matchedForm": "shoes",
+    "choices": [
+      "shop",
+      "home",
+      "show",
+      "shoe"
+    ],
+    "meanings": "（ふつう複数形で）くつ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_336",
+    "rank": 336,
+    "question": "Put on your _______.",
+    "questionJa": "ジャケットを着なさい。",
+    "answer": "jacket",
+    "matchedForm": "jacket",
+    "choices": [
+      "racket",
+      "basket",
+      "pocket",
+      "jacket"
+    ],
+    "meanings": "ジャケット，（腰までの）上着",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_337",
+    "rank": 337,
+    "question": "I sent a _______.",
+    "questionJa": "私ははがきを送りました。",
+    "answer": "postcard",
+    "matchedForm": "postcard",
+    "choices": [
+      "start",
+      "postcard",
+      "stand",
+      "potato"
+    ],
+    "meanings": "はがき，絵はがき",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_338",
+    "rank": 338,
+    "question": "I take a _______ every day.",
+    "questionJa": "私は毎日シャワーを浴びます。",
+    "answer": "shower",
+    "matchedForm": "shower",
+    "choices": [
+      "shower",
+      "shoe",
+      "show",
+      "flower"
+    ],
+    "meanings": "シャワー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_339",
+    "rank": 339,
+    "question": "Sit on the _______.",
+    "questionJa": "ソファーに座りなさい。",
+    "answer": "sofa",
+    "matchedForm": "sofa",
+    "choices": [
+      "of",
+      "soft",
+      "sofa",
+      "song"
+    ],
+    "meanings": "ソファー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_340",
+    "rank": 340,
+    "question": "Look at my photo _______.",
+    "questionJa": "私の写真アルバムを見て。",
+    "answer": "album",
+    "matchedForm": "album",
+    "choices": [
+      "also",
+      "album",
+      "club",
+      "about"
+    ],
+    "meanings": "アルバム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_341",
+    "rank": 341,
+    "question": "I have a birthday _______.",
+    "questionJa": "私は誕生日カードを持っています。",
+    "answer": "card",
+    "matchedForm": "card",
+    "choices": [
+      "car",
+      "card",
+      "park",
+      "call"
+    ],
+    "meanings": "カード，はがき",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_342",
+    "rank": 342,
+    "question": "Close the _______, please.",
+    "questionJa": "カーテンを閉めてください。",
+    "answer": "curtain",
+    "matchedForm": "curtain",
+    "choices": [
+      "curtain",
+      "train",
+      "curry",
+      "mountain"
+    ],
+    "meanings": "カーテン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_343",
+    "rank": 343,
+    "question": "I write my _______.",
+    "questionJa": "私は日記を書きます。",
+    "answer": "diary",
+    "matchedForm": "diary",
+    "choices": [
+      "diary",
+      "day",
+      "library",
+      "dish"
+    ],
+    "meanings": "日記",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_344",
+    "rank": 344,
+    "question": "We eat in the _______.",
+    "questionJa": "私たちは食堂で食事をします。",
+    "answer": "dining room",
+    "matchedForm": "dining room",
+    "choices": [
+      "dining room",
+      "living room",
+      "dinner",
+      "comic book"
+    ],
+    "meanings": "食堂，ダイニングルーム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_345",
+    "rank": 345,
+    "question": "Listen to the _______.",
+    "questionJa": "ラジオを聞きなさい。",
+    "answer": "radio",
+    "matchedForm": "radio",
+    "choices": [
+      "rain",
+      "radio",
+      "train",
+      "rainy"
+    ],
+    "meanings": "ラジオ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_346",
+    "rank": 346,
+    "question": "Give me a _______, please.",
+    "questionJa": "タオルをください。",
+    "answer": "towel",
+    "matchedForm": "towel",
+    "choices": [
+      "tower",
+      "today",
+      "towel",
+      "hotel"
+    ],
+    "meanings": "タオル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_347",
+    "rank": 347,
+    "question": "This is my new _______.",
+    "questionJa": "これは私の新しいバックパックです。",
+    "answer": "backpack",
+    "matchedForm": "backpack",
+    "choices": [
+      "japan",
+      "backpack",
+      "black",
+      "baseball"
+    ],
+    "meanings": "バックパック",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_348",
+    "rank": 348,
+    "question": "Look at the _______.",
+    "questionJa": "カレンダーを見て。",
+    "answer": "calendar",
+    "matchedForm": "calendar",
+    "choices": [
+      "saturday",
+      "camera",
+      "calendar",
+      "canada"
+    ],
+    "meanings": "カレンダー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_349",
+    "rank": 349,
+    "question": "Take off your _______.",
+    "questionJa": "コートを脱ぎなさい。",
+    "answer": "coat",
+    "matchedForm": "coat",
+    "choices": [
+      "cat",
+      "come",
+      "what",
+      "coat"
+    ],
+    "meanings": "コート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_350",
+    "rank": 350,
+    "question": "My key is in my _______.",
+    "questionJa": "私の鍵はポケットの中です。",
+    "answer": "pocket",
+    "matchedForm": "pocket",
+    "choices": [
+      "racket",
+      "jacket",
+      "pocket",
+      "ticket"
+    ],
+    "meanings": "ポケット",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_351",
+    "rank": 351,
+    "question": "I like her red _______.",
+    "questionJa": "私は彼女の赤いスカートが好きです。",
+    "answer": "skirt",
+    "matchedForm": "skirt",
+    "choices": [
+      "skirt",
+      "shirt",
+      "first",
+      "ski"
+    ],
+    "meanings": "スカート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_352",
+    "rank": 352,
+    "question": "This is my favorite _______.",
+    "questionJa": "これが私のお気に入りのおもちゃです。",
+    "answer": "toy",
+    "matchedForm": "toy",
+    "choices": [
+      "boy",
+      "too",
+      "toy",
+      "to"
+    ],
+    "meanings": "おもちゃ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_353",
+    "rank": 353,
+    "question": "Please look at the _______.",
+    "questionJa": "壁を見てください。",
+    "answer": "wall",
+    "matchedForm": "wall",
+    "choices": [
+      "walk",
+      "fall",
+      "wall",
+      "ball"
+    ],
+    "meanings": "壁",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_354",
+    "rank": 354,
+    "question": "Wait one _______, please.",
+    "questionJa": "1分待ってください。",
+    "answer": "minute",
+    "matchedForm": "minute",
+    "choices": [
+      "month",
+      "minute",
+      "winter",
+      "mine"
+    ],
+    "meanings": "（時間の）分",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_355",
+    "rank": 355,
+    "question": "My _______ is blue.",
+    "questionJa": "私の筆箱は青いです。",
+    "answer": "pencil case",
+    "matchedForm": "pencil case",
+    "choices": [
+      "pencil",
+      "class",
+      "pencil case",
+      "people"
+    ],
+    "meanings": "筆箱",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_356",
+    "rank": 356,
+    "question": "We have a math _______ today.",
+    "questionJa": "今日、算数の授業があります。",
+    "answer": "lesson",
+    "matchedForm": "lesson",
+    "choices": [
+      "son",
+      "lesson",
+      "listen",
+      "letter"
+    ],
+    "meanings": "レッスン，授業",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_357",
+    "rank": 357,
+    "question": "Open your book to _______ 10.",
+    "questionJa": "本の10ページを開きなさい。",
+    "answer": "page",
+    "matchedForm": "page",
+    "choices": [
+      "page",
+      "date",
+      "park",
+      "plane"
+    ],
+    "meanings": "ページ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_358",
+    "rank": 358,
+    "question": "Let's go to the _______!",
+    "questionJa": "プールに行こう！",
+    "answer": "pool",
+    "matchedForm": "pool",
+    "choices": [
+      "pool",
+      "book",
+      "door",
+      "room"
+    ],
+    "meanings": "プール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_359",
+    "rank": 359,
+    "question": "We eat lunch in the _______.",
+    "questionJa": "私たちはカフェテリアで昼食を食べます。",
+    "answer": "cafeteria",
+    "matchedForm": "cafeteria",
+    "choices": [
+      "after",
+      "cafeteria",
+      "calendar",
+      "camera"
+    ],
+    "meanings": "カフェテリア",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_360",
+    "rank": 360,
+    "question": "We have a _______ tomorrow.",
+    "questionJa": "明日テストがあります。",
+    "answer": "test",
+    "matchedForm": "test",
+    "choices": [
+      "test",
+      "tenth",
+      "ten",
+      "next"
+    ],
+    "meanings": "テスト",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_361",
+    "rank": 361,
+    "question": "I like _______ very much.",
+    "questionJa": "私は体育が大好きです。",
+    "answer": "P.E.",
+    "matchedForm": "P.E.",
+    "choices": [
+      "P.E.",
+      "a.m.",
+      "pet",
+      "pen"
+    ],
+    "meanings": "体育",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_362",
+    "rank": 362,
+    "question": "Can I borrow your _______?",
+    "questionJa": "あなたの定規を借りてもいいですか？",
+    "answer": "ruler",
+    "matchedForm": "ruler",
+    "choices": [
+      "run",
+      "river",
+      "ruler",
+      "under"
+    ],
+    "meanings": "定規",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_363",
+    "rank": 363,
+    "question": "Write it on the _______.",
+    "questionJa": "それを黒板に書きなさい。",
+    "answer": "blackboard",
+    "matchedForm": "blackboard",
+    "choices": [
+      "library",
+      "black",
+      "backpack",
+      "blackboard"
+    ],
+    "meanings": "黒板",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_364",
+    "rank": 364,
+    "question": "Let's play on the _______.",
+    "questionJa": "グラウンドで遊びましょう。",
+    "answer": "ground",
+    "matchedForm": "ground",
+    "choices": [
+      "ground",
+      "young",
+      "around",
+      "green"
+    ],
+    "meanings": "グラウンド，地面",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_365",
+    "rank": 365,
+    "question": "_______ is my favorite subject.",
+    "questionJa": "歴史は私の好きな科目です。",
+    "answer": "history",
+    "matchedForm": "History",
+    "choices": [
+      "his",
+      "story",
+      "sister",
+      "history"
+    ],
+    "meanings": "歴史",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_366",
+    "rank": 366,
+    "question": "That's a good _______!",
+    "questionJa": "それは良い考えだね！",
+    "answer": "idea",
+    "matchedForm": "idea",
+    "choices": [
+      "tea",
+      "its",
+      "idea",
+      "sea"
+    ],
+    "meanings": "考え",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_367",
+    "rank": 367,
+    "question": "The _______ are playing outside.",
+    "questionJa": "子どもたちが外で遊んでいます。",
+    "answer": "children",
+    "matchedForm": "children",
+    "choices": [
+      "children",
+      "chinese",
+      "hundred",
+      "thirteen"
+    ],
+    "meanings": "child（子ども）の複数形",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_368",
+    "rank": 368,
+    "question": "My father is a _______.",
+    "questionJa": "私の父は医者です。",
+    "answer": "doctor",
+    "matchedForm": "doctor",
+    "choices": [
+      "door",
+      "dollar",
+      "doctor",
+      "color"
+    ],
+    "meanings": "医者",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_369",
+    "rank": 369,
+    "question": "He wants to be a _______.",
+    "questionJa": "彼はパイロットになりたがっています。",
+    "answer": "pilot",
+    "matchedForm": "pilot",
+    "choices": [
+      "pilot",
+      "piano",
+      "night",
+      "pizza"
+    ],
+    "meanings": "パイロット",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_370",
+    "rank": 370,
+    "question": "The _______ brought our food.",
+    "questionJa": "そのウエーターが私たちの食べ物を持ってきました。",
+    "answer": "waiter",
+    "matchedForm": "waiter",
+    "choices": [
+      "waiter",
+      "winter",
+      "after",
+      "water"
+    ],
+    "meanings": "ウエーター",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_371",
+    "rank": 371,
+    "question": "My mother can _______ well.",
+    "questionJa": "私の母は料理が上手です。",
+    "answer": "cook",
+    "matchedForm": "cook",
+    "choices": [
+      "look",
+      "book",
+      "cookie",
+      "cook"
+    ],
+    "meanings": "コック，（を）料理する",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_372",
+    "rank": 372,
+    "question": "Who is that _______?",
+    "questionJa": "あの婦人は誰ですか？",
+    "answer": "lady",
+    "matchedForm": "lady",
+    "choices": [
+      "many",
+      "last",
+      "play",
+      "lady"
+    ],
+    "meanings": "ご婦人，女のかた",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_373",
+    "rank": 373,
+    "question": "He is a _______.",
+    "questionJa": "彼は警察官です。",
+    "answer": "police officer",
+    "matchedForm": "police officer",
+    "choices": [
+      "police station",
+      "police officer",
+      "post office",
+      "office"
+    ],
+    "meanings": "警察官",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_374",
+    "rank": 374,
+    "question": "She is a good _______.",
+    "questionJa": "彼女は良いダンサーです。",
+    "answer": "dancer",
+    "matchedForm": "dancer",
+    "choices": [
+      "dinner",
+      "father",
+      "dance",
+      "dancer"
+    ],
+    "meanings": "ダンサー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_375",
+    "rank": 375,
+    "question": "My aunt is a _______.",
+    "questionJa": "私のおばは看護師です。",
+    "answer": "nurse",
+    "matchedForm": "nurse",
+    "choices": [
+      "ours",
+      "nurse",
+      "use",
+      "number"
+    ],
+    "meanings": "看護師",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_376",
+    "rank": 376,
+    "question": "My mom is a _______.",
+    "questionJa": "私の母はピアニストです。",
+    "answer": "pianist",
+    "matchedForm": "pianist",
+    "choices": [
+      "paint",
+      "piano",
+      "pianist",
+      "tennis"
+    ],
+    "meanings": "ピアニスト",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_377",
+    "rank": 377,
+    "question": "My dad is a bus _______.",
+    "questionJa": "私の父はバスの運転手です。",
+    "answer": "driver",
+    "matchedForm": "driver",
+    "choices": [
+      "river",
+      "dinner",
+      "drink",
+      "driver"
+    ],
+    "meanings": "運転手",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_378",
+    "rank": 378,
+    "question": "He wants to be a _______.",
+    "questionJa": "彼は消防士になりたがっています。",
+    "answer": "firefighter",
+    "matchedForm": "firefighter",
+    "choices": [
+      "firefighter",
+      "daughter",
+      "finger",
+      "first"
+    ],
+    "meanings": "消防士",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_379",
+    "rank": 379,
+    "question": "Let's go to the _______.",
+    "questionJa": "その店に行きましょう。",
+    "answer": "store",
+    "matchedForm": "store",
+    "choices": [
+      "close",
+      "score",
+      "story",
+      "store"
+    ],
+    "meanings": "店",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_380",
+    "rank": 380,
+    "question": "I go to the _______.",
+    "questionJa": "私はスーパーマーケットに行きます。",
+    "answer": "supermarket",
+    "matchedForm": "supermarket",
+    "choices": [
+      "summer",
+      "supermarket",
+      "speak",
+      "racket"
+    ],
+    "meanings": "スーパーマーケット",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_381",
+    "rank": 381,
+    "question": "My dad works at an _______.",
+    "questionJa": "私の父は会社で働いています。",
+    "answer": "office",
+    "matchedForm": "office",
+    "choices": [
+      "often",
+      "juice",
+      "office",
+      "coffee"
+    ],
+    "meanings": "会社，事務所",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_382",
+    "rank": 382,
+    "question": "This _______ is big.",
+    "questionJa": "このデパートは大きいです。",
+    "answer": "department store",
+    "matchedForm": "department store",
+    "choices": [
+      "september",
+      "december",
+      "department store",
+      "present"
+    ],
+    "meanings": "デパート，百貨店",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_383",
+    "rank": 383,
+    "question": "Look! A big _______.",
+    "questionJa": "見て！大きな船です。",
+    "answer": "ship",
+    "matchedForm": "ship",
+    "choices": [
+      "shirt",
+      "ship",
+      "this",
+      "shop"
+    ],
+    "meanings": "船",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_384",
+    "rank": 384,
+    "question": "I have a _______.",
+    "questionJa": "私はチケットを持っています。",
+    "answer": "ticket",
+    "matchedForm": "ticket",
+    "choices": [
+      "ticket",
+      "time",
+      "pocket",
+      "jacket"
+    ],
+    "meanings": "チケット，切符",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_385",
+    "rank": 385,
+    "question": "Let's go to the _______.",
+    "questionJa": "空港に行きましょう。",
+    "answer": "airport",
+    "matchedForm": "airport",
+    "choices": [
+      "sport",
+      "about",
+      "art",
+      "airport"
+    ],
+    "meanings": "空港",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_386",
+    "rank": 386,
+    "question": "I like this _______.",
+    "questionJa": "私はこの書店が好きです。",
+    "answer": "bookstore",
+    "matchedForm": "bookstore",
+    "choices": [
+      "bookstore",
+      "store",
+      "book",
+      "bus stop"
+    ],
+    "meanings": "書店",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_387",
+    "rank": 387,
+    "question": "We can cross the _______.",
+    "questionJa": "私たちはその橋を渡れます。",
+    "answer": "bridge",
+    "matchedForm": "bridge",
+    "choices": [
+      "rice",
+      "bridge",
+      "bike",
+      "write"
+    ],
+    "meanings": "橋",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_388",
+    "rank": 388,
+    "question": "That _______ is very tall.",
+    "questionJa": "あの建物はとても高いです。",
+    "answer": "building",
+    "matchedForm": "building",
+    "choices": [
+      "morning",
+      "spring",
+      "evening",
+      "building"
+    ],
+    "meanings": "建物，ビル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_389",
+    "rank": 389,
+    "question": "Look at the _______!",
+    "questionJa": "あのタワーを見て！",
+    "answer": "tower",
+    "matchedForm": "tower",
+    "choices": [
+      "towel",
+      "shower",
+      "tower",
+      "flower"
+    ],
+    "meanings": "タワー，塔",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_390",
+    "rank": 390,
+    "question": "The _______ is closed today.",
+    "questionJa": "その銀行は今日閉まっています。",
+    "answer": "bank",
+    "matchedForm": "bank",
+    "choices": [
+      "park",
+      "bath",
+      "ball",
+      "bank"
+    ],
+    "meanings": "銀行",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_391",
+    "rank": 391,
+    "question": "Let's wait at the _______.",
+    "questionJa": "バス停で待ちましょう。",
+    "answer": "bus stop",
+    "matchedForm": "bus stop",
+    "choices": [
+      "bus stop",
+      "stop",
+      "busy",
+      "bus"
+    ],
+    "meanings": "バス停",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_392",
+    "rank": 392,
+    "question": "Where is the _______?",
+    "questionJa": "ガソリンスタンドはどこですか？",
+    "answer": "gas station",
+    "matchedForm": "gas station",
+    "choices": [
+      "gas station",
+      "station",
+      "police station",
+      "bus stop"
+    ],
+    "meanings": "ガソリンスタンド",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_393",
+    "rank": 393,
+    "question": "We stay at a _______.",
+    "questionJa": "私たちはホテルに泊まります。",
+    "answer": "hotel",
+    "matchedForm": "hotel",
+    "choices": [
+      "hot",
+      "home",
+      "hotel",
+      "towel"
+    ],
+    "meanings": "ホテル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_394",
+    "rank": 394,
+    "question": "I want to fly a _______.",
+    "questionJa": "私は飛行機を飛ばしたいです。",
+    "answer": "plane",
+    "matchedForm": "plane",
+    "choices": [
+      "plate",
+      "dance",
+      "player",
+      "plane"
+    ],
+    "meanings": "飛行機",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_395",
+    "rank": 395,
+    "question": "The _______ is near here.",
+    "questionJa": "郵便局はここから近いです。",
+    "answer": "post office",
+    "matchedForm": "post office",
+    "choices": [
+      "office",
+      "postcard",
+      "police officer",
+      "post office"
+    ],
+    "meanings": "郵便局",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_396",
+    "rank": 396,
+    "question": "This is a _______.",
+    "questionJa": "ここは警察署です。",
+    "answer": "police station",
+    "matchedForm": "police station",
+    "choices": [
+      "police officer",
+      "gas station",
+      "station",
+      "police station"
+    ],
+    "meanings": "警察署",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_397",
+    "rank": 397,
+    "question": "Let's take a _______.",
+    "questionJa": "タクシーに乗りましょう。",
+    "answer": "taxi",
+    "matchedForm": "taxi",
+    "choices": [
+      "hair",
+      "taxi",
+      "take",
+      "talk"
+    ],
+    "meanings": "タクシー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_398",
+    "rank": 398,
+    "question": "I like hot _______.",
+    "questionJa": "私は温かいお茶が好きです。",
+    "answer": "tea",
+    "matchedForm": "tea",
+    "choices": [
+      "team",
+      "ten",
+      "sea",
+      "tea"
+    ],
+    "meanings": "茶，紅茶",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_399",
+    "rank": 399,
+    "question": "Let's eat _______ tonight.",
+    "questionJa": "今夜ピザを食べましょう。",
+    "answer": "pizza",
+    "matchedForm": "pizza",
+    "choices": [
+      "pilot",
+      "pizza",
+      "idea",
+      "piano"
+    ],
+    "meanings": "ピザ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_400",
+    "rank": 400,
+    "question": "Put the cake on the _______.",
+    "questionJa": "ケーキをお皿に乗せてください。",
+    "answer": "plate",
+    "matchedForm": "plate",
+    "choices": [
+      "skate",
+      "player",
+      "plate",
+      "plane"
+    ],
+    "meanings": "（浅い）皿",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_401",
+    "rank": 401,
+    "question": "I like _______ salad.",
+    "questionJa": "私はポテトサラダが好きです。",
+    "answer": "potato",
+    "matchedForm": "potato",
+    "choices": [
+      "tomato",
+      "piano",
+      "plate",
+      "potato"
+    ],
+    "meanings": "ジャガイモ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_402",
+    "rank": 402,
+    "question": "This _______ is sweet.",
+    "questionJa": "このクッキーは甘いです。",
+    "answer": "cookie",
+    "matchedForm": "cookie",
+    "choices": [
+      "movie",
+      "cook",
+      "coffee",
+      "cookie"
+    ],
+    "meanings": "クッキー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_403",
+    "rank": 403,
+    "question": "I eat _______ every day.",
+    "questionJa": "私は毎日果物を食べます。",
+    "answer": "fruit",
+    "matchedForm": "fruit",
+    "choices": [
+      "flute",
+      "train",
+      "from",
+      "fruit"
+    ],
+    "meanings": "果物",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_404",
+    "rank": 404,
+    "question": "Use a _______, please.",
+    "questionJa": "スプーンを使ってください。",
+    "answer": "spoon",
+    "matchedForm": "spoon",
+    "choices": [
+      "spoon",
+      "pool",
+      "sport",
+      "noon"
+    ],
+    "meanings": "スプーン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_405",
+    "rank": 405,
+    "question": "I eat _______ for breakfast.",
+    "questionJa": "私は朝食にパンを食べます。",
+    "answer": "bread",
+    "matchedForm": "bread",
+    "choices": [
+      "ready",
+      "great",
+      "bread",
+      "read"
+    ],
+    "meanings": "パン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_406",
+    "rank": 406,
+    "question": "Please wash the _______.",
+    "questionJa": "皿を洗ってください。",
+    "answer": "dish",
+    "matchedForm": "dishes",
+    "choices": [
+      "high",
+      "dish",
+      "fish",
+      "with"
+    ],
+    "meanings": "皿",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_407",
+    "rank": 407,
+    "question": "I like _______.",
+    "questionJa": "私はブドウが好きです。",
+    "answer": "grape",
+    "matchedForm": "grapes",
+    "choices": [
+      "grape",
+      "skate",
+      "game",
+      "green"
+    ],
+    "meanings": "ブドウ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_408",
+    "rank": 408,
+    "question": "This _______ is red.",
+    "questionJa": "このイチゴは赤いです。",
+    "answer": "strawberry",
+    "matchedForm": "strawberry",
+    "choices": [
+      "story",
+      "strawberry",
+      "street",
+      "teacher"
+    ],
+    "meanings": "イチゴ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_409",
+    "rank": 409,
+    "question": "Do you like _______?",
+    "questionJa": "あなたはバナナが好きですか？",
+    "answer": "banana",
+    "matchedForm": "bananas",
+    "choices": [
+      "bank",
+      "basket",
+      "banana",
+      "canada"
+    ],
+    "meanings": "バナナ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_410",
+    "rank": 410,
+    "question": "I want _______.",
+    "questionJa": "私はチョコレートが欲しいです。",
+    "answer": "chocolate",
+    "matchedForm": "chocolate",
+    "choices": [
+      "classmate",
+      "chocolate",
+      "chopstick",
+      "school"
+    ],
+    "meanings": "チョコレート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_411",
+    "rank": 411,
+    "question": "Let's eat _______.",
+    "questionJa": "デザートを食べましょう。",
+    "answer": "dessert",
+    "matchedForm": "dessert",
+    "choices": [
+      "dessert",
+      "letter",
+      "present",
+      "desk"
+    ],
+    "meanings": "デザート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_412",
+    "rank": 412,
+    "question": "I want a _______.",
+    "questionJa": "私はハンバーガーが欲しいです。",
+    "answer": "hamburger",
+    "matchedForm": "hamburger",
+    "choices": [
+      "hamster",
+      "computer",
+      "number",
+      "hamburger"
+    ],
+    "meanings": "ハンバーガー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_413",
+    "rank": 413,
+    "question": "I like _______ on bread.",
+    "questionJa": "私はパンにジャムを塗るのが好きです。",
+    "answer": "jam",
+    "matchedForm": "jam",
+    "choices": [
+      "jam",
+      "bag",
+      "cap",
+      "day"
+    ],
+    "meanings": "ジャム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_414",
+    "rank": 414,
+    "question": "It's _______ now.",
+    "questionJa": "今はランチタイムです。",
+    "answer": "lunchtime",
+    "matchedForm": "lunchtime",
+    "choices": [
+      "lunchtime",
+      "lunch",
+      "time",
+      "practice"
+    ],
+    "meanings": "昼食時間，ランチタイム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_415",
+    "rank": 415,
+    "question": "I eat _______ for dinner.",
+    "questionJa": "私は夕食に肉を食べます。",
+    "answer": "meat",
+    "matchedForm": "meat",
+    "choices": [
+      "meet",
+      "eat",
+      "year",
+      "meat"
+    ],
+    "meanings": "肉",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_416",
+    "rank": 416,
+    "question": "This _______ is fresh.",
+    "questionJa": "このトマトは新鮮です。",
+    "answer": "tomato",
+    "matchedForm": "tomato",
+    "choices": [
+      "too",
+      "tomato",
+      "today",
+      "potato"
+    ],
+    "meanings": "トマト",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_417",
+    "rank": 417,
+    "question": "Eat your _______.",
+    "questionJa": "野菜を食べなさい。",
+    "answer": "vegetable",
+    "matchedForm": "vegetables",
+    "choices": [
+      "table",
+      "baseball",
+      "vegetable",
+      "december"
+    ],
+    "meanings": "（ふつう複数形で）野菜",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_418",
+    "rank": 418,
+    "question": "I like _______.",
+    "questionJa": "私はニンジンが好きです。",
+    "answer": "carrot",
+    "matchedForm": "carrots",
+    "choices": [
+      "carrot",
+      "car",
+      "card",
+      "art"
+    ],
+    "meanings": "ニンジン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_419",
+    "rank": 419,
+    "question": "I use _______.",
+    "questionJa": "私ははしを使います。",
+    "answer": "chopstick",
+    "matchedForm": "chopsticks",
+    "choices": [
+      "bookstore",
+      "chopstick",
+      "chocolate",
+      "chair"
+    ],
+    "meanings": "（ふつう複数形で）はし",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_420",
+    "rank": 420,
+    "question": "I eat _______.",
+    "questionJa": "私はキュウリを食べます。",
+    "answer": "cucumber",
+    "matchedForm": "cucumbers",
+    "choices": [
+      "december",
+      "cucumber",
+      "november",
+      "number"
+    ],
+    "meanings": "キュウリ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_421",
+    "rank": 421,
+    "question": "I need a _______.",
+    "questionJa": "フォークが必要です。",
+    "answer": "fork",
+    "matchedForm": "fork",
+    "choices": [
+      "fork",
+      "for",
+      "forty",
+      "work"
+    ],
+    "meanings": "フォーク",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_422",
+    "rank": 422,
+    "question": "Drink water from this _______.",
+    "questionJa": "このグラスから水を飲んでください。",
+    "answer": "glass",
+    "matchedForm": "glass",
+    "choices": [
+      "glass",
+      "last",
+      "class",
+      "glove"
+    ],
+    "meanings": "コップ，グラス",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_423",
+    "rank": 423,
+    "question": "I don't like _______.",
+    "questionJa": "私はタマネギが好きではありません。",
+    "answer": "onion",
+    "matchedForm": "onions",
+    "choices": [
+      "often",
+      "onion",
+      "noon",
+      "only"
+    ],
+    "meanings": "タマネギ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_424",
+    "rank": 424,
+    "question": "This _______ is hot.",
+    "questionJa": "このスープは熱いです。",
+    "answer": "soup",
+    "matchedForm": "soup",
+    "choices": [
+      "some",
+      "hour",
+      "song",
+      "soup"
+    ],
+    "meanings": "スープ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_425",
+    "rank": 425,
+    "question": "I want apple _______.",
+    "questionJa": "私はアップルパイが欲しいです。",
+    "answer": "pie",
+    "matchedForm": "pie",
+    "choices": [
+      "pie",
+      "pet",
+      "pink",
+      "time"
+    ],
+    "meanings": "パイ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_426",
+    "rank": 426,
+    "question": "I like _______ soup.",
+    "questionJa": "私はカボチャのスープが好きです。",
+    "answer": "pumpkin",
+    "matchedForm": "pumpkin",
+    "choices": [
+      "pumpkin",
+      "purple",
+      "curtain",
+      "dolphin"
+    ],
+    "meanings": "カボチャ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_427",
+    "rank": 427,
+    "question": "Let's eat some _______.",
+    "questionJa": "サラダを食べましょう。",
+    "answer": "salad",
+    "matchedForm": "salad",
+    "choices": [
+      "salad",
+      "japan",
+      "speak",
+      "stand"
+    ],
+    "meanings": "サラダ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_428",
+    "rank": 428,
+    "question": "My _______ is kind.",
+    "questionJa": "私の祖母は親切です。",
+    "answer": "grandmother",
+    "matchedForm": "grandmother",
+    "choices": [
+      "grandfather",
+      "mother",
+      "brother",
+      "grandmother"
+    ],
+    "meanings": "祖母",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_429",
+    "rank": 429,
+    "question": "My _______ likes sports.",
+    "questionJa": "私の祖父はスポーツが好きです。",
+    "answer": "grandfather",
+    "matchedForm": "grandfather",
+    "choices": [
+      "grape",
+      "father",
+      "grandfather",
+      "grandmother"
+    ],
+    "meanings": "祖父",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_430",
+    "rank": 430,
+    "question": "This is my tennis _______.",
+    "questionJa": "これは私のテニスラケットです。",
+    "answer": "racket",
+    "matchedForm": "racket",
+    "choices": [
+      "rabbit",
+      "jacket",
+      "basket",
+      "racket"
+    ],
+    "meanings": "ラケット",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_431",
+    "rank": 431,
+    "question": "What is the _______?",
+    "questionJa": "得点（スコア）は何点ですか？",
+    "answer": "score",
+    "matchedForm": "score",
+    "choices": [
+      "come",
+      "store",
+      "some",
+      "score"
+    ],
+    "meanings": "得点，スコア",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_432",
+    "rank": 432,
+    "question": "I play _______ on Sunday.",
+    "questionJa": "私は日曜日にソフトボールをします。",
+    "answer": "softball",
+    "matchedForm": "softball",
+    "choices": [
+      "soft",
+      "sofa",
+      "softball",
+      "football"
+    ],
+    "meanings": "ソフトボール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_433",
+    "rank": 433,
+    "question": "I ride my _______ to school.",
+    "questionJa": "私は自転車で学校に行きます。",
+    "answer": "bicycle",
+    "matchedForm": "bicycle",
+    "choices": [
+      "bicycle",
+      "bike",
+      "picture",
+      "little"
+    ],
+    "meanings": "自転車",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_434",
+    "rank": 434,
+    "question": "Do you play _______?",
+    "questionJa": "あなたはフットボールをしますか？",
+    "answer": "football",
+    "matchedForm": "football",
+    "choices": [
+      "football",
+      "softball",
+      "foot",
+      "food"
+    ],
+    "meanings": "フットボール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_435",
+    "rank": 435,
+    "question": "Let's play _______!",
+    "questionJa": "バドミントンをしましょう！",
+    "answer": "badminton",
+    "matchedForm": "badminton",
+    "choices": [
+      "bath",
+      "badminton",
+      "radio",
+      "bathroom"
+    ],
+    "meanings": "バドミントン",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_436",
+    "rank": 436,
+    "question": "This _______ is beautiful.",
+    "questionJa": "この花は美しいです。",
+    "answer": "flower",
+    "matchedForm": "flower",
+    "choices": [
+      "flower",
+      "floor",
+      "shower",
+      "tower"
+    ],
+    "meanings": "花",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_437",
+    "rank": 437,
+    "question": "I like _______.",
+    "questionJa": "私は雪が好きです。",
+    "answer": "snow",
+    "matchedForm": "snow",
+    "choices": [
+      "snowy",
+      "know",
+      "show",
+      "snow"
+    ],
+    "meanings": "雪，雪が降る",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_438",
+    "rank": 438,
+    "question": "I have a cute _______.",
+    "questionJa": "私はかわいいハムスターを飼っています。",
+    "answer": "hamster",
+    "matchedForm": "hamster",
+    "choices": [
+      "have",
+      "water",
+      "after",
+      "hamster"
+    ],
+    "meanings": "ハムスター",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_439",
+    "rank": 439,
+    "question": "We can swim in the _______.",
+    "questionJa": "私たちはその川で泳げます。",
+    "answer": "river",
+    "matchedForm": "river",
+    "choices": [
+      "driver",
+      "ruler",
+      "river",
+      "rice"
+    ],
+    "meanings": "川",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_440",
+    "rank": 440,
+    "question": "This is a red _______.",
+    "questionJa": "これは赤いバラです。",
+    "answer": "rose",
+    "matchedForm": "rose",
+    "choices": [
+      "rose",
+      "home",
+      "room",
+      "rice"
+    ],
+    "meanings": "バラ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_441",
+    "rank": 441,
+    "question": "I like to see the _______.",
+    "questionJa": "私は海を見るのが好きです。",
+    "answer": "sea",
+    "matchedForm": "sea",
+    "choices": [
+      "tea",
+      "son",
+      "see",
+      "sea"
+    ],
+    "meanings": "（ふつうthe ～で）海",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_442",
+    "rank": 442,
+    "question": "The _______ is blue today.",
+    "questionJa": "今日は空が青いです。",
+    "answer": "sky",
+    "matchedForm": "sky",
+    "choices": [
+      "son",
+      "sky",
+      "fly",
+      "ski"
+    ],
+    "meanings": "（ふつうthe ～で）空",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_443",
+    "rank": 443,
+    "question": "How is the _______ today?",
+    "questionJa": "今日の天気はどうですか？",
+    "answer": "weather",
+    "matchedForm": "weather",
+    "choices": [
+      "water",
+      "weather",
+      "father",
+      "teacher"
+    ],
+    "meanings": "天気",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_444",
+    "rank": 444,
+    "question": "Let's go to the _______.",
+    "questionJa": "浜辺に行きましょう。",
+    "answer": "beach",
+    "matchedForm": "beach",
+    "choices": [
+      "teach",
+      "beach",
+      "bath",
+      "black"
+    ],
+    "meanings": "浜辺，海辺",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_445",
+    "rank": 445,
+    "question": "I want to see a _______.",
+    "questionJa": "私はイルカを見たいです。",
+    "answer": "dolphin",
+    "matchedForm": "dolphin",
+    "choices": [
+      "pumpkin",
+      "down",
+      "dollar",
+      "dolphin"
+    ],
+    "meanings": "イルカ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_446",
+    "rank": 446,
+    "question": "An _______ is a big animal.",
+    "questionJa": "ゾウは大きな動物です。",
+    "answer": "elephant",
+    "matchedForm": "elephant",
+    "choices": [
+      "elephant",
+      "eleventh",
+      "eleven",
+      "want"
+    ],
+    "meanings": "ゾウ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_447",
+    "rank": 447,
+    "question": "I can see three _______.",
+    "questionJa": "私は3匹のヒツジが見えます。",
+    "answer": "sheep",
+    "matchedForm": "sheep",
+    "choices": [
+      "sleep",
+      "help",
+      "sheep",
+      "sweet"
+    ],
+    "meanings": "ヒツジ",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_448",
+    "rank": 448,
+    "question": "_______ like bananas.",
+    "questionJa": "サルはバナナが好きです。",
+    "answer": "monkey",
+    "matchedForm": "Monkeys",
+    "choices": [
+      "monkey",
+      "monday",
+      "mother",
+      "pocket"
+    ],
+    "meanings": "サル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_449",
+    "rank": 449,
+    "question": "My favorite color is _______.",
+    "questionJa": "私の一番好きな色（お気に入りの色）は紫です。",
+    "answer": "purple",
+    "matchedForm": "purple",
+    "choices": [
+      "nurse",
+      "uncle",
+      "purple",
+      "people"
+    ],
+    "meanings": "紫色，紫色の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_450",
+    "rank": 450,
+    "question": "I want to go to a _______.",
+    "questionJa": "私はコンサートに行きたいです。",
+    "answer": "concert",
+    "matchedForm": "concert",
+    "choices": [
+      "soccer",
+      "concert",
+      "come",
+      "country"
+    ],
+    "meanings": "コンサート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_451",
+    "rank": 451,
+    "question": "I can play the _______.",
+    "questionJa": "私はフルートを弾けます。",
+    "answer": "flute",
+    "matchedForm": "flute",
+    "choices": [
+      "flute",
+      "floor",
+      "blue",
+      "cute"
+    ],
+    "meanings": "フルート",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_452",
+    "rank": 452,
+    "question": "Let's have a _______!",
+    "questionJa": "パーティーをしよう！",
+    "answer": "party",
+    "matchedForm": "party",
+    "choices": [
+      "park",
+      "art",
+      "paint",
+      "party"
+    ],
+    "meanings": "パーティー",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_453",
+    "rank": 453,
+    "question": "This rope is one _______ long.",
+    "questionJa": "このロープは1メートルです。",
+    "answer": "meter",
+    "matchedForm": "meter",
+    "choices": [
+      "mother",
+      "meet",
+      "meter",
+      "letter"
+    ],
+    "meanings": "メートル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_454",
+    "rank": 454,
+    "question": "It costs 100 _______.",
+    "questionJa": "それは100円です。",
+    "answer": "yen",
+    "matchedForm": "yen",
+    "choices": [
+      "pen",
+      "ten",
+      "year",
+      "yen"
+    ],
+    "meanings": "円",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_455",
+    "rank": 455,
+    "question": "This bag is one _______.",
+    "questionJa": "このカバンは1キログラムです。",
+    "answer": "kilogram",
+    "matchedForm": "kilogram",
+    "choices": [
+      "kitchen",
+      "color",
+      "kilogram",
+      "floor"
+    ],
+    "meanings": "キログラム",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_456",
+    "rank": 456,
+    "question": "He is 150 _______ tall.",
+    "questionJa": "彼は身長150センチメートルです。",
+    "answer": "centimeter",
+    "matchedForm": "centimeters",
+    "choices": [
+      "letter",
+      "cent",
+      "september",
+      "centimeter"
+    ],
+    "meanings": "センチメートル",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_457",
+    "rank": 457,
+    "question": "This pen is 50 _______.",
+    "questionJa": "このペンは50セントです。",
+    "answer": "cent",
+    "matchedForm": "cents",
+    "choices": [
+      "coat",
+      "test",
+      "next",
+      "cent"
+    ],
+    "meanings": "セント",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_458",
+    "rank": 458,
+    "question": "I want to learn _______.",
+    "questionJa": "私はフランス語を学びたいです。",
+    "answer": "French",
+    "matchedForm": "French",
+    "choices": [
+      "tenth",
+      "friday",
+      "friend",
+      "French"
+    ],
+    "meanings": "フランス語",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_459",
+    "rank": 459,
+    "question": "My friend lives in _______.",
+    "questionJa": "私の友達はシンガポールに住んでいます。",
+    "answer": "Singapore",
+    "matchedForm": "Singapore",
+    "choices": [
+      "finger",
+      "singer",
+      "sing",
+      "Singapore"
+    ],
+    "meanings": "シンガポール",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_460",
+    "rank": 460,
+    "question": "The _______ is big.",
+    "questionJa": "世界は大きいです。",
+    "answer": "world",
+    "matchedForm": "world",
+    "choices": [
+      "work",
+      "cold",
+      "woman",
+      "world"
+    ],
+    "meanings": "（the ～で）世界",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_462",
+    "rank": 462,
+    "question": "I can hear with my _______.",
+    "questionJa": "私は耳で聞くことができます。",
+    "answer": "ear",
+    "matchedForm": "ears",
+    "choices": [
+      "eat",
+      "near",
+      "year",
+      "ear"
+    ],
+    "meanings": "耳",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_463",
+    "rank": 463,
+    "question": "My _______ hurts.",
+    "questionJa": "私の肩が痛いです。",
+    "answer": "shoulder",
+    "matchedForm": "shoulder",
+    "choices": [
+      "shower",
+      "shoe",
+      "shoulder",
+      "house"
+    ],
+    "meanings": "肩",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_464",
+    "rank": 464,
+    "question": "I want to _______ a book.",
+    "questionJa": "私は本を買いたいです。",
+    "answer": "buy",
+    "matchedForm": "buy",
+    "choices": [
+      "but",
+      "buy",
+      "run",
+      "bus"
+    ],
+    "meanings": "を買う",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_465",
+    "rank": 465,
+    "question": "Please _______ the paper.",
+    "questionJa": "紙を切ってください。",
+    "answer": "cut",
+    "matchedForm": "cut",
+    "choices": [
+      "put",
+      "cup",
+      "cut",
+      "cute"
+    ],
+    "meanings": "を切る",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_466",
+    "rank": 466,
+    "question": "I _______ 8 hours every day.",
+    "questionJa": "私は毎日8時間眠ります。",
+    "answer": "sleep",
+    "matchedForm": "sleep",
+    "choices": [
+      "green",
+      "sleep",
+      "sheep",
+      "sleepy"
+    ],
+    "meanings": "眠る",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_467",
+    "rank": 467,
+    "question": "I _______ a new pen.",
+    "questionJa": "私は新しいペンが必要です。",
+    "answer": "need",
+    "matchedForm": "need",
+    "choices": [
+      "next",
+      "need",
+      "near",
+      "week"
+    ],
+    "meanings": "を必要とする",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_468",
+    "rank": 468,
+    "question": "I like to _______ pictures.",
+    "questionJa": "私は絵を描くのが好きです。",
+    "answer": "paint",
+    "matchedForm": "paint",
+    "choices": [
+      "paint",
+      "pink",
+      "rain",
+      "rainy"
+    ],
+    "meanings": "（絵の具で）を描く",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_469",
+    "rank": 469,
+    "question": "It will _______ tomorrow.",
+    "questionJa": "明日は雨が降るでしょう。",
+    "answer": "rain",
+    "matchedForm": "rain",
+    "choices": [
+      "rain",
+      "rainy",
+      "train",
+      "radio"
+    ],
+    "meanings": "雨が降る，雨",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_470",
+    "rank": 470,
+    "question": "_______ me tonight.",
+    "questionJa": "今夜、私に電話してください。",
+    "answer": "call",
+    "matchedForm": "Call",
+    "choices": [
+      "card",
+      "fall",
+      "call",
+      "ball"
+    ],
+    "meanings": "に電話をかける",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_471",
+    "rank": 471,
+    "question": "Let's _______ this summer.",
+    "questionJa": "この夏、キャンプをしよう。",
+    "answer": "camp",
+    "matchedForm": "camp",
+    "choices": [
+      "card",
+      "jam",
+      "cap",
+      "camp"
+    ],
+    "meanings": "キャンプをする",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_472",
+    "rank": 472,
+    "question": "I can't _______ my key.",
+    "questionJa": "鍵が見つかりません。",
+    "answer": "find",
+    "matchedForm": "find",
+    "choices": [
+      "fine",
+      "find",
+      "fish",
+      "bird"
+    ],
+    "meanings": "を見つける",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_473",
+    "rank": 473,
+    "question": "I want to _______ in winter.",
+    "questionJa": "冬にスキーがしたいです。",
+    "answer": "ski",
+    "matchedForm": "ski",
+    "choices": [
+      "skirt",
+      "i",
+      "ski",
+      "sky"
+    ],
+    "meanings": "スキーをする",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_474",
+    "rank": 474,
+    "question": "I _______ it is good.",
+    "questionJa": "私はそれが良いと思います。",
+    "answer": "think",
+    "matchedForm": "think",
+    "choices": [
+      "drink",
+      "this",
+      "third",
+      "think"
+    ],
+    "meanings": "（を）思う",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_475",
+    "rank": 475,
+    "question": "My father is _______.",
+    "questionJa": "私の父は背が高いです。",
+    "answer": "tall",
+    "matchedForm": "tall",
+    "choices": [
+      "talk",
+      "ball",
+      "fall",
+      "tall"
+    ],
+    "meanings": "背の高い，高い，身長［高さ］が～の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_476",
+    "rank": 476,
+    "question": "This test is _______.",
+    "questionJa": "このテストは簡単です。",
+    "answer": "easy",
+    "matchedForm": "easy",
+    "choices": [
+      "ready",
+      "eat",
+      "easy",
+      "ear"
+    ],
+    "meanings": "簡単な",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_477",
+    "rank": 477,
+    "question": "I am very _______ today.",
+    "questionJa": "私は今日とても幸せです。",
+    "answer": "happy",
+    "matchedForm": "happy",
+    "choices": [
+      "happy",
+      "party",
+      "hand",
+      "hat"
+    ],
+    "meanings": "幸せな",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_478",
+    "rank": 478,
+    "question": "She is a _______ girl.",
+    "questionJa": "彼女はかわいい女の子です。",
+    "answer": "pretty",
+    "matchedForm": "pretty",
+    "choices": [
+      "pet",
+      "pretty",
+      "present",
+      "twenty"
+    ],
+    "meanings": "きれいな，かわいらしい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_479",
+    "rank": 479,
+    "question": "It is _______ today.",
+    "questionJa": "今日は晴れています。",
+    "answer": "sunny",
+    "matchedForm": "sunny",
+    "choices": [
+      "sunny",
+      "sunday",
+      "study",
+      "lunch"
+    ],
+    "meanings": "太陽の照っている",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_480",
+    "rank": 480,
+    "question": "It is _______ now.",
+    "questionJa": "今は曇っています。",
+    "answer": "cloudy",
+    "matchedForm": "cloudy",
+    "choices": [
+      "study",
+      "close",
+      "cloudy",
+      "club"
+    ],
+    "meanings": "くもった，くもりの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_481",
+    "rank": 481,
+    "question": "It is _______ today.",
+    "questionJa": "今日は雨です。",
+    "answer": "rainy",
+    "matchedForm": "rainy",
+    "choices": [
+      "paint",
+      "rainy",
+      "rain",
+      "train"
+    ],
+    "meanings": "雨の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_482",
+    "rank": 482,
+    "question": "It is _______ outside.",
+    "questionJa": "外は風が強いです。",
+    "answer": "windy",
+    "matchedForm": "windy",
+    "choices": [
+      "windy",
+      "winter",
+      "find",
+      "window"
+    ],
+    "meanings": "風の強い，風の吹く",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_483",
+    "rank": 483,
+    "question": "It is _______ in winter.",
+    "questionJa": "冬は雪が降ります。",
+    "answer": "snowy",
+    "matchedForm": "snowy",
+    "choices": [
+      "snowy",
+      "snow",
+      "know",
+      "story"
+    ],
+    "meanings": "雪の降る",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_484",
+    "rank": 484,
+    "question": "My brother is _______.",
+    "questionJa": "私の弟は若いです。",
+    "answer": "young",
+    "matchedForm": "young",
+    "choices": [
+      "yours",
+      "your",
+      "young",
+      "song"
+    ],
+    "meanings": "若い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_485",
+    "rank": 485,
+    "question": "This dog is _______.",
+    "questionJa": "この犬は大きいです。",
+    "answer": "large",
+    "matchedForm": "large",
+    "choices": [
+      "lady",
+      "last",
+      "page",
+      "large"
+    ],
+    "meanings": "大きい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_486",
+    "rank": 486,
+    "question": "This bus is _______.",
+    "questionJa": "このバスは遅いです。",
+    "answer": "slow",
+    "matchedForm": "slow",
+    "choices": [
+      "show",
+      "know",
+      "snow",
+      "slow"
+    ],
+    "meanings": "遅い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_487",
+    "rank": 487,
+    "question": "He can run _______.",
+    "questionJa": "彼は速く走れます。",
+    "answer": "fast",
+    "matchedForm": "fast",
+    "choices": [
+      "fall",
+      "last",
+      "face",
+      "fast"
+    ],
+    "meanings": "速い，速く",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_488",
+    "rank": 488,
+    "question": "My mother is _______.",
+    "questionJa": "私の母は忙しいです。",
+    "answer": "busy",
+    "matchedForm": "busy",
+    "choices": [
+      "busy",
+      "buy",
+      "july",
+      "bus"
+    ],
+    "meanings": "忙しい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_489",
+    "rank": 489,
+    "question": "This bread is _______.",
+    "questionJa": "このパンはやわらかいです。",
+    "answer": "soft",
+    "matchedForm": "soft",
+    "choices": [
+      "soft",
+      "song",
+      "sofa",
+      "hot"
+    ],
+    "meanings": "やわらかい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_490",
+    "rank": 490,
+    "question": "This cake is _______.",
+    "questionJa": "このケーキは甘いです。",
+    "answer": "sweet",
+    "matchedForm": "sweet",
+    "choices": [
+      "sheep",
+      "sweet",
+      "sleep",
+      "week"
+    ],
+    "meanings": "甘い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_491",
+    "rank": 491,
+    "question": "It is _______ today.",
+    "questionJa": "今日は暖かいです。",
+    "answer": "warm",
+    "matchedForm": "warm",
+    "choices": [
+      "wash",
+      "park",
+      "warm",
+      "want"
+    ],
+    "meanings": "暖かい",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_492",
+    "rank": 492,
+    "question": "I am _______ now.",
+    "questionJa": "私は今眠いです。",
+    "answer": "sleepy",
+    "matchedForm": "sleepy",
+    "choices": [
+      "sleepy",
+      "green",
+      "sleep",
+      "sheep"
+    ],
+    "meanings": "眠い",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_493",
+    "rank": 493,
+    "question": "I like _______ food.",
+    "questionJa": "私はイタリア料理が好きです。",
+    "answer": "Italian",
+    "matchedForm": "Italian",
+    "choices": [
+      "Italian",
+      "station",
+      "train",
+      "violin"
+    ],
+    "meanings": "イタリアの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_494",
+    "rank": 494,
+    "question": "Let's play _______.",
+    "questionJa": "いっしょに遊びましょう。",
+    "answer": "together",
+    "matchedForm": "together",
+    "choices": [
+      "november",
+      "together",
+      "mother",
+      "tower"
+    ],
+    "meanings": "いっしょに",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_495",
+    "rank": 495,
+    "question": "This is _______ Green.",
+    "questionJa": "こちらはグリーン先生です。",
+    "answer": "Mrs.",
+    "matchedForm": "Mrs.",
+    "choices": [
+      "tree",
+      "Mrs.",
+      "ms.",
+      "mr."
+    ],
+    "meanings": "～さん，～夫人，～先生（結婚している女性の姓または姓名の前につける）",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_496",
+    "rank": 496,
+    "question": "Let's meet at 10 _______",
+    "questionJa": "午前10時に会いましょう。",
+    "answer": "a.m.",
+    "matchedForm": "a.m.",
+    "choices": [
+      "and",
+      "p.e.",
+      "art",
+      "a.m."
+    ],
+    "meanings": "午前",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_497",
+    "rank": 497,
+    "question": "I have _______ apple.",
+    "questionJa": "私はリンゴを1つ持っています。",
+    "answer": "one",
+    "matchedForm": "one",
+    "choices": [
+      "on",
+      "home",
+      "one",
+      "open"
+    ],
+    "meanings": "",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_499",
+    "rank": 499,
+    "question": "I have _______ pens.",
+    "questionJa": "私はペンを2本持っています。",
+    "answer": "two",
+    "matchedForm": "two",
+    "choices": [
+      "two",
+      "to",
+      "who",
+      "too"
+    ],
+    "meanings": "",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_501",
+    "rank": 501,
+    "question": "I have _______ pens.",
+    "questionJa": "私はペンを3本持っています。",
+    "answer": "three",
+    "matchedForm": "three",
+    "choices": [
+      "there",
+      "green",
+      "three",
+      "tree"
+    ],
+    "meanings": "3",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_503",
+    "rank": 503,
+    "question": "My family has _______ members.",
+    "questionJa": "私の家族は4人です。",
+    "answer": "four",
+    "matchedForm": "four",
+    "choices": [
+      "hour",
+      "fourth",
+      "four",
+      "for"
+    ],
+    "meanings": "4",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_505",
+    "rank": 505,
+    "question": "Please open page _______.",
+    "questionJa": "5ページを開いてください。",
+    "answer": "five",
+    "matchedForm": "five",
+    "choices": [
+      "fish",
+      "five",
+      "live",
+      "fine"
+    ],
+    "meanings": "5",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_507",
+    "rank": 507,
+    "question": "It is _______ o'clock now.",
+    "questionJa": "今、6時です。",
+    "answer": "six",
+    "matchedForm": "six",
+    "choices": [
+      "sixty",
+      "six",
+      "sit",
+      "big"
+    ],
+    "meanings": "6",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_509",
+    "rank": 509,
+    "question": "There are _______ days in a week.",
+    "questionJa": "1週間には7日あります。",
+    "answer": "seven",
+    "matchedForm": "seven",
+    "choices": [
+      "seven",
+      "seventh",
+      "seventy",
+      "eleven"
+    ],
+    "meanings": "7",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_511",
+    "rank": 511,
+    "question": "I eat breakfast at _______.",
+    "questionJa": "私は8時に朝食を食べます。",
+    "answer": "eight",
+    "matchedForm": "eight",
+    "choices": [
+      "eighth",
+      "night",
+      "eight",
+      "eighty"
+    ],
+    "meanings": "8",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_513",
+    "rank": 513,
+    "question": "My class starts at _______.",
+    "questionJa": "私の授業は9時に始まります。",
+    "answer": "nine",
+    "matchedForm": "nine",
+    "choices": [
+      "ninety",
+      "nice",
+      "nine",
+      "fine"
+    ],
+    "meanings": "9",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_515",
+    "rank": 515,
+    "question": "I can count to _______.",
+    "questionJa": "私は10まで数えられます。",
+    "answer": "ten",
+    "matchedForm": "ten",
+    "choices": [
+      "then",
+      "ten",
+      "pen",
+      "tea"
+    ],
+    "meanings": "10",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_517",
+    "rank": 517,
+    "question": "I am _______ years old.",
+    "questionJa": "私は11歳です。",
+    "answer": "eleven",
+    "matchedForm": "eleven",
+    "choices": [
+      "eleventh",
+      "elephant",
+      "eleven",
+      "seven"
+    ],
+    "meanings": "11",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_519",
+    "rank": 519,
+    "question": "There are _______ months in a year.",
+    "questionJa": "1年には12ヶ月あります。",
+    "answer": "twelve",
+    "matchedForm": "twelve",
+    "choices": [
+      "well",
+      "twelfth",
+      "twenty",
+      "twelve"
+    ],
+    "meanings": "12",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_521",
+    "rank": 521,
+    "question": "I am _______ years old.",
+    "questionJa": "私は13歳です。",
+    "answer": "thirteen",
+    "matchedForm": "thirteen",
+    "choices": [
+      "fifteen",
+      "thirty",
+      "three",
+      "thirteen"
+    ],
+    "meanings": "13",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_523",
+    "rank": 523,
+    "question": "My sister is _______ years old.",
+    "questionJa": "私の姉は14歳です。",
+    "answer": "fourteen",
+    "matchedForm": "fourteen",
+    "choices": [
+      "thirteen",
+      "four",
+      "fourteen",
+      "fourth"
+    ],
+    "meanings": "14",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_525",
+    "rank": 525,
+    "question": "She is _______ years old.",
+    "questionJa": "彼女は15歳です。",
+    "answer": "fifteen",
+    "matchedForm": "fifteen",
+    "choices": [
+      "fifty",
+      "fifth",
+      "sixteen",
+      "fifteen"
+    ],
+    "meanings": "15",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_527",
+    "rank": 527,
+    "question": "My brother is _______.",
+    "questionJa": "私の兄は16歳です。",
+    "answer": "sixteen",
+    "matchedForm": "sixteen",
+    "choices": [
+      "sixty",
+      "sixteen",
+      "fifteen",
+      "sixth"
+    ],
+    "meanings": "16",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_529",
+    "rank": 529,
+    "question": "She is _______.",
+    "questionJa": "彼女は17歳です。",
+    "answer": "seventeen",
+    "matchedForm": "seventeen",
+    "choices": [
+      "seventh",
+      "seventeen",
+      "seventy",
+      "eighteen"
+    ],
+    "meanings": "17",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_531",
+    "rank": 531,
+    "question": "He is _______ years old.",
+    "questionJa": "彼は18歳です。",
+    "answer": "eighteen",
+    "matchedForm": "eighteen",
+    "choices": [
+      "eighty",
+      "nineteen",
+      "eight",
+      "eighteen"
+    ],
+    "meanings": "18",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_533",
+    "rank": 533,
+    "question": "My sister is _______.",
+    "questionJa": "私の姉は19歳です。",
+    "answer": "nineteen",
+    "matchedForm": "nineteen",
+    "choices": [
+      "ninety",
+      "eighteen",
+      "nineteen",
+      "nine"
+    ],
+    "meanings": "19",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_535",
+    "rank": 535,
+    "question": "I have _______ friends.",
+    "questionJa": "私には友達が20人います。",
+    "answer": "twenty",
+    "matchedForm": "twenty",
+    "choices": [
+      "pretty",
+      "tenth",
+      "twenty",
+      "twelfth"
+    ],
+    "meanings": "20",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_537",
+    "rank": 537,
+    "question": "My father is _______.",
+    "questionJa": "私の父は30歳です。",
+    "answer": "thirty",
+    "matchedForm": "thirty",
+    "choices": [
+      "thirteen",
+      "shirt",
+      "thirty",
+      "third"
+    ],
+    "meanings": "30",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_539",
+    "rank": 539,
+    "question": "The box costs _______ dollars.",
+    "questionJa": "その箱は40ドルです。",
+    "answer": "forty",
+    "matchedForm": "forty",
+    "choices": [
+      "party",
+      "forty",
+      "fork",
+      "for"
+    ],
+    "meanings": "40",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_541",
+    "rank": 541,
+    "question": "My mother is _______.",
+    "questionJa": "私の母は50歳です。",
+    "answer": "fifty",
+    "matchedForm": "fifty",
+    "choices": [
+      "fifty",
+      "sixty",
+      "fifth",
+      "fifteen"
+    ],
+    "meanings": "50",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_543",
+    "rank": 543,
+    "question": "This train goes _______ km.",
+    "questionJa": "この電車は時速60kmで走ります。",
+    "answer": "sixty",
+    "matchedForm": "sixty",
+    "choices": [
+      "sixth",
+      "fifty",
+      "six",
+      "sixty"
+    ],
+    "meanings": "60",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_545",
+    "rank": 545,
+    "question": "My grandma is _______.",
+    "questionJa": "私の祖母は70歳です。",
+    "answer": "seventy",
+    "matchedForm": "seventy",
+    "choices": [
+      "seventh",
+      "every",
+      "seventy",
+      "seven"
+    ],
+    "meanings": "70",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_547",
+    "rank": 547,
+    "question": "The price is _______ dollars.",
+    "questionJa": "値段は80ドルです。",
+    "answer": "eighty",
+    "matchedForm": "eighty",
+    "choices": [
+      "night",
+      "eighth",
+      "eighty",
+      "eight"
+    ],
+    "meanings": "80",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_549",
+    "rank": 549,
+    "question": "My score was _______.",
+    "questionJa": "私の点数は90点でした。",
+    "answer": "ninety",
+    "matchedForm": "ninety",
+    "choices": [
+      "ninety",
+      "fine",
+      "nine",
+      "ninth"
+    ],
+    "meanings": "90",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_551",
+    "rank": 551,
+    "question": "I have one _______ yen.",
+    "questionJa": "私は100円持っています。",
+    "answer": "hundred",
+    "matchedForm": "hundred",
+    "choices": [
+      "hundred",
+      "hungry",
+      "under",
+      "uncle"
+    ],
+    "meanings": "",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_553",
+    "rank": 553,
+    "question": "This book costs one _______ yen.",
+    "questionJa": "この本は1000円です。",
+    "answer": "thousand",
+    "matchedForm": "thousand",
+    "choices": [
+      "thousand",
+      "thursday",
+      "house",
+      "those"
+    ],
+    "meanings": "",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_555",
+    "rank": 555,
+    "question": "I am the _______ in line.",
+    "questionJa": "私は列の１番目です。",
+    "answer": "first",
+    "matchedForm": "first",
+    "choices": [
+      "fish",
+      "fifty",
+      "first",
+      "night"
+    ],
+    "meanings": "１番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_556",
+    "rank": 556,
+    "question": "My birthday is on the _______ of July.",
+    "questionJa": "私の誕生日は7月2日です。",
+    "answer": "second",
+    "matchedForm": "second",
+    "choices": [
+      "seven",
+      "cold",
+      "second",
+      "stand"
+    ],
+    "meanings": "２番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_557",
+    "rank": 557,
+    "question": "This is my _______ time to visit here.",
+    "questionJa": "ここを訪れるのは３回目です。",
+    "answer": "third",
+    "matchedForm": "third",
+    "choices": [
+      "shirt",
+      "think",
+      "third",
+      "thirty"
+    ],
+    "meanings": "３番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_558",
+    "rank": 558,
+    "question": "Today is the _______ of August.",
+    "questionJa": "今日は8月4日です。",
+    "answer": "fourth",
+    "matchedForm": "fourth",
+    "choices": [
+      "fourth",
+      "fourteen",
+      "four",
+      "mouth"
+    ],
+    "meanings": "４番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_559",
+    "rank": 559,
+    "question": "He is in the _______ grade.",
+    "questionJa": "彼は小学5年生です。",
+    "answer": "fifth",
+    "matchedForm": "fifth",
+    "choices": [
+      "fifty",
+      "fifth",
+      "sixth",
+      "fish"
+    ],
+    "meanings": "５番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_560",
+    "rank": 560,
+    "question": "My class is on the _______ floor.",
+    "questionJa": "私のクラスは6階にあります。",
+    "answer": "sixth",
+    "matchedForm": "sixth",
+    "choices": [
+      "sixth",
+      "fifth",
+      "sixty",
+      "six"
+    ],
+    "meanings": "６番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_561",
+    "rank": 561,
+    "question": "Today is the _______ day of the week.",
+    "questionJa": "今日は週の7日目です。",
+    "answer": "seventh",
+    "matchedForm": "seventh",
+    "choices": [
+      "eleventh",
+      "seventy",
+      "seventh",
+      "seven"
+    ],
+    "meanings": "７番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_562",
+    "rank": 562,
+    "question": "I like the _______ song on the album.",
+    "questionJa": "私はアルバムの8曲目が好きです。",
+    "answer": "eighth",
+    "matchedForm": "eighth",
+    "choices": [
+      "eighty",
+      "eight",
+      "eighth",
+      "night"
+    ],
+    "meanings": "８番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_563",
+    "rank": 563,
+    "question": "She is the _______ person in line.",
+    "questionJa": "彼女は列の9番目の人です。",
+    "answer": "ninth",
+    "matchedForm": "ninth",
+    "choices": [
+      "fifth",
+      "ninety",
+      "nine",
+      "ninth"
+    ],
+    "meanings": "９番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_564",
+    "rank": 564,
+    "question": "My birthday is on the _______ of May.",
+    "questionJa": "私の誕生日は5月10日です。",
+    "answer": "tenth",
+    "matchedForm": "tenth",
+    "choices": [
+      "teeth",
+      "ten",
+      "tenth",
+      "cent"
+    ],
+    "meanings": "１０番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_565",
+    "rank": 565,
+    "question": "We live on the _______ floor.",
+    "questionJa": "私たちは11階に住んでいます。",
+    "answer": "eleventh",
+    "matchedForm": "eleventh",
+    "choices": [
+      "eleven",
+      "eleventh",
+      "elephant",
+      "seventh"
+    ],
+    "meanings": "１１番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_566",
+    "rank": 566,
+    "question": "December is the _______ month of the year.",
+    "questionJa": "12月は1年の12番目の月です。",
+    "answer": "twelfth",
+    "matchedForm": "twelfth",
+    "choices": [
+      "twelve",
+      "well",
+      "twenty",
+      "twelfth"
+    ],
+    "meanings": "１２番目の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_567",
+    "rank": 567,
+    "question": "_______ like apples.",
+    "questionJa": "私はリンゴが好きです。",
+    "answer": "I",
+    "matchedForm": "I",
+    "choices": [
+      "sit",
+      "I",
+      "in",
+      "it"
+    ],
+    "meanings": "私は",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_568",
+    "rank": 568,
+    "question": "This is _______ book.",
+    "questionJa": "これは私の本です。",
+    "answer": "my",
+    "matchedForm": "my",
+    "choices": [
+      "me",
+      "my",
+      "may",
+      "by"
+    ],
+    "meanings": "私の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_569",
+    "rank": 569,
+    "question": "Please help _______.",
+    "questionJa": "私を助けてください。",
+    "answer": "me",
+    "matchedForm": "me",
+    "choices": [
+      "we",
+      "he",
+      "my",
+      "me"
+    ],
+    "meanings": "私を［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_570",
+    "rank": 570,
+    "question": "This pen is _______.",
+    "questionJa": "このペンは私のものです。",
+    "answer": "mine",
+    "matchedForm": "mine",
+    "choices": [
+      "fine",
+      "nine",
+      "mine",
+      "milk"
+    ],
+    "meanings": "私のもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_571",
+    "rank": 571,
+    "question": "_______ are kind.",
+    "questionJa": "あなたは親切です。",
+    "answer": "you",
+    "matchedForm": "You",
+    "choices": [
+      "young",
+      "your",
+      "you",
+      "out"
+    ],
+    "meanings": "あなたは",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_572",
+    "rank": 572,
+    "question": "What is _______ name?",
+    "questionJa": "あなたの名前は何ですか？",
+    "answer": "your",
+    "matchedForm": "your",
+    "choices": [
+      "your",
+      "hour",
+      "yours",
+      "you"
+    ],
+    "meanings": "あなたの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_573",
+    "rank": 573,
+    "question": "I know _______.",
+    "questionJa": "私はあなたを知っています。",
+    "answer": "you",
+    "matchedForm": "you",
+    "choices": [
+      "you",
+      "out",
+      "young",
+      "your"
+    ],
+    "meanings": "あなたを［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_574",
+    "rank": 574,
+    "question": "This bag is _______.",
+    "questionJa": "このカバンはあなたのものです。",
+    "answer": "yours",
+    "matchedForm": "yours",
+    "choices": [
+      "your",
+      "ours",
+      "yours",
+      "young"
+    ],
+    "meanings": "あなたのもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_575",
+    "rank": 575,
+    "question": "_______ is my brother.",
+    "questionJa": "彼は私の兄です。",
+    "answer": "he",
+    "matchedForm": "He",
+    "choices": [
+      "we",
+      "her",
+      "he",
+      "me"
+    ],
+    "meanings": "彼は",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_576",
+    "rank": 576,
+    "question": "This is _______ bag.",
+    "questionJa": "これは彼のカバンです。",
+    "answer": "his",
+    "matchedForm": "his",
+    "choices": [
+      "him",
+      "this",
+      "high",
+      "his"
+    ],
+    "meanings": "彼の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_577",
+    "rank": 577,
+    "question": "I know _______ well.",
+    "questionJa": "私は彼をよく知っています。",
+    "answer": "him",
+    "matchedForm": "him",
+    "choices": [
+      "him",
+      "his",
+      "sit",
+      "high"
+    ],
+    "meanings": "彼を［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_578",
+    "rank": 578,
+    "question": "This book is _______.",
+    "questionJa": "この本は彼のものです。",
+    "answer": "his",
+    "matchedForm": "his",
+    "choices": [
+      "him",
+      "high",
+      "this",
+      "his"
+    ],
+    "meanings": "彼のもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_579",
+    "rank": 579,
+    "question": "_______ is my sister.",
+    "questionJa": "彼女は私の妹です。",
+    "answer": "she",
+    "matchedForm": "She",
+    "choices": [
+      "the",
+      "shoe",
+      "she",
+      "see"
+    ],
+    "meanings": "彼女は",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_580",
+    "rank": 580,
+    "question": "This is _______ pen.",
+    "questionJa": "これは彼女のペンです。",
+    "answer": "her",
+    "matchedForm": "her",
+    "choices": [
+      "here",
+      "her",
+      "bed",
+      "hers"
+    ],
+    "meanings": "彼女の",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_581",
+    "rank": 581,
+    "question": "I like _______ very much.",
+    "questionJa": "私は彼女が大好きです。",
+    "answer": "her",
+    "matchedForm": "her",
+    "choices": [
+      "hers",
+      "bed",
+      "here",
+      "her"
+    ],
+    "meanings": "彼女を［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_582",
+    "rank": 582,
+    "question": "That doll is _______.",
+    "questionJa": "あの人形は彼女のものです。",
+    "answer": "hers",
+    "matchedForm": "hers",
+    "choices": [
+      "here",
+      "very",
+      "hers",
+      "her"
+    ],
+    "meanings": "彼女のもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_583",
+    "rank": 583,
+    "question": "_______ is a cat.",
+    "questionJa": "それは猫です。",
+    "answer": "it",
+    "matchedForm": "It",
+    "choices": [
+      "in",
+      "its",
+      "sit",
+      "it"
+    ],
+    "meanings": "それは",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_584",
+    "rank": 584,
+    "question": "The dog wags _______ tail.",
+    "questionJa": "その犬はしっぽを振ります。",
+    "answer": "its",
+    "matchedForm": "its",
+    "choices": [
+      "sit",
+      "its",
+      "it",
+      "in"
+    ],
+    "meanings": "それの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_585",
+    "rank": 585,
+    "question": "I like _______ very much.",
+    "questionJa": "私はそれが大好きです。",
+    "answer": "it",
+    "matchedForm": "it",
+    "choices": [
+      "its",
+      "sit",
+      "it",
+      "in"
+    ],
+    "meanings": "それを［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_586",
+    "rank": 586,
+    "question": "_______ are good friends.",
+    "questionJa": "私たちは良い友達です。",
+    "answer": "we",
+    "matchedForm": "We",
+    "choices": [
+      "we",
+      "he",
+      "well",
+      "me"
+    ],
+    "meanings": "私たちは",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_587",
+    "rank": 587,
+    "question": "This is _______ school.",
+    "questionJa": "これは私たちの学校です。",
+    "answer": "our",
+    "matchedForm": "our",
+    "choices": [
+      "hour",
+      "out",
+      "our",
+      "ours"
+    ],
+    "meanings": "私たちの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_588",
+    "rank": 588,
+    "question": "Please help _______.",
+    "questionJa": "私たちを助けてください。",
+    "answer": "us",
+    "matchedForm": "us",
+    "choices": [
+      "bus",
+      "us",
+      "use",
+      "up"
+    ],
+    "meanings": "私たちを［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_589",
+    "rank": 589,
+    "question": "This house is _______.",
+    "questionJa": "この家は私たちのものです。",
+    "answer": "ours",
+    "matchedForm": "ours",
+    "choices": [
+      "yours",
+      "our",
+      "out",
+      "ours"
+    ],
+    "meanings": "私たちのもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_590",
+    "rank": 590,
+    "question": "_______ are my parents.",
+    "questionJa": "彼らは私の両親です。",
+    "answer": "they",
+    "matchedForm": "They",
+    "choices": [
+      "when",
+      "them",
+      "they",
+      "then"
+    ],
+    "meanings": "彼らは，彼女らは",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_591",
+    "rank": 591,
+    "question": "This is _______ car.",
+    "questionJa": "これは彼らの車です。",
+    "answer": "their",
+    "matchedForm": "their",
+    "choices": [
+      "their",
+      "theirs",
+      "there",
+      "chair"
+    ],
+    "meanings": "彼らの，彼女らの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_592",
+    "rank": 592,
+    "question": "I know _______ well.",
+    "questionJa": "私は彼らをよく知っています。",
+    "answer": "them",
+    "matchedForm": "them",
+    "choices": [
+      "when",
+      "them",
+      "then",
+      "they"
+    ],
+    "meanings": "彼らを［に］，彼女らを［に］",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_593",
+    "rank": 593,
+    "question": "That ball is _______.",
+    "questionJa": "あのボールは彼らのものです。",
+    "answer": "theirs",
+    "matchedForm": "theirs",
+    "choices": [
+      "their",
+      "there",
+      "theirs",
+      "hers"
+    ],
+    "meanings": "彼らのもの，彼女らのもの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_594",
+    "rank": 594,
+    "question": "_______ is my book.",
+    "questionJa": "これは私の本です。",
+    "answer": "this",
+    "matchedForm": "This",
+    "choices": [
+      "third",
+      "his",
+      "think",
+      "this"
+    ],
+    "meanings": "これ，この",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_595",
+    "rank": 595,
+    "question": "_______ is my dog.",
+    "questionJa": "あれは私の犬です。",
+    "answer": "that",
+    "matchedForm": "That",
+    "choices": [
+      "hat",
+      "what",
+      "that",
+      "then"
+    ],
+    "meanings": "あれ，それ，あの，その",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_596",
+    "rank": 596,
+    "question": "_______ are my pens.",
+    "questionJa": "これらは私のペンです。",
+    "answer": "these",
+    "matchedForm": "These",
+    "choices": [
+      "these",
+      "those",
+      "where",
+      "there"
+    ],
+    "meanings": "これら，これらの",
+    "audioKey": "5kyu_pass"
+  },
+  {
+    "id": "5kyu_597",
+    "rank": 597,
+    "question": "_______ are his shoes.",
+    "questionJa": "あれらは彼の靴です。",
+    "answer": "those",
+    "matchedForm": "Those",
+    "choices": [
+      "there",
+      "these",
+      "whose",
+      "those"
+    ],
+    "meanings": "あれら，それら，あれらの，それらの",
+    "audioKey": "5kyu_pass"
+  }
+]

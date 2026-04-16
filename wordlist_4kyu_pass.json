@@ -1,0 +1,4902 @@
+[
+  {
+    "rank": 1,
+    "english": "picture",
+    "meanings": "絵、写真",
+    "example": "I like this picture of my dog.",
+    "exampleJa": "私は私の犬のこの写真が好きです。"
+  },
+  {
+    "rank": 2,
+    "english": "computer",
+    "meanings": "コンピューター、パソコン",
+    "example": "My dad uses a computer for work.",
+    "exampleJa": "私の父は仕事でコンピューターを使います。"
+  },
+  {
+    "rank": 3,
+    "english": "magazine",
+    "meanings": "雑誌",
+    "example": "I read a sports magazine yesterday.",
+    "exampleJa": "私は昨日、スポーツ雑誌を読みました。"
+  },
+  {
+    "rank": 4,
+    "english": "letter",
+    "meanings": "手紙、文字",
+    "example": "She wrote a long letter to her friend.",
+    "exampleJa": "彼女は友達に長い手紙を書きました。"
+  },
+  {
+    "rank": 5,
+    "english": "table",
+    "meanings": "テーブル、食卓",
+    "example": "Please put the books on the table.",
+    "exampleJa": "本をテーブルの上に置いてください。"
+  },
+  {
+    "rank": 6,
+    "english": "kitchen",
+    "meanings": "台所",
+    "example": "My mom is cooking in the kitchen now.",
+    "exampleJa": "私の母は今、台所で料理をしています。"
+  },
+  {
+    "rank": 7,
+    "english": "chopstick",
+    "meanings": "「食事用の」箸",
+    "example": "I can eat rice with chopsticks.",
+    "exampleJa": "私は箸でご飯を食べられます。"
+  },
+  {
+    "rank": 8,
+    "english": "bedroom",
+    "meanings": "寝室",
+    "example": "My bedroom is on the second floor.",
+    "exampleJa": "私の寝室は2階にあります。"
+  },
+  {
+    "rank": 9,
+    "english": "brush",
+    "meanings": "ブラシ〔動〕をみがく",
+    "example": "I brush my teeth every morning.",
+    "exampleJa": "私は毎朝歯を磨きます。"
+  },
+  {
+    "rank": 10,
+    "english": "video",
+    "meanings": "ビデオ、映像",
+    "example": "Let's watch this funny video together.",
+    "exampleJa": "この面白いビデオを一緒に見よう。"
+  },
+  {
+    "rank": 11,
+    "english": "suitcase",
+    "meanings": "スーツケース",
+    "example": "I packed my clothes in a big suitcase.",
+    "exampleJa": "私は大きなスーツケースに服を詰めました。"
+  },
+  {
+    "rank": 12,
+    "english": "key",
+    "meanings": "鍵",
+    "example": "Where is the key to the door?",
+    "exampleJa": "ドアの鍵はどこですか？"
+  },
+  {
+    "rank": 13,
+    "english": "window",
+    "meanings": "窓",
+    "example": "Please open the window; it's hot.",
+    "exampleJa": "窓を開けてください。暑いです。"
+  },
+  {
+    "rank": 14,
+    "english": "pet",
+    "meanings": "ペット",
+    "example": "I want to have a small pet dog.",
+    "exampleJa": "私は小さなペットの犬を飼いたいです。"
+  },
+  {
+    "rank": 15,
+    "english": "yesterday",
+    "meanings": "昨日〔副〕昨日は",
+    "example": "I played soccer with friends yesterday.",
+    "exampleJa": "私は昨日、友達とサッカーをしました。"
+  },
+  {
+    "rank": 16,
+    "english": "tomorrow",
+    "meanings": "明日〔副〕明日は",
+    "example": "We will go to the park tomorrow.",
+    "exampleJa": "私たち明日、公園に行きます。"
+  },
+  {
+    "rank": 17,
+    "english": "now",
+    "meanings": "今〔副〕今、現在は",
+    "example": "I am doing my homework now.",
+    "exampleJa": "私は今、宿題をしています。"
+  },
+  {
+    "rank": 18,
+    "english": "hour",
+    "meanings": "1時間、時刻",
+    "example": "The movie will start in one hour.",
+    "exampleJa": "映画は1時間後に始まります。"
+  },
+  {
+    "rank": 19,
+    "english": "minute",
+    "meanings": "分",
+    "example": "Please wait for five minutes.",
+    "exampleJa": "5分間待ってください。"
+  },
+  {
+    "rank": 20,
+    "english": "month",
+    "meanings": "一ヵ月、月",
+    "example": "I visit my grandparents once a month.",
+    "exampleJa": "私は月に一度、祖父母を訪ねます。"
+  },
+  {
+    "rank": 21,
+    "english": "year",
+    "meanings": "年,～歳",
+    "example": "My brother is ten years old this year.",
+    "exampleJa": "私の兄は今年10歳です。"
+  },
+  {
+    "rank": 22,
+    "english": "lunchtime",
+    "meanings": "昼食時間、ランチタイム",
+    "example": "Let's eat lunch together at lunchtime.",
+    "exampleJa": "ランチタイムに一緒に昼食を食べましょう。"
+  },
+  {
+    "rank": 23,
+    "english": "homework",
+    "meanings": "宿題",
+    "example": "I have a lot of homework tonight.",
+    "exampleJa": "私は今夜、たくさんの宿題があります。"
+  },
+  {
+    "rank": 24,
+    "english": "test",
+    "meanings": "テスト、試験",
+    "example": "We have an English test next week.",
+    "exampleJa": "私たちは来週、英語のテストがあります。"
+  },
+  {
+    "rank": 25,
+    "english": "class",
+    "meanings": "クラス、学級、授業",
+    "example": "My favorite class is math class.",
+    "exampleJa": "私のお気に入りの授業は数学です。"
+  },
+  {
+    "rank": 26,
+    "english": "classmate",
+    "meanings": "クラスメート、同級生",
+    "example": "My classmate is very kind.",
+    "exampleJa": "私のクラスメートはとても親切です。"
+  },
+  {
+    "rank": 27,
+    "english": "lesson",
+    "meanings": "授業、（教科書などの）課",
+    "example": "We have a math lesson today.",
+    "exampleJa": "今日、私たちは数学の授業があります。"
+  },
+  {
+    "rank": 28,
+    "english": "subject",
+    "meanings": "教科、科目、話題",
+    "example": "What is your favorite subject?",
+    "exampleJa": "あなたの好きな教科は何ですか？"
+  },
+  {
+    "rank": 29,
+    "english": "math",
+    "meanings": "数学",
+    "example": "Math is my favorite subject.",
+    "exampleJa": "数学は私の好きな教科です。"
+  },
+  {
+    "rank": 30,
+    "english": "science",
+    "meanings": "科学、理科",
+    "example": "We learn about nature in science.",
+    "exampleJa": "私たちは理科で自然について学びます。"
+  },
+  {
+    "rank": 31,
+    "english": "history",
+    "meanings": "歴史",
+    "example": "I like to study history.",
+    "exampleJa": "私は歴史を勉強するのが好きです。"
+  },
+  {
+    "rank": 32,
+    "english": "speech",
+    "meanings": "話すこと、演説、スピーチ",
+    "example": "She gave a good speech.",
+    "exampleJa": "彼女は良いスピーチをしました。"
+  },
+  {
+    "rank": 33,
+    "english": "report",
+    "meanings": "報告（書）、レポート",
+    "example": "I have to write a report.",
+    "exampleJa": "私はレポートを書かなければなりません。"
+  },
+  {
+    "rank": 34,
+    "english": "textbook",
+    "meanings": "教科書",
+    "example": "Please open your textbook to page 10.",
+    "exampleJa": "教科書の10ページを開いてください。"
+  },
+  {
+    "rank": 35,
+    "english": "notebook",
+    "meanings": "ノート",
+    "example": "I write notes in my notebook.",
+    "exampleJa": "私はノートにメモを書きます。"
+  },
+  {
+    "rank": 36,
+    "english": "page",
+    "meanings": "（本の）ページ",
+    "example": "Look at page five.",
+    "exampleJa": "5ページを見てください。"
+  },
+  {
+    "rank": 37,
+    "english": "cafeteria",
+    "meanings": "カフェテリア、（学校などの）食堂",
+    "example": "Let's eat lunch in the cafeteria.",
+    "exampleJa": "食堂で昼食を食べましょう。"
+  },
+  {
+    "rank": 38,
+    "english": "library",
+    "meanings": "図書館",
+    "example": "I often read books in the library.",
+    "exampleJa": "私はよく図書館で本を読みます。"
+  },
+  {
+    "rank": 39,
+    "english": "gym",
+    "meanings": "体育館",
+    "example": "We play basketball in the gym.",
+    "exampleJa": "私たちは体育館でバスケットボールをします。"
+  },
+  {
+    "rank": 40,
+    "english": "club",
+    "meanings": "クラブ、部",
+    "example": "I joined the soccer club.",
+    "exampleJa": "私はサッカー部に入りました。"
+  },
+  {
+    "rank": 41,
+    "english": "college",
+    "meanings": "大学、単科大学",
+    "example": "My brother goes to college.",
+    "exampleJa": "私の兄は大学に通っています。"
+  },
+  {
+    "rank": 42,
+    "english": "university",
+    "meanings": "（総合）大学",
+    "example": "She wants to go to university.",
+    "exampleJa": "彼女は大学に行きたいと思っています。"
+  },
+  {
+    "rank": 43,
+    "english": "course",
+    "meanings": "進路、科目",
+    "example": "Which course will you take?",
+    "exampleJa": "どの科目を取りますか？"
+  },
+  {
+    "rank": 44,
+    "english": "contest",
+    "meanings": "競技会、コンテスト",
+    "example": "We won the singing contest.",
+    "exampleJa": "私たちは歌のコンテストで勝ちました。"
+  },
+  {
+    "rank": 45,
+    "english": "group",
+    "meanings": "集団、グループ",
+    "example": "Let's work in a group.",
+    "exampleJa": "グループで作業しましょう。"
+  },
+  {
+    "rank": 46,
+    "english": "member",
+    "meanings": "一員、会員、部員",
+    "example": "He is a member of our team.",
+    "exampleJa": "彼は私たちのチームの一員です。"
+  },
+  {
+    "rank": 47,
+    "english": "park",
+    "meanings": "公園、運動場",
+    "example": "We often play in the park.",
+    "exampleJa": "私たちはよく公園で遊びます。"
+  },
+  {
+    "rank": 48,
+    "english": "restaurant",
+    "meanings": "レストラン",
+    "example": "Let's eat dinner at the restaurant.",
+    "exampleJa": "レストランで夕食を食べましょう。"
+  },
+  {
+    "rank": 49,
+    "english": "store",
+    "meanings": "店",
+    "example": "I bought a book at the store.",
+    "exampleJa": "私はその店で本を買いました。"
+  },
+  {
+    "rank": 50,
+    "english": "bookstore",
+    "meanings": "書店",
+    "example": "This bookstore has many books.",
+    "exampleJa": "この書店にはたくさんの本があります。"
+  },
+  {
+    "rank": 51,
+    "english": "museum",
+    "meanings": "博物館、美術館",
+    "example": "Let's go to the museum next Sunday.",
+    "exampleJa": "次の日曜日に博物館に行こう。"
+  },
+  {
+    "rank": 52,
+    "english": "station",
+    "meanings": "駅",
+    "example": "The station is near my house.",
+    "exampleJa": "駅は私の家の近くです。"
+  },
+  {
+    "rank": 53,
+    "english": "train",
+    "meanings": "列車、電車",
+    "example": "We will take a train to Kyoto.",
+    "exampleJa": "私たちは京都まで電車に乗ります。"
+  },
+  {
+    "rank": 54,
+    "english": "airport",
+    "meanings": "空港、飛行場",
+    "example": "My dad works at the airport.",
+    "exampleJa": "私の父は空港で働いています。"
+  },
+  {
+    "rank": 55,
+    "english": "bike",
+    "meanings": "自転車",
+    "example": "I ride my bike to school every day.",
+    "exampleJa": "私は毎日自転車で学校に行きます。"
+  },
+  {
+    "rank": 56,
+    "english": "street",
+    "meanings": "通り",
+    "example": "Be careful when you cross the street.",
+    "exampleJa": "通りを渡るときは注意してね。"
+  },
+  {
+    "rank": 57,
+    "english": "road",
+    "meanings": "道、道路",
+    "example": "This road leads to the park.",
+    "exampleJa": "この道は公園に通じています。"
+  },
+  {
+    "rank": 58,
+    "english": "place",
+    "meanings": "場所",
+    "example": "This is a nice place for a picnic.",
+    "exampleJa": "ここはピクニックに良い場所です。"
+  },
+  {
+    "rank": 59,
+    "english": "hospital",
+    "meanings": "病院",
+    "example": "My aunt works at a big hospital.",
+    "exampleJa": "私のおばは大きな病院で働いています。"
+  },
+  {
+    "rank": 60,
+    "english": "hotel",
+    "meanings": "ホテル",
+    "example": "We stayed at a nice hotel last night.",
+    "exampleJa": "私たちは昨夜、素敵なホテルに泊まりました。"
+  },
+  {
+    "rank": 61,
+    "english": "pool",
+    "meanings": "プール",
+    "example": "Let's swim in the pool this summer.",
+    "exampleJa": "この夏、プールで泳ぎましょう。"
+  },
+  {
+    "rank": 62,
+    "english": "apartment",
+    "meanings": "アパート",
+    "example": "My friend lives in a new apartment.",
+    "exampleJa": "私の友達は新しいアパートに住んでいます。"
+  },
+  {
+    "rank": 63,
+    "english": "garden",
+    "meanings": "庭、庭園",
+    "example": "My grandmother has a beautiful garden.",
+    "exampleJa": "私の祖母は美しい庭を持っています。"
+  },
+  {
+    "rank": 64,
+    "english": "zoo",
+    "meanings": "動物園",
+    "example": "We saw many animals at the zoo.",
+    "exampleJa": "私たちは動物園でたくさんの動物を見ました。"
+  },
+  {
+    "rank": 65,
+    "english": "town",
+    "meanings": "町",
+    "example": "Our town is very quiet and peaceful.",
+    "exampleJa": "私たちの町はとても静かで平和です。"
+  },
+  {
+    "rank": 66,
+    "english": "building",
+    "meanings": "建物、ビル",
+    "example": "That tall building is a bank.",
+    "exampleJa": "あの高い建物は銀行です。"
+  },
+  {
+    "rank": 67,
+    "english": "company",
+    "meanings": "会社",
+    "example": "My father works for a car company.",
+    "exampleJa": "私の父は自動車会社で働いています。"
+  },
+  {
+    "rank": 68,
+    "english": "office",
+    "meanings": "事務所、会社、役所",
+    "example": "I went to the post office yesterday.",
+    "exampleJa": "私は昨日、郵便局に行きました。"
+  },
+  {
+    "rank": 69,
+    "english": "bank",
+    "meanings": "銀行",
+    "example": "The bank is open until 3 PM.",
+    "exampleJa": "銀行は午後3時まで開いています。"
+  },
+  {
+    "rank": 70,
+    "english": "ship",
+    "meanings": "（大型の）船",
+    "example": "We saw a big ship in the port.",
+    "exampleJa": "私たちは港で大きな船を見ました。"
+  },
+  {
+    "rank": 71,
+    "english": "party",
+    "meanings": "パーティー",
+    "example": "We will have a birthday party next week.",
+    "exampleJa": "私たちは来週、誕生日パーティーを開きます。"
+  },
+  {
+    "rank": 72,
+    "english": "game",
+    "meanings": "遊び、ゲーム、試合",
+    "example": "Let's play a game together.",
+    "exampleJa": "一緒にゲームをしましょう。"
+  },
+  {
+    "rank": 73,
+    "english": "shopping",
+    "meanings": "買い物",
+    "example": "My mom likes shopping on weekends.",
+    "exampleJa": "私の母は週末に買い物をするのが好きです。"
+  },
+  {
+    "rank": 74,
+    "english": "present",
+    "meanings": "贈り物、プレゼント〔動〕を贈る",
+    "example": "I got a nice present from my friend.",
+    "exampleJa": "私は友達から素敵なプレゼントをもらいました。"
+  },
+  {
+    "rank": 75,
+    "english": "weekend",
+    "meanings": "週末",
+    "example": "What will you do this weekend?",
+    "exampleJa": "この週末は何をしますか？"
+  },
+  {
+    "rank": 76,
+    "english": "holiday",
+    "meanings": "祝日、休暇",
+    "example": "We have a long holiday next week.",
+    "exampleJa": "来週、長い休暇があります。"
+  },
+  {
+    "rank": 77,
+    "english": "movie",
+    "meanings": "映画",
+    "example": "Let's watch a fun movie tonight.",
+    "exampleJa": "今夜、楽しい映画を見ましょう。"
+  },
+  {
+    "rank": 78,
+    "english": "program",
+    "meanings": "番組、計画",
+    "example": "This TV program is very interesting.",
+    "exampleJa": "このテレビ番組はとても面白いです。"
+  },
+  {
+    "rank": 79,
+    "english": "trip",
+    "meanings": "（短期間の）旅行",
+    "example": "I want to go on a trip to Kyoto.",
+    "exampleJa": "私は京都へ旅行に行きたいです。"
+  },
+  {
+    "rank": 80,
+    "english": "camera",
+    "meanings": "カメラ",
+    "example": "My father bought a new camera.",
+    "exampleJa": "私の父は新しいカメラを買いました。"
+  },
+  {
+    "rank": 81,
+    "english": "picnic",
+    "meanings": "ピクニック、遠足",
+    "example": "Let's go on a picnic this Sunday.",
+    "exampleJa": "今週の日曜日にピクニックに行きましょう。"
+  },
+  {
+    "rank": 82,
+    "english": "fishing",
+    "meanings": "魚釣り",
+    "example": "My brother likes fishing very much.",
+    "exampleJa": "私の兄は魚釣りがとても好きです。"
+  },
+  {
+    "rank": 83,
+    "english": "camp",
+    "meanings": "キャンプ、キャンプ場、〔動〕キャンプする",
+    "example": "We will camp by the lake this summer.",
+    "exampleJa": "今年の夏、私たちは湖のそばでキャンプします。"
+  },
+  {
+    "rank": 84,
+    "english": "hobby",
+    "meanings": "趣味",
+    "example": "My hobby is playing soccer.",
+    "exampleJa": "私の趣味はサッカーをすることです。"
+  },
+  {
+    "rank": 85,
+    "english": "face",
+    "meanings": "顔",
+    "example": "She has a beautiful face.",
+    "exampleJa": "彼女は美しい顔をしています。"
+  },
+  {
+    "rank": 86,
+    "english": "eye",
+    "meanings": "目",
+    "example": "He has big blue eyes.",
+    "exampleJa": "彼には大きな青い目があります。"
+  },
+  {
+    "rank": 87,
+    "english": "hair",
+    "meanings": "髪の毛、毛",
+    "example": "My sister has long black hair.",
+    "exampleJa": "私の姉は長い黒髪をしています。"
+  },
+  {
+    "rank": 88,
+    "english": "arm",
+    "meanings": "腕",
+    "example": "I hurt my arm yesterday.",
+    "exampleJa": "私は昨日、腕を痛めました。"
+  },
+  {
+    "rank": 89,
+    "english": "fever",
+    "meanings": "熱",
+    "example": "I have a fever today.",
+    "exampleJa": "私は今日、熱があります。"
+  },
+  {
+    "rank": 90,
+    "english": "job",
+    "meanings": "仕事、職",
+    "example": "His job is a teacher.",
+    "exampleJa": "彼の仕事は先生です。"
+  },
+  {
+    "rank": 91,
+    "english": "doctor",
+    "meanings": "医者",
+    "example": "I want to be a doctor.",
+    "exampleJa": "私は医者になりたいです。"
+  },
+  {
+    "rank": 92,
+    "english": "dentist",
+    "meanings": "歯科医",
+    "example": "I will go to the dentist tomorrow.",
+    "exampleJa": "私は明日、歯医者に行きます。"
+  },
+  {
+    "rank": 93,
+    "english": "scientist",
+    "meanings": "科学者",
+    "example": "She wants to be a scientist.",
+    "exampleJa": "彼女は科学者になりたいです。"
+  },
+  {
+    "rank": 94,
+    "english": "pilot",
+    "meanings": "パイロット",
+    "example": "My dream is to be a pilot.",
+    "exampleJa": "私の夢はパイロットになることです。"
+  },
+  {
+    "rank": 95,
+    "english": "actor",
+    "meanings": "俳優",
+    "example": "He is a famous actor.",
+    "exampleJa": "彼は有名な俳優です。"
+  },
+  {
+    "rank": 96,
+    "english": "volunteer",
+    "meanings": "ボランティア、進んでやる人",
+    "example": "She works as a volunteer.",
+    "exampleJa": "彼女はボランティアとして働いています。"
+  },
+  {
+    "rank": 97,
+    "english": "grandmother",
+    "meanings": "祖母、おばあさん",
+    "example": "My grandmother lives in Osaka.",
+    "exampleJa": "私の祖母は大阪に住んでいます。"
+  },
+  {
+    "rank": 98,
+    "english": "grandfather",
+    "meanings": "祖父、おじいさん",
+    "example": "My grandfather likes to read books.",
+    "exampleJa": "私の祖父は本を読むのが好きです。"
+  },
+  {
+    "rank": 99,
+    "english": "parent",
+    "meanings": "親、（parents）で両親",
+    "example": "My parents love me very much.",
+    "exampleJa": "私の両親は私をとても愛しています。"
+  },
+  {
+    "rank": 100,
+    "english": "husband",
+    "meanings": "夫",
+    "example": "Her husband is a kind person.",
+    "exampleJa": "彼女の夫は親切な人です。"
+  },
+  {
+    "rank": 101,
+    "english": "son",
+    "meanings": "息子",
+    "example": "My son plays soccer every Sunday.",
+    "exampleJa": "私の息子は毎週日曜日にサッカーをします。"
+  },
+  {
+    "rank": 102,
+    "english": "aunt",
+    "meanings": "おば",
+    "example": "My aunt lives in a big house.",
+    "exampleJa": "私のおばは大きな家に住んでいます。"
+  },
+  {
+    "rank": 103,
+    "english": "food",
+    "meanings": "食べ物",
+    "example": "I like Japanese food very much.",
+    "exampleJa": "私は日本の食べ物がとても好きです。"
+  },
+  {
+    "rank": 104,
+    "english": "pizza",
+    "meanings": "ピザ",
+    "example": "Let's eat pizza for dinner tonight.",
+    "exampleJa": "今夜は夕食にピザを食べましょう。"
+  },
+  {
+    "rank": 105,
+    "english": "cheese",
+    "meanings": "チーズ",
+    "example": "Do you like cheese on your sandwich?",
+    "exampleJa": "あなたはサンドイッチにチーズが好きですか？"
+  },
+  {
+    "rank": 106,
+    "english": "soup",
+    "meanings": "スープ",
+    "example": "My mother made delicious soup yesterday.",
+    "exampleJa": "私の母は昨日、おいしいスープを作りました。"
+  },
+  {
+    "rank": 107,
+    "english": "salad",
+    "meanings": "サラダ",
+    "example": "We eat salad with dinner every day.",
+    "exampleJa": "私たちは毎日夕食と一緒にサラダを食べます。"
+  },
+  {
+    "rank": 108,
+    "english": "vegetable",
+    "meanings": "野菜",
+    "example": "You should eat more vegetables.",
+    "exampleJa": "あなたはもっと野菜を食べるべきです。"
+  },
+  {
+    "rank": 109,
+    "english": "toast",
+    "meanings": "トースト",
+    "example": "I eat toast and jam for breakfast.",
+    "exampleJa": "私は朝食にトーストとジャムを食べます。"
+  },
+  {
+    "rank": 110,
+    "english": "hamburger",
+    "meanings": "ハンバーガー",
+    "example": "I want to eat a hamburger for lunch.",
+    "exampleJa": "私は昼食にハンバーガーを食べたいです。"
+  },
+  {
+    "rank": 111,
+    "english": "pancake",
+    "meanings": "パンケーキ",
+    "example": "My sister likes to eat pancakes for breakfast.",
+    "exampleJa": "私の姉は朝食にパンケーキを食べるのが好きです。"
+  },
+  {
+    "rank": 112,
+    "english": "chocolate",
+    "meanings": "チョコレート",
+    "example": "Do you want some chocolate?",
+    "exampleJa": "チョコレートはいかがですか？"
+  },
+  {
+    "rank": 113,
+    "english": "coffee",
+    "meanings": "コーヒー",
+    "example": "My father drinks coffee every morning.",
+    "exampleJa": "私の父は毎朝コーヒーを飲みます。"
+  },
+  {
+    "rank": 114,
+    "english": "juice",
+    "meanings": "ジュース",
+    "example": "I usually drink orange juice.",
+    "exampleJa": "私はいつもオレンジジュースを飲みます。"
+  },
+  {
+    "rank": 115,
+    "english": "popcorn",
+    "meanings": "ポップコーン",
+    "example": "Let's buy popcorn at the movie theater.",
+    "exampleJa": "映画館でポップコーンを買いましょう。"
+  },
+  {
+    "rank": 116,
+    "english": "menu",
+    "meanings": "メニュー",
+    "example": "Can I see the menu, please?",
+    "exampleJa": "メニューを見せてもらえますか？"
+  },
+  {
+    "rank": 117,
+    "english": "dish",
+    "meanings": "皿",
+    "example": "This is my favorite Japanese dish.",
+    "exampleJa": "これは私のお気に入りの日本料理です。"
+  },
+  {
+    "rank": 118,
+    "english": "weather",
+    "meanings": "天気",
+    "example": "The weather is very nice today.",
+    "exampleJa": "今日はとても良い天気です。"
+  },
+  {
+    "rank": 119,
+    "english": "rain",
+    "meanings": "雨〔動〕雨が降る",
+    "example": "It will rain tomorrow morning.",
+    "exampleJa": "明日の朝は雨が降るでしょう。"
+  },
+  {
+    "rank": 120,
+    "english": "water",
+    "meanings": "みず",
+    "example": "I want some water, please.",
+    "exampleJa": "お水が欲しいです。"
+  },
+  {
+    "rank": 121,
+    "english": "river",
+    "meanings": "川、河",
+    "example": "Let's swim in the river this summer.",
+    "exampleJa": "この夏、川で泳ぎましょう。"
+  },
+  {
+    "rank": 122,
+    "english": "beach",
+    "meanings": "浜、海辺",
+    "example": "We went to the beach last Sunday.",
+    "exampleJa": "私たちは先週の日曜日に海辺へ行きました。"
+  },
+  {
+    "rank": 123,
+    "english": "mountain",
+    "meanings": "山",
+    "example": "Mount Fuji is a beautiful mountain.",
+    "exampleJa": "富士山は美しい山です。"
+  },
+  {
+    "rank": 124,
+    "english": "star",
+    "meanings": "星",
+    "example": "Look at the stars in the sky!",
+    "exampleJa": "空の星を見て！"
+  },
+  {
+    "rank": 125,
+    "english": "flower",
+    "meanings": "はな",
+    "example": "My mother loves beautiful flowers.",
+    "exampleJa": "私の母は美しい花が大好きです。"
+  },
+  {
+    "rank": 126,
+    "english": "rose",
+    "meanings": "バラ",
+    "example": "I like red roses.",
+    "exampleJa": "私は赤いバラが好きです。"
+  },
+  {
+    "rank": 127,
+    "english": "animal",
+    "meanings": "動物、どうぶつ",
+    "example": "A dog is a cute animal.",
+    "exampleJa": "犬はかわいい動物です。"
+  },
+  {
+    "rank": 128,
+    "english": "practice",
+    "meanings": "練習〔動〕（を）練習する",
+    "example": "I practice tennis every day.",
+    "exampleJa": "私は毎日テニスの練習をします。"
+  },
+  {
+    "rank": 129,
+    "english": "guitar",
+    "meanings": "ギター",
+    "example": "Can you play the guitar?",
+    "exampleJa": "ギターを弾けますか？"
+  },
+  {
+    "rank": 130,
+    "english": "violin",
+    "meanings": "バイオリン",
+    "example": "She wants to play the violin.",
+    "exampleJa": "彼女はバイオリンを弾きたがっています。"
+  },
+  {
+    "rank": 131,
+    "english": "sound",
+    "meanings": "音〔動〕（～のように）聞こえる",
+    "example": "That music sounds great!",
+    "exampleJa": "その音楽は素晴らしい音に聞こえるね！"
+  },
+  {
+    "rank": 132,
+    "english": "concert",
+    "meanings": "音楽会、コンサート",
+    "example": "We went to a concert yesterday.",
+    "exampleJa": "私たちは昨日コンサートに行きました。"
+  },
+  {
+    "rank": 133,
+    "english": "musical",
+    "meanings": "ミュージカル〔形〕音楽の",
+    "example": "I like musical movies.",
+    "exampleJa": "私はミュージカル映画が好きです。"
+  },
+  {
+    "rank": 134,
+    "english": "shirt",
+    "meanings": "ワイシャツ、シャツ",
+    "example": "This blue shirt is new.",
+    "exampleJa": "この青いシャツは新しいです。"
+  },
+  {
+    "rank": 135,
+    "english": "dress",
+    "meanings": "ドレス、服装",
+    "example": "She wore a beautiful dress.",
+    "exampleJa": "彼女は美しいドレスを着ていました。"
+  },
+  {
+    "rank": 136,
+    "english": "color",
+    "meanings": "色〔動〕に色を付ける",
+    "example": "What color do you like?",
+    "exampleJa": "何色が好きですか？"
+  },
+  {
+    "rank": 137,
+    "english": "purple",
+    "meanings": "紫〔形〕紫色の",
+    "example": "My favorite color is purple.",
+    "exampleJa": "私の一番好きな色は紫です。"
+  },
+  {
+    "rank": 138,
+    "english": "Japan",
+    "meanings": "日本",
+    "example": "I live in Japan.",
+    "exampleJa": "私は日本に住んでいます。"
+  },
+  {
+    "rank": 139,
+    "english": "Spain",
+    "meanings": "スペイン",
+    "example": "My friend is from Spain.",
+    "exampleJa": "私の友達はスペイン出身です。"
+  },
+  {
+    "rank": 140,
+    "english": "England",
+    "meanings": "イングランド",
+    "example": "He wants to visit England.",
+    "exampleJa": "彼はイングランドを訪れたがっています。"
+  },
+  {
+    "rank": 141,
+    "english": "Africa",
+    "meanings": "アフリカ",
+    "example": "Africa is a big continent.",
+    "exampleJa": "アフリカは大きな大陸です。"
+  },
+  {
+    "rank": 142,
+    "english": "India",
+    "meanings": "インド",
+    "example": "Do you know about India?",
+    "exampleJa": "インドについて知っていますか？"
+  },
+  {
+    "rank": 143,
+    "english": "soccer",
+    "meanings": "サッカー",
+    "example": "I play soccer with my friends.",
+    "exampleJa": "私は友達とサッカーをします。"
+  },
+  {
+    "rank": 144,
+    "english": "basketball",
+    "meanings": "バスケットボール；バスケットボールのボール",
+    "example": "Let's play basketball!",
+    "exampleJa": "バスケットボールをしよう！"
+  },
+  {
+    "rank": 145,
+    "english": "volleyball",
+    "meanings": "バレーボール；バレーボールのボール",
+    "example": "We played volleyball at the beach.",
+    "exampleJa": "私たちはビーチでバレーボールをしました。"
+  },
+  {
+    "rank": 146,
+    "english": "badminton",
+    "meanings": "バドミントン",
+    "example": "I like to play badminton.",
+    "exampleJa": "私はバドミントンをするのが好きです。"
+  },
+  {
+    "rank": 147,
+    "english": "racket",
+    "meanings": "ラケット",
+    "example": "This tennis racket is new.",
+    "exampleJa": "このテニスラケットは新しいです。"
+  },
+  {
+    "rank": 148,
+    "english": "jogging",
+    "meanings": "ジョギング",
+    "example": "I go jogging every morning.",
+    "exampleJa": "私は毎朝ジョギングに行きます。"
+  },
+  {
+    "rank": 149,
+    "english": "goal",
+    "meanings": "（サッカーなどの）ゴール、（ゴールに入れた）得点、目標",
+    "example": "He scored a great goal.",
+    "exampleJa": "彼は素晴らしいゴールを決めました。"
+  },
+  {
+    "rank": 150,
+    "english": "kind",
+    "meanings": "種類",
+    "example": "What kind of music do you like?",
+    "exampleJa": "どんな種類の音楽が好きですか？"
+  },
+  {
+    "rank": 151,
+    "english": "e-mail",
+    "meanings": "電子メール、Eメール",
+    "example": "I will send an e-mail to my friend.",
+    "exampleJa": "友達にEメールを送ります。"
+  },
+  {
+    "rank": 152,
+    "english": "information",
+    "meanings": "情報",
+    "example": "We need more information about the trip.",
+    "exampleJa": "その旅行について、もっと情報が必要です。"
+  },
+  {
+    "rank": 153,
+    "english": "thing",
+    "meanings": "物、事",
+    "example": "This is a beautiful thing.",
+    "exampleJa": "これは美しい物です。"
+  },
+  {
+    "rank": 154,
+    "english": "story",
+    "meanings": "物語、話",
+    "example": "My grandpa tells a funny story.",
+    "exampleJa": "私のおじいちゃんは面白い話をします。"
+  },
+  {
+    "rank": 155,
+    "english": "word",
+    "meanings": "語、単語、言葉",
+    "example": "I learned a new English word today.",
+    "exampleJa": "今日、新しい英単語を覚えました。"
+  },
+  {
+    "rank": 156,
+    "english": "future",
+    "meanings": "未来、将来",
+    "example": "I want to be a doctor in the future.",
+    "exampleJa": "将来、医者になりたいです。"
+  },
+  {
+    "rank": 157,
+    "english": "cell phone",
+    "meanings": "携帯電話",
+    "example": "My mom bought a new cell phone.",
+    "exampleJa": "私の母は新しい携帯電話を買いました。"
+  },
+  {
+    "rank": 158,
+    "english": "event",
+    "meanings": "出来事、行事",
+    "example": "The sports event was very exciting.",
+    "exampleJa": "そのスポーツの行事はとてもわくわくしました。"
+  },
+  {
+    "rank": 159,
+    "english": "culture",
+    "meanings": "文化",
+    "example": "I want to learn about Japanese culture.",
+    "exampleJa": "日本の文化について学びたいです。"
+  },
+  {
+    "rank": 160,
+    "english": "center",
+    "meanings": "中心、中央",
+    "example": "Let's meet at the shopping center.",
+    "exampleJa": "ショッピングセンターで会いましょう。"
+  },
+  {
+    "rank": 161,
+    "english": "meeting",
+    "meanings": "会議、会",
+    "example": "We have a class meeting tomorrow.",
+    "exampleJa": "明日、クラスの会があります。"
+  },
+  {
+    "rank": 162,
+    "english": "ticket",
+    "meanings": "切符、チケット",
+    "example": "I bought a ticket for the concert.",
+    "exampleJa": "コンサートのチケットを買いました。"
+  },
+  {
+    "rank": 163,
+    "english": "sale",
+    "meanings": "販売、特売、バーゲンセール",
+    "example": "The shoes are on sale now.",
+    "exampleJa": "その靴は今、セール中です。"
+  },
+  {
+    "rank": 164,
+    "english": "money",
+    "meanings": "お金",
+    "example": "I need some money for the book.",
+    "exampleJa": "その本のためにお金が少し必要です。"
+  },
+  {
+    "rank": 165,
+    "english": "line",
+    "meanings": "線、行列、（電車などの）路線",
+    "example": "Draw a straight line.",
+    "exampleJa": "まっすぐな線を引いてください。"
+  },
+  {
+    "rank": 166,
+    "english": "end",
+    "meanings": "終わり",
+    "example": "This is the end of the movie.",
+    "exampleJa": "これが映画の終わりです。"
+  },
+  {
+    "rank": 167,
+    "english": "front",
+    "meanings": "正面、前面",
+    "example": "Let's meet in front of the station.",
+    "exampleJa": "駅の正面で会いましょう。"
+  },
+  {
+    "rank": 168,
+    "english": "way",
+    "meanings": "道、方向、方法",
+    "example": "Is this the way to the station?",
+    "exampleJa": "これは駅への道ですか？"
+  },
+  {
+    "rank": 169,
+    "english": "race",
+    "meanings": "レース、競争〔動〕競争する",
+    "example": "I ran a short race yesterday.",
+    "exampleJa": "昨日、短いレースに出ました。"
+  },
+  {
+    "rank": 170,
+    "english": "plan",
+    "meanings": "計画〔動〕（を）計画する",
+    "example": "What is your plan for the weekend?",
+    "exampleJa": "週末の計画は何ですか？"
+  },
+  {
+    "rank": 171,
+    "english": "fun",
+    "meanings": "楽しみ",
+    "example": "We had a lot of fun at the party.",
+    "exampleJa": "私たちはパーティーでとても楽しみました。"
+  },
+  {
+    "rank": 172,
+    "english": "example",
+    "meanings": "例",
+    "example": "Can you give me an example?",
+    "exampleJa": "例を一つ教えてくれますか？"
+  },
+  {
+    "rank": 173,
+    "english": "postcard",
+    "meanings": "はがき",
+    "example": "I sent a postcard to my grandma.",
+    "exampleJa": "祖母にはがきを送りました。"
+  },
+  {
+    "rank": 174,
+    "english": "poster",
+    "meanings": "ポスター",
+    "example": "We put up a poster on the wall.",
+    "exampleJa": "壁にポスターを貼りました。"
+  },
+  {
+    "rank": 175,
+    "english": "robot",
+    "meanings": "ロボット",
+    "example": "I saw a cool robot at the museum.",
+    "exampleJa": "博物館でかっこいいロボットを見ました。"
+  },
+  {
+    "rank": 176,
+    "english": "go",
+    "meanings": "行く、進む",
+    "example": "I go to school every day.",
+    "exampleJa": "私は毎日学校に行きます。"
+  },
+  {
+    "rank": 177,
+    "english": "like",
+    "meanings": "が好きである，を好む",
+    "example": "I like to play soccer.",
+    "exampleJa": "私はサッカーをするのが好きです。"
+  },
+  {
+    "rank": 178,
+    "english": "buy",
+    "meanings": "を買う",
+    "example": "I will buy a new book.",
+    "exampleJa": "私は新しい本を買うつもりです。"
+  },
+  {
+    "rank": 179,
+    "english": "get",
+    "meanings": "～を手に入れる",
+    "example": "I want to get a new game.",
+    "exampleJa": "私は新しいゲームを手に入れたいです。"
+  },
+  {
+    "rank": 180,
+    "english": "visit",
+    "meanings": "（を）訪問する、（を）訪れる、〔名〕訪問、見学",
+    "example": "We will visit my grandma next week.",
+    "exampleJa": "私たちは来週、祖母を訪ねます。"
+  },
+  {
+    "rank": 181,
+    "english": "come",
+    "meanings": "来る、（相手の方へ）行く",
+    "example": "Please come to my party!",
+    "exampleJa": "私のパーティーに来てください！"
+  },
+  {
+    "rank": 182,
+    "english": "see",
+    "meanings": "（が）見える、に会う",
+    "example": "I will see you tomorrow.",
+    "exampleJa": "また明日ね。（明日あなたに会います。）"
+  },
+  {
+    "rank": 183,
+    "english": "take",
+    "meanings": "を取る、（乗り物）に乗る、を持っていく、を連れていく",
+    "example": "I take the bus to school.",
+    "exampleJa": "私はバスで学校に行きます。"
+  },
+  {
+    "rank": 184,
+    "english": "make",
+    "meanings": "を作る",
+    "example": "My mom can make a delicious cake.",
+    "exampleJa": "私の母はおいしいケーキを作れます。"
+  },
+  {
+    "rank": 185,
+    "english": "look",
+    "meanings": "（注意して）見る",
+    "example": "Look at that cute cat!",
+    "exampleJa": "あの可愛い猫を見て！"
+  },
+  {
+    "rank": 186,
+    "english": "watch",
+    "meanings": "（を）じっと見る〔名〕腕時計",
+    "example": "I like to watch TV in the evening.",
+    "exampleJa": "私は夕方にテレビを見るのが好きです。"
+  },
+  {
+    "rank": 187,
+    "english": "meet",
+    "meanings": "（に）会う",
+    "example": "Let's meet at the park.",
+    "exampleJa": "公園で会いましょう。"
+  },
+  {
+    "rank": 188,
+    "english": "talk",
+    "meanings": "（を）話す",
+    "example": "We often talk about movies.",
+    "exampleJa": "私たちはよく映画について話します。"
+  },
+  {
+    "rank": 189,
+    "english": "say",
+    "meanings": "（と）言う、話す",
+    "example": "He said, \"Hello!\" to me.",
+    "exampleJa": "彼は私に「こんにちは！」と言いました。"
+  },
+  {
+    "rank": 190,
+    "english": "tell",
+    "meanings": "（を）話す、言う",
+    "example": "Please tell me your name.",
+    "exampleJa": "あなたのお名前を教えてください。"
+  },
+  {
+    "rank": 191,
+    "english": "speak",
+    "meanings": "（を）話す、演説する",
+    "example": "Can you speak English?",
+    "exampleJa": "あなたは英語を話せますか？"
+  },
+  {
+    "rank": 192,
+    "english": "listen",
+    "meanings": "（注意して）聞く",
+    "example": "I like to listen to music.",
+    "exampleJa": "私は音楽を聴くのが好きです。"
+  },
+  {
+    "rank": 193,
+    "english": "hear",
+    "meanings": "～が聞こえる",
+    "example": "I can hear a bird singing.",
+    "exampleJa": "鳥が歌っているのが聞こえます。"
+  },
+  {
+    "rank": 194,
+    "english": "ask",
+    "meanings": "（を）たずねる、質問する、（を）頼む",
+    "example": "I will ask my teacher a question.",
+    "exampleJa": "私は先生に質問します。"
+  },
+  {
+    "rank": 195,
+    "english": "answer",
+    "meanings": "（に）答える、（電話、訪問）（に）応じる〔名〕答え",
+    "example": "Please answer my question.",
+    "exampleJa": "私の質問に答えてください。"
+  },
+  {
+    "rank": 196,
+    "english": "stay",
+    "meanings": "とどまる、泊まる、滞在する〔名〕滞在",
+    "example": "We will stay at a hotel.",
+    "exampleJa": "私たちはホテルに泊まります。"
+  },
+  {
+    "rank": 197,
+    "english": "live",
+    "meanings": "住む、暮らす",
+    "example": "I live in Tokyo.",
+    "exampleJa": "私は東京に住んでいます。"
+  },
+  {
+    "rank": 198,
+    "english": "wake",
+    "meanings": "目が覚める、を起こす",
+    "example": "I wake up at 6 AM.",
+    "exampleJa": "私は午前6時に目が覚めます。"
+  },
+  {
+    "rank": 199,
+    "english": "work",
+    "meanings": "働く、 勉強する〔名〕仕事、勉強、作品",
+    "example": "I have to work on my homework.",
+    "exampleJa": "私は宿題に取り組まなければなりません。"
+  },
+  {
+    "rank": 200,
+    "english": "eat",
+    "meanings": "（を）食べる",
+    "example": "Let's eat lunch together.",
+    "exampleJa": "一緒に昼食を食べましょう。"
+  },
+  {
+    "rank": 201,
+    "english": "drink",
+    "meanings": "（を）飲む〔名〕飲み物",
+    "example": "I want to drink some water.",
+    "exampleJa": "私は水を少し飲みたいです。"
+  },
+  {
+    "rank": 202,
+    "english": "give",
+    "meanings": "を与える、をあげる",
+    "example": "Please give me the book.",
+    "exampleJa": "その本を私にください。"
+  },
+  {
+    "rank": 203,
+    "english": "bring",
+    "meanings": "を持ってくる、を連れてくる",
+    "example": "Can you bring your bag?",
+    "exampleJa": "あなたのバッグを持ってきてくれますか？"
+  },
+  {
+    "rank": 204,
+    "english": "love",
+    "meanings": "を愛する、が大好きである〔名〕愛",
+    "example": "I love to play soccer.",
+    "exampleJa": "私はサッカーをするのが大好きです。"
+  },
+  {
+    "rank": 205,
+    "english": "find",
+    "meanings": "を見つける",
+    "example": "I can't find my pen.",
+    "exampleJa": "私はペンが見つけられません。"
+  },
+  {
+    "rank": 206,
+    "english": "need",
+    "meanings": "を必要とする",
+    "example": "We need a new desk.",
+    "exampleJa": "私たちは新しい机が必要です。"
+  },
+  {
+    "rank": 207,
+    "english": "feel",
+    "meanings": "（を）感じる、（と）思う",
+    "example": "I feel happy today.",
+    "exampleJa": "私は今日、嬉しいです。"
+  },
+  {
+    "rank": 208,
+    "english": "enjoy",
+    "meanings": "を楽しむ",
+    "example": "She enjoys playing tennis.",
+    "exampleJa": "彼女はテニスをするのを楽しんでいます。"
+  },
+  {
+    "rank": 209,
+    "english": "finish",
+    "meanings": "を終える、終わる",
+    "example": "I will finish my homework soon.",
+    "exampleJa": "私はもうすぐ宿題を終えます。"
+  },
+  {
+    "rank": 210,
+    "english": "lose",
+    "meanings": "をなくす、（に）負ける",
+    "example": "I lost my key yesterday.",
+    "exampleJa": "私は昨日、鍵をなくしました。"
+  },
+  {
+    "rank": 211,
+    "english": "write",
+    "meanings": "（を）書く、（に）手紙を書く",
+    "example": "I want to write a letter.",
+    "exampleJa": "私は手紙を書きたいです。"
+  },
+  {
+    "rank": 212,
+    "english": "forget",
+    "meanings": "（を）忘れる",
+    "example": "Don't forget your umbrella.",
+    "exampleJa": "傘を忘れないでね。"
+  },
+  {
+    "rank": 213,
+    "english": "swim",
+    "meanings": "泳ぐ〔名〕泳ぐこと、水泳",
+    "example": "Let's swim in the pool.",
+    "exampleJa": "プールで泳ぎましょう。"
+  },
+  {
+    "rank": 214,
+    "english": "read",
+    "meanings": "（を）読む",
+    "example": "I like to read books.",
+    "exampleJa": "私は本を読むのが好きです。"
+  },
+  {
+    "rank": 215,
+    "english": "paint",
+    "meanings": "（絵の具で）をかく、にペンキを塗る",
+    "example": "My sister likes to paint pictures.",
+    "exampleJa": "私の姉は絵を描くのが好きです。"
+  },
+  {
+    "rank": 216,
+    "english": "cut",
+    "meanings": "を切る",
+    "example": "Please cut the cake for me.",
+    "exampleJa": "私のためにケーキを切ってください。"
+  },
+  {
+    "rank": 217,
+    "english": "run",
+    "meanings": "走る",
+    "example": "He can run very fast.",
+    "exampleJa": "彼はとても速く走ることができます。"
+  },
+  {
+    "rank": 218,
+    "english": "call",
+    "meanings": "（を）呼ぶ、（に）電話する〔名〕電話をかけること",
+    "example": "I will call you later.",
+    "exampleJa": "後であなたに電話します。"
+  },
+  {
+    "rank": 219,
+    "english": "drive",
+    "meanings": "（自動車など）を運転する〔名〕ドライブ",
+    "example": "My father can drive a car.",
+    "exampleJa": "私の父は車を運転できます。"
+  },
+  {
+    "rank": 220,
+    "english": "ride",
+    "meanings": "（に）乗る、〔名〕乗ること",
+    "example": "I like to ride my bike.",
+    "exampleJa": "私は自転車に乗るのが好きです。"
+  },
+  {
+    "rank": 221,
+    "english": "join",
+    "meanings": "（に）加わる、参加する",
+    "example": "Do you want to join us?",
+    "exampleJa": "私たちに加わりたいですか？"
+  },
+  {
+    "rank": 222,
+    "english": "invite",
+    "meanings": "を招待する",
+    "example": "I want to invite my friends.",
+    "exampleJa": "私は友達を招待したいです。"
+  },
+  {
+    "rank": 223,
+    "english": "know",
+    "meanings": "（を）知っている",
+    "example": "I know his name.",
+    "exampleJa": "私は彼の名前を知っています。"
+  },
+  {
+    "rank": 224,
+    "english": "show",
+    "meanings": "を見せる〔名〕展示会、ショー",
+    "example": "Please show me your picture.",
+    "exampleJa": "あなたの絵を私に見せてください。"
+  },
+  {
+    "rank": 225,
+    "english": "wash",
+    "meanings": "（を）洗う",
+    "example": "I need to wash my hands.",
+    "exampleJa": "私は手を洗う必要があります。"
+  },
+  {
+    "rank": 226,
+    "english": "teach",
+    "meanings": "（を）教える",
+    "example": "My mother teaches English at school.",
+    "exampleJa": "私の母は学校で英語を教えています。"
+  },
+  {
+    "rank": 227,
+    "english": "think",
+    "meanings": "（と）思う、考える",
+    "example": "I think it will rain tomorrow.",
+    "exampleJa": "明日は雨が降ると思います。"
+  },
+  {
+    "rank": 228,
+    "english": "hope",
+    "meanings": "を望む、（～だと）いいと思う",
+    "example": "I hope you have a nice day!",
+    "exampleJa": "良い一日になりますように！"
+  },
+  {
+    "rank": 229,
+    "english": "worry",
+    "meanings": "心配する、を心配させる",
+    "example": "Don't worry about your test.",
+    "exampleJa": "テストの心配はしないで。"
+  },
+  {
+    "rank": 230,
+    "english": "try",
+    "meanings": "をためす、（～しようと）努力する〔名〕試み",
+    "example": "I will try to do my best.",
+    "exampleJa": "私はベストを尽くそうと努力します。"
+  },
+  {
+    "rank": 231,
+    "english": "hurry",
+    "meanings": "急ぐ；を急がせる〔名〕急ぎ",
+    "example": "We must hurry to catch the bus.",
+    "exampleJa": "バスに乗るために急がなければなりません。"
+  },
+  {
+    "rank": 232,
+    "english": "arrive",
+    "meanings": "着く、到着する",
+    "example": "The train will arrive at 3 p.m.",
+    "exampleJa": "列車は午後3時に到着します。"
+  },
+  {
+    "rank": 233,
+    "english": "wear",
+    "meanings": "を着ている、を身につけている〔名〕衣服",
+    "example": "She often wears a red dress.",
+    "exampleJa": "彼女はよく赤いドレスを着ています。"
+  },
+  {
+    "rank": 234,
+    "english": "change",
+    "meanings": "を変える、変わる、〔名〕変化、おつり",
+    "example": "I want to change my clothes.",
+    "exampleJa": "私は服を着替えたいです。"
+  },
+  {
+    "rank": 235,
+    "english": "become",
+    "meanings": "になる",
+    "example": "He wants to become a doctor.",
+    "exampleJa": "彼はお医者さんになりたいと思っています。"
+  },
+  {
+    "rank": 236,
+    "english": "catch",
+    "meanings": "をつかまえる",
+    "example": "I can catch a ball well.",
+    "exampleJa": "私は上手にボールを捕まえられます。"
+  },
+  {
+    "rank": 237,
+    "english": "put",
+    "meanings": "を置く",
+    "example": "Please put your bag here.",
+    "exampleJa": "ここにあなたのカバンを置いてください。"
+  },
+  {
+    "rank": 238,
+    "english": "order",
+    "meanings": "を注文する〔名〕注文",
+    "example": "Let's order some pizza for dinner.",
+    "exampleJa": "夕食にピザを注文しましょう。"
+  },
+  {
+    "rank": 239,
+    "english": "sell",
+    "meanings": "を売る",
+    "example": "They sell fresh vegetables there.",
+    "exampleJa": "彼らはそこで新鮮な野菜を売っています。"
+  },
+  {
+    "rank": 240,
+    "english": "stop",
+    "meanings": "をやめる、止まる〔名〕中止、停留所",
+    "example": "The bus will stop here.",
+    "exampleJa": "バスはここで止まります。"
+  },
+  {
+    "rank": 241,
+    "english": "sing",
+    "meanings": "（を）歌う",
+    "example": "She can sing very well.",
+    "exampleJa": "彼女はとても上手に歌えます。"
+  },
+  {
+    "rank": 242,
+    "english": "break",
+    "meanings": "をこわす、を折る、壊れる〔名〕休憩",
+    "example": "Don't break the window.",
+    "exampleJa": "窓を割らないでください。"
+  },
+  {
+    "rank": 243,
+    "english": "fall",
+    "meanings": "落ちる、転ぶ〔名〕落ちること、秋",
+    "example": "Be careful not to fall.",
+    "exampleJa": "転ばないように気をつけて。"
+  },
+  {
+    "rank": 244,
+    "english": "turn",
+    "meanings": "をまわす、まわる、〔名〕回転、順番",
+    "example": "Please turn left at the corner.",
+    "exampleJa": "角を左に曲がってください。"
+  },
+  {
+    "rank": 245,
+    "english": "last",
+    "meanings": "最後の、この前の〔副〕最後に、この前",
+    "example": "This is the last train.",
+    "exampleJa": "これが最終電車です。"
+  },
+  {
+    "rank": 246,
+    "english": "first",
+    "meanings": "第一の、最初の〔副〕第一に、最初に",
+    "example": "This is my first time here.",
+    "exampleJa": "ここが私にとって初めてです。"
+  },
+  {
+    "rank": 247,
+    "english": "good",
+    "meanings": "よい、おいしい、親切な、楽しい、じょうずな",
+    "example": "This cake is very good.",
+    "exampleJa": "このケーキはとてもおいしいです。"
+  },
+  {
+    "rank": 248,
+    "english": "bad",
+    "meanings": "悪い",
+    "example": "The weather was bad yesterday.",
+    "exampleJa": "昨日は天気が悪かったです。"
+  },
+  {
+    "rank": 249,
+    "english": "late",
+    "meanings": "（時間・時期が）遅い、遅れた〔副〕遅く、遅れて",
+    "example": "Don't be late for school.",
+    "exampleJa": "学校に遅れてはいけません。"
+  },
+  {
+    "rank": 250,
+    "english": "early",
+    "meanings": "早い、初期の〔副〕早く",
+    "example": "I wake up early every day.",
+    "exampleJa": "私は毎日早く起きます。"
+  },
+  {
+    "rank": 251,
+    "english": "fast",
+    "meanings": "速い〔副〕速く",
+    "example": "My dog can run very fast.",
+    "exampleJa": "私の犬はとても速く走れます。"
+  },
+  {
+    "rank": 252,
+    "english": "slow",
+    "meanings": "遅い、のろい〔副〕ゆっくりと",
+    "example": "Please walk slow on the ice.",
+    "exampleJa": "氷の上ではゆっくり歩いてください。"
+  },
+  {
+    "rank": 253,
+    "english": "favorite",
+    "meanings": "大好きな、お気に入りの〔名〕お気に入り",
+    "example": "My favorite color is blue.",
+    "exampleJa": "私のお気に入りの色は青です。"
+  },
+  {
+    "rank": 254,
+    "english": "happy",
+    "meanings": "幸福な、楽しい、うれしい",
+    "example": "I am very happy today.",
+    "exampleJa": "私は今日とてもうれしいです。"
+  },
+  {
+    "rank": 255,
+    "english": "lucky",
+    "meanings": "運のよい、幸運な",
+    "example": "You are so lucky to win!",
+    "exampleJa": "あなたは勝ててとても幸運だね！"
+  },
+  {
+    "rank": 256,
+    "english": "free",
+    "meanings": "自由な、ひまな、無料の",
+    "example": "I am free this Saturday.",
+    "exampleJa": "今週の土曜日はひまです。"
+  },
+  {
+    "rank": 257,
+    "english": "next",
+    "meanings": "次の、今度の〔副〕次に",
+    "example": "Let's meet next Sunday.",
+    "exampleJa": "今度の日曜日に会いましょう。"
+  },
+  {
+    "rank": 258,
+    "english": "all",
+    "meanings": "すべての〔代〕すべてのもの",
+    "example": "All my friends like this movie.",
+    "exampleJa": "私の友達はみんなこの映画が好きです。"
+  },
+  {
+    "rank": 259,
+    "english": "half",
+    "meanings": "半分の〔名〕半分、2分の1",
+    "example": "I ate half of the apple.",
+    "exampleJa": "私はリンゴの半分を食べました。"
+  },
+  {
+    "rank": 260,
+    "english": "fine",
+    "meanings": "すばらしい、晴れた、健康で",
+    "example": "I feel fine today, thank you.",
+    "exampleJa": "今日は元気です、ありがとう。"
+  },
+  {
+    "rank": 261,
+    "english": "sick",
+    "meanings": "病気の、病気で",
+    "example": "My sister is sick in bed.",
+    "exampleJa": "私の妹は病気で寝ています。"
+  },
+  {
+    "rank": 262,
+    "english": "hungry",
+    "meanings": "空腹の、おなかがすいた",
+    "example": "I am hungry. Let's eat lunch.",
+    "exampleJa": "おなかがすいた。昼食を食べよう。"
+  },
+  {
+    "rank": 263,
+    "english": "sorry",
+    "meanings": "すまないと思て、気の毒で",
+    "example": "I am sorry for being late.",
+    "exampleJa": "遅れてごめんなさい。"
+  },
+  {
+    "rank": 264,
+    "english": "near",
+    "meanings": "（距離・時間が）近い〔副〕近くに",
+    "example": "My house is near the station.",
+    "exampleJa": "私の家は駅の近くにあります。"
+  },
+  {
+    "rank": 265,
+    "english": "ready",
+    "meanings": "用意ができて",
+    "example": "Are you ready to go?",
+    "exampleJa": "出かける準備はできていますか？"
+  },
+  {
+    "rank": 266,
+    "english": "open",
+    "meanings": "開いた〔動〕を開ける、開く",
+    "example": "Please open the window.",
+    "exampleJa": "窓を開けてください。"
+  },
+  {
+    "rank": 267,
+    "english": "famous",
+    "meanings": "有名な",
+    "example": "This park is famous for its flowers.",
+    "exampleJa": "この公園は花で有名です。"
+  },
+  {
+    "rank": 268,
+    "english": "popular",
+    "meanings": "人気のある、流行の",
+    "example": "Soccer is a very popular sport.",
+    "exampleJa": "サッカーはとても人気のあるスポーツです。"
+  },
+  {
+    "rank": 269,
+    "english": "small",
+    "meanings": "小さい",
+    "example": "I have a small cat.",
+    "exampleJa": "私は小さい猫を飼っています。"
+  },
+  {
+    "rank": 270,
+    "english": "short",
+    "meanings": "短い、背の低い",
+    "example": "My brother is short.",
+    "exampleJa": "私の弟は背が低いです。"
+  },
+  {
+    "rank": 271,
+    "english": "beautiful",
+    "meanings": "美しい、すばらしい",
+    "example": "Look at that beautiful bird!",
+    "exampleJa": "あの美しい鳥を見て！"
+  },
+  {
+    "rank": 272,
+    "english": "cute",
+    "meanings": "かわいい",
+    "example": "This puppy is so cute.",
+    "exampleJa": "この子犬はとてもかわいい。"
+  },
+  {
+    "rank": 273,
+    "english": "sunny",
+    "meanings": "太陽の照っている",
+    "example": "It is sunny today. Let's go out.",
+    "exampleJa": "今日は晴れています。出かけましょう。"
+  },
+  {
+    "rank": 274,
+    "english": "cloudy",
+    "meanings": "くもった",
+    "example": "It will be cloudy tomorrow.",
+    "exampleJa": "明日は曇りでしょう。"
+  },
+  {
+    "rank": 275,
+    "english": "snowy",
+    "meanings": "雪の降る、雪の積もった",
+    "example": "I like snowy days very much.",
+    "exampleJa": "私は雪の日がとても好きです。"
+  },
+  {
+    "rank": 276,
+    "english": "warm",
+    "meanings": "暖かい",
+    "example": "It is warm today.",
+    "exampleJa": "今日は暖かいです。"
+  },
+  {
+    "rank": 277,
+    "english": "quiet",
+    "meanings": "静かな",
+    "example": "The library is quiet.",
+    "exampleJa": "図書館は静かです。"
+  },
+  {
+    "rank": 278,
+    "english": "dark",
+    "meanings": "暗い、（色が）濃い、黒っぽい",
+    "example": "It is dark outside now.",
+    "exampleJa": "今、外は暗いです。"
+  },
+  {
+    "rank": 279,
+    "english": "interesting",
+    "meanings": "おもしろい、興味深い",
+    "example": "This book is very interesting.",
+    "exampleJa": "この本はとてもおもしろいです。"
+  },
+  {
+    "rank": 280,
+    "english": "special",
+    "meanings": "特別の",
+    "example": "Today is a special day.",
+    "exampleJa": "今日は特別な日です。"
+  },
+  {
+    "rank": 281,
+    "english": "useful",
+    "meanings": "役に立つ",
+    "example": "This dictionary is very useful.",
+    "exampleJa": "この辞書はとても役に立ちます。"
+  },
+  {
+    "rank": 282,
+    "english": "careful",
+    "meanings": "注意深い",
+    "example": "Please be careful.",
+    "exampleJa": "気をつけてください。"
+  },
+  {
+    "rank": 283,
+    "english": "difficult",
+    "meanings": "難しい",
+    "example": "This math problem is difficult.",
+    "exampleJa": "この数学の問題は難しいです。"
+  },
+  {
+    "rank": 284,
+    "english": "hard",
+    "meanings": "難しい、かたい、熱心な〔副〕一生懸命に、激しく",
+    "example": "I study hard every day.",
+    "exampleJa": "私は毎日一生懸命勉強します。"
+  },
+  {
+    "rank": 285,
+    "english": "expensive",
+    "meanings": "高価な",
+    "example": "This bag is too expensive.",
+    "exampleJa": "このカバンは高すぎます。"
+  },
+  {
+    "rank": 286,
+    "english": "delicious",
+    "meanings": "非常においしい",
+    "example": "This cake is very delicious!",
+    "exampleJa": "このケーキはとてもおいしいです！"
+  },
+  {
+    "rank": 287,
+    "english": "own",
+    "meanings": "自分自身の",
+    "example": "I want my own room.",
+    "exampleJa": "私は自分の部屋が欲しいです。"
+  },
+  {
+    "rank": 288,
+    "english": "other",
+    "meanings": "他の、別の〔代〕他の物、ほかの人",
+    "example": "Do you have any other questions?",
+    "exampleJa": "他に何か質問がありますか？"
+  },
+  {
+    "rank": 289,
+    "english": "different",
+    "meanings": "ちがった、異なる、いろいろな",
+    "example": "My cat is different from yours.",
+    "exampleJa": "私の猫はあなたのと違います。"
+  },
+  {
+    "rank": 290,
+    "english": "dear",
+    "meanings": "いとしい、親愛なる",
+    "example": "Dear Mom, thank you for everything.",
+    "exampleJa": "お母さんへ、いつもありがとう。"
+  },
+  {
+    "rank": 291,
+    "english": "so",
+    "meanings": "とても、そのように〔接〕それで、だから",
+    "example": "I was so tired yesterday.",
+    "exampleJa": "私は昨日とても疲れていました。"
+  },
+  {
+    "rank": 292,
+    "english": "really",
+    "meanings": "本当に、まさか",
+    "example": "I really like this song.",
+    "exampleJa": "私は本当にこの歌が好きです。"
+  },
+  {
+    "rank": 293,
+    "english": "often",
+    "meanings": "たびたび、よく",
+    "example": "We often play soccer after school.",
+    "exampleJa": "私たちは放課後によくサッカーをします。"
+  },
+  {
+    "rank": 294,
+    "english": "back",
+    "meanings": "後ろへ、後ろに、もとの所へ〔形〕後ろの〔名〕背中、後ろ",
+    "example": "I will be back soon.",
+    "exampleJa": "私はすぐに戻ります。"
+  },
+  {
+    "rank": 295,
+    "english": "soon",
+    "meanings": "まもなく、すぐに",
+    "example": "I will go home soon.",
+    "exampleJa": "私はまもなく家に帰ります。"
+  },
+  {
+    "rank": 296,
+    "english": "together",
+    "meanings": "いっしょに、ともに",
+    "example": "Let's go to the park together.",
+    "exampleJa": "一緒に公園に行きましょう。"
+  },
+  {
+    "rank": 297,
+    "english": "usually",
+    "meanings": "いつもは、ふつう",
+    "example": "I usually eat breakfast at 7.",
+    "exampleJa": "私はふつう7時に朝食を食べます。"
+  },
+  {
+    "rank": 298,
+    "english": "tonight",
+    "meanings": "今夜（は）〔名〕今夜",
+    "example": "I will watch TV tonight.",
+    "exampleJa": "私は今夜テレビを見ます。"
+  },
+  {
+    "rank": 299,
+    "english": "once",
+    "meanings": "一度、一回、かつて",
+    "example": "I visited Kyoto once.",
+    "exampleJa": "私は一度京都を訪れました。"
+  },
+  {
+    "rank": 300,
+    "english": "again",
+    "meanings": "ふたたび、また",
+    "example": "Please say that again.",
+    "exampleJa": "もう一度言ってください。"
+  },
+  {
+    "rank": 301,
+    "english": "just",
+    "meanings": "ちょうど、ほんの",
+    "example": "I just finished my homework.",
+    "exampleJa": "私はちょうど宿題を終えました。"
+  },
+  {
+    "rank": 302,
+    "english": "only",
+    "meanings": "ただ～だけ〔形〕ただ１つの、ただ一人の",
+    "example": "I have only one apple.",
+    "exampleJa": "私はリンゴを一つしか持っていません。"
+  },
+  {
+    "rank": 303,
+    "english": "there",
+    "meanings": "そこに、そこで、そこへ、～がある、～がいる",
+    "example": "There is a park near my house.",
+    "exampleJa": "私の家の近くに公園があります。"
+  },
+  {
+    "rank": 304,
+    "english": "still",
+    "meanings": "今でも、まだ",
+    "example": "My cat is still sleeping.",
+    "exampleJa": "私の猫はまだ寝ています。"
+  },
+  {
+    "rank": 305,
+    "english": "when",
+    "meanings": "いつ、〔接〕～するときに",
+    "example": "When do you eat dinner?",
+    "exampleJa": "いつ夕食を食べますか？"
+  },
+  {
+    "rank": 306,
+    "english": "also",
+    "meanings": "～もまた",
+    "example": "I like pizza, and I also like pasta.",
+    "exampleJa": "私はピザが好きで、パスタも好きです。"
+  },
+  {
+    "rank": 307,
+    "english": "maybe",
+    "meanings": "たぶん、ひょっとすると",
+    "example": "Maybe I will go to the park tomorrow.",
+    "exampleJa": "たぶん明日、公園に行くでしょう。"
+  },
+  {
+    "rank": 308,
+    "english": "later",
+    "meanings": "もっと遅く、後で",
+    "example": "Let's play soccer later.",
+    "exampleJa": "後でサッカーをしよう。"
+  },
+  {
+    "rank": 309,
+    "english": "easily",
+    "meanings": "簡単に、楽々と",
+    "example": "He can easily solve this problem.",
+    "exampleJa": "彼はこの問題を簡単に解くことができます。"
+  },
+  {
+    "rank": 310,
+    "english": "away",
+    "meanings": "離れて、あちらへ、留守で〔形〕遠征先での",
+    "example": "Please put your shoes away.",
+    "exampleJa": "靴を片付けてください。"
+  },
+  {
+    "rank": 311,
+    "english": "off",
+    "meanings": "離れて、去って、脱いで、〔前〕～から離れて",
+    "example": "Please turn off the light.",
+    "exampleJa": "明かりを消してください。"
+  },
+  {
+    "rank": 312,
+    "english": "out",
+    "meanings": "外へ、外に、不在で",
+    "example": "Let's go out and play.",
+    "exampleJa": "外に出て遊びましょう。"
+  },
+  {
+    "rank": 313,
+    "english": "at",
+    "meanings": "（場所・位置を示して）～で、～に、（時間を示して）～に、ある範囲内の「地点」を示すイメージ",
+    "example": "I will meet you at the station.",
+    "exampleJa": "駅であなたに会います。"
+  },
+  {
+    "rank": 314,
+    "english": "in",
+    "meanings": "（場所・位置を示して）～の中［に、で、の］、（時間を示して）～に、立体的に包まれている「内部感覚」",
+    "example": "My book is in the bag.",
+    "exampleJa": "私の本はカバンの中にあります。"
+  },
+  {
+    "rank": 315,
+    "english": "for",
+    "meanings": "～のために、（期間をあらわして）～の間、向かっている方向（→）をイメージ",
+    "example": "I bought a present for my mother.",
+    "exampleJa": "私は母のためにプレゼントを買いました。"
+  },
+  {
+    "rank": 316,
+    "english": "on",
+    "meanings": "～の上に、（日時を表して）～に、（状態）～中で、ずっとなにかにくっついてるイメージ",
+    "example": "The cat is sleeping on the sofa.",
+    "exampleJa": "猫はソファの上で寝ています。"
+  },
+  {
+    "rank": 317,
+    "english": "of",
+    "meanings": "（所有・所属を表して）～の、（部分を示して）～の中［の、で］、離れているけど繋がっている「所有・分離」イメージ",
+    "example": "This is a picture of my family.",
+    "exampleJa": "これは私の家族の写真です。"
+  },
+  {
+    "rank": 318,
+    "english": "about",
+    "meanings": "～について（の）〔副〕およそ、約、離れているけど繋がっている「所有・分離」のイメージ",
+    "example": "Let's talk about your trip.",
+    "exampleJa": "あなたの旅行について話しましょう。"
+  },
+  {
+    "rank": 319,
+    "english": "with",
+    "meanings": "～といっしょに、（道具・手段・材料を示して）～で～を使って、一方通行の関係もしくは一緒に繋がっている状態をイメージ",
+    "example": "I went to the park with my friends.",
+    "exampleJa": "私は友達と公園に行きました。"
+  },
+  {
+    "rank": 320,
+    "english": "after",
+    "meanings": "～の後に〔接〕～した後で、後ろから追いかけるイメージ",
+    "example": "I will do my homework after dinner.",
+    "exampleJa": "夕食の後で宿題をします。"
+  },
+  {
+    "rank": 321,
+    "english": "by",
+    "meanings": "～のそばに、～によって、～まで［に、は］、「近く」にいるイメージ",
+    "example": "Please sit by me.",
+    "exampleJa": "私のそばに座ってください。"
+  },
+  {
+    "rank": 322,
+    "english": "under",
+    "meanings": "～の下［に、を］～未満の、下の範囲に及んでいるイメージ",
+    "example": "The dog is sleeping under the tree.",
+    "exampleJa": "犬は木の下で寝ています。"
+  },
+  {
+    "rank": 323,
+    "english": "over",
+    "meanings": "～の上に、～を越えて〔副〕上方に、上から覆いかぶさる・乗り越えるイメージ",
+    "example": "The bird flew over my head.",
+    "exampleJa": "鳥が私の頭上を飛んでいきました。"
+  },
+  {
+    "rank": 324,
+    "english": "around",
+    "meanings": "～のまわり［を・に］～中を〔副〕まわり［を、に］、はっきりした輪っかのイメージ",
+    "example": "Let's walk around the park.",
+    "exampleJa": "公園の周りを歩きましょう。"
+  },
+  {
+    "rank": 325,
+    "english": "beside",
+    "meanings": "～のそばに",
+    "example": "My bag is beside the chair.",
+    "exampleJa": "私のかばんは椅子のそばにあります。"
+  },
+  {
+    "rank": 326,
+    "english": "between",
+    "meanings": "～の間に、～の間で、～の間の、はっきりしたものの間にあるイメージ",
+    "example": "The post office is between the bank and the school.",
+    "exampleJa": "郵便局は銀行と学校の間にあります。"
+  },
+  {
+    "rank": 327,
+    "english": "into",
+    "meanings": "～の中［へ、に］、中へ入って変化するイメージ",
+    "example": "He jumped into the pool.",
+    "exampleJa": "彼はプールに飛び込みました。"
+  },
+  {
+    "rank": 328,
+    "english": "until",
+    "meanings": "～まで（ずっと）〔接〕～するときまで、ある一点までの継続を表すイメージ",
+    "example": "I will wait here until 3 p.m.",
+    "exampleJa": "午後3時までここで待ちます。"
+  },
+  {
+    "rank": 329,
+    "english": "and",
+    "meanings": "と、そして",
+    "example": "I like apples and oranges.",
+    "exampleJa": "私はリンゴとオレンジが好きです。"
+  },
+  {
+    "rank": 330,
+    "english": "but",
+    "meanings": "しかし",
+    "example": "I want to go, but I can't.",
+    "exampleJa": "行きたいのですが、行けません。"
+  },
+  {
+    "rank": 331,
+    "english": "because",
+    "meanings": "（なぜなら）～だから、～なので",
+    "example": "I am happy because it is sunny.",
+    "exampleJa": "晴れているので、私は嬉しいです。"
+  },
+  {
+    "rank": 332,
+    "english": "if",
+    "meanings": "もし～ならば",
+    "example": "If it rains, we will stay home.",
+    "exampleJa": "もし雨が降ったら、私たちは家にいます。"
+  },
+  {
+    "rank": 333,
+    "english": "or",
+    "meanings": "か～、かあるいは～",
+    "example": "Do you want tea or coffee?",
+    "exampleJa": "紅茶かコーヒー、どちらがいいですか？"
+  },
+  {
+    "rank": 334,
+    "english": "will",
+    "meanings": "（未来への意思を表して）～するつもりだ、、（未来を表して）～だろう",
+    "example": "I will go to the park tomorrow.",
+    "exampleJa": "明日、公園に行きます。"
+  },
+  {
+    "rank": 335,
+    "english": "may",
+    "meanings": "（許可を表して）～してもよい、（推測を表して）～かもしれない",
+    "example": "You may use my pen.",
+    "exampleJa": "私のペンを使ってもいいですよ。"
+  },
+  {
+    "rank": 336,
+    "english": "should",
+    "meanings": "～すべきである、～したほうがいい",
+    "example": "You should study hard for the test.",
+    "exampleJa": "テストのために一生懸命勉強すべきです。"
+  },
+  {
+    "rank": 337,
+    "english": "could",
+    "meanings": "（canの過去形）～することができた、（Could you～？で）～していただけませんか",
+    "example": "Could you open the window, please?",
+    "exampleJa": "窓を開けていただけますか？"
+  },
+  {
+    "rank": 338,
+    "english": "would",
+    "meanings": "（would you～？で）～してくださいませんか",
+    "example": "Would you like some water?",
+    "exampleJa": "お水はいかがですか？"
+  },
+  {
+    "rank": 339,
+    "english": "must",
+    "meanings": "～しなければならない、（否定形で）～してはいけない",
+    "example": "You must clean your room now.",
+    "exampleJa": "あなたは今すぐ部屋を掃除しなければなりません。"
+  },
+  {
+    "rank": 340,
+    "english": "one",
+    "meanings": "（前に出た数えられる名詞の代わりとして）もの、１つ、〔形〕１つの、ある〔名〕１",
+    "example": "I have two pens; give me one.",
+    "exampleJa": "ペンを2本持っています。1本ください。"
+  },
+  {
+    "rank": 341,
+    "english": "another",
+    "meanings": "もう１つ、別の物、別の人、〔形〕もう１つの、もう１人の、別の",
+    "example": "Please give me another apple.",
+    "exampleJa": "もう一つリンゴをください。"
+  },
+  {
+    "rank": 342,
+    "english": "something",
+    "meanings": "（肯定文で）何か、あるもの",
+    "example": "I want something to drink.",
+    "exampleJa": "何か飲み物が欲しいです。"
+  },
+  {
+    "rank": 343,
+    "english": "anything",
+    "meanings": "（疑問文、ifの文で）なにか、（否定文）何も（肯定文）何でも",
+    "example": "Do you have anything to eat?",
+    "exampleJa": "何か食べるものはありますか？"
+  },
+  {
+    "rank": 344,
+    "english": "everyone",
+    "meanings": "だれでも、みんな",
+    "example": "Everyone likes the new teacher.",
+    "exampleJa": "みんな新しい先生が好きです。"
+  },
+  {
+    "rank": 345,
+    "english": "better",
+    "meanings": "〔形〕（goodの比較級）よりよい、（wellの比較級）よくなって、〔副〕（wellの比較級）よりじょうずに、より以上に",
+    "example": "I feel much better today.",
+    "exampleJa": "今日はだいぶ気分が良いです。"
+  },
+  {
+    "rank": 346,
+    "english": "best",
+    "meanings": "〔形〕（good,wellの最上級）最もよい、〔副〕（wellの最上級）最もよく、最もじょうずに、いちばん～",
+    "example": "This is the best book.",
+    "exampleJa": "これが一番良い本です。"
+  },
+  {
+    "rank": 347,
+    "english": "much",
+    "meanings": "〔形〕たくさんの〔副〕たいへん（比較級または最上級を強めて）ずっと",
+    "example": "I don't have much money.",
+    "exampleJa": "私はあまりお金を持っていません。"
+  },
+  {
+    "rank": 348,
+    "english": "more",
+    "meanings": "〔形〕（many,muchの比較級）もっと多い、〔副〕（muchの比較級）もっと、（more＋形容詞、副詞で）もっと～",
+    "example": "I want more time to play.",
+    "exampleJa": "もっと遊ぶ時間が欲しいです。"
+  },
+  {
+    "rank": 349,
+    "english": "than",
+    "meanings": "〔接〕（比較級の後において）～より",
+    "example": "He is taller than I am.",
+    "exampleJa": "彼は私よりも背が高いです。"
+  },
+  {
+    "rank": 350,
+    "english": "shower",
+    "meanings": "シャワー",
+    "example": "I will take a shower now.",
+    "exampleJa": "今からシャワーを浴びます。"
+  },
+  {
+    "rank": 351,
+    "english": "bath",
+    "meanings": "風呂",
+    "example": "I like to take a hot bath.",
+    "exampleJa": "私は熱いお風呂に入るのが好きです。"
+  },
+  {
+    "rank": 352,
+    "english": "bathroom",
+    "meanings": "浴室、トイレ",
+    "example": "Where is the bathroom?",
+    "exampleJa": "トイレはどこですか？"
+  },
+  {
+    "rank": 353,
+    "english": "towel",
+    "meanings": "タオル",
+    "example": "Please use this clean towel.",
+    "exampleJa": "このきれいなタオルを使ってください。"
+  },
+  {
+    "rank": 354,
+    "english": "phone",
+    "meanings": "電話〔動〕（に）電話をかける",
+    "example": "I will phone her later.",
+    "exampleJa": "後で彼女に電話します。"
+  },
+  {
+    "rank": 355,
+    "english": "radio",
+    "meanings": "ラジオ",
+    "example": "Let's listen to the radio.",
+    "exampleJa": "ラジオを聞きましょう。"
+  },
+  {
+    "rank": 356,
+    "english": "newspaper",
+    "meanings": "新聞",
+    "example": "My father reads the newspaper every morning.",
+    "exampleJa": "私の父は毎朝新聞を読みます。"
+  },
+  {
+    "rank": 357,
+    "english": "photo",
+    "meanings": "写真",
+    "example": "This is a nice photo of my family.",
+    "exampleJa": "これは私の家族の素敵な写真です。"
+  },
+  {
+    "rank": 358,
+    "english": "comic",
+    "meanings": "漫画本、コミック",
+    "example": "I like reading comic books.",
+    "exampleJa": "私は漫画本を読むのが好きです。"
+  },
+  {
+    "rank": 359,
+    "english": "sofa",
+    "meanings": "ソファー",
+    "example": "My cat is sleeping on the sofa.",
+    "exampleJa": "私の猫がソファーで寝ています。"
+  },
+  {
+    "rank": 360,
+    "english": "door",
+    "meanings": "戸，ドア",
+    "example": "Please close the door quietly.",
+    "exampleJa": "静かにドアを閉めてください。"
+  },
+  {
+    "rank": 361,
+    "english": "glass",
+    "meanings": "ガラス、コップ",
+    "example": "Can I have a glass of water?",
+    "exampleJa": "コップ一杯の水をいただけますか？"
+  },
+  {
+    "rank": 362,
+    "english": "knife",
+    "meanings": "ナイフ",
+    "example": "Be careful with that sharp knife.",
+    "exampleJa": "その鋭いナイフには気をつけてください。"
+  },
+  {
+    "rank": 363,
+    "english": "wallet",
+    "meanings": "財布、札入れ",
+    "example": "I lost my wallet yesterday.",
+    "exampleJa": "昨日、私は財布をなくしました。"
+  },
+  {
+    "rank": 364,
+    "english": "calendar",
+    "meanings": "カレンダー",
+    "example": "Let's check the date on the calendar.",
+    "exampleJa": "カレンダーで日付を確認しましょう。"
+  },
+  {
+    "rank": 365,
+    "english": "ruler",
+    "meanings": "定規",
+    "example": "Please pass me that ruler.",
+    "exampleJa": "その定規を私に渡してください。"
+  },
+  {
+    "rank": 366,
+    "english": "toy",
+    "meanings": "おもちゃ",
+    "example": "My little brother loves this toy car.",
+    "exampleJa": "私の弟はこのおもちゃの車が大好きです。"
+  },
+  {
+    "rank": 367,
+    "english": "doghouse",
+    "meanings": "犬小屋",
+    "example": "Our dog sleeps in the doghouse.",
+    "exampleJa": "私たちの犬は犬小屋で寝ます。"
+  },
+  {
+    "rank": 368,
+    "english": "date",
+    "meanings": "日付、デート",
+    "example": "What is today's date?",
+    "exampleJa": "今日の日付は何ですか？"
+  },
+  {
+    "rank": 369,
+    "english": "noon",
+    "meanings": "正午、昼の１２時",
+    "example": "Let's meet at noon.",
+    "exampleJa": "正午に会いましょう。"
+  },
+  {
+    "rank": 370,
+    "english": "dictionary",
+    "meanings": "辞書、事典",
+    "example": "I use a dictionary to learn new words.",
+    "exampleJa": "私は新しい単語を学ぶために辞書を使います。"
+  },
+  {
+    "rank": 371,
+    "english": "paper",
+    "meanings": "紙、答案用紙",
+    "example": "Write your name on the paper.",
+    "exampleJa": "紙にあなたの名前を書いてください。"
+  },
+  {
+    "rank": 372,
+    "english": "question",
+    "meanings": "質問、問題",
+    "example": "Do you have any questions?",
+    "exampleJa": "何か質問はありますか？"
+  },
+  {
+    "rank": 373,
+    "english": "floor",
+    "meanings": "床、（建物の）～階",
+    "example": "Please sit on the floor.",
+    "exampleJa": "床に座ってください。"
+  },
+  {
+    "rank": 374,
+    "english": "classroom",
+    "meanings": "教室、きょうしつ",
+    "example": "Our classroom is on the second floor.",
+    "exampleJa": "私たちの教室は2階にあります。"
+  },
+  {
+    "rank": 375,
+    "english": "blackboard",
+    "meanings": "黒板",
+    "example": "The teacher wrote on the blackboard.",
+    "exampleJa": "先生は黒板に書きました。"
+  },
+  {
+    "rank": 376,
+    "english": "eraser",
+    "meanings": "消しゴム，黒板消し",
+    "example": "I need a new eraser for my pencil.",
+    "exampleJa": "鉛筆用に新しい消しゴムが必要です。"
+  },
+  {
+    "rank": 377,
+    "english": "map",
+    "meanings": "地図",
+    "example": "Let's check the map to find the station.",
+    "exampleJa": "駅を見つけるために地図を確認しましょう。"
+  },
+  {
+    "rank": 378,
+    "english": "uniform",
+    "meanings": "制服、ユニフォーム",
+    "example": "I wear my school uniform every day.",
+    "exampleJa": "私は毎日学校の制服を着ます。"
+  },
+  {
+    "rank": 379,
+    "english": "grade",
+    "meanings": "学年、成績の点数",
+    "example": "I am in the seventh grade this year.",
+    "exampleJa": "私は今年7年生です。"
+  },
+  {
+    "rank": 380,
+    "english": "drama",
+    "meanings": "ドラマ/演劇",
+    "example": "We watched a funny drama on TV last night.",
+    "exampleJa": "昨夜、テレビで面白いドラマを見ました。"
+  },
+  {
+    "rank": 381,
+    "english": "social studies",
+    "meanings": "社会科",
+    "example": "My favorite subject is social studies.",
+    "exampleJa": "私の一番好きな科目は社会科です。"
+  },
+  {
+    "rank": 382,
+    "english": "bicycle",
+    "meanings": "自転車",
+    "example": "I ride my bicycle to school every day.",
+    "exampleJa": "私は毎日自転車で学校に行きます。"
+  },
+  {
+    "rank": 383,
+    "english": "taxi",
+    "meanings": "タクシー",
+    "example": "We took a taxi to the airport.",
+    "exampleJa": "私たちは空港までタクシーに乗りました。"
+  },
+  {
+    "rank": 384,
+    "english": "airplane",
+    "meanings": "飛行機",
+    "example": "I want to fly in an airplane someday.",
+    "exampleJa": "いつか飛行機で飛びたいです。"
+  },
+  {
+    "rank": 385,
+    "english": "plane",
+    "meanings": "飛行機",
+    "example": "My family will take a plane to Okinawa.",
+    "exampleJa": "私の家族は沖縄へ飛行機に乗る予定です。"
+  },
+  {
+    "rank": 386,
+    "english": "boat",
+    "meanings": "ボート、（小型の）船",
+    "example": "We rode a small boat on the lake.",
+    "exampleJa": "私たちは湖で小さなボートに乗りました。"
+  },
+  {
+    "rank": 387,
+    "english": "bridge",
+    "meanings": "橋",
+    "example": "Let's walk across the bridge.",
+    "exampleJa": "その橋を渡って歩きましょう。"
+  },
+  {
+    "rank": 388,
+    "english": "supermarket",
+    "meanings": "スーパーマーケット",
+    "example": "My mom often goes to the supermarket.",
+    "exampleJa": "私の母はよくスーパーマーケットに行きます。"
+  },
+  {
+    "rank": 389,
+    "english": "cafe",
+    "meanings": "喫茶店，カフェ",
+    "example": "Let's meet at the cafe after school.",
+    "exampleJa": "放課後、カフェで会いましょう。"
+  },
+  {
+    "rank": 390,
+    "english": "post office",
+    "meanings": "郵便局",
+    "example": "I need to go to the post office.",
+    "exampleJa": "私は郵便局に行く必要があります。"
+  },
+  {
+    "rank": 391,
+    "english": "stadium",
+    "meanings": "競技場、スタジアム、野球場",
+    "example": "We went to the stadium to watch a game.",
+    "exampleJa": "私たちは試合を観るために競技場へ行きました。"
+  },
+  {
+    "rank": 392,
+    "english": "theater",
+    "meanings": "劇場",
+    "example": "My sister wants to go to the theater.",
+    "exampleJa": "私の姉は劇場に行きたがっています。"
+  },
+  {
+    "rank": 393,
+    "english": "hall",
+    "meanings": "ホール、廊下",
+    "example": "Please wait for me in the hall.",
+    "exampleJa": "ホールで私を待っていてください。"
+  },
+  {
+    "rank": 394,
+    "english": "farm",
+    "meanings": "農場、農園",
+    "example": "My uncle works on a farm.",
+    "exampleJa": "私のおじは農場で働いています。"
+  },
+  {
+    "rank": 395,
+    "english": "corner",
+    "meanings": "角、隅、曲がり角",
+    "example": "The store is on the corner of the street.",
+    "exampleJa": "その店は通りの角にあります。"
+  },
+  {
+    "rank": 396,
+    "english": "hometown",
+    "meanings": "生まれ故郷",
+    "example": "My hometown is near the sea.",
+    "exampleJa": "私の生まれ故郷は海の近くです。"
+  },
+  {
+    "rank": 397,
+    "english": "vacation",
+    "meanings": "休み，休暇",
+    "example": "We will go to Hawaii for our summer vacation.",
+    "exampleJa": "私たちは夏休みでハワイに行く予定です。"
+  },
+  {
+    "rank": 398,
+    "english": "travel",
+    "meanings": "旅行、〔動〕（を）旅行する",
+    "example": "I love to travel to new places.",
+    "exampleJa": "私は新しい場所へ旅行するのが大好きです。"
+  },
+  {
+    "rank": 399,
+    "english": "festival",
+    "meanings": "祭り、～祭",
+    "example": "We enjoyed the summer festival last weekend.",
+    "exampleJa": "私たちは先週末、夏祭りを楽しんだ。"
+  },
+  {
+    "rank": 400,
+    "english": "homestay",
+    "meanings": "ホームステイ",
+    "example": "My friend will do a homestay next year.",
+    "exampleJa": "私の友達は来年ホームステイをする予定です。"
+  },
+  {
+    "rank": 401,
+    "english": "tent",
+    "meanings": "テント",
+    "example": "We will sleep in a tent tonight.",
+    "exampleJa": "私たちは今夜テントで寝ます。"
+  },
+  {
+    "rank": 402,
+    "english": "painting",
+    "meanings": "絵、絵画、絵を描くこと",
+    "example": "This painting is very beautiful.",
+    "exampleJa": "この絵はとても美しいです。"
+  },
+  {
+    "rank": 403,
+    "english": "comedy",
+    "meanings": "喜劇、コメディー",
+    "example": "I like to watch comedies with my family.",
+    "exampleJa": "私は家族とコメディーを見るのが好きです。"
+  },
+  {
+    "rank": 404,
+    "english": "gift",
+    "meanings": "贈り物",
+    "example": "She gave me a nice gift.",
+    "exampleJa": "彼女は私に素敵な贈り物をくれました。"
+  },
+  {
+    "rank": 405,
+    "english": "stomachache",
+    "meanings": "胃痛、腹痛",
+    "example": "I have a stomachache now.",
+    "exampleJa": "私は今、お腹が痛いです。"
+  },
+  {
+    "rank": 406,
+    "english": "headache",
+    "meanings": "頭痛",
+    "example": "He has a bad headache today.",
+    "exampleJa": "彼は今日ひどい頭痛がします。"
+  },
+  {
+    "rank": 407,
+    "english": "people",
+    "meanings": "人々",
+    "example": "Many people came to the park.",
+    "exampleJa": "多くの人々が公園に来ました。"
+  },
+  {
+    "rank": 408,
+    "english": "writer",
+    "meanings": "筆者、作家",
+    "example": "My dream is to be a writer.",
+    "exampleJa": "私の夢は作家になることです。"
+  },
+  {
+    "rank": 409,
+    "english": "artist",
+    "meanings": "芸術家、画家",
+    "example": "He is a famous artist.",
+    "exampleJa": "彼は有名な芸術家です。"
+  },
+  {
+    "rank": 410,
+    "english": "singer",
+    "meanings": "歌手",
+    "example": "She wants to be a singer.",
+    "exampleJa": "彼女は歌手になりたがっています。"
+  },
+  {
+    "rank": 411,
+    "english": "pianist",
+    "meanings": "ピアニスト",
+    "example": "My sister is a good pianist.",
+    "exampleJa": "私の姉は良いピアニストです。"
+  },
+  {
+    "rank": 412,
+    "english": "driver",
+    "meanings": "運転手、ドライバー",
+    "example": "My father is a bus driver.",
+    "exampleJa": "私の父はバスの運転手です。"
+  },
+  {
+    "rank": 413,
+    "english": "waiter",
+    "meanings": "ウエイター",
+    "example": "The waiter brought us water.",
+    "exampleJa": "ウエイターが私たちに水を持ってきました。"
+  },
+  {
+    "rank": 414,
+    "english": "famer",
+    "meanings": "農場主、農業経営者",
+    "example": "His uncle is a farmer.",
+    "exampleJa": "彼のおじさんは農場主です。"
+  },
+  {
+    "rank": 415,
+    "english": "coach",
+    "meanings": "コーチ、指導者〔動〕をコーチ［指導］する",
+    "example": "Our baseball coach is very kind.",
+    "exampleJa": "私たちの野球のコーチはとても親切です。"
+  },
+  {
+    "rank": 416,
+    "english": "sir",
+    "meanings": "（男性に対して）お客様",
+    "example": "Can I help you, sir?",
+    "exampleJa": "お客様、何かお手伝いしましょうか？"
+  },
+  {
+    "rank": 417,
+    "english": "visitor",
+    "meanings": "訪問者、宿泊客",
+    "example": "Many visitors came to our school.",
+    "exampleJa": "多くの訪問者が私たちの学校に来ました。"
+  },
+  {
+    "rank": 418,
+    "english": "wife",
+    "meanings": "妻",
+    "example": "His wife is a teacher.",
+    "exampleJa": "彼の妻は先生です。"
+  },
+  {
+    "rank": 419,
+    "english": "uncle",
+    "meanings": "おじ",
+    "example": "My uncle lives in Kyoto.",
+    "exampleJa": "私のおじは京都に住んでいます。"
+  },
+  {
+    "rank": 420,
+    "english": "baby",
+    "meanings": "赤ちゃん",
+    "example": "The baby is sleeping now.",
+    "exampleJa": "赤ちゃんは今寝ています。"
+  },
+  {
+    "rank": 421,
+    "english": "children",
+    "meanings": "子供たち",
+    "example": "The children are playing in the park.",
+    "exampleJa": "子供たちは公園で遊んでいます。"
+  },
+  {
+    "rank": 422,
+    "english": "daughter",
+    "meanings": "娘",
+    "example": "My daughter loves to sing.",
+    "exampleJa": "私の娘は歌うのが大好きです。"
+  },
+  {
+    "rank": 423,
+    "english": "cousin",
+    "meanings": "いとこ",
+    "example": "My cousin came to see me.",
+    "exampleJa": "私のいとこが私に会いに来ました。"
+  },
+  {
+    "rank": 424,
+    "english": "wedding",
+    "meanings": "結婚式、結婚記念日",
+    "example": "They went to a wedding last month.",
+    "exampleJa": "彼らは先月結婚式に行きました。"
+  },
+  {
+    "rank": 425,
+    "english": "dessert",
+    "meanings": "デザート",
+    "example": "I want some dessert after dinner.",
+    "exampleJa": "私は夕食の後にデザートが欲しいです。"
+  },
+  {
+    "rank": 426,
+    "english": "ice cream",
+    "meanings": "アイスクリーム",
+    "example": "I want some ice cream.",
+    "exampleJa": "私はアイスクリームが欲しいです。"
+  },
+  {
+    "rank": 427,
+    "english": "candy",
+    "meanings": "キャンディ",
+    "example": "Do you like this candy?",
+    "exampleJa": "あなたはこのキャンディが好きですか？"
+  },
+  {
+    "rank": 428,
+    "english": "doughnut",
+    "meanings": "ドーナツ",
+    "example": "She bought a sweet doughnut.",
+    "exampleJa": "彼女は甘いドーナツを買いました。"
+  },
+  {
+    "rank": 429,
+    "english": "cookie",
+    "meanings": "クッキー",
+    "example": "My mom bakes cookies.",
+    "exampleJa": "私の母はクッキーを焼きます。"
+  },
+  {
+    "rank": 430,
+    "english": "pie",
+    "meanings": "パイ",
+    "example": "Let's eat apple pie.",
+    "exampleJa": "アップルパイを食べましょう。"
+  },
+  {
+    "rank": 431,
+    "english": "butter",
+    "meanings": "バター",
+    "example": "Put butter on the bread.",
+    "exampleJa": "パンにバターを塗ってね。"
+  },
+  {
+    "rank": 432,
+    "english": "bread",
+    "meanings": "パン",
+    "example": "We eat bread for breakfast.",
+    "exampleJa": "私たちは朝食にパンを食べます。"
+  },
+  {
+    "rank": 433,
+    "english": "sandwich",
+    "meanings": "サンドイッチ",
+    "example": "I made a sandwich for lunch.",
+    "exampleJa": "私は昼食にサンドイッチを作りました。"
+  },
+  {
+    "rank": 434,
+    "english": "spaghetti",
+    "meanings": "スパゲッティ",
+    "example": "My sister loves spaghetti.",
+    "exampleJa": "私の姉はスパゲッティが大好きです。"
+  },
+  {
+    "rank": 435,
+    "english": "pasta",
+    "meanings": "パスタ",
+    "example": "Let's cook pasta tonight.",
+    "exampleJa": "今夜パスタを作りましょう。"
+  },
+  {
+    "rank": 436,
+    "english": "noodle",
+    "meanings": "麺類、ヌードル",
+    "example": "Do you like hot noodles?",
+    "exampleJa": "熱い麺類は好きですか？"
+  },
+  {
+    "rank": 437,
+    "english": "rice",
+    "meanings": "米、ごはん",
+    "example": "We eat rice every day.",
+    "exampleJa": "私たちは毎日ごはんを食べます。"
+  },
+  {
+    "rank": 438,
+    "english": "salt",
+    "meanings": "塩",
+    "example": "Please pass me the salt.",
+    "exampleJa": "塩を取ってください。"
+  },
+  {
+    "rank": 439,
+    "english": "beef",
+    "meanings": "牛肉",
+    "example": "I like beef stew.",
+    "exampleJa": "私はビーフシチューが好きです。"
+  },
+  {
+    "rank": 440,
+    "english": "chicken",
+    "meanings": "鶏肉、ニワトリ",
+    "example": "We will eat chicken for dinner.",
+    "exampleJa": "私たちは夕食に鶏肉を食べます。"
+  },
+  {
+    "rank": 441,
+    "english": "meat",
+    "meanings": "肉",
+    "example": "My dog likes meat.",
+    "exampleJa": "私の犬は肉が好きです。"
+  },
+  {
+    "rank": 442,
+    "english": "steak",
+    "meanings": "ステーキ",
+    "example": "He cooked a delicious steak.",
+    "exampleJa": "彼はおいしいステーキを料理しました。"
+  },
+  {
+    "rank": 443,
+    "english": "sausage",
+    "meanings": "ソーセージ",
+    "example": "I eat sausages for breakfast.",
+    "exampleJa": "私は朝食にソーセージを食べます。"
+  },
+  {
+    "rank": 444,
+    "english": "fruit",
+    "meanings": "果物",
+    "example": "Eat more fruit and vegetables.",
+    "exampleJa": "もっと果物と野菜を食べなさい。"
+  },
+  {
+    "rank": 445,
+    "english": "cherry",
+    "meanings": "さくらんぼ or チェリー",
+    "example": "I like sweet cherries.",
+    "exampleJa": "私は甘いさくらんぼが好きです。"
+  },
+  {
+    "rank": 446,
+    "english": "strawberry",
+    "meanings": "イチゴ",
+    "example": "My sister loves strawberries.",
+    "exampleJa": "私の妹はイチゴが大好きです。"
+  },
+  {
+    "rank": 447,
+    "english": "pineapple",
+    "meanings": "パイナップル",
+    "example": "Do you want some pineapple?",
+    "exampleJa": "パイナップルはいかがですか？"
+  },
+  {
+    "rank": 448,
+    "english": "pumpkin",
+    "meanings": "カボチャ",
+    "example": "We made a pumpkin pie.",
+    "exampleJa": "私たちはカボチャパイを作りました。"
+  },
+  {
+    "rank": 449,
+    "english": "onion",
+    "meanings": "タマネギ",
+    "example": "Cut the onion into small pieces.",
+    "exampleJa": "タマネギを小さく切ってね。"
+  },
+  {
+    "rank": 450,
+    "english": "snack",
+    "meanings": "スナック、軽食、おやつ",
+    "example": "I want a small snack.",
+    "exampleJa": "私はちょっとしたおやつが欲しいです。"
+  },
+  {
+    "rank": 451,
+    "english": "snow",
+    "meanings": "雪〔動〕雪が降る",
+    "example": "It will snow tomorrow.",
+    "exampleJa": "明日、雪が降るでしょう。"
+  },
+  {
+    "rank": 452,
+    "english": "cloud",
+    "meanings": "雲",
+    "example": "There are many clouds in the sky.",
+    "exampleJa": "空にはたくさんの雲があります。"
+  },
+  {
+    "rank": 453,
+    "english": "sun",
+    "meanings": "太陽，日光",
+    "example": "The sun is very bright today.",
+    "exampleJa": "今日は太陽がとても明るいです。"
+  },
+  {
+    "rank": 454,
+    "english": "sky",
+    "meanings": "空",
+    "example": "Look at the beautiful blue sky!",
+    "exampleJa": "あの美しい青い空を見て！"
+  },
+  {
+    "rank": 455,
+    "english": "season",
+    "meanings": "季節 きせつ",
+    "example": "What is your favorite season?",
+    "exampleJa": "あなたの好きな季節は何ですか？"
+  },
+  {
+    "rank": 456,
+    "english": "autumn",
+    "meanings": "秋",
+    "example": "Autumn is a beautiful season in Japan.",
+    "exampleJa": "秋は日本で美しい季節です。"
+  },
+  {
+    "rank": 457,
+    "english": "sea",
+    "meanings": "海",
+    "example": "We went to the sea last summer.",
+    "exampleJa": "私たちは去年の夏、海へ行きました。"
+  },
+  {
+    "rank": 458,
+    "english": "ocean",
+    "meanings": "大洋、海",
+    "example": "The ocean is very big and deep.",
+    "exampleJa": "海はとても大きくて深いです。"
+  },
+  {
+    "rank": 459,
+    "english": "turtle",
+    "meanings": "亀",
+    "example": "A turtle walks very slowly.",
+    "exampleJa": "カメはとてもゆっくり歩きます。"
+  },
+  {
+    "rank": 460,
+    "english": "lake",
+    "meanings": "湖",
+    "example": "There is a beautiful lake near my house.",
+    "exampleJa": "私の家の近くに美しい湖があります。"
+  },
+  {
+    "rank": 461,
+    "english": "horse",
+    "meanings": "馬 うま",
+    "example": "I want to ride a horse someday.",
+    "exampleJa": "私はいつか馬に乗りたいです。"
+  },
+  {
+    "rank": 462,
+    "english": "pig",
+    "meanings": "ブタ",
+    "example": "We saw a big pig on the farm.",
+    "exampleJa": "私たちは農場で大きなブタを見ました。"
+  },
+  {
+    "rank": 463,
+    "english": "hamster",
+    "meanings": "ハムスター",
+    "example": "My sister has a cute hamster.",
+    "exampleJa": "私の妹はかわいいハムスターを飼っています。"
+  },
+  {
+    "rank": 464,
+    "english": "music",
+    "meanings": "音楽",
+    "example": "I like listening to music.",
+    "exampleJa": "私は音楽を聴くのが好きです。"
+  },
+  {
+    "rank": 465,
+    "english": "musician",
+    "meanings": "音楽家、ミュージシャン",
+    "example": "My dream is to be a musician.",
+    "exampleJa": "私の夢は音楽家になることです。"
+  },
+  {
+    "rank": 466,
+    "english": "pop music",
+    "meanings": "ポピュラー音楽、ポップス",
+    "example": "My brother likes pop music very much.",
+    "exampleJa": "私の兄はポップスが大好きです。"
+  },
+  {
+    "rank": 467,
+    "english": "band",
+    "meanings": "バンド、楽団",
+    "example": "My brother plays guitar in a band.",
+    "exampleJa": "私の兄はバンドでギターを弾いています。"
+  },
+  {
+    "rank": 468,
+    "english": "drum",
+    "meanings": "ドラム",
+    "example": "Can you play the drum?",
+    "exampleJa": "あなたはドラムを叩けますか？"
+  },
+  {
+    "rank": 469,
+    "english": "flute",
+    "meanings": "フルート",
+    "example": "She can play the flute beautifully.",
+    "exampleJa": "彼女はフルートを美しく演奏できます。"
+  },
+  {
+    "rank": 470,
+    "english": "trumpet",
+    "meanings": "トランペット",
+    "example": "He wants to learn the trumpet.",
+    "exampleJa": "彼はトランペットを習いたがっています。"
+  },
+  {
+    "rank": 471,
+    "english": "clothes",
+    "meanings": "衣服",
+    "example": "I need to buy new clothes.",
+    "exampleJa": "私は新しい服を買う必要があります。"
+  },
+  {
+    "rank": 472,
+    "english": "coat",
+    "meanings": "コート、上着",
+    "example": "Please wear your coat. It's cold.",
+    "exampleJa": "コートを着なさい。寒いです。"
+  },
+  {
+    "rank": 473,
+    "english": "sweater",
+    "meanings": "セーター",
+    "example": "This sweater is warm and soft.",
+    "exampleJa": "このセーターは暖かくて柔らかいです。"
+  },
+  {
+    "rank": 474,
+    "english": "glove",
+    "meanings": "手袋、グローブ",
+    "example": "Don't forget your gloves.",
+    "exampleJa": "手袋を忘れないでね。"
+  },
+  {
+    "rank": 475,
+    "english": "tie",
+    "meanings": "ネクタイ",
+    "example": "He wears a tie for work.",
+    "exampleJa": "彼は仕事のためにネクタイをします。"
+  },
+  {
+    "rank": 476,
+    "english": "glasses",
+    "meanings": "メガネ",
+    "example": "My father wears glasses.",
+    "exampleJa": "私の父はメガネをかけています。"
+  },
+  {
+    "rank": 477,
+    "english": "sock",
+    "meanings": "靴下、ソックス",
+    "example": "I need new socks.",
+    "exampleJa": "私は新しい靴下が必要です。"
+  },
+  {
+    "rank": 478,
+    "english": "umbrella",
+    "meanings": "かさ",
+    "example": "Do you have an umbrella?",
+    "exampleJa": "かさを持っていますか？"
+  },
+  {
+    "rank": 479,
+    "english": "gray",
+    "meanings": "灰色、グレー〔形〕灰色［グレー］の",
+    "example": "My cat is gray.",
+    "exampleJa": "私の猫は灰色です。"
+  },
+  {
+    "rank": 480,
+    "english": "gold",
+    "meanings": "金〔形〕金（製）の",
+    "example": "This ring is gold.",
+    "exampleJa": "この指輪は金色です。"
+  },
+  {
+    "rank": 481,
+    "english": "dollar",
+    "meanings": "（米国・カナダなどの貨幣単位）ドル",
+    "example": "It costs five dollars.",
+    "exampleJa": "それは5ドルです。"
+  },
+  {
+    "rank": 482,
+    "english": "yen",
+    "meanings": "円",
+    "example": "This book is 800 yen.",
+    "exampleJa": "この本は800円です。"
+  },
+  {
+    "rank": 483,
+    "english": "world",
+    "meanings": "世界、世の中",
+    "example": "I want to travel the world.",
+    "exampleJa": "私は世界を旅行したいです。"
+  },
+  {
+    "rank": 484,
+    "english": "country",
+    "meanings": "国、（theをつけて）いなか",
+    "example": "Which country do you like?",
+    "exampleJa": "どの国が好きですか？"
+  },
+  {
+    "rank": 485,
+    "english": "America",
+    "meanings": "アメリカ合衆国",
+    "example": "My uncle lives in America.",
+    "exampleJa": "私のおじはアメリカに住んでいます。"
+  },
+  {
+    "rank": 486,
+    "english": "Canada",
+    "meanings": "カナダ",
+    "example": "Canada is a big country.",
+    "exampleJa": "カナダは大きな国です。"
+  },
+  {
+    "rank": 487,
+    "english": "Australia",
+    "meanings": "オーストラリア",
+    "example": "I want to visit Australia.",
+    "exampleJa": "私はオーストラリアを訪れたいです。"
+  },
+  {
+    "rank": 488,
+    "english": "France",
+    "meanings": "フランス",
+    "example": "France is famous for art.",
+    "exampleJa": "フランスは芸術で有名です。"
+  },
+  {
+    "rank": 489,
+    "english": "Italy",
+    "meanings": "イタリア",
+    "example": "My dream is to go to Italy.",
+    "exampleJa": "私の夢はイタリアに行くことです。"
+  },
+  {
+    "rank": 490,
+    "english": "China",
+    "meanings": "中国",
+    "example": "China is in Asia.",
+    "exampleJa": "中国はアジアにあります。"
+  },
+  {
+    "rank": 491,
+    "english": "Korea",
+    "meanings": "韓国・朝鮮",
+    "example": "I want to go to Korea.",
+    "exampleJa": "私は韓国に行きたいです。"
+  },
+  {
+    "rank": 492,
+    "english": "Mexico",
+    "meanings": "メキシコ",
+    "example": "My friend is from Mexico.",
+    "exampleJa": "私の友達はメキシコ出身です。"
+  },
+  {
+    "rank": 493,
+    "english": "London",
+    "meanings": "ロンドン",
+    "example": "I want to visit London someday.",
+    "exampleJa": "私はいつかロンドンを訪れたいです。"
+  },
+  {
+    "rank": 494,
+    "english": "Hawaii",
+    "meanings": "（アメリカの）ハワイ州、ハワイ島",
+    "example": "I went to Hawaii last year.",
+    "exampleJa": "私は昨年ハワイに行きました。"
+  },
+  {
+    "rank": 495,
+    "english": "golf",
+    "meanings": "ゴルフ",
+    "example": "My father plays golf.",
+    "exampleJa": "私の父はゴルフをします。"
+  },
+  {
+    "rank": 496,
+    "english": "football",
+    "meanings": "フットボール",
+    "example": "Let's play football together!",
+    "exampleJa": "一緒にフットボールをしよう！"
+  },
+  {
+    "rank": 497,
+    "english": "bowling",
+    "meanings": "ボウリング",
+    "example": "We went bowling last Sunday.",
+    "exampleJa": "私たちは先週の日曜日にボウリングに行きました。"
+  },
+  {
+    "rank": 498,
+    "english": "match",
+    "meanings": "試合、競争相手",
+    "example": "Our team won the match.",
+    "exampleJa": "私たちのチームは試合に勝ちました。"
+  },
+  {
+    "rank": 499,
+    "english": "ice-skating",
+    "meanings": "アイススケート",
+    "example": "I like ice-skating.",
+    "exampleJa": "私はアイススケートが好きです。"
+  },
+  {
+    "rank": 500,
+    "english": "surfing",
+    "meanings": "サーフィン、波乗り",
+    "example": "He wants to try surfing.",
+    "exampleJa": "彼はサーフィンをやってみたいと思っています。"
+  },
+  {
+    "rank": 501,
+    "english": "wresting",
+    "meanings": "レスリング",
+    "example": "My brother likes wresting very much.",
+    "exampleJa": "私の兄はレスリングが大好きです。"
+  },
+  {
+    "rank": 502,
+    "english": "idea",
+    "meanings": "考え、アイデア",
+    "example": "I have a good idea for the party.",
+    "exampleJa": "パーティーのために良い考えがあります。"
+  },
+  {
+    "rank": 503,
+    "english": "news",
+    "meanings": "ニュース、報道",
+    "example": "I watch the news every morning.",
+    "exampleJa": "私は毎朝ニュースを見ます。"
+  },
+  {
+    "rank": 504,
+    "english": "problem",
+    "meanings": "問題",
+    "example": "Do you have any problems with your homework?",
+    "exampleJa": "宿題で何か問題がありますか？"
+  },
+  {
+    "rank": 505,
+    "english": "Internet",
+    "meanings": "インターネット",
+    "example": "I use the Internet to study English.",
+    "exampleJa": "私は英語を勉強するためにインターネットを使います。"
+  },
+  {
+    "rank": 506,
+    "english": "website",
+    "meanings": "ウェブサイト",
+    "example": "This website is very useful for homework.",
+    "exampleJa": "このウェブサイトは宿題にとても役立ちます。"
+  },
+  {
+    "rank": 507,
+    "english": "mail",
+    "meanings": "郵便（物）〔動〕を郵便で送る",
+    "example": "I will mail this letter tomorrow.",
+    "exampleJa": "私は明日この手紙を郵便で送ります。"
+  },
+  {
+    "rank": 508,
+    "english": "message",
+    "meanings": "伝言、メッセージ",
+    "example": "I got a message from my friend.",
+    "exampleJa": "私は友達からメッセージを受け取りました。"
+  },
+  {
+    "rank": 509,
+    "english": "language",
+    "meanings": "言語、言葉",
+    "example": "English is an important language.",
+    "exampleJa": "英語は重要な言語です。"
+  },
+  {
+    "rank": 510,
+    "english": "card",
+    "meanings": "カード、はがき、トランプの札",
+    "example": "I sent a birthday card to my mother.",
+    "exampleJa": "私は母に誕生日カードを送りました。"
+  },
+  {
+    "rank": 511,
+    "english": "stamp",
+    "meanings": "切手、印〔動〕に判を押す",
+    "example": "I need a stamp for this letter.",
+    "exampleJa": "この手紙には切手が必要です。"
+  },
+  {
+    "rank": 512,
+    "english": "passport",
+    "meanings": "パスポート",
+    "example": "Do you have your passport for the trip?",
+    "exampleJa": "旅行のためにパスポートを持っていますか？"
+  },
+  {
+    "rank": 513,
+    "english": "Christmas",
+    "meanings": "クリスマス",
+    "example": "We will have a party for Christmas.",
+    "exampleJa": "私たちはクリスマスにパーティーを開きます。"
+  },
+  {
+    "rank": 514,
+    "english": "dream",
+    "meanings": "夢〔動〕夢を見る",
+    "example": "I had a strange dream last night.",
+    "exampleJa": "昨夜、変な夢を見ました。"
+  },
+  {
+    "rank": 515,
+    "english": "life",
+    "meanings": "生活、生命、一生、人生",
+    "example": "I enjoy my school life very much.",
+    "exampleJa": "私は学校生活をとても楽しんでいます。"
+  },
+  {
+    "rank": 516,
+    "english": "list",
+    "meanings": "リスト、名簿",
+    "example": "Please make a shopping list for me.",
+    "exampleJa": "私のために買い物リストを作ってください。"
+  },
+  {
+    "rank": 517,
+    "english": "prize",
+    "meanings": "賞、賞品、賞金",
+    "example": "She won the first prize in the race.",
+    "exampleJa": "彼女はそのレースで1等賞を取りました。"
+  },
+  {
+    "rank": 518,
+    "english": "haircut",
+    "meanings": "髪のカット",
+    "example": "I need a haircut next week.",
+    "exampleJa": "来週、髪を切る必要があります。"
+  },
+  {
+    "rank": 519,
+    "english": "size",
+    "meanings": "大きさ、寸法",
+    "example": "What size shoes do you wear?",
+    "exampleJa": "何サイズの靴を履いていますか？"
+  },
+  {
+    "rank": 520,
+    "english": "part",
+    "meanings": "部分、役割",
+    "example": "I want to be a part of the team.",
+    "exampleJa": "私はそのチームの一員になりたいです。"
+  },
+  {
+    "rank": 521,
+    "english": "seat",
+    "meanings": "座席",
+    "example": "Please take your seat quickly.",
+    "exampleJa": "早く席に着いてください。"
+  },
+  {
+    "rank": 522,
+    "english": "machine",
+    "meanings": "機械",
+    "example": "This machine makes hot coffee.",
+    "exampleJa": "この機械は熱いコーヒーを作ります。"
+  },
+  {
+    "rank": 523,
+    "english": "cook",
+    "meanings": "（を）料理する〔名〕料理する人、コック",
+    "example": "My mother cooks dinner every day.",
+    "exampleJa": "私の母は毎日夕食を料理します。"
+  },
+  {
+    "rank": 524,
+    "english": "leave",
+    "meanings": "（を）出発する、（を）去る、を置き忘れる",
+    "example": "Don't leave your bag here.",
+    "exampleJa": "ここにあなたのカバンを置きっぱなしにしないでください。"
+  },
+  {
+    "rank": 525,
+    "english": "clean",
+    "meanings": "（を）きれいにする、掃除する〔形〕きれいな、清潔な",
+    "example": "Please clean your room now.",
+    "exampleJa": "今すぐあなたの部屋を掃除してください。"
+  },
+  {
+    "rank": 526,
+    "english": "sleep",
+    "meanings": "眠る、〔名〕睡眠",
+    "example": "I usually sleep eight hours every night.",
+    "exampleJa": "私はたいてい毎晩8時間眠ります。"
+  },
+  {
+    "rank": 527,
+    "english": "begin",
+    "meanings": "を始める、始まる",
+    "example": "The movie will begin at 7 p.m.",
+    "exampleJa": "その映画は午後7時に始まります。"
+  },
+  {
+    "rank": 528,
+    "english": "send",
+    "meanings": "を送る",
+    "example": "I will send you an email later.",
+    "exampleJa": "後であなたにEメールを送ります。"
+  },
+  {
+    "rank": 529,
+    "english": "learn",
+    "meanings": "（を）学ぶ、（を）習う",
+    "example": "We learn English at school every day.",
+    "exampleJa": "私たちは毎日学校で英語を学びます。"
+  },
+  {
+    "rank": 530,
+    "english": "dance",
+    "meanings": "踊る〔名〕ダンス",
+    "example": "Let's dance together at the party!",
+    "exampleJa": "パーティーで一緒に踊りましょう！"
+  },
+  {
+    "rank": 531,
+    "english": "move",
+    "meanings": "を動かす、動く、引っ越す",
+    "example": "My family will move to a new house next month.",
+    "exampleJa": "私の家族は来月新しい家に引っ越します。"
+  },
+  {
+    "rank": 532,
+    "english": "sit",
+    "meanings": "すわる、すわっている",
+    "example": "Please sit down here and wait.",
+    "exampleJa": "ここに座ってお待ちください。"
+  },
+  {
+    "rank": 533,
+    "english": "win",
+    "meanings": "（に）勝つ、を勝ち取る",
+    "example": "Our team wants to win the game.",
+    "exampleJa": "私たちのチームはその試合に勝ちたいです。"
+  },
+  {
+    "rank": 534,
+    "english": "carry",
+    "meanings": "を運ぶ、を持ち歩く",
+    "example": "Can you help me carry this bag?",
+    "exampleJa": "このカバンを運ぶのを手伝ってくれますか？"
+  },
+  {
+    "rank": 535,
+    "english": "draw",
+    "meanings": "（線を）引く、（絵・図を）かく",
+    "example": "My sister likes to draw pictures of animals.",
+    "exampleJa": "私の妹は動物の絵を描くのが好きです。"
+  },
+  {
+    "rank": 536,
+    "english": "surprise",
+    "meanings": "を驚かせる、をびっくりさせる〔名〕びっくりさせること",
+    "example": "The news will surprise everyone.",
+    "exampleJa": "その知らせはみんなを驚かせるでしょう。"
+  },
+  {
+    "rank": 537,
+    "english": "happen",
+    "meanings": "（偶然）起こる",
+    "example": "What happened to you yesterday?",
+    "exampleJa": "昨日、あなたに何が起こったのですか？"
+  },
+  {
+    "rank": 538,
+    "english": "smile",
+    "meanings": "ほほえむ〔名〕ほほえみ",
+    "example": "He always smiles when he is happy.",
+    "exampleJa": "彼は嬉しい時いつも微笑みます。"
+  },
+  {
+    "rank": 539,
+    "english": "relax",
+    "meanings": "をくつろがせる、くつろぐ",
+    "example": "Let's relax at home this weekend.",
+    "exampleJa": "今週末は家でくつろぎましょう。"
+  },
+  {
+    "rank": 540,
+    "english": "check",
+    "meanings": "をチェックする、を点検する、〔名〕チェック、点検",
+    "example": "I need to check my email.",
+    "exampleJa": "私はEメールをチェックする必要があります。"
+  },
+  {
+    "rank": 541,
+    "english": "remember",
+    "meanings": "（を）思い出す、（を）覚えている",
+    "example": "Do you remember his name?",
+    "exampleJa": "あなたは彼の名前を覚えていますか？"
+  },
+  {
+    "rank": 542,
+    "english": "understand",
+    "meanings": "（を）理解する",
+    "example": "I don't understand this math problem.",
+    "exampleJa": "私はこの数学の問題が理解できません。"
+  },
+  {
+    "rank": 543,
+    "english": "enter",
+    "meanings": "に入る",
+    "example": "Please enter the room quietly.",
+    "exampleJa": "静かに部屋に入ってください。"
+  },
+  {
+    "rank": 544,
+    "english": "share",
+    "meanings": "を共有する、を分け合う〔名〕分け前",
+    "example": "Let's share this cake together.",
+    "exampleJa": "このケーキを一緒に分け合いましょう。"
+  },
+  {
+    "rank": 545,
+    "english": "miss",
+    "meanings": "をのがす、がいなくてさびしいと思う",
+    "example": "I miss my friends when they are away.",
+    "exampleJa": "友達がいないと寂しいです。"
+  },
+  {
+    "rank": 546,
+    "english": "rainy",
+    "meanings": "雨の、雨降りの",
+    "example": "It will be rainy tomorrow.",
+    "exampleJa": "明日は雨が降るでしょう。"
+  },
+  {
+    "rank": 547,
+    "english": "windy",
+    "meanings": "風の強い、風の吹く",
+    "example": "It was windy yesterday.",
+    "exampleJa": "昨日は風が強かったです。"
+  },
+  {
+    "rank": 548,
+    "english": "cool",
+    "meanings": "涼しい、かっこいい、冷たい",
+    "example": "The weather is cool today.",
+    "exampleJa": "今日は涼しい天気です。"
+  },
+  {
+    "rank": 549,
+    "english": "easy",
+    "meanings": "やさしい、簡単な、気楽な",
+    "example": "This English test was very easy.",
+    "exampleJa": "この英語のテストはとても簡単でした。"
+  },
+  {
+    "rank": 550,
+    "english": "heavy",
+    "meanings": "重い、大量の",
+    "example": "This box is too heavy for me.",
+    "exampleJa": "この箱は私には重すぎます。"
+  },
+  {
+    "rank": 551,
+    "english": "light",
+    "meanings": "軽い、明るい〔名〕光、明るさ、明かり",
+    "example": "This box is very light.",
+    "exampleJa": "この箱はとても軽いです。"
+  },
+  {
+    "rank": 552,
+    "english": "large",
+    "meanings": "大きい、多数の、多量の",
+    "example": "Our school has a large gym.",
+    "exampleJa": "私たちの学校には大きな体育館があります。"
+  },
+  {
+    "rank": 553,
+    "english": "medium",
+    "meanings": "中くらいの",
+    "example": "I want a medium size T-shirt.",
+    "exampleJa": "私はMサイズのTシャツが欲しいです。"
+  },
+  {
+    "rank": 554,
+    "english": "littie",
+    "meanings": "小さい、（小さくて）かわいらしい",
+    "example": "She has a little dog.",
+    "exampleJa": "彼女は小さい犬を飼っています。"
+  },
+  {
+    "rank": 555,
+    "english": "busy",
+    "meanings": "忙しい、にぎやかな",
+    "example": "My mom is busy today.",
+    "exampleJa": "私のお母さんは今日忙しいです。"
+  },
+  {
+    "rank": 556,
+    "english": "tired",
+    "meanings": "疲れた、あきた",
+    "example": "I am tired after school.",
+    "exampleJa": "私は放課後疲れています。"
+  },
+  {
+    "rank": 557,
+    "english": "sleepy",
+    "meanings": "眠い、眠そうな",
+    "example": "He is very sleepy now.",
+    "exampleJa": "彼は今とても眠いです。"
+  },
+  {
+    "rank": 558,
+    "english": "healthy",
+    "meanings": "健康な",
+    "example": "Eat vegetables to be healthy.",
+    "exampleJa": "健康になるために野菜を食べなさい。"
+  },
+  {
+    "rank": 559,
+    "english": "strong",
+    "meanings": "強い",
+    "example": "My father is very strong.",
+    "exampleJa": "私の父はとても強いです。"
+  },
+  {
+    "rank": 560,
+    "english": "angry",
+    "meanings": "怒った、腹を立てた",
+    "example": "My brother was angry at me.",
+    "exampleJa": "私の兄（弟）は私に怒っていました。"
+  },
+  {
+    "rank": 561,
+    "english": "sad",
+    "meanings": "悲しい",
+    "example": "I was sad yesterday.",
+    "exampleJa": "私は昨日悲しかったです。"
+  },
+  {
+    "rank": 562,
+    "english": "excited",
+    "meanings": "（人が）興奮した、わくわくした",
+    "example": "We were excited about the game.",
+    "exampleJa": "私たちはその試合にわくわくしました。"
+  },
+  {
+    "rank": 563,
+    "english": "exciting",
+    "meanings": "（人を）興奮させる、わくわくさせる",
+    "example": "This game is very exciting.",
+    "exampleJa": "この試合はとてもわくわくします。"
+  },
+  {
+    "rank": 564,
+    "english": "boring",
+    "meanings": "たいくつな、うんざりする",
+    "example": "The movie was boring.",
+    "exampleJa": "その映画は退屈でした。"
+  },
+  {
+    "rank": 565,
+    "english": "funny",
+    "meanings": "おかしな、面白い",
+    "example": "He told a funny story.",
+    "exampleJa": "彼はおかしな話をしました。"
+  },
+  {
+    "rank": 566,
+    "english": "sweet",
+    "meanings": "甘い〔名〕甘いお菓子",
+    "example": "This cake is very sweet.",
+    "exampleJa": "このケーキはとても甘いです。"
+  },
+  {
+    "rank": 567,
+    "english": "close",
+    "meanings": "ごく近い、親密な",
+    "example": "My house is close to school.",
+    "exampleJa": "私の家は学校に近いです。"
+  },
+  {
+    "rank": 568,
+    "english": "far",
+    "meanings": "遠い〔副〕遠くに",
+    "example": "The station is far from here.",
+    "exampleJa": "駅はここから遠いです。"
+  },
+  {
+    "rank": 569,
+    "english": "wonderful",
+    "meanings": "すばらしい、すてきな",
+    "example": "We had a wonderful time.",
+    "exampleJa": "私たちは素晴らしい時間を過ごしました。"
+  },
+  {
+    "rank": 570,
+    "english": "same",
+    "meanings": "同じ",
+    "example": "We have the same bag.",
+    "exampleJa": "私たちは同じカバンを持っています。"
+  },
+  {
+    "rank": 571,
+    "english": "both",
+    "meanings": "両方の〔代〕両方",
+    "example": "Both of them like sports.",
+    "exampleJa": "彼らは両方ともスポーツが好きです。"
+  },
+  {
+    "rank": 572,
+    "english": "each",
+    "meanings": "それぞれの、各自の〔代〕それぞれ、各自〔副〕一個につき、一人につき",
+    "example": "Each student has a pen.",
+    "exampleJa": "それぞれの生徒がペンを持っています。"
+  },
+  {
+    "rank": 573,
+    "english": "full",
+    "meanings": "いっぱいの、満腹の",
+    "example": "I am full after dinner.",
+    "exampleJa": "私は夕食後お腹がいっぱいです。"
+  },
+  {
+    "rank": 574,
+    "english": "thirsty",
+    "meanings": "のどがかわいた",
+    "example": "I am thirsty now.",
+    "exampleJa": "私は今、喉が渇いています。"
+  },
+  {
+    "rank": 575,
+    "english": "pretty",
+    "meanings": "きれいな、かわいらしい",
+    "example": "She has a pretty dress.",
+    "exampleJa": "彼女はきれいなドレスを持っています。"
+  },
+  {
+    "rank": 576,
+    "english": "dirty",
+    "meanings": "汚い、汚れた",
+    "example": "My shoes are very dirty.",
+    "exampleJa": "私の靴はとても汚れています。"
+  },
+  {
+    "rank": 577,
+    "english": "low",
+    "meanings": "低い〔副〕低く",
+    "example": "The airplane is flying very low.",
+    "exampleJa": "飛行機がとても低く飛んでいます。"
+  },
+  {
+    "rank": 578,
+    "english": "junior",
+    "meanings": "年下の〔名〕年下の人",
+    "example": "He is my junior brother.",
+    "exampleJa": "彼は私の年下の弟です。"
+  },
+  {
+    "rank": 579,
+    "english": "right",
+    "meanings": "正しい、正確な、右の〔副〕正しい、ちょうど〔名〕右",
+    "example": "That is the right answer.",
+    "exampleJa": "それが正しい答えです。"
+  },
+  {
+    "rank": 580,
+    "english": "wrong",
+    "meanings": "悪い、間違った、調子が悪い",
+    "example": "Your answer is wrong.",
+    "exampleJa": "あなたの答えは間違っています。"
+  },
+  {
+    "rank": 581,
+    "english": "quick",
+    "meanings": "（速度・動きが）速い、すばやい",
+    "example": "He is a quick runner.",
+    "exampleJa": "彼は素早い走者です。"
+  },
+  {
+    "rank": 582,
+    "english": "professional",
+    "meanings": "専門職、プロの〔名〕プロ、専門家",
+    "example": "He is a professional soccer player.",
+    "exampleJa": "彼はプロのサッカー選手です。"
+  },
+  {
+    "rank": 583,
+    "english": "well",
+    "meanings": "じょうずに、十分に〔形〕健康で〔間〕まあ、さて",
+    "example": "She can sing very well.",
+    "exampleJa": "彼女はとても上手に歌えます。"
+  },
+  {
+    "rank": 584,
+    "english": "sometimes",
+    "meanings": "ときどき、ときには",
+    "example": "I sometimes play tennis on Sundays.",
+    "exampleJa": "私は日曜日にはときどきテニスをします。"
+  },
+  {
+    "rank": 585,
+    "english": "twice",
+    "meanings": "二度、二回",
+    "example": "I visited Kyoto twice last year.",
+    "exampleJa": "私は去年、京都に二度訪れました。"
+  },
+  {
+    "rank": 586,
+    "english": "always",
+    "meanings": "いつも、常に",
+    "example": "He always helps his friends.",
+    "exampleJa": "彼はいつも友達を助けます。"
+  },
+  {
+    "rank": 587,
+    "english": "o`clock",
+    "meanings": "～時",
+    "example": "It is nine o'clock now.",
+    "exampleJa": "今、9時です。"
+  },
+  {
+    "rank": 588,
+    "english": "someday",
+    "meanings": "（未来の）いつか、そのうち",
+    "example": "I want to visit Paris someday.",
+    "exampleJa": "私はいつかパリを訪れたいです。"
+  },
+  {
+    "rank": 589,
+    "english": "already",
+    "meanings": "すでに、もう",
+    "example": "I have already finished my homework.",
+    "exampleJa": "私はすでに宿題を終えました。"
+  },
+  {
+    "rank": 590,
+    "english": "slowly",
+    "meanings": "遅い、ゆっくりと",
+    "example": "Please speak more slowly.",
+    "exampleJa": "もっとゆっくり話してください。"
+  },
+  {
+    "rank": 591,
+    "english": "ago",
+    "meanings": "（今から）～前に",
+    "example": "I came here two hours ago.",
+    "exampleJa": "私は2時間前にここに来ました。"
+  },
+  {
+    "rank": 592,
+    "english": "outside",
+    "meanings": "外に、外側に〔前〕～の外側に、～の外側で",
+    "example": "Let's play outside today.",
+    "exampleJa": "今日は外で遊びましょう。"
+  },
+  {
+    "rank": 593,
+    "english": "before",
+    "meanings": "～の前に〔接〕～する前に〔副〕前に",
+    "example": "Please wash your hands before dinner.",
+    "exampleJa": "夕食の前に手を洗ってください。"
+  },
+  {
+    "rank": 594,
+    "english": "during",
+    "meanings": "～の間ずっと、～の間のあるときに",
+    "example": "We went to the beach during summer vacation.",
+    "exampleJa": "私たちは夏休みの間にビーチへ行きました。"
+  },
+  {
+    "rank": 595,
+    "english": "shall",
+    "meanings": "～しましょうか、（いっしょに）～しませんか",
+    "example": "Shall we go to the park?",
+    "exampleJa": "公園に行きましょうか？"
+  },
+  {
+    "rank": 596,
+    "english": "mine",
+    "meanings": "私のもの",
+    "example": "This pen is mine.",
+    "exampleJa": "このペンは私のものです。"
+  },
+  {
+    "rank": 597,
+    "english": "everything",
+    "meanings": "何もかも、みんな",
+    "example": "Everything is ready for the party.",
+    "exampleJa": "パーティーの準備はすべて整っています。"
+  },
+  {
+    "rank": 598,
+    "english": "most",
+    "meanings": "〔形〕最も多い、〔副〕最も",
+    "example": "He likes sports most.",
+    "exampleJa": "彼はスポーツが一番好きです。"
+  },
+  {
+    "rank": 599,
+    "english": "a.m.",
+    "meanings": "午前",
+    "example": "The train leaves at 8 a.m.",
+    "exampleJa": "電車は午前8時に出発します。"
+  },
+  {
+    "rank": 600,
+    "english": "p.m.",
+    "meanings": "午後",
+    "example": "The store closes at 9 p.m.",
+    "exampleJa": "その店は午後9時に閉まります。"
+  },
+  {
+    "rank": 601,
+    "english": "want to do",
+    "meanings": "～したいと思う",
+    "example": "I want to play soccer today.",
+    "exampleJa": "私は今日、サッカーがしたいです。"
+  },
+  {
+    "rank": 602,
+    "english": "like doing [to do]",
+    "meanings": "～するのが好きだ、～したい",
+    "example": "She likes reading books in bed.",
+    "exampleJa": "彼女はベッドで本を読むのが好きです。"
+  },
+  {
+    "rank": 603,
+    "english": "want to be~",
+    "meanings": "～になりたいと思う",
+    "example": "I want to be a doctor.",
+    "exampleJa": "私は医者になりたいです。"
+  },
+  {
+    "rank": 604,
+    "english": "need to do",
+    "meanings": "～する必要がある",
+    "example": "We need to buy some food.",
+    "exampleJa": "私たちは食べ物を買う必要があります。"
+  },
+  {
+    "rank": 605,
+    "english": "go[back]home",
+    "meanings": "帰宅する",
+    "example": "Let's go home now.",
+    "exampleJa": "さあ、今すぐ家に帰りましょう。"
+  },
+  {
+    "rank": 606,
+    "english": "get home",
+    "meanings": "帰宅する",
+    "example": "I will get home at six.",
+    "exampleJa": "私は6時に家に帰ります。"
+  },
+  {
+    "rank": 607,
+    "english": "come home",
+    "meanings": "帰宅する",
+    "example": "My father will come home soon.",
+    "exampleJa": "私の父はもうすぐ帰ってきます。"
+  },
+  {
+    "rank": 608,
+    "english": "do one`s homework",
+    "meanings": "宿題をする",
+    "example": "I must do my homework.",
+    "exampleJa": "私は宿題をしなければなりません。"
+  },
+  {
+    "rank": 609,
+    "english": "take A to B",
+    "meanings": "AをBに連れていく",
+    "example": "I will take you to the station.",
+    "exampleJa": "私はあなたを駅まで連れて行きます。"
+  },
+  {
+    "rank": 610,
+    "english": "look for~",
+    "meanings": "～を探す",
+    "example": "Are you looking for your bag?",
+    "exampleJa": "あなたはカバンを探していますか？"
+  },
+  {
+    "rank": 611,
+    "english": "leave[A]for B",
+    "meanings": "Bに向かって（Aを）出発する、［離れる・去る］",
+    "example": "We will leave for Tokyo tomorrow.",
+    "exampleJa": "私たちは明日、東京へ出発します。"
+  },
+  {
+    "rank": 612,
+    "english": "have a good time",
+    "meanings": "楽しい時を過ごす",
+    "example": "Let's have a good time!",
+    "exampleJa": "楽しい時間を過ごしましょう！"
+  },
+  {
+    "rank": 613,
+    "english": "wait for ~",
+    "meanings": "～を待つ",
+    "example": "Please wait for me here.",
+    "exampleJa": "ここで私を待ってください。"
+  },
+  {
+    "rank": 614,
+    "english": "stay in [at]",
+    "meanings": "（場所）に泊まる、（場所）に滞在する",
+    "example": "We will stay at a hotel.",
+    "exampleJa": "私たちはホテルに泊まります。"
+  },
+  {
+    "rank": 615,
+    "english": "stay with~",
+    "meanings": "（人）の所に泊まる、（人）の所に滞在する",
+    "example": "I will stay with my aunt.",
+    "exampleJa": "私はおばの家に泊まります。"
+  },
+  {
+    "rank": 616,
+    "english": "get up",
+    "meanings": "起きる、立ち上がる",
+    "example": "I usually get up at seven.",
+    "exampleJa": "私はたいてい7時に起きます。"
+  },
+  {
+    "rank": 617,
+    "english": "wake up",
+    "meanings": "目が覚める",
+    "example": "I wake up early every day.",
+    "exampleJa": "私は毎日早く目が覚めます。"
+  },
+  {
+    "rank": 618,
+    "english": "take a trip",
+    "meanings": "旅行する",
+    "example": "We will take a trip next week.",
+    "exampleJa": "私たちは来週旅行します。"
+  },
+  {
+    "rank": 619,
+    "english": "go on a trip",
+    "meanings": "旅行に行く",
+    "example": "My family will go on a trip.",
+    "exampleJa": "私の家族は旅行に行きます。"
+  },
+  {
+    "rank": 620,
+    "english": "speak to ~",
+    "meanings": "～に話しかける、～と話す",
+    "example": "Can I speak to Ms. Sato?",
+    "exampleJa": "佐藤先生とお話しできますか？"
+  },
+  {
+    "rank": 621,
+    "english": "talk to~",
+    "meanings": "～に話をする",
+    "example": "I want to talk to you.",
+    "exampleJa": "私はあなたに話したいです。"
+  },
+  {
+    "rank": 622,
+    "english": "talk with ~",
+    "meanings": "～と話をする",
+    "example": "He likes to talk with friends.",
+    "exampleJa": "彼はお友達と話すのが好きです。"
+  },
+  {
+    "rank": 623,
+    "english": "listen to ~",
+    "meanings": "～を聞く、～に耳を傾ける",
+    "example": "I listen to music every day.",
+    "exampleJa": "私は毎日音楽を聞きます。"
+  },
+  {
+    "rank": 624,
+    "english": "hear about ~",
+    "meanings": "～について聞く",
+    "example": "Did you hear about the party?",
+    "exampleJa": "そのパーティーについて聞きましたか？"
+  },
+  {
+    "rank": 625,
+    "english": "go doing",
+    "meanings": "～しに行く",
+    "example": "Let's go shopping this weekend.",
+    "exampleJa": "今週末、買い物に行きましょう。"
+  },
+  {
+    "rank": 626,
+    "english": "finish doing",
+    "meanings": "～し終える",
+    "example": "I will finish studying soon.",
+    "exampleJa": "私はすぐに勉強を終えるだろう。"
+  },
+  {
+    "rank": 627,
+    "english": "enjoy soing",
+    "meanings": "～するのを楽しむ、楽しんで～する",
+    "example": "I enjoy playing soccer with friends.",
+    "exampleJa": "私は友達とサッカーをするのを楽しむ。"
+  },
+  {
+    "rank": 628,
+    "english": "go back to~",
+    "meanings": "～へ帰る、～へ戻る",
+    "example": "We will go back to school tomorrow.",
+    "exampleJa": "私たちは明日学校へ戻るだろう。"
+  },
+  {
+    "rank": 629,
+    "english": "come back to~",
+    "meanings": "～へ帰ってくる",
+    "example": "My father will come back home at night.",
+    "exampleJa": "私の父は夜に家へ帰ってくるだろう。"
+  },
+  {
+    "rank": 630,
+    "english": "get back",
+    "meanings": "戻る、帰る",
+    "example": "I need to get back home quickly.",
+    "exampleJa": "私は早く家に戻る必要がある。"
+  },
+  {
+    "rank": 631,
+    "english": "come back from~",
+    "meanings": "～から帰ってくる、～から戻ってくる",
+    "example": "She came back from the trip yesterday.",
+    "exampleJa": "彼女は昨日、旅行から帰ってきた。"
+  },
+  {
+    "rank": 632,
+    "english": "arrive at ~",
+    "meanings": "～に着く",
+    "example": "We will arrive at the station soon.",
+    "exampleJa": "私たちはすぐに駅に着くだろう。"
+  },
+  {
+    "rank": 633,
+    "english": "arrive in ~",
+    "meanings": "～に着く",
+    "example": "They will arrive in Japan next week.",
+    "exampleJa": "彼らは来週日本に着くだろう。"
+  },
+  {
+    "rank": 634,
+    "english": "get to ~",
+    "meanings": "～に着く、～に到着する",
+    "example": "How can I get to the library?",
+    "exampleJa": "どうすれば図書館に着けますか？"
+  },
+  {
+    "rank": 635,
+    "english": "start doing[to do]",
+    "meanings": "～し始める",
+    "example": "Let's start studying for the test.",
+    "exampleJa": "テストの勉強を始めよう。"
+  },
+  {
+    "rank": 636,
+    "english": "stop doing",
+    "meanings": "～することをやめる",
+    "example": "Please stop talking in class.",
+    "exampleJa": "授業中におしゃべりするのをやめてください。"
+  },
+  {
+    "rank": 637,
+    "english": "take a picture",
+    "meanings": "写真を撮る",
+    "example": "Let's take a picture here.",
+    "exampleJa": "ここで写真を撮ろう。"
+  },
+  {
+    "rank": 638,
+    "english": "walk to ~",
+    "meanings": "～まで歩いて行く",
+    "example": "I often walk to school.",
+    "exampleJa": "私はよく学校まで歩いて行く。"
+  },
+  {
+    "rank": 639,
+    "english": "ask ~ for help",
+    "meanings": "～に助けを求める",
+    "example": "She asked her teacher for help.",
+    "exampleJa": "彼女は先生に助けを求めた。"
+  },
+  {
+    "rank": 640,
+    "english": "help A with B",
+    "meanings": "AのBを手伝う、AをB（のこと）で助ける",
+    "example": "Can you help me with my homework?",
+    "exampleJa": "私の宿題を手伝ってくれますか？"
+  },
+  {
+    "rank": 641,
+    "english": "ask for~",
+    "meanings": "～を求める",
+    "example": "He asked for a glass of water.",
+    "exampleJa": "彼はいっぱいの水を求めた。"
+  },
+  {
+    "rank": 642,
+    "english": "have a cold",
+    "meanings": "風邪をひいている",
+    "example": "I have a cold today.",
+    "exampleJa": "私は今日、風邪をひいている。"
+  },
+  {
+    "rank": 643,
+    "english": "take a bath",
+    "meanings": "入浴する",
+    "example": "I take a bath every night.",
+    "exampleJa": "私は毎晩入浴する。"
+  },
+  {
+    "rank": 644,
+    "english": "take a shower",
+    "meanings": "シャワーを浴びる",
+    "example": "He takes a shower in the morning.",
+    "exampleJa": "彼は朝にシャワーを浴びる。"
+  },
+  {
+    "rank": 645,
+    "english": "take a walk",
+    "meanings": "散歩をする",
+    "example": "Let's take a walk in the park.",
+    "exampleJa": "公園を散歩しよう。"
+  },
+  {
+    "rank": 646,
+    "english": "go out",
+    "meanings": "外出する",
+    "example": "My family will go out this weekend.",
+    "exampleJa": "私の家族は今週末外出するだろう。"
+  },
+  {
+    "rank": 647,
+    "english": "say goodbye to ~",
+    "meanings": "～に別れの挨拶を言う",
+    "example": "I said goodbye to my teacher.",
+    "exampleJa": "私は先生に別れの挨拶を言った。"
+  },
+  {
+    "rank": 648,
+    "english": "stay[at]home",
+    "meanings": "家にいる",
+    "example": "I will stay home tomorrow.",
+    "exampleJa": "私は明日家にいるだろう。"
+  },
+  {
+    "rank": 649,
+    "english": "think of ~",
+    "meanings": "～のことを考える、～を思い出す",
+    "example": "I often think of my friends.",
+    "exampleJa": "私はよく友達のことを考える。"
+  },
+  {
+    "rank": 650,
+    "english": "become friends with~",
+    "meanings": "～と友達になる",
+    "example": "I want to become friends with her.",
+    "exampleJa": "私は彼女と友達になりたい。"
+  },
+  {
+    "rank": 651,
+    "english": "catch a cold",
+    "meanings": "風邪をひく",
+    "example": "Don't play outside, or you will catch a cold.",
+    "exampleJa": "外で遊ばないで、さもないと風邪をひくよ。"
+  },
+  {
+    "rank": 652,
+    "english": "get off~",
+    "meanings": "～から降りる",
+    "example": "I will get off the bus at the next stop.",
+    "exampleJa": "次の停留所でバスを降ります。"
+  },
+  {
+    "rank": 653,
+    "english": "give up",
+    "meanings": "あきらめる、やめる",
+    "example": "Don't give up! You can do it.",
+    "exampleJa": "あきらめないで！君ならできるよ。"
+  },
+  {
+    "rank": 654,
+    "english": "have no idea",
+    "meanings": "まったくわからない",
+    "example": "I have no idea about the answer.",
+    "exampleJa": "答えがまったくわかりません。"
+  },
+  {
+    "rank": 655,
+    "english": "go around[round]~",
+    "meanings": "～のまわりを回る",
+    "example": "The Earth goes around the sun.",
+    "exampleJa": "地球は太陽のまわりを回ります。"
+  },
+  {
+    "rank": 656,
+    "english": "look around",
+    "meanings": "あたりを見回す",
+    "example": "Let's look around the park.",
+    "exampleJa": "公園のあたりを見回しましょう。"
+  },
+  {
+    "rank": 657,
+    "english": "move to A[from B]",
+    "meanings": "（Bから）Aに引っ越す",
+    "example": "My family will move to Osaka next month.",
+    "exampleJa": "私の家族は来月大阪に引っ越します。"
+  },
+  {
+    "rank": 658,
+    "english": "write to ~",
+    "meanings": "～に手紙を書く",
+    "example": "I will write to my friend tomorrow.",
+    "exampleJa": "明日、友達に手紙を書きます。"
+  },
+  {
+    "rank": 659,
+    "english": "write back",
+    "meanings": "返事を書く",
+    "example": "Please write back to me soon.",
+    "exampleJa": "すぐに私に返事をください。"
+  },
+  {
+    "rank": 660,
+    "english": "slow down",
+    "meanings": "速度を落とす、遅くする",
+    "example": "Please slow down. I can't run fast.",
+    "exampleJa": "速度を落としてください。私は速く走れません。"
+  },
+  {
+    "rank": 661,
+    "english": "worry about~",
+    "meanings": "～のことを心配する",
+    "example": "Don't worry about your test.",
+    "exampleJa": "テストのことで心配しないで。"
+  },
+  {
+    "rank": 662,
+    "english": "look like ~",
+    "meanings": "～に似ている、～のように見える",
+    "example": "You look like your mother.",
+    "exampleJa": "あなたはお母さんに似ていますね。"
+  },
+  {
+    "rank": 663,
+    "english": "believe in ~",
+    "meanings": "～の存在を信じる、～を信用する",
+    "example": "Do you believe in ghosts?",
+    "exampleJa": "幽霊の存在を信じますか？"
+  },
+  {
+    "rank": 664,
+    "english": "play catch",
+    "meanings": "キャッチボールをする",
+    "example": "Let's play catch in the park.",
+    "exampleJa": "公園でキャッチボールをしましょう。"
+  },
+  {
+    "rank": 665,
+    "english": "feel better",
+    "meanings": "気分が良くなる",
+    "example": "I hope you feel better soon.",
+    "exampleJa": "早く気分が良くなるといいですね。"
+  },
+  {
+    "rank": 666,
+    "english": "a lot of~",
+    "meanings": "たくさんの～",
+    "example": "She has a lot of books.",
+    "exampleJa": "彼女はたくさんの本を持っています。"
+  },
+  {
+    "rank": 667,
+    "english": "be late for~",
+    "meanings": "～に遅れる、遅刻する",
+    "example": "I was late for school today.",
+    "exampleJa": "今日、私は学校に遅刻しました。"
+  },
+  {
+    "rank": 668,
+    "english": "be careful",
+    "meanings": "気をつける",
+    "example": "Be careful when you cross the road.",
+    "exampleJa": "道を渡るときは気をつけなさい。"
+  },
+  {
+    "rank": 669,
+    "english": "be interested in ~",
+    "meanings": "～に興味を持っている",
+    "example": "I am interested in science.",
+    "exampleJa": "私は科学に興味があります。"
+  },
+  {
+    "rank": 670,
+    "english": "kind of~",
+    "meanings": "種類の～",
+    "example": "What kind of music do you like?",
+    "exampleJa": "どんな種類の音楽が好きですか？"
+  },
+  {
+    "rank": 671,
+    "english": "a glass of ~",
+    "meanings": "コップ一杯の～",
+    "example": "May I have a glass of water?",
+    "exampleJa": "コップ一杯の水をいただけますか？"
+  },
+  {
+    "rank": 672,
+    "english": "a cup of~",
+    "meanings": "カップ一杯の",
+    "example": "I drink a cup of coffee every morning.",
+    "exampleJa": "私は毎朝カップ一杯のコーヒーを飲みます。"
+  },
+  {
+    "rank": 673,
+    "english": "in the morning",
+    "meanings": "午前中に、朝に",
+    "example": "I wake up at 6 in the morning.",
+    "exampleJa": "私は朝6時に起きます。"
+  },
+  {
+    "rank": 674,
+    "english": "in the afternoon",
+    "meanings": "午後に",
+    "example": "I will play tennis in the afternoon.",
+    "exampleJa": "午後にテニスをするつもりです。"
+  },
+  {
+    "rank": 675,
+    "english": "in the future",
+    "meanings": "将来",
+    "example": "I want to be a doctor in the future.",
+    "exampleJa": "将来、医者になりたいです。"
+  },
+  {
+    "rank": 676,
+    "english": "how long",
+    "meanings": "どれぐらいの長さ",
+    "example": "How long is the movie?",
+    "exampleJa": "その映画はどれぐらいの長さですか？"
+  },
+  {
+    "rank": 677,
+    "english": "all day[long]",
+    "meanings": "1日中",
+    "example": "I played soccer all day.",
+    "exampleJa": "私は一日中サッカーをしました。"
+  },
+  {
+    "rank": 678,
+    "english": "for a long time",
+    "meanings": "長い間",
+    "example": "We waited for a long time.",
+    "exampleJa": "私たちは長い間待ちました。"
+  },
+  {
+    "rank": 679,
+    "english": "last week",
+    "meanings": "先週",
+    "example": "I went to the zoo last week.",
+    "exampleJa": "私は先週動物園に行きました。"
+  },
+  {
+    "rank": 680,
+    "english": "after work",
+    "meanings": "仕事の後で",
+    "example": "My dad comes home after work.",
+    "exampleJa": "私の父は仕事の後で家に帰ってきます。"
+  },
+  {
+    "rank": 681,
+    "english": "for example",
+    "meanings": "たとえば",
+    "example": "For example, I like apples.",
+    "exampleJa": "たとえば、私はリンゴが好きです。"
+  },
+  {
+    "rank": 682,
+    "english": "as~as...",
+    "meanings": "...と同じぐらい～",
+    "example": "I am as tall as my brother.",
+    "exampleJa": "私は兄と同じくらいの背の高さです。"
+  },
+  {
+    "rank": 683,
+    "english": "a lot",
+    "meanings": "たくさんの、ずいぶん",
+    "example": "I like dogs a lot.",
+    "exampleJa": "私は犬がとても好きです。"
+  },
+  {
+    "rank": 684,
+    "english": "from A to B",
+    "meanings": "AからBまで、AからBへ",
+    "example": "We walked from the park to home.",
+    "exampleJa": "私たちは公園から家まで歩きました。"
+  },
+  {
+    "rank": 685,
+    "english": "~years old",
+    "meanings": "～歳",
+    "example": "My sister is ten years old.",
+    "exampleJa": "私の妹は10歳です。"
+  },
+  {
+    "rank": 686,
+    "english": "in front of ~",
+    "meanings": "～の前に「で」",
+    "example": "The car is in front of the house.",
+    "exampleJa": "その車は家の前にあります。"
+  },
+  {
+    "rank": 687,
+    "english": "next to ~",
+    "meanings": "～のとなりに",
+    "example": "My school is next to the library.",
+    "exampleJa": "私の学校は図書館の隣にあります。"
+  },
+  {
+    "rank": 688,
+    "english": "out of ~",
+    "meanings": "～から外へ",
+    "example": "He went out of the room.",
+    "exampleJa": "彼は部屋から出て行きました。"
+  },
+  {
+    "rank": 689,
+    "english": "both A and B",
+    "meanings": "AとBの両方とも",
+    "example": "I like both apples and oranges.",
+    "exampleJa": "私はリンゴとオレンジの両方が好きです。"
+  },
+  {
+    "rank": 690,
+    "english": "one day",
+    "meanings": "（過去の）ある日、（未来の）いつか",
+    "example": "One day, I want to go to space.",
+    "exampleJa": "いつか、私は宇宙に行きたいです。"
+  },
+  {
+    "rank": 691,
+    "english": "[on]the first day",
+    "meanings": "第一日目に、初日に",
+    "example": "We arrived on the first day.",
+    "exampleJa": "私たちは初日に到着しました。"
+  },
+  {
+    "rank": 692,
+    "english": "on vacation",
+    "meanings": "休暇で",
+    "example": "We went to Hawaii on vacation.",
+    "exampleJa": "私たちは休暇でハワイに行きました。"
+  },
+  {
+    "rank": 693,
+    "english": "on foot",
+    "meanings": "歩いて、徒歩で",
+    "example": "I go to school on foot.",
+    "exampleJa": "私は歩いて学校に行きます。"
+  },
+  {
+    "rank": 694,
+    "english": "[just]around the corner",
+    "meanings": "角を曲がった所に",
+    "example": "The park is just around the corner.",
+    "exampleJa": "その公園はちょうど角を曲がった所にあります。"
+  },
+  {
+    "rank": 695,
+    "english": "by the way",
+    "meanings": "ところで",
+    "example": "By the way, how are you?",
+    "exampleJa": "ところで、元気ですか？"
+  },
+  {
+    "rank": 696,
+    "english": "more and more",
+    "meanings": "ますます多くの",
+    "example": "I want more and more books.",
+    "exampleJa": "私はますます多くの本が欲しいです。"
+  },
+  {
+    "rank": 697,
+    "english": "for free",
+    "meanings": "無料で、ただで",
+    "example": "You can get this for free.",
+    "exampleJa": "あなたはこれを無料で手に入れられます。"
+  },
+  {
+    "rank": 698,
+    "english": "right now",
+    "meanings": "今すぐに、現在、たった今",
+    "example": "I am busy right now.",
+    "exampleJa": "私は今すぐに忙しいです。"
+  },
+  {
+    "rank": 699,
+    "english": "all over the world",
+    "meanings": "世界中で",
+    "example": "People love soccer all over the world.",
+    "exampleJa": "世界中で人々はサッカーを愛しています。"
+  },
+  {
+    "rank": 700,
+    "english": "have to do",
+    "meanings": "～しなければならない",
+    "example": "I have to study for the test.",
+    "exampleJa": "私はテストのために勉強しなければなりません。"
+  }
+]
