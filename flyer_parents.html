@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabraly Marathon - 保護者向けフライヤー</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --primary: #0A84FF;
+    --primary-light: #64D2FF;
+    --dark: #1D1D1F;
+    --gray: #86868B;
+  }
+  body, html {
+    font-family: 'Noto Sans JP', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: #f2f2f7;
+    color: var(--dark);
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* A4 Paper strictly defined for fixed layout */
+  .a4-page {
+    width: 210mm;
+    height: 297mm; /* Fixed height! */
+    padding: 10mm 15mm 18mm 15mm; /* Top:10mm, Bottom:18mm to balance */
+    margin: 10mm auto;
+    background: #ffffff;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.12);
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  @media print {
+    body { 
+      background: white; 
+      margin: 0; 
+      print-color-adjust: exact; 
+      -webkit-print-color-adjust: exact; 
+    }
+    .a4-page { 
+      margin: 0; 
+      box-shadow: none; 
+      width: 210mm;
+      height: 297mm;
+      padding: 10mm 15mm 15mm 15mm; /* Tighten for print margins */
+      page-break-after: always;
+    }
+    .no-print { display: none; }
+    
+    /* 印刷時に文字が消える問題の修正 (グラデーションの無効化と単色フォールバック) */
+    .gradient-text-blue {
+      background: none !important;
+      -webkit-text-fill-color: initial !important;
+      color: #0A84FF !important;
+    }
+    .gradient-text-purple {
+      background: none !important;
+      -webkit-text-fill-color: initial !important;
+      color: #5E5CE6 !important;
+    }
+  }
+
+  /* Gradients */
+  .gradient-text-blue {
+    background: linear-gradient(135deg, #0A84FF, #64D2FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .gradient-text-purple {
+    background: linear-gradient(135deg, #5E5CE6, #BF5AF2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Feature Styling */
+  .icon-wrapper {
+    width: 50px;
+    height: 50px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    box-shadow: 0 8px 16px rgba(10, 132, 255, 0.2);
+    background: linear-gradient(135deg, #0A84FF, #005EBD);
+    color: white;
+  }
+
+  .synergy-box {
+    background: linear-gradient(135deg, rgba(94, 92, 230, 0.05), rgba(191, 90, 242, 0.05));
+    border: 1px solid rgba(94, 92, 230, 0.15);
+  }
+
+  /* Mockups */
+  .mockup-img {
+    border-radius: 18px; /* Slightly rounded for phone shape */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    border: 4px solid #f8f9fa;
+  }
+  .mockup-main {
+    border: 5px solid #222;
+    background: #000;
+  }
+</style>
+</head>
+<body>
+
+  <div class="no-print text-center py-4 bg-white shadow-sm mb-4">
+    <p class="text-sm text-gray-600 mb-2">段組み構成（2カラム）と実際のスクリーンショットを反映した新しいA4レイアウトです。</p>
+    <button onclick="window.print()" class="bg-blue-600 text-white px-6 py-2 rounded-full font-bold hover:bg-blue-700 transition">
+      🖨️ フライヤーを印刷する
+    </button>
+  </div>
+
+  <div class="a4-page">
+    
+    <!-- Top Bar -->
+    <div class="flex justify-between items-center mb-2">
+      <div class="flex items-center gap-2">
+        <div class="bg-gray-800 text-white text-[11px] font-bold px-3 py-1 rounded tracking-wider">保護者の皆様へ</div>
+        <div class="bg-pink-500 text-white text-[11px] font-bold px-3 py-1 rounded tracking-wider">期間限定公開</div>
+      </div>
+      <div class="text-gray-400 font-semibold text-[11px] tracking-widest">次世代英語学習ツールのご案内</div>
+    </div>
+
+    <!-- Hero / Header -->
+    <div class="bg-gradient-to-r from-blue-50 to-white rounded-2xl p-4 border-l-8 border-blue-500 mb-3 flex items-center justify-between">
+      <div class="w-3/5 pr-4">
+        <p class="font-bold text-blue-600 mb-1 tracking-widest text-xs">従来の暗記学習にサヨナラ</p>
+        <h1 class="text-3xl font-black mb-3 leading-tight text-gray-900 tracking-tight">
+          単なる「暗記」から、<br>
+          <span class="gradient-text-blue text-[2.5rem]">「使える英語」</span>へ。
+        </h1>
+        <div class="inline-block bg-white rounded-lg px-4 py-1.5 shadow-sm border border-gray-100">
+          <h2 class="text-xl font-bold text-gray-800 flex items-center gap-2">
+            Vocabraly Marathon <span class="text-sm text-gray-500 font-medium">（パス単マラソン）</span>
+          </h2>
+        </div>
+      </div>
+      <div class="w-2/5 border-l border-gray-200 pl-4 text-sm text-gray-600 font-medium leading-loose text-justify">
+        英検®対策の学習方法が劇的に進化。<br>
+        お子様の「継続」と「自学自習」を徹底的にサポートする、これまでにない全く新しい英単語アプリの誕生です。
+      </div>
+    </div>
+
+    <!-- Main Content (2 Columns) -->
+    <div class="flex-1 flex gap-5 mb-3">
+      
+      <!-- Left Column: Features -->
+      <div class="w-[58%] flex flex-col">
+        <h3 class="text-xl font-black text-gray-800 mb-4 inline-block">
+          なぜ「結果に直結」するのか？ <br>
+          <span class="border-b-2 border-blue-500 pb-1">これまでにない <span class="text-blue-600">3つ</span> の工夫点</span>
+        </h3>
+        
+        <div class="space-y-3 flex-1 flex flex-col justify-between pt-1">
+          
+          <!-- Feature 1 -->
+          <div class="flex gap-3 items-start bg-white px-4 py-3 rounded-xl shadow-[0_4px_16px_rgba(0,0,0,0.03)] border border-gray-100 h-full">
+            <div class="icon-wrapper flex-shrink-0">📝</div>
+            <div>
+              <h4 class="text-base font-bold mb-1 text-gray-900">「生きた語彙」を育てる4択・空所補充</h4>
+              <p class="text-[13px] text-gray-600 leading-relaxed">
+                単なる「単語⇔日本語」の暗記ではなく、実際の英文の空所を埋める4択形式を採用。文脈の中で単語の正しい使い方やコロケーションを捉えるため、英検本番のリーディング問題に直結する実践的な語彙力が自然と身につきます。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feature 2 -->
+          <div class="flex gap-3 items-start bg-white px-4 py-3 rounded-xl shadow-[0_4px_16px_rgba(0,0,0,0.03)] border border-gray-100 h-full">
+            <div class="icon-wrapper flex-shrink-0" style="background: linear-gradient(135deg, #FF9500, #FF5E3A);">🎧</div>
+            <div>
+              <h4 class="text-base font-bold mb-1 text-gray-900">目と耳で覚える「音声連動システム」</h4>
+              <p class="text-[13px] text-gray-600 leading-relaxed">
+                正解すると同時に、その英文のネイティブの音声が自動再生されます。単語を視覚的な文字からだけでなく、聴覚からの音声としても脳にインプットすることで、記憶への定着率を飛躍的に高め、リスニング力も同時に鍛えられます。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feature 3 -->
+          <div class="flex gap-3 items-start bg-white px-4 py-3 rounded-xl shadow-[0_4px_16px_rgba(0,0,0,0.03)] border border-gray-100 h-full">
+            <div class="icon-wrapper flex-shrink-0" style="background: linear-gradient(135deg, #32ADE6, #007AFF);">🔥</div>
+            <div>
+              <h4 class="text-base font-bold mb-1 text-gray-900">継続を生む「ミス自動復習」と「ストリーク」</h4>
+              <p class="text-[13px] text-gray-600 leading-relaxed">
+                間違えた問題はAIが自動で記録し、ピンポイントで復習可能。さらに毎日の学習で「連続トレーニング記録」が更新されます。ゲーム感覚で「途切れさせたくない！」という心理を刺激し、お子様の自立した学習習慣を確立します。
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+      <!-- Right Column: Screenshots -->
+      <div class="w-[42%] bg-gray-50 rounded-2xl border border-gray-100 p-4 relative flex items-center justify-center">
+        <!-- Decoration blobs -->
+        <div class="absolute top-10 left-4 w-32 h-32 bg-blue-100 rounded-full blur-2xl opacity-50"></div>
+        <div class="absolute bottom-10 right-4 w-32 h-32 bg-orange-100 rounded-full blur-2xl opacity-50"></div>
+        
+        <div class="relative w-full h-[90%] mx-auto max-w-[245px]">
+          <!-- Back Screenshot (Quiz Screen) -->
+          <div class="absolute right-0 top-0 z-0 transform rotate-3" style="width: 155px;">
+            <img src="app_quiz.png" alt="Quiz Screen" class="w-full mockup-img opacity-95">
+            <div class="text-center mt-2 text-[10px] text-gray-500 font-bold bg-white/80 rounded-full px-2 py-0.5 inline-block mx-auto transform -rotate-3">
+              👆 実践的なクイズ画面
+            </div>
+          </div>
+          
+          <!-- Front Screenshot (Top Screen) -->
+          <div class="absolute left-0 bottom-4 z-10 transform -rotate-2" style="width: 170px;">
+            <img src="app_top.png" alt="Top Screen" class="w-full mockup-img mockup-main">
+            <div class="text-center mt-2 text-[10px] text-gray-500 font-bold bg-white/80 rounded-full px-2 py-0.5 inline-block mx-auto transform rotate-2 shadow-sm border border-gray-100">
+              📊 成績・復習トップ画面
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Bottom Section (Synergy + QR) -->
+    <div class="flex gap-4 mt-auto">
+      
+      <!-- ReadPass Synergy Box -->
+      <div class="flex-1 synergy-box rounded-2xl p-3 flex flex-col justify-center">
+        <div class="flex items-center justify-between mb-2">
+          <h3 class="text-base font-black text-gray-900">
+            <span class="gradient-text-purple text-lg">ReadPass Pro</span> との連携で圧倒的シナジー！
+          </h3>
+          <span class="bg-purple-100 text-purple-700 font-bold px-2 py-1 rounded text-[10px]">効果が倍増</span>
+        </div>
+        
+        <div class="flex gap-4 items-center">
+          <div class="text-[12px] text-gray-700 leading-relaxed pr-2">
+            長文読解アプリ『ReadPass Pro』と併用することで、単語の<strong class="text-blue-600">「知識のインプット」</strong>と、長文読解での<strong class="text-purple-600">「実践的アウトプット」</strong>を往復。<br>単なる暗記が、試験で通用する「本物の読解力」へと確実に進化します。
+          </div>
+          
+          <!-- Cycle Graphic -->
+          <div class="flex items-center gap-1.5 flex-shrink-0 pl-2 border-l border-purple-100">
+            <div class="bg-white rounded-xl shadow-sm p-2 text-center border-t-4 border-blue-500 w-24">
+              <div class="text-[9px] text-gray-400 font-bold mb-0.5 tracking-wider">知識</div>
+              <div class="font-bold text-blue-600 text-[11px]">パス単マラソン</div>
+            </div>
+            <div class="text-gray-400 font-black text-xl">⇄</div>
+            <div class="bg-white rounded-xl shadow-sm p-2 text-center border-t-4 border-purple-500 w-24">
+              <div class="text-[9px] text-gray-400 font-bold mb-0.5 tracking-wider">実践</div>
+              <div class="font-bold text-purple-600 text-[11px]">ReadPass Pro</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Access & QR Box -->
+      <div class="w-[200px] flex-shrink-0 border border-gray-200 rounded-2xl p-3 bg-gray-50 flex items-center justify-between shadow-sm">
+        <div class="text-center w-3/5">
+          <h4 class="text-[13px] font-black text-gray-900 mb-1 leading-tight">今すぐアクセス<br>して体験！</h4>
+          <p class="text-[9px] text-gray-500 mb-2">スマホのカメラで<br>読み取ってください</p>
+          <div class="text-[8px] bg-gray-200 text-gray-600 font-mono px-1 py-0.5 rounded truncate">
+            vocabraly-marathon...
+          </div>
+        </div>
+        <div class="w-2/5 flex justify-end">
+          <div class="bg-white p-1.5 rounded-lg border border-gray-200 shadow-sm inline-block">
+            <!-- Automatically generated QR from Vercel domain -->
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://vocabraly-marathon-pass-tan.vercel.app/&margin=0" alt="QR" class="w-[60px] h-[60px]">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Disclaimer -->
+    <div class="mt-2 text-[9px] text-gray-400 text-right font-medium tracking-wide">
+      ※本アプリはECCベストワン所属生専用です。予告なく一般公開を停止する場合があります。
+    </div>
+
+  </div> <!-- /a4-page -->
+
+</body>
+</html>

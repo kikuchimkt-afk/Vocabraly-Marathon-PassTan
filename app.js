@@ -24,6 +24,30 @@ const $ = (sel) => document.querySelector(sel);
 const $$ = (sel) => document.querySelectorAll(sel);
 const on = (el, ev, fn) => { if (el) el.addEventListener(ev, fn); };
 
+/** 採点後の表示用: HTMLエスケープ */
+function escapeHtml(s) {
+  if (s == null || s === undefined) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/**
+ * 設問文の下線部（_の連なり）を空欄スパンに差し替え。
+ * @param {string} questionStr - 元の英語
+ * @param {string|null} fillAnswer - 採点後に埋める正解。null のときは未回答の下線表示。
+ */
+function buildQuestionHTML(questionStr, fillAnswer) {
+  if (!questionStr) return '';
+  if (fillAnswer) {
+    const word = escapeHtml(fillAnswer);
+    return questionStr.replace(/_+/g, '<span class="blank blank-filled">' + word + '</span>');
+  }
+  return questionStr.replace(/_+/g, '<span class="blank">_______</span>');
+}
+
 // ====== Storage Keys ======
 const CLEARED_KEY = 'passtan_cleared';
 const STATS_KEY = 'passtan_stats';
@@ -328,9 +352,7 @@ function renderQuestion() {
   $('#questionMeaning').textContent = meaningStr;
   $('#questionMeaning').classList.add('hidden');
 
-  // Highlight blank
-  const qText = q.question.replace(/_+/g, '<span class="blank">_______</span>');
-  $('#questionText').innerHTML = qText;
+  $('#questionText').innerHTML = buildQuestionHTML(q.question, null);
   $('#questionJa').textContent = q.questionJa || '';
   $('#questionJa').classList.add('hidden');
 
@@ -396,6 +418,10 @@ function handleAnswer(choice) {
   }
 
   // ===== 採点後の追加表示 =====
+
+  // 0. 設問の下線部に正解の英語を表示（学習者が完成文を把握しやすいように）
+  $('#questionText').innerHTML = buildQuestionHTML(q.question, q.answer);
+  $('#questionText').classList.add('fade-in');
 
   // 1. 問題文の日本語訳と単語の意味を表示
   $('#questionJa').classList.remove('hidden');
